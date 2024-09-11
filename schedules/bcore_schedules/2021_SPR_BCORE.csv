@@ -1,0 +1,16 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE118,INDVDUALS & SOC 3,BCORE,2021,SPR,no_restriction,no_add_code,10855,A,5,-,W,1100-100,*,*,"Lambacher, Jason Frederick",Open,25,30,-,-,-
+BCORE118,INDVDUALS & SOC 3,BCORE,2021,SPR,no_restriction,no_add_code,10856,B,5,-,TTh,330-530,*,*,"Shaw, Carol A",Open,10,30,-,-,-
+BCORE118,INDVDUALS & SOC 3,BCORE,2021,SPR,no_restriction,no_add_code,10857,C,5,-,T,-,545-745P,*,-,-,-,-,-,-,"* Note: couldn't interpret 'West,Maureen', in original. Note: couldn't interpret 'P.', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '6', in original. Note: couldn't interpret '30', in original."
+BCORE119,NATURAL WORLD 3,BCORE,2021,SPR,no_restriction,no_add_code,10858,A,5,-,T,-,545-745P,*,-,-,-,-,-,-,"* Note: couldn't interpret 'Watson,Tyler', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '27', in original. Note: couldn't interpret '30', in original."
+BCORE119,NATURAL WORLD 3,BCORE,2021,SPR,no_restriction,no_add_code,10859,B,5,-,T,1100-100,*,*,"Valdez, Ursula",Open,26,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2021,SPR,no_restriction,no_add_code,10860,A,5,-,M,845-1045,*,*,"Watts, Linda",Open,17,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2021,SPR,no_restriction,no_add_code,10861,B,5,-,MW,1100-1200,*,*,"Hathaway, Deborah A.",Open,29,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2021,SPR,no_restriction,no_add_code,10862,C,5,-,TTh,1100-100,*,*,"Doyle, Gavin T",Closed,30,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2021,SPR,no_restriction,no_add_code,10863,D,5,-,T,130-230,*,*,"Spiegler, Louise",Open,27,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2021,SPR,no_restriction,no_add_code,10864,E,5,-,W,330-530,*,*,"Morse, Jason H",Open,23,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2021,SPR,no_restriction,no_add_code,10865,F,5,-,Th,330-530,*,*,"Morse, Jason H",Open,25,30,-,-,-
+BCORE133,DISCOVERY CORE III,BCORE,2021,SPR,Restr,no_add_code,-,D,2,-,-,to_be_arranged,*,*,"Shinneman, Avery",Open,9,20,-,-,%
+BCORE133,DISCOVERY CORE III,BCORE,2021,SPR,Restr,no_add_code,-,E,2,-,-,to_be_arranged,*,*,"Shinneman, Avery",Closed,20,20,-,-,%
+BCORE133,DISCOVERY CORE III,BCORE,2021,SPR,Restr,no_add_code,-,F,2,-,-,to_be_arranged,*,*,"Shinneman, Avery",Closed,25,25,-,-,%
+BCORE211,DC SPECIAL TOPICS,BCORE,2021,SPR,no_restriction,no_add_code,10869,A,2,-,-,to_be_arranged,*,*,"Terry, Susan",Open,15,30,CR_NC,$12,-

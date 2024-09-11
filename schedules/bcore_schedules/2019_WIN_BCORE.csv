@@ -1,0 +1,21 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE115,INDVDUALS & SOC 2,BCORE,2019,WIN,Restr,no_add_code,-,A,5,-,M,845-1045,UW2,040,"Shinneman, Avery",Open,28,30,-,-,B
+BCORE115,INDVDUALS & SOC 2,BCORE,2019,WIN,Restr,no_add_code,-,B,5,-,M,1100-100,UW1,060,"Gliboff, Matthew",Open,28,30,-,-,B
+BCORE115,INDVDUALS & SOC 2,BCORE,2019,WIN,Restr,no_add_code,-,C,5,-,MW,1100-100,UW2,040,"Harkewicz, Laura J",Closed,30,30,-,-,-
+BCORE115,INDVDUALS & SOC 2,BCORE,2019,WIN,Restr,no_add_code,-,D,5,-,TTh,330-530,UW1,031,"Redwood, Loren K.",Open,27,30,-,-,-
+BCORE115,INDVDUALS & SOC 2,BCORE,2019,WIN,Restr,no_add_code,-,E,5,-,MW,330-530,UW2,205,"Valdez, Ursula",Open,27,30,-,-,-
+BCORE115,INDVDUALS & SOC 2,BCORE,2019,WIN,Restr,no_add_code,-,F,5,-,TTh,845-1045,UW1,020,"Doogar, Rajib",Open,16,30,-,-,-
+BCORE115,INDVDUALS & SOC 2,BCORE,2019,WIN,Restr,no_add_code,-,G,5,-,TTh,845-1045,UW2,131,"Lambacher, Jason F",Open,29,30,-,-,-
+BCORE116,NATURAL WORLD 2,BCORE,2019,WIN,Restr,no_add_code,-,B,5,-,W,115-315,UW2,340,"McNabb, Susan L.",Open,28,30,-,$3,B
+BCORE116,NATURAL WORLD 2,BCORE,2019,WIN,Restr,no_add_code,-,C,5,-,TTh,845-1045,DISC,252,"Lovitt, Charity",Open,10,13,-,-,J
+BCORE117,VIS LIT PRFM ART 2,BCORE,2019,WIN,Restr,no_add_code,-,A,5,-,MW,115-315,UW2,305,"Martin, Minda J.",Closed,30,30,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2019,WIN,Restr,no_add_code,-,B,5,-,M,115-315,UW2,340,"Carpenter, Gary",Closed,32,30,-,-,B
+BCORE117,VIS LIT PRFM ART 2,BCORE,2019,WIN,Restr,no_add_code,-,C,5,-,TTh,845-1045,DISC,252,"Doyle, Gavin T",Closed,20,20,-,-,J
+BCORE117,VIS LIT PRFM ART 2,BCORE,2019,WIN,Restr,no_add_code,-,D,5,-,TTh,845-1045,UW1,060,"Spiegler, Louise",Open,16,24,-,-,J
+BCORE117,VIS LIT PRFM ART 2,BCORE,2019,WIN,Restr,no_add_code,-,E,5,-,TTh,1100-100,UW2,031,"Watts, Linda S",Closed,30,30,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2019,WIN,Restr,no_add_code,-,F,5,-,TTh,1100-100,UW2,021,"Hathaway, Deborah A",Closed,30,30,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2019,WIN,Restr,no_add_code,-,G,5,-,TTh,115-315,UW1,060,"Nixon, David",Open,29,30,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2019,WIN,Restr,no_add_code,-,H,5,-,TTh,330-530,UW2,105,"Hsu, Howard",Closed,30,30,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2019,WIN,Restr,no_add_code,-,I,5,-,MW,330-530,HH,1310,"Tagle, Thea Q",Closed,24,24,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2019,WIN,Restr,no_add_code,-,J,5,-,TTh,845-1045,DISC,252,"Doyle, Gavin T",Open,14,15,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2019,WIN,Restr,no_add_code,-,K,5,-,TTh,845-1045,UW1,060,"Spiegler, Louise",Closed,7,6,-,-,J

@@ -1,0 +1,20 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE118,INDVDUALS & SOC 3,BCORE,2020,SPR,Restr,no_add_code,-,A,5,-,-,to_be_arranged,*,*,"Lambacher, Jason Frederick",Open,16,30,-,-,-
+BCORE118,INDVDUALS & SOC 3,BCORE,2020,SPR,Restr,no_add_code,-,B,5,-,W,115-315,*,*,"West, Maureen P.",Closed,26,15,-,-,J
+BCORE118,INDVDUALS & SOC 3,BCORE,2020,SPR,Restr,no_add_code,-,C,5,-,TTh,115-315,UW1,060,"Shaw, Carol A",Open,24,30,-,-,-
+BCORE119,NATURAL WORLD 3,BCORE,2020,SPR,Restr,no_add_code,-,A,5,-,W,115-315,*,*,"Valdez, Ursula",Open,22,30,-,-,-
+BCORE119,NATURAL WORLD 3,BCORE,2020,SPR,Restr,no_add_code,-,B,5,-,-,to_be_arranged,*,*,"Lasker, G",Open,29,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2020,SPR,Restr,no_add_code,-,A,5,-,MW,1100-100,UW2,021,"Hathaway, Deborah A.",Closed,30,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2020,SPR,Restr,no_add_code,-,B,5,-,W,115-315,*,*,"Spiegler, Louise",Open,28,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2020,SPR,Restr,no_add_code,-,C,5,-,-,to_be_arranged,*,*,"Doyle, Gavin T",Closed,30,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2020,SPR,Restr,no_add_code,-,D,5,-,-,to_be_arranged,*,*,"Doyle, Gavin T",Open,29,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2020,SPR,Restr,no_add_code,-,E,5,-,-,to_be_arranged,*,*,"Voyles, Katherine Hardman",Open,27,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2020,SPR,Restr,no_add_code,-,F,5,-,TTh,115-315,UW2,221,"Morse, Jason H",Open,29,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2020,SPR,Restr,no_add_code,-,G,5,-,W,115-315,*,*,"West, Maureen P.",Closed,7,15,-,-,J
+BCORE133,DISCOVERY CORE III,BCORE,2020,SPR,Restr,no_add_code,-,A,2,-,T,845-1045,*,*,"Shinneman, Avery",Open,5,20,-,-,%
+BCORE133,DISCOVERY CORE III,BCORE,2020,SPR,Restr,no_add_code,-,B,2,-,Th,845-1045,UW2,040,"Brooks, Peter",Open,6,20,-,-,%
+BCORE133,DISCOVERY CORE III,BCORE,2020,SPR,Restr,no_add_code,-,C,2,-,W,1100-100,*,*,"Brooks, Peter",Open,11,20,-,-,%
+BCORE133,DISCOVERY CORE III,BCORE,2020,SPR,Restr,no_add_code,-,D,2,-,T,330-530,DISC,252,"Shinneman, Avery",Open,2,20,-,-,%
+BCORE133,DISCOVERY CORE III,BCORE,2020,SPR,Restr,no_add_code,-,E,2,-,Th,330-530,DISC,252,"Brooks, Peter",Open,2,20,-,-,%
+BCORE133,DISCOVERY CORE III,BCORE,2020,SPR,Restr,no_add_code,-,F,2,-,F,115-315,UW2,305,"Shinneman, Avery",Open,6,20,-,-,%
+BCORE211,DC SPECIAL TOPICS,BCORE,2020,SPR,no_restriction,no_add_code,10834,A,2,-,W,330-530,UW1,261,"Takahashi, Curtis",Open,12,30,CR_NC,$12,B

@@ -1,0 +1,40 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BBIO180,INTRO BIOLOGY I,BBIO,2017,WIN,no_restriction,no_add_code,10717,A,5,-,TTh,845-1045,DISC,162,"Dooley, Frederick Daniel",Open,64,95,-,$70,-
+BBIO180,INTRO BIOLOGY I,BBIO,2017,WIN,no_restriction,no_add_code,10718,AA,-,LB,T,1100-100,DISC,263,"Dooley, Frederick Daniel",Closed,24,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2017,WIN,no_restriction,no_add_code,10719,AB,-,LB,T,130-330,DISC,263,"Campbell, Dana",Open,18,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2017,WIN,no_restriction,no_add_code,10720,AC,-,LB,Th,1100-100,DISC,263,"Campbell, Dana",Open,22,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2017,WIN,no_restriction,no_add_code,10722,A,5,-,TTh,845-1045,DISC,061,"Ma, Eva",Open,61,120,-,$70,-
+BBIO200,INTRO BIOLOGY II,BBIO,2017,WIN,no_restriction,no_add_code,10723,AA,-,LB,M,845-1045,DISC,263,"Ma, Eva",Open,19,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2017,WIN,no_restriction,no_add_code,10724,AB,-,LB,M,1115-115,DISC,263,"Ma, Eva",Open,23,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2017,WIN,no_restriction,no_add_code,10726,AD,-,LB,W,845-1045,DISC,263,"Lewis, Alaron",Open,19,24,-,-,-
+BBIO225,SCIENTIFIC WRITING,BBIO,2017,WIN,no_restriction,no_add_code,10728,A,5,-,MW,330-530,UW2,205,"Galindo, Heather Michelle",Closed,15,15,-,-,%J
+BBIO240,FUND CELLULAR BIOL,BBIO,2017,WIN,no_restriction,no_add_code,10729,A,5,-,TTh,330-530,SSG,CNSVTRY,"Lewis, Alaron",Open,26,30,-,$70,-
+BBIO240,FUND CELLULAR BIOL,BBIO,2017,WIN,no_restriction,no_add_code,10730,AA,-,LB,F,845-1045,DISC,263,"McNabb, Susan L",Open,12,15,-,-,-
+BBIO240,FUND CELLULAR BIOL,BBIO,2017,WIN,no_restriction,no_add_code,10731,AB,-,LB,F,1115-115,DISC,263,"McNabb, Susan L",Open,14,15,-,-,-
+BBIO285,SEMINAR IN BIOLOGY,BBIO,2017,WIN,no_restriction,no_add_code,10732,A,3,-,W,115-315,UW2,141,"Price, Rebecca M",Open,9,12,-,-,J
+BBIO285,SEMINAR IN BIOLOGY,BBIO,2017,WIN,no_restriction,no_add_code,10733,B,3,-,Th,115-315,UW2,141,"Price, Rebecca M",Open,8,12,-,-,J
+BBIO305,STEM CELLS SCI ETH,BBIO,2017,WIN,Restr,no_add_code,-,A,5,-,MW,845-1045,DISC,252,"White, Bryan D.",Open,43,48,-,-,-
+BBIO310,BRAIN AND BEHAVIOR,BBIO,2017,WIN,-,add_code_required,10735,A,5,-,MW,115-315,DISC,252,"White, Bryan D.",-,60,60,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2017,WIN,no_restriction,no_add_code,10736,A,5,-,MW,1100-100,DISC,162,"Price, Michele",Open,64,72,-,$160,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2017,WIN,Restr,no_add_code,-,AA,-,LB,Th,845-1145,DISC,267,"Price, Michele",Closed,24,24,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2017,WIN,Restr,no_add_code,-,AB,-,LB,F,115-415,DISC,267,"Price, Michele",Open,18,24,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2017,WIN,no_restriction,no_add_code,10739,AC,-,LB,F,845-1145,DISC,267,"Price, Michele",Open,22,24,-,-,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2017,WIN,no_restriction,no_add_code,10740,A,5,-,MW,845-1045,UW2,005,"Jensen, Jeffrey",Open,31,48,-,$110,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2017,WIN,no_restriction,no_add_code,10741,AA,-,LB,T,845-1145,DISC,267,"Al-Noori, Salwa",Open,19,24,-,-,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2017,WIN,no_restriction,no_add_code,10742,AB,-,LB,T,115-415,DISC,267,"Jensen, Jeffrey",Open,12,24,-,-,-
+BBIO360,INTRO GENETICS,BBIO,2017,WIN,no_restriction,no_add_code,10743,A,5,-,MW,1100-100,UW1,102,"Madzima, Thelma F",Open,39,40,-,-,-
+BBIO364,BIOCHEMISTRY I,BBIO,2017,WIN,-,add_code_required,10744,A,5,-,MW,115-315,UW1,040,"Anderson, Peter C",-,24,24,-,-,J
+BBIO365,BIOCHEMISTRY II,BBIO,2017,WIN,no_restriction,no_add_code,10745,A,5,-,MW,115-315,UW1,050,"Robins, Lori",Open,22,24,-,-,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2017,WIN,-,add_code_required,10746,A,3,-,M,1100-1200,UW2,307,"Robins, Lori",-,11,12,-,$60,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2017,WIN,no_restriction,no_add_code,10747,AA,-,LB,F,845-1145,DISC,469,"Robins, Lori",Open,7,8,-,-,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2017,WIN,no_restriction,no_add_code,10748,AB,-,LB,F,1215-315,DISC,469,"Lewis, Alaron",Open,4,5,-,-,J
+BBIO385,ANIMAL BEHAVIOR,BBIO,2017,WIN,no_restriction,no_add_code,10751,A,5,-,MW,330-530,UWBB,107G,"Wacker, Douglas",Closed,24,24,-,-,-
+BBIO393,SPEC TOPICS BIOLOGY ,BBIO,2017,WIN,Restr,no_add_code,-,A,5,-,TTh,845-1045,DISC,258,"Zaneveld, Jesse R",Open,3,30,-,-,-
+BBIO394,TOPICS IN NEUROSCI,BBIO,2017,WIN,no_restriction,no_add_code,10752,A,5,-,MW,845-1045,UWBB,260,"Al-Noori, Salwa",Open,15,24,-,-,%
+BBIO460,DEVELOPMENTAL BIOL,BBIO,2017,WIN,no_restriction,no_add_code,10753,A,5,-,MW,330-530,UW1,031,"Servetnick, Marc David",Open,17,30,-,-,-
+BBIO466,EVOLUTION,BBIO,2017,WIN,no_restriction,no_add_code,10754,A,5,-,MW,1100-100,UW2,221,"Jensen, Jeffrey",Open,29,30,-,-,-
+BBIO470,MICROBIOLOGY II,BBIO,2017,WIN,no_restriction,no_add_code,10755,A,5,-,TTh,1100-100,UW1,110,"Stredwick, Kristina Linnea",Open,12,24,-,-,-
+BBIO485,ADV SEM BIOLOGY,BBIO,2017,WIN,no_restriction,no_add_code,10756,A,3,-,F,115-315,UWBB,260,"Al-Noori, Salwa",Open,12,24,-,-,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2017,WIN,-,add_code_required,10757,A,5,-,TTh,330-530,UWBB,107F,"Stredwick, Kristina Linnea",-,9,10,-,$130,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2017,WIN,-,add_code_required,10758,B,5,-,TTh,1100-100,UWBB,270,"Madzima, Thelma F",-,4,12,-,$130,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2017,WIN,-,add_code_required,21785,C,5,-,W,845-1045,DISC,369,"Kraemer, Susan M.",-,5,12,-,-,-

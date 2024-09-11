@@ -1,0 +1,37 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BBIO180,INTRO BIOLOGY I,BBIO,2022,AUT,no_restriction,no_add_code,10786,A,5,-,TTh,845-1045,DISC,061,"Jensen, Jeffrey",Open,123,144,-,$70,-
+BBIO180,INTRO BIOLOGY I,BBIO,2022,AUT,no_restriction,no_add_code,10787,AA,-,LB,T,1100-100,DISC,263,"Campbell, Dana",Open,23,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2022,AUT,no_restriction,no_add_code,10788,AB,-,LB,T,145-345,DISC,263,"Campbell, Dana",Open,22,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2022,AUT,no_restriction,no_add_code,10789,AC,-,LB,Th,1100-100,DISC,263,"Campbell, Dana",Open,20,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2022,AUT,no_restriction,no_add_code,10790,AD,-,LB,W,845-1045,DISC,263,"Jensen, Jeffrey",Open,20,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2022,AUT,no_restriction,no_add_code,10791,AE,-,LB,W,1115-115,DISC,263,"Campbell, Dana",Open,23,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2022,AUT,no_restriction,no_add_code,10792,AF,-,LB,W,145-345,DISC,263,"Campbell, Dana",Open,15,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2022,AUT,no_restriction,no_add_code,10793,A,5,-,TTh,845-1045,DISC,162,"White, Bryan",Open,53,72,-,$70,-
+BBIO220,INTRO BIOLOGY III,BBIO,2022,AUT,no_restriction,no_add_code,10794,AA,-,LB,M,1100-100,DISC,267,"White, Bryan",Open,23,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2022,AUT,no_restriction,no_add_code,10795,AB,-,LB,M,130-330,DISC,267,"White, Bryan",Open,7,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2022,AUT,no_restriction,no_add_code,10796,AC,-,LB,W,1100-100,DISC,267,"White, Bryan",Open,23,24,-,-,-
+BBIO233,CANCER,BBIO,2022,AUT,no_restriction,no_add_code,10798,A,5,-,TTh,330-530,UW2,221,"McNabb, She, Her, Hers, Susan",Open,18,30,-,-,-
+BBIO310,BRAIN AND BEHAVIOR,BBIO,2022,AUT,no_restriction,no_add_code,10799,A,5,-,MW,1100-100,DISC,162,"Bester-Meredith, Janet",Open,82,90,-,-,-
+BBIO340,COMP BIO,BBIO,2022,AUT,no_restriction,no_add_code,10800,A,5,-,M,115-315,UW2,105,"Zaneveld, J",Open,13,32,-,-,%B
+BBIO351,ANAT & PHYSIOL I,BBIO,2022,AUT,no_restriction,no_add_code,10801,A,5,-,TTh,845-1045,UW2,005,"Price, M",Open,63,66,-,$160,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2022,AUT,no_restriction,no_add_code,10802,AA,-,LB,T,200-500,DISC,267,"Price, M",Open,21,22,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2022,AUT,no_restriction,no_add_code,10803,AB,-,LB,Th,200-500,DISC,267,"Price, M",Closed,22,22,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2022,AUT,no_restriction,no_add_code,10804,AC,-,LB,F,845-1145,DISC,267,"Price, M",Open,20,22,-,-,-
+BBIO355,BEHAVIOR ENDOCRINOL ,BBIO,2022,AUT,no_restriction,no_add_code,10805,A,5,-,TTh,1100-100,UW1,261,"Champagne, Cory",Open,27,30,-,-,-
+BBIO360,INTRO GENETICS,BBIO,2022,AUT,no_restriction,no_add_code,10806,A,5,-,MW,330-530,DISC,252,"Lewis, A",Open,47,60,-,-,-
+BBIO364,BIOCHEMISTRY I,BBIO,2022,AUT,no_restriction,no_add_code,10807,A,5,-,TTh,1100-100,UW1,050,"Anderson, Peter",Closed,37,24,-,-,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2022,AUT,-,add_code_required,10809,A,3,-,M,845-945,DISC,162,"Robins, L",-,0,8,-,$75,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2022,AUT,-,add_code_required,10810,AA,-,LB,W,1215-315,DISC,469,"Robins, L",-,0,8,-,-,J
+BBIO370,MICROBIOLOGY,BBIO,2022,AUT,no_restriction,no_add_code,10811,A,5,-,TTh,330-530,UW2,141,"Hillesland, K",Closed,48,48,-,$150,-
+BBIO370,MICROBIOLOGY,BBIO,2022,AUT,-,add_code_required,10812,AA,-,LB,F,845-1045,DISC,263,"Narayanan, Zareen",-,24,24,-,-,-
+BBIO370,MICROBIOLOGY,BBIO,2022,AUT,-,add_code_required,10813,AB,-,LB,F,115-315,DISC,263,"Narayanan, Zareen",-,24,24,-,-,-
+BBIO375,MOLECULAR BIOLOGY,BBIO,2022,AUT,no_restriction,no_add_code,10814,A,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '205', in original. Note: couldn't interpret 'Gillis,Ian', in original. Note: couldn't interpret 'Matthew', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '10', in original. Note: couldn't interpret '15', in original. Note: couldn't interpret 'J', in original."
+BBIO380,CELL BIOLOGY,BBIO,2022,AUT,no_restriction,no_add_code,10815,A,5,-,F,1100-130,UWBB,230,"Lewis, A",Open,15,20,-,-,-
+BBIO460,DEVELOPMENTAL BIOL,BBIO,2022,AUT,no_restriction,no_add_code,10816,A,5,-,MW,330-530,UW1,031,"Servetnick, Marc",Open,12,30,-,-,-
+BBIO466,EVOLUTION,BBIO,2022,AUT,no_restriction,no_add_code,10817,A,5,-,MW,115-315,UW1,220,"Galindo, Heather M",Open,38,48,-,-,-
+BBIO471,PLANT ECOLOGY,BBIO,2022,AUT,no_restriction,no_add_code,10818,A,5,-,MW,1100-100,SSGC,101,"Chang, Cynthia",Open,19,24,-,$80,-
+BBIO471,PLANT ECOLOGY,BBIO,2022,AUT,no_restriction,no_add_code,10819,AA,-,LB,W,115-315,SSGC,101,"Chang, Cynthia",Open,19,24,-,-,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2022,AUT,-,add_code_required,10820,A,5,-,MW,1100-100,UWBB,270,"Servetnick, Marc",-,12,12,-,$130,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2022,AUT,-,add_code_required,10821,B,5,-,TTh,1100-100,SSGC,101,"Chang, Cynthia",-,8,12,-,$130,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2022,AUT,-,add_code_required,10822,C,5,-,TTh,115-315,UWBB,270,"Jensen, Jeffrey",-,12,12,-,$130,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2022,AUT,-,add_code_required,23485,D,5,-,MW,830-1030,DISC,252,"Stokes, David L.",-,4,4,-,$130,J

@@ -1,0 +1,14 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE118,INDVDUALS & SOC 3,BCORE,2022,SPR,no_restriction,no_add_code,10884,A,5,-,MW,115-315,UW2,040,"Harkewicz, Laura J",Open,25,30,-,-,-
+BCORE118,INDVDUALS & SOC 3,BCORE,2022,SPR,no_restriction,no_add_code,10885,B,5,-,MW,330-530,UW1,031,"Lambacher, Jason Frederick",Open,21,30,-,-,-
+BCORE118,INDVDUALS & SOC 3,BCORE,2022,SPR,no_restriction,no_add_code,10887,D,5,-,T,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '221', in original. Note: couldn't interpret 'West,Maureen', in original. Note: couldn't interpret 'P.', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '18', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret 'B', in original."
+BCORE119,NATURAL WORLD 3,BCORE,2022,SPR,no_restriction,no_add_code,10888,A,5,-,MW,845-1045,UW1,041,"Bertram, Miriam A.",Open,8,10,-,-,J
+BCORE119,NATURAL WORLD 3,BCORE,2022,SPR,no_restriction,no_add_code,10889,B,5,-,Th,1100-100,UW2,221,"Lasker, Grace",Open,23,24,-,-,B
+BCORE120,VIS LIT PFRM ART 3,BCORE,2022,SPR,no_restriction,no_add_code,10890,A,5,-,MW,845-1045,UW1,060,"Spiegler, Louise",Open,18,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2022,SPR,no_restriction,no_add_code,10891,B,5,-,W,1100-100,*,*,"Morse, Jason H",Open,29,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2022,SPR,no_restriction,no_add_code,10892,C,5,-,TTh,845-1045,UW2,221,"Doyle, Gavin",Open,29,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2022,SPR,no_restriction,no_add_code,10893,D,5,-,TTh,1100-100,UW2,021,"Hathaway, Deborah A.",Closed,30,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2022,SPR,no_restriction,no_add_code,21379,E,5,-,MW,845-1045,UW1,041,"Campbell, Dana",Open,37,38,-,-,J
+BCORE133,DISCOVERY CORE III,BCORE,2022,SPR,Restr,no_add_code,-,A,2,-,Th,115-315,UW2,228,"Brooks, Peter",Open,8,18,-,-,%
+BCORE133,DISCOVERY CORE III,BCORE,2022,SPR,Restr,no_add_code,-,B,2,-,F,115-315,UW2,205,"Brooks, Peter",Open,13,30,-,-,%
+BCORE211,DC SPECIAL TOPICS,BCORE,2022,SPR,no_restriction,no_add_code,10896,A,2,-,W,330-530,UW1,021,"Delgado_Ii, Rafael A",Open,28,30,CR_NC,-,B

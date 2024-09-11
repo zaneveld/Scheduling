@@ -1,0 +1,14 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE115,INDVDUALS & SOC 2,BCORE,2022,WIN,no_restriction,no_add_code,10912,A,5,-,MW,115-315,UW1,060,"Lambacher, Jason Frederick",Closed,30,30,-,-,-
+BCORE115,INDVDUALS & SOC 2,BCORE,2022,WIN,no_restriction,no_add_code,10913,B,5,-,TTh,845-1045,UW1,060,"Gregory, Wanda",Open,29,30,-,-,-
+BCORE115,INDVDUALS & SOC 2,BCORE,2022,WIN,no_restriction,no_add_code,10914,C,5,-,W,330-530,*,*,"Morse, Jason H",Open,22,30,-,-,-
+BCORE115,INDVDUALS & SOC 2,BCORE,2022,WIN,no_restriction,no_add_code,10915,D,5,-,T,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '060', in original. Note: couldn't interpret 'West,Maureen', in original. Note: couldn't interpret 'P.', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '27', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret 'B', in original."
+BCORE115,INDVDUALS & SOC 2,BCORE,2022,WIN,no_restriction,no_add_code,10916,E,5,-,M,1100-100,UW2,340,"Shinneman, Avery",Closed,15,15,-,-,BJ
+BCORE116,NATURAL WORLD 2,BCORE,2022,WIN,no_restriction,no_add_code,10917,A,5,-,M,1100-100,UW2,340,"Shinneman, Avery",Closed,16,15,-,-,BJ
+BCORE116,NATURAL WORLD 2,BCORE,2022,WIN,no_restriction,no_add_code,10918,B,5,-,TTh,330-530,UW2,040,"Mourad, Pierre D.",Open,23,30,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2022,WIN,no_restriction,no_add_code,10919,A,5,-,TTh,845-1045,UW1,010,"Porter, Ian",Closed,30,30,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2022,WIN,no_restriction,no_add_code,10920,B,5,-,MW,1100-100,UW2,021,"Hathaway, Deborah A.",Open,29,30,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2022,WIN,no_restriction,no_add_code,10921,C,5,-,TTh,1100-100,UWBB,205,"Doyle, Gavin",Closed,30,30,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2022,WIN,no_restriction,no_add_code,10922,D,5,-,W,330-530,UW2,131,"Spiegler, Louise",Open,24,30,-,-,B
+BCORE133,DISCOVERY CORE III,BCORE,2022,WIN,Restr,no_add_code,-,A,2,-,F,115-315,UW1,021,"Shinneman, Avery",Open,28,30,-,-,%B
+BCORE133,DISCOVERY CORE III,BCORE,2022,WIN,Restr,no_add_code,-,B,2,-,W,330-530,UW2,221,"Shinneman, Avery",Open,13,30,-,-,%B

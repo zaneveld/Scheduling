@@ -1,0 +1,30 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE104,VIS LIT PRFM ART 1,BCORE,2018,AUT,Restr,no_add_code,-,A,5,-,MW,115-315,UW1,102,"Shayne, Julie",Open,47,48,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2018,AUT,Restr,no_add_code,-,B,5,-,MW,1015-1135,UW1,102,"Hiebert, Theodor Frederick",Open,47,48,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2018,AUT,Restr,no_add_code,-,C,5,-,TTh,1100-100,UW2,240,"Atkinson, Jennifer W",Open,36,48,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2018,AUT,Restr,no_add_code,-,D,5,-,MW,115-315,DISC,165B,"Pedersen, Alice L",Closed,24,24,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2018,AUT,Restr,no_add_code,-,E,5,-,MW,845-1045,DISC,162,"Carpenter, Gary",Closed,20,12,-,-,J
+BCORE104,VIS LIT PRFM ART 1,BCORE,2018,AUT,Restr,no_add_code,-,F,5,-,TTh,330-530,UW1,031,"Brooks, Peter J",Closed,30,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2018,AUT,Restr,no_add_code,-,G,5,-,TTh,1100-100,UW2,021,"Hathaway, Deborah A.",Closed,30,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2018,AUT,Restr,no_add_code,-,H,5,-,TTh,330-530,UW2,105,"Hsu, Howard",Closed,30,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2018,AUT,Restr,no_add_code,-,I,5,-,MWF,1145-105,UW2,221,"Nixon, David",Closed,16,16,-,-,J
+BCORE104,VIS LIT PRFM ART 1,BCORE,2018,AUT,Restr,no_add_code,-,J,5,-,TTh,845-1045,UW2,040,"Doyle, Gavin",Closed,19,17,-,-,J
+BCORE104,VIS LIT PRFM ART 1,BCORE,2018,AUT,Restr,no_add_code,-,K,5,-,TTh,845-1045,UW2,040,"Doyle, Gavin",Closed,13,13,-,-,J
+BCORE104,VIS LIT PRFM ART 1,BCORE,2018,AUT,Restr,no_add_code,-,L,5,-,MWF,1145-105,UW2,221,"Nixon, David",Closed,14,14,-,-,J
+BCORE104,VIS LIT PRFM ART 1,BCORE,2018,AUT,Restr,no_add_code,-,M,5,-,MW,115-315,UW2,040,"Buttler, Tasha M",Open,29,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2018,AUT,-,add_code_required,23571,N,5,-,MW,845-1045,DISC,162,"Carpenter, Gary",-,15,15,-,-,J
+BCORE107,INDVDUALS & SOC 1,BCORE,2018,AUT,Restr,no_add_code,-,A,5,-,MW,330-530,UW1,102,"Padilla, Yolanda",Open,47,48,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2018,AUT,Restr,no_add_code,-,B,5,-,MW,1145-105,UW1,102,"Jung, Jin-Kyu",Open,47,48,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2018,AUT,Restr,no_add_code,-,C,5,-,TTh,845-1045,UWBB,260,"Lichty, Lauren F.",Open,22,24,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2018,AUT,-,add_code_required,10924,D,5,-,MW,330-530,UW1,261,"Lovitt, Charity E",-,24,30,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2018,AUT,Restr,no_add_code,-,E,5,-,TTh,115-315,UW1,010,"O'Neill, Kimberly M.",Closed,30,30,-,$85,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2018,AUT,Restr,no_add_code,-,F,5,-,F,1100-315,UW2,131,"West, Maureen P.",Open,5,24,-,-,J
+BCORE107,INDVDUALS & SOC 1,BCORE,2018,AUT,Restr,no_add_code,-,G,5,-,TTh,845-1045,UW1,110,"Lambacher, Jason F",Closed,30,30,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2018,AUT,Restr,no_add_code,-,H,5,-,TTh,845-1045,UW2,211,"Redwood, Loren K.",Closed,30,30,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2018,AUT,Restr,no_add_code,-,I,5,-,MW,845-1045,UW1,261,"McNabb, Susan L",Closed,23,15,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2018,AUT,Restr,no_add_code,-,A,5,-,MW,845-1045,DISC,162,"Al-Noori, Salwa",Closed,9,12,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2018,AUT,Restr,no_add_code,-,B,5,-,MW,845-1045,UW1,261,"McNabb, Susan L",Closed,8,15,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2018,AUT,Restr,no_add_code,-,C,5,-,TTh,1100-100,UW2,040,"Lasker, Grace",Closed,30,30,-,-,-
+BCORE110,NATURAL WORLD 1,BCORE,2018,AUT,Restr,no_add_code,-,D,5,-,F,1100-315,UW2,131,"Bruck, Anna M.",Open,6,24,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2018,AUT,Restr,no_add_code,-,E,5,-,TTh,115-315,UW2,240,"Gold, Warren G.",Open,36,48,-,-,-
+BCORE110,NATURAL WORLD 1,BCORE,2018,AUT,-,add_code_required,23570,F,5,-,MW,845-1045,DISC,162,"Al-Noori, Salwa",-,4,4,-,-,J

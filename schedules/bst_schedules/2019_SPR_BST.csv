@@ -1,0 +1,10 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BST153,INTRO GEOLOGY,BST,2019,SPR,no_restriction,no_add_code,11676,A,5,-,MW,845-1045,DISC,369,"Shinneman, Avery",Closed,3,12,-,-,J
+BST154,INTRO OCEANOGRAPHY,BST,2019,SPR,no_restriction,no_add_code,20963,A,5,-,TTh,330-530,DISC,162,"Galindo, Heather M",Open,8,24,-,-,J
+BST200,INTRO TO CLIMATE SCI,BST,2019,SPR,no_restriction,no_add_code,11677,A,5,-,TTh,1100-100,DISC,369,"Salathe, Eric P",Open,23,24,-,-,-
+BST205,WOMEN IN STEM,BST,2019,SPR,no_restriction,no_add_code,11678,A,3,-,TTh,130-300,UWBB,240,"Hill, Erin",Open,28,30,-,-,%
+BST301,SCIENTIFIC WRITING,BST,2019,SPR,no_restriction,no_add_code,11679,A,5,-,TTh,845-1045,UW2,031,"Galindo, Heather M",Closed,24,24,-,-,W
+BST498,IND STUDY SCI TECH,BST,2019,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,11680,A,-,5,-,-,-,"to_be_arranged Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
+BST498,IND STUDY SCI TECH,BST,2019,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,11681,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
+BST499,UG RESEARCH SCI TECH,BST,2019,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,11682,A,-,5,-,-,-,"to_be_arranged Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
+BST499,UG RESEARCH SCI TECH,BST,2019,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,11683,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '1', in original. Note: couldn't interpret '10E', in original."

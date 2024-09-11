@@ -1,0 +1,42 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCHEM153,GEN CHEM II,BCHEM,2020,SPR,no_restriction,no_add_code,20937,A,4,-,MWF,845-1005,DISC,061,"Finley, Brandon D",Open,90,96,-,-,-
+BCHEM153,GEN CHEM II,BCHEM,2020,SPR,no_restriction,no_add_code,20938,AA,-,QZ,F,1100-1155,LBA,003,"Finley, Brandon D",Closed,25,25,-,-,-
+BCHEM153,GEN CHEM II,BCHEM,2020,SPR,no_restriction,no_add_code,20939,AB,-,QZ,F,1200-1255,LBA,003,"Finley, Brandon D",Open,24,25,-,-,-
+BCHEM153,GEN CHEM II,BCHEM,2020,SPR,no_restriction,no_add_code,20940,AC,-,QZ,F,115-210,LBA,003,"Finley, Brandon D",Open,23,25,-,-,-
+BCHEM153,GEN CHEM II,BCHEM,2020,SPR,no_restriction,no_add_code,20941,AD,-,QZ,F,215-310,LBA,003,"Finley, Brandon D",Open,18,25,-,-,-
+BCHEM154,GEN CHEM LAB II,BCHEM,2020,SPR,no_restriction,no_add_code,20942,A,2,-,M,1215-315,DISC,463,"Finley, Brandon D",Open,17,24,-,$50,-
+BCHEM154,GEN CHEM LAB II,BCHEM,2020,SPR,no_restriction,no_add_code,20943,B,2,-,T,830-1130,DISC,463,"Sommerfeld, David",Open,7,24,-,$50,-
+BCHEM154,GEN CHEM LAB II,BCHEM,2020,SPR,no_restriction,no_add_code,20944,C,2,-,T,1215-315,DISC,463,"Sommerfeld, David",Open,12,24,-,$50,-
+BCHEM154,GEN CHEM LAB II,BCHEM,2020,SPR,no_restriction,no_add_code,20946,E,2,-,Th,830-1130,DISC,463,"Finley, Brandon D",Open,19,24,-,$50,-
+BCHEM154,GEN CHEM LAB II,BCHEM,2020,SPR,no_restriction,no_add_code,20947,F,2,-,Th,1215-315,DISC,463,"Han, Rui",Open,14,24,-,$50,-
+BCHEM163,GEN CHEM III,BCHEM,2020,SPR,no_restriction,no_add_code,10790,A,4,-,MWF,1015-1135,DISC,061,"Sommerfeld, David",Open,62,120,-,-,-
+BCHEM163,GEN CHEM III,BCHEM,2020,SPR,no_restriction,no_add_code,20948,AA,-,QZ,F,1200-1255,UW1,261,"Finley, Brandon D",Open,29,30,-,-,-
+BCHEM163,GEN CHEM III,BCHEM,2020,SPR,no_restriction,no_add_code,20949,AB,-,QZ,F,115-210,UW1,261,"Finley, Brandon D",Closed,30,30,-,-,-
+BCHEM163,GEN CHEM III,BCHEM,2020,SPR,no_restriction,no_add_code,20950,AC,-,QZ,F,215-310,UW1,261,"Finley, Brandon D",Open,1,30,-,-,-
+BCHEM163,GEN CHEM III,BCHEM,2020,SPR,no_restriction,no_add_code,20951,AD,-,QZ,F,330-425,UW1,261,"Finley, Brandon D",Open,2,30,-,-,-
+BCHEM164,GEN CHEM LAB III,BCHEM,2020,SPR,no_restriction,no_add_code,20952,A,2,-,M,115-415,CC1,340,"Lovitt, Charity",Closed,24,24,-,$50,-
+BCHEM164,GEN CHEM LAB III,BCHEM,2020,SPR,no_restriction,no_add_code,20953,B,2,-,T,900-1200,CC1,340,"Han, Rui",Open,18,24,-,$50,-
+BCHEM164,GEN CHEM LAB III,BCHEM,2020,SPR,-,add_code_required,20954,C,2,-,T,115-415,CC1,340,-,-,0,24,-,$50,-
+BCHEM164,GEN CHEM LAB III,BCHEM,2020,SPR,no_restriction,no_add_code,20955,D,2,-,W,115-415,CC1,340,"Han, Rui",Open,18,24,-,$50,-
+BCHEM238,ORGANIC CHEMISTRY,BCHEM,2020,SPR,no_restriction,no_add_code,10791,A,4,-,MWF,1145-105,DISC,061,"Tyson, Elizabeth",Open,21,48,-,-,-
+BCHEM239,ORGANIC CHEMISTRY,BCHEM,2020,SPR,no_restriction,no_add_code,10792,A,4,-,TF,115-315,UW2,005,"Thimmaiah, Murali",Open,64,80,-,-,-
+BCHEM241,ORGANIC CHEM LAB I,BCHEM,2020,SPR,no_restriction,no_add_code,10793,A,3,-,M,845-1045,*,*,"Daruwala, Khushroo P.",Open,13,40,-,$75,-
+BCHEM241,ORGANIC CHEM LAB I,BCHEM,2020,SPR,no_restriction,no_add_code,10794,AA,-,LB,T,845-1245,DISC,469,"Daruwala, Khushroo P.",Open,13,20,-,-,-
+BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2020,SPR,no_restriction,no_add_code,10796,A,3,-,T,330-500,DISC,162,"Thimmaiah, Murali",Open,57,60,-,$90,-
+BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2020,SPR,no_restriction,no_add_code,10797,AA,-,LB,W,845-1245,DISC,469,"Thimmaiah, Murali",Open,19,20,-,-,-
+BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2020,SPR,no_restriction,no_add_code,20958,AB,-,LB,W,115-515,DISC,469,"Daruwala, Khushroo P.",Open,18,20,-,-,-
+BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2020,SPR,no_restriction,no_add_code,20959,AC,-,LB,Th,845-1245,DISC,469,"Thimmaiah, Murali",Closed,20,20,-,-,-
+BCHEM313,INOR CHEM II,BCHEM,2020,SPR,no_restriction,no_add_code,20960,A,3,-,TTh,330-530,UW2,221,"Daruwala, Khushroo P.",Open,6,20,-,-,-
+BCHEM364,BIOCHEMISTRY I,BCHEM,2020,SPR,no_restriction,no_add_code,20761,A,5,-,MW,115-315,UW1,041,"Anderson, Peter",Open,6,20,-,-,J
+BCHEM365,BIOCHEMISTRY II,BCHEM,2020,SPR,no_restriction,no_add_code,20809,A,5,-,MW,115-315,UW2,141,"Tyson, Elizabeth",Open,8,20,-,-,J
+BCHEM375,MOLECULAR BIOLOGY,BCHEM,2020,SPR,no_restriction,no_add_code,20777,A,5,-,MW,330-530,*,*,"Madzima, Thelma F",Open,17,15,-,-,J
+BCHEM404,PHYSICAL CHEM LAB,BCHEM,2020,SPR,no_restriction,no_add_code,20961,A,4,-,F,845-1245,DISC,469,"Gunnerson, Kim",Open,8,12,-,$60,-
+BCHEM404,PHYSICAL CHEM LAB,BCHEM,2020,SPR,no_restriction,no_add_code,20962,B,4,-,M,845-1245,DISC,469,"Gunnerson, Kim",Open,11,12,-,$60,-
+BCHEM426,INSTRUMENTAL ANLYS,BCHEM,2020,SPR,no_restriction,no_add_code,20963,A,5,-,MW,115-315,DISC,061,"Kim, Hyung J",Open,9,24,-,$120,-
+BCHEM426,INSTRUMENTAL ANLYS,BCHEM,2020,SPR,no_restriction,no_add_code,20964,AA,-,LB,W,845-1245,DISC,463,"Kim, Hyung J",Open,9,12,-,-,-
+BCHEM493,ADV TOPICS IN CHEM,BCHEM,2020,SPR,no_restriction,no_add_code,20966,A,5,-,TTh,1100-100,UWBB,107G,"Anderson, Peter",Closed,20,20,-,-,-
+BCHEM493,ADV TOPICS IN CHEM,BCHEM,2020,SPR,no_restriction,no_add_code,20967,B,5,-,TTh,115-315,UWBB,107G,"Kim, Hyung J",Open,8,20,-,-,-
+BCHEM498,IND STUDY CHEM,BCHEM,2020,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,20968,A,-,-,-,-,-,"1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret '*', in original. Note: couldn't interpret '*', in original. Note: couldn't interpret '', in original. Note: couldn't interpret '*', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
+BCHEM498,IND STUDY CHEM,BCHEM,2020,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,20969,B,-,-,-,-,-,"1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret '*', in original. Note: couldn't interpret '*', in original. Note: couldn't interpret '', in original. Note: couldn't interpret '*', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."
+BCHEM499,UG RESEARCH CHEM,BCHEM,2020,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,20970,A,-,-,-,-,-,"1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret '*', in original. Note: couldn't interpret '*', in original. Note: couldn't interpret '', in original. Note: couldn't interpret '*', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '11', in original. Note: couldn't interpret '10E', in original."
+BCHEM499,UG RESEARCH CHEM,BCHEM,2020,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,20971,B,-,-,-,-,-,"1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret '*', in original. Note: couldn't interpret '*', in original. Note: couldn't interpret '', in original. Note: couldn't interpret '*', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '3', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."

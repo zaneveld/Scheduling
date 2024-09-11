@@ -1,0 +1,34 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE104,VIS LIT PRFM ART 1,BCORE,2022,AUT,Restr,no_add_code,-,B,5,-,MW,845-1045,UW2,221,"Gustafson, Kristin",Open,27,30,-,$15,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2022,AUT,Restr,no_add_code,-,C,5,-,TTh,845-1045,UW1,221,"Doyle, Gavin",Closed,29,29,-,-,J
+BCORE104,VIS LIT PRFM ART 1,BCORE,2022,AUT,Restr,no_add_code,-,D,5,-,MW,845-1005,UW1,221,"Doyle, Gavin",Closed,31,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2022,AUT,Restr,no_add_code,-,E,5,-,MW,115-315,UWBB,240,"Brooks, Peter",Open,18,20,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2022,AUT,Restr,no_add_code,-,F,5,-,MW,115-315,UW1,060,"Carpenter, Gary",Closed,30,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2022,AUT,Restr,no_add_code,-,G,5,-,TTh,115-315,UW2,021,"Hathaway, Deborah A.",Open,29,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2022,AUT,Restr,no_add_code,-,H,5,-,MW,330-530,UW2,221,"Morse, Jason H",Open,29,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2022,AUT,Restr,no_add_code,-,I,5,-,MW,330-530,UW1,121,"Hsu, Howard",Closed,30,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2022,AUT,Restr,no_add_code,-,K,5,-,T,845-1045,UWBB,240,"Lambacher, Jason Frederick",Closed,30,30,-,-,B
+BCORE104,VIS LIT PRFM ART 1,BCORE,2022,AUT,Restr,no_add_code,-,M,5,-,TTh,830-1030,LBA,003,"Atkinson, Jennifer",Closed,21,20,-,-,J
+BCORE104,VIS LIT PRFM ART 1,BCORE,2022,AUT,Restr,no_add_code,-,N,5,-,TTh,1100-100,DISC,252,"Hathaway, Deborah A.",Closed,35,33,-,-,J
+BCORE104,VIS LIT PRFM ART 1,BCORE,2022,AUT,Restr,no_add_code,-,O,5,-,T,115-315,DISC,252,"Spiegler, Louise",Open,28,30,-,-,B
+BCORE104,VIS LIT PRFM ART 1,BCORE,2022,AUT,Restr,no_add_code,-,P,5,-,TTh,330-530,DISC,252,"Daniel-Ulloa, Jason",Closed,30,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2022,AUT,Restr,no_add_code,-,Q,5,-,TTh,330-530,UW1,060,"Janssen, Elizabeth Cole",Open,29,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2022,AUT,Restr,no_add_code,-,R,5,-,W,1100-100,UW1,261,"Spiegler, Louise",Closed,30,30,-,-,B
+BCORE104,VIS LIT PRFM ART 1,BCORE,2022,AUT,Restr,no_add_code,-,S,5,-,MW,115-315,UW2,240,"Valdez, Ursula",Closed,20,20,-,-,J
+BCORE107,INDVDUALS & SOC 1,BCORE,2022,AUT,Restr,no_add_code,-,A,5,-,MW,1100-100,UW2,040,"Porter, Ian",Open,27,30,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2022,AUT,Restr,no_add_code,-,B,5,-,MW,115-315,UW1,021,"Dupuis, Marc J.",Open,29,30,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2022,AUT,Restr,no_add_code,-,C,5,-,MW,330-530,UW1,110,"Shayne, Julie",Open,47,48,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2022,AUT,Restr,no_add_code,-,D,5,-,T,330-530,UW2,131,"Hiukka, Kristiina",Open,29,30,CR_NC,-,B
+BCORE107,INDVDUALS & SOC 1,BCORE,2022,AUT,Restr,no_add_code,-,F,5,-,TTh,1100-100,UW1,010,"Stiber, Michael",Open,46,48,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2022,AUT,Restr,no_add_code,-,G,5,-,MW,1100-100,UW1,121,"McNabb, She, Her, Hers, Susan",Open,19,15,-,-,J
+BCORE107,INDVDUALS & SOC 1,BCORE,2022,AUT,Restr,no_add_code,-,H,5,-,W,330-530,UW2,040,"Shaw, Carol A",Open,27,30,-,-,B
+BCORE107,INDVDUALS & SOC 1,BCORE,2022,AUT,Restr,no_add_code,-,I,5,-,Th,115-315,DISC,252,"West, Maureen P.",Closed,49,48,-,-,B
+BCORE107,INDVDUALS & SOC 1,BCORE,2022,AUT,Restr,no_add_code,-,J,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '060', in original. Note: couldn't interpret 'NIXON,DAVID', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret '30', in original."
+BCORE107,INDVDUALS & SOC 1,BCORE,2022,AUT,Restr,no_add_code,-,K,5,-,MW,845-1045,UW1,102,"Lichty, Lauren F.",Open,29,30,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2022,AUT,Restr,no_add_code,-,L,5,-,MW,1100-100,UW1,060,"Shayne, Julie",Open,22,30,-,-,-
+BCORE110,NATURAL WORLD 1,BCORE,2022,AUT,Restr,no_add_code,-,A,5,-,TTh,845-1045,UW1,221,"Lovitt, Charity",Open,18,19,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2022,AUT,Restr,no_add_code,-,B,5,-,MW,1145-105,UW1,221,"Mourad, Pierre D.",Open,32,33,-,-,B
+BCORE110,NATURAL WORLD 1,BCORE,2022,AUT,Restr,no_add_code,-,C,5,-,TTh,830-1030,LBA,003,"Atkinson, Jennifer",Closed,9,10,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2022,AUT,Restr,no_add_code,-,D,5,-,TTh,1100-100,DISC,252,"Groom, Martha",Closed,13,15,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2022,AUT,Restr,no_add_code,-,E,5,-,MW,1100-100,UW1,121,"McNabb, She, Her, Hers, Susan",Open,12,15,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2022,AUT,Restr,no_add_code,-,F,5,-,MW,115-315,UW2,240,"Valdez, Ursula",Open,8,10,-,-,J

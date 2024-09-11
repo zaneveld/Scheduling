@@ -1,0 +1,36 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE104,VIS LIT PRFM ART 1,BCORE,2020,AUT,Restr,no_add_code,-,A,5,-,T,1100-100,*,*,"Pedersen, Alice",Open,23,24,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2020,AUT,Restr,no_add_code,-,B,5,-,MW,845-1045,*,*,"Gregory, Wanda",Closed,32,32,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2020,AUT,Restr,no_add_code,-,C,5,-,W,115-315,*,*,"Doyle, Gavin T",Open,31,32,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2020,AUT,Restr,no_add_code,-,D,5,-,W,1200-100,*,*,"Lambacher, Jason Frederick",Closed,32,32,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2020,AUT,Restr,no_add_code,-,E,5,-,MW,1100-1200,*,*,"Hathaway, Deborah A.",Closed,31,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2020,AUT,Restr,no_add_code,-,F,5,-,MW,115-215,*,*,"Hathaway, Deborah A.",Open,29,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2020,AUT,Restr,no_add_code,-,G,5,-,W,330-530,*,*,"Morse, Jason H",Closed,32,32,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2020,AUT,Restr,no_add_code,-,H,5,-,T,845-1045,*,*,"Spiegler, Louise",Closed,30,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2020,AUT,Restr,no_add_code,-,I,5,-,TTh,1100-100,*,*,"Doyle, Gavin T",Closed,34,34,-,-,J
+BCORE104,VIS LIT PRFM ART 1,BCORE,2020,AUT,Restr,no_add_code,-,J,5,-,TTh,1100-1200,*,*,"Carpenter, Gary",Closed,30,30,-,-,S
+BCORE104,VIS LIT PRFM ART 1,BCORE,2020,AUT,Restr,no_add_code,-,K,5,-,TTh,1100-100,*,*,"Atkinson, Jennifer",Open,33,24,-,-,J
+BCORE104,VIS LIT PRFM ART 1,BCORE,2020,AUT,Restr,no_add_code,-,L,5,-,T,330-530,*,*,"Brooks, Peter",Closed,30,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2020,AUT,Restr,no_add_code,-,M,5,-,TTh,330-530,*,*,"Hsu, Howard",Closed,30,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2020,AUT,Restr,no_add_code,-,N,5,-,TTh,215-315,*,*,"Hathaway, Deborah A.",Closed,30,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2020,AUT,Restr,no_add_code,-,O,5,-,MW,845-1045,*,*,"Gustafson, Kristin",Open,32,24,-,-,J
+BCORE104,VIS LIT PRFM ART 1,BCORE,2020,AUT,no_restriction,no_add_code,24017,P,5,-,W,115-315,*,*,"Morse, Jason H",Closed,30,30,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2020,AUT,Restr,no_add_code,-,A,5,-,M,1145-115,*,*,"Lichty, Lauren F.",Closed,40,40,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2020,AUT,Restr,no_add_code,-,B,5,-,T,1000-1100,*,*,"Porter, Ian",Open,29,30,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2020,AUT,Restr,no_add_code,-,D,5,-,MW,330-530,*,*,"Dupuis, Marc J.",Closed,32,32,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2020,AUT,Restr,no_add_code,-,E,5,-,M,330-530,*,*,"Shayne, Julie",Closed,30,30,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2020,AUT,Restr,no_add_code,-,F,5,-,T,845-945,*,*,"Gliboff, Matthew",Open,29,30,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2020,AUT,Restr,no_add_code,-,G,5,-,TTh,115-315,*,*,"McNabb, Susan",Closed,24,30,-,-,J
+BCORE107,INDVDUALS & SOC 1,BCORE,2020,AUT,Restr,no_add_code,-,H,5,-,T,1200-100,*,*,"Romero, Adam",Closed,33,30,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2020,AUT,Restr,no_add_code,-,I,5,-,T,330-530,*,*,"Hiukka, Kristiina",Closed,32,32,CR_NC,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2020,AUT,-,add_code_required,10995,J,5,-,TTh,330-430,*,*,"Merchant, She.Her, N.",-,-,-,-,-,"H. Note: couldn't interpret '7', in original. Note: couldn't interpret '30', in original."
+BCORE107,INDVDUALS & SOC 1,BCORE,2020,AUT,Restr,no_add_code,-,K,5,-,TTh,-,545-745P,*,-,-,-,-,-,-,"* Note: couldn't interpret 'NIXON,DAVID', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret '30', in original."
+BCORE107,INDVDUALS & SOC 1,BCORE,2020,AUT,Restr,no_add_code,-,L,5,-,MW,1100-100,*,*,"Nedita, Codrin",Open,29,30,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2020,AUT,no_restriction,no_add_code,24028,M,5,-,MW,1100-100,*,*,"McNabb, Susan",Closed,18,18,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2020,AUT,Restr,no_add_code,-,A,5,-,MW,845-1045,*,*,"Lambert, Amy M",Open,11,24,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2020,AUT,Restr,no_add_code,-,B,5,-,M,115-215,*,*,"Lasker, Grace",Closed,30,30,-,-,-
+BCORE110,NATURAL WORLD 1,BCORE,2020,AUT,Restr,no_add_code,-,C,5,-,TTh,1100-100,*,*,"Gold, Warren G",Open,14,24,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2020,AUT,Restr,no_add_code,-,D,5,-,TTh,115-315,*,*,"McNabb, Susan",Closed,8,30,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2020,AUT,Restr,no_add_code,-,E,5,-,TTh,1100-100,*,*,"Lovitt, Charity",Open,17,18,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2020,AUT,no_restriction,no_add_code,24029,F,5,-,MW,1100-100,*,*,"McNabb, Susan",Open,11,12,-,-,J
+BCORE211,DC SPECIAL TOPICS,BCORE,2020,AUT,-,add_code_required,11002,A,2,-,-,to_be_arranged,*,*,"Hillyard, Cinnamon",-,34,32,-,-,-

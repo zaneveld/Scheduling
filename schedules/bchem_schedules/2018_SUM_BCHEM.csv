@@ -1,0 +1,15 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCHEM163,GEN CHEM III,BCHEM,2018,SUM,no_restriction,no_add_code,10250,A,4,-,MW,900-1130,UW2,005,"Finley, Brandon Dearmond",Open,45,60,-,-,-
+BCHEM163,GEN CHEM III,BCHEM,2018,SUM,no_restriction,no_add_code,10251,AA,-,QZ,M,1135-1230,UW1,261,"Finley, Brandon Dearmond",Open,16,20,-,-,-
+BCHEM163,GEN CHEM III,BCHEM,2018,SUM,no_restriction,no_add_code,10252,AB,-,QZ,M,1230-125,UW1,261,"Finley, Brandon Dearmond",Closed,20,20,-,-,-
+BCHEM163,GEN CHEM III,BCHEM,2018,SUM,no_restriction,no_add_code,10253,AC,-,QZ,M,130-225,UW1,261,"Finley, Brandon Dearmond",Open,9,20,-,-,-
+BCHEM164,GEN CHEM LAB III,BCHEM,2018,SUM,no_restriction,no_add_code,10254,A,2,-,T,900-1200,CC1,340,"Finley, Brandon Dearmond",Open,18,20,-,$50,-
+BCHEM164,GEN CHEM LAB III,BCHEM,2018,SUM,no_restriction,no_add_code,10255,B,2,-,T,1230-330,CC1,340,"Finley, Brandon Dearmond",Open,12,20,-,$50,-
+BCHEM164,GEN CHEM LAB III,BCHEM,2018,SUM,no_restriction,no_add_code,10256,C,2,-,W,1230-330,CC1,340,"Finley, Brandon Dearmond",Open,19,20,-,$50,-
+BCHEM239,ORGANIC CHEMISTRY,BCHEM,2018,SUM,no_restriction,no_add_code,10257,A,4,-,TTh,900-1130,UW1,220,"Thimmaiah, Muralidhara",Open,36,48,-,-,-
+BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2018,SUM,no_restriction,no_add_code,10258,A,3,-,T,1145-130,UWBB,205,"Thimmaiah, Muralidhara",Closed,28,24,-,$70,-
+BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2018,SUM,no_restriction,no_add_code,10259,AA,-,LB,Th,1230-430,DISC,469,"Thimmaiah, Muralidhara",Closed,20,20,-,-,-
+BCHEM498,IND STUDY CHEM,BCHEM,2018,SUM,no_restriction,no_add_code,-,IS,-,-,-,-,-,10262,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '1', in original. Note: couldn't interpret '10E', in original."
+BCHEM498,IND STUDY CHEM,BCHEM,2018,SUM,no_restriction,no_add_code,-,IS,-,-,-,-,-,10263,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."
+BCHEM499,UG RESEARCH CHEM,BCHEM,2018,SUM,no_restriction,no_add_code,-,IS,-,-,-,-,-,10264,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '2', in original. Note: couldn't interpret '10E', in original."
+BCHEM499,UG RESEARCH CHEM,BCHEM,2018,SUM,no_restriction,no_add_code,-,IS,-,-,-,-,-,10265,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."

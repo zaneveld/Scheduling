@@ -1,0 +1,35 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCHEM139,PREP FOR GEN CHEM,BCHEM,2019,AUT,no_restriction,no_add_code,10901,A,5,-,MWF,845-1005,DISC,162,"Lovitt, Charity",Open,55,95,-,-,-
+BCHEM143,GEN CHEM I,BCHEM,2019,AUT,no_restriction,no_add_code,10902,A,4,-,MWF,845-1005,DISC,061,"Finley, Brandon D",Open,170,192,-,-,-
+BCHEM143,GEN CHEM I,BCHEM,2019,AUT,no_restriction,no_add_code,10903,AA,-,QZ,F,1100-1155,UW2,031,"Finley, Brandon D",Open,27,30,-,-,-
+BCHEM143,GEN CHEM I,BCHEM,2019,AUT,no_restriction,no_add_code,10904,AB,-,QZ,F,1200-1255,UW1,202,"Finley, Brandon D",Open,27,30,-,-,-
+BCHEM143,GEN CHEM I,BCHEM,2019,AUT,no_restriction,no_add_code,10905,AC,-,QZ,F,115-210,UW1,261,"Finley, Brandon D",Open,24,30,-,-,-
+BCHEM143,GEN CHEM I,BCHEM,2019,AUT,no_restriction,no_add_code,10906,AD,-,QZ,F,1100-1155,UW1,221,"Finley, Brandon D",Open,28,30,-,-,-
+BCHEM143,GEN CHEM I,BCHEM,2019,AUT,no_restriction,no_add_code,10907,AE,-,QZ,F,1200-1255,UW1,110,"Finley, Brandon D",Closed,30,30,-,-,-
+BCHEM143,GEN CHEM I,BCHEM,2019,AUT,no_restriction,no_add_code,10908,AF,-,QZ,F,115-210,UW1,031,"Finley, Brandon D",Open,22,30,-,-,-
+BCHEM143,GEN CHEM I,BCHEM,2019,AUT,no_restriction,no_add_code,10909,AG,-,QZ,F,215-310,UW2,040,"Finley, Brandon D",Open,12,30,-,-,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2019,AUT,no_restriction,no_add_code,10910,A,2,-,M,1215-315,CC1,340,"Finley, Brandon D",Open,21,24,-,$50,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2019,AUT,no_restriction,no_add_code,10911,B,2,-,M,400-700,CC1,340,"Daruwala, Khushroo P.",Open,15,24,-,$50,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2019,AUT,no_restriction,no_add_code,10912,C,2,-,T,845-1145,CC1,340,"Gunnerson, Kim",Open,20,24,-,$50,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2019,AUT,no_restriction,no_add_code,10913,D,2,-,T,1215-315,CC1,340,"Daruwala, Khushroo P.",Open,20,24,-,$50,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2019,AUT,no_restriction,no_add_code,10914,E,2,-,W,1215-315,CC1,340,"Finley, Brandon D",Open,22,24,-,$50,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2019,AUT,no_restriction,no_add_code,10915,F,2,-,W,400-700,CC1,340,"Thimmaiah, Murali",Open,18,24,-,$50,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2019,AUT,no_restriction,no_add_code,10916,G,2,-,Th,845-1145,CC1,340,"Thimmaiah, Murali",Open,20,24,-,$50,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2019,AUT,no_restriction,no_add_code,10917,H,2,-,Th,1215-315,CC1,340,"Sommerfeld, David",Open,21,24,-,$50,-
+BCHEM237,ORGANIC CHEMISTRY,BCHEM,2019,AUT,no_restriction,no_add_code,10918,A,4,-,MW,1100-100,DISC,061,"Thimmaiah, Murali",Open,56,60,-,-,-
+BCHEM237,ORGANIC CHEMISTRY,BCHEM,2019,AUT,no_restriction,no_add_code,10919,B,4,-,MW,115-315,DISC,061,"Daruwala, Khushroo P.",Open,39,60,-,-,-
+BCHEM310,MOLEC MOD,BCHEM,2019,AUT,no_restriction,no_add_code,23285,A,5,-,TTh,330-530,UWBB,107G,"Anderson, Peter",Open,6,15,-,-,%
+BCHEM315,QUANT ENV ANALYSIS,BCHEM,2019,AUT,no_restriction,no_add_code,10920,A,5,-,MW,1100-100,UW1,060,"Jaffe, D",Open,29,30,-,$100,-
+BCHEM315,QUANT ENV ANALYSIS,BCHEM,2019,AUT,no_restriction,no_add_code,10921,AA,-,LB,Th,845-1245,DISC,463,"Han, Rui",Open,13,15,-,-,-
+BCHEM315,QUANT ENV ANALYSIS,BCHEM,2019,AUT,no_restriction,no_add_code,10922,AB,-,LB,Th,130-530,DISC,463,"Han, Rui",Closed,16,15,-,-,-
+BCHEM364,BIOCHEMISTRY I,BCHEM,2019,AUT,-,add_code_required,10924,A,5,-,MW,845-1045,UW1,210,"Tyson, Elizabeth",-,12,24,-,-,J
+BCHEM365,BIOCHEMISTRY II,BCHEM,2019,AUT,no_restriction,no_add_code,10925,A,5,-,TTh,1100-100,UW1,020,"Anderson, Peter",Open,16,24,-,-,J
+BCHEM366,BIOCHEMISTRY LAB,BCHEM,2019,AUT,no_restriction,no_add_code,10926,A,3,-,M,115-215,UW2,228,"Tyson, Elizabeth",Open,8,8,-,$75,J
+BCHEM366,BIOCHEMISTRY LAB,BCHEM,2019,AUT,no_restriction,no_add_code,10927,AA,-,LB,T,1215-315,DISC,469,"Tyson, Elizabeth",Closed,8,8,-,-,J
+BCHEM375,MOLECULAR BIOLOGY,BCHEM,2019,AUT,no_restriction,no_add_code,10928,A,5,-,MW,845-1045,UW1,031,"Madzima, Thelma F",Open,11,15,-,-,J
+BCHEM401,PHYSICAL CHEM I,BCHEM,2019,AUT,no_restriction,no_add_code,10929,A,4,-,TTh,845-1045,UW1,040,"Sommerfeld, David",Open,26,48,-,-,-
+BCHEM495,INVEST CHEM I,BCHEM,2019,AUT,no_restriction,no_add_code,10932,A,3,-,MW,845-1045,UWBB,107G,"Sommerfeld, David",Open,11,20,-,-,-
+BCHEM498,IND STUDY CHEM,BCHEM,2019,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,10933,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
+BCHEM498,IND STUDY CHEM,BCHEM,2019,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,10934,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '1', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."
+BCHEM499,UG RESEARCH CHEM,BCHEM,2019,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,10935,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '7', in original. Note: couldn't interpret '10E', in original."
+BCHEM499,UG RESEARCH CHEM,BCHEM,2019,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,10936,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '1', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."

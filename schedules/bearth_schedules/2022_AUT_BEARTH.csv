@@ -1,0 +1,7 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BEARTH154,INTRO OCEANOGRAPHY,BEARTH,2022,AUT,no_restriction,no_add_code,11326,A,5,-,TTh,845-1045,UWBB,205,"Galindo, Heather M",Closed,30,30,-,-,-
+BEARTH155,INTRO TO CLIMATE SCI,BEARTH,2022,AUT,no_restriction,no_add_code,11327,A,5,-,TTh,115-315,UW1,110,"Salathe, Eric P",Open,43,48,-,-,-
+BEARTH300,ENV SYSTEM THINKING ,BEARTH,2022,AUT,Restr,no_add_code,-,A,5,-,TTh,1100-100,DISC,162,"Turner, Rob",Open,8,30,-,-,%
+BEARTH317,SOILS IN THE ENVIRON,BEARTH,2022,AUT,no_restriction,no_add_code,11329,A,5,-,W,330-530,DISC,369,"Malone, Melanie",Open,17,24,-,$50,B
+BEARTH320,CLIMATE IMPACTS,BEARTH,2022,AUT,no_restriction,no_add_code,11330,A,5,-,MW,115-315,LBA,003,"Salathe, Eric P",Closed,31,30,-,-,-
+BEARTH341,NATURAL HAZARDS,BEARTH,2022,AUT,no_restriction,no_add_code,11331,A,5,-,T,1100-100,UW2,131,"Redsteer, Margaret",Open,29,40,-,-,B

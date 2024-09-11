@@ -1,0 +1,24 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE115,INDVDUALS & SOC 2,BCORE,2018,WIN,Restr,no_add_code,-,A,5,-,MW,115-315,SSG,CNSVTRY,"Harkewicz, Laura J.",Closed,28,27,-,-,-
+BCORE115,INDVDUALS & SOC 2,BCORE,2018,WIN,Restr,no_add_code,-,B,5,-,MW,115-315,UW2,205,"Laplante, Nelson J",Closed,27,27,-,-,-
+BCORE115,INDVDUALS & SOC 2,BCORE,2018,WIN,Restr,no_add_code,-,C,5,-,TTh,845-1045,UW2,040,"Shelton, Maura",Closed,29,27,-,-,-
+BCORE115,INDVDUALS & SOC 2,BCORE,2018,WIN,Restr,no_add_code,-,D,5,-,W,330-530,UW1,031,"Porter, Ian Joseph",Closed,28,27,-,-,B
+BCORE115,INDVDUALS & SOC 2,BCORE,2018,WIN,Restr,no_add_code,-,F,5,-,TTh,845-1045,UW2,221,"Tuke, Greg",Open,20,27,-,-,-
+BCORE115,INDVDUALS & SOC 2,BCORE,2018,WIN,Restr,no_add_code,-,G,5,-,Th,115-315,UW2,040,"Redwood, Loren K.",Closed,29,27,-,-,B
+BCORE115,INDVDUALS & SOC 2,BCORE,2018,WIN,Restr,no_add_code,-,H,5,-,TTh,115-315,UW2,205,"Lambacher, Jason F",Closed,27,27,-,-,-
+BCORE116,NATURAL WORLD 2,BCORE,2018,WIN,Restr,no_add_code,-,A,5,-,W,1100-100,UW1,261,"McNabb, Susan L",Open,26,27,-,$3,B
+BCORE116,NATURAL WORLD 2,BCORE,2018,WIN,Restr,no_add_code,-,B,5,-,MW,330-530,UW2,205,"Crandell, Caren",Open,8,27,-,-,-
+BCORE116,NATURAL WORLD 2,BCORE,2018,WIN,Restr,no_add_code,-,C,5,-,TTh,1100-100,UW1,021,"Shinneman, Avery",Closed,27,27,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,A,5,-,MW,845-1005,UW1,060,"Spiegler, Louise",Open,15,22,-,-,BJ
+BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,B,5,-,MW,845-1045,UW2,040,"Harack, Katrina M.",Open,15,16,-,-,J
+BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,C,5,-,W,845-1045,UW1,261,"Doyle, Gavin",Closed,27,27,-,-,B
+BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,D,5,-,MW,1100-100,UW2,021,"Hathaway, Deborah A.",Open,26,27,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,E,5,-,M,1100-100,UW1,261,"Buttler, Tasha M",Closed,28,27,-,-,B
+BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,F,5,-,MW,115-315,UW1,060,"Carpenter, Gary L.",Closed,27,27,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,G,5,-,TTh,1100-100,UW2,131,"Watts, Linda S",Open,24,27,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,H,5,-,TTh,330-530,UW1,120,"Hsu, Howard",Closed,27,27,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,I,5,-,TTh,330-530,SSG,CNSVTRY,"Nixon, David M.",Closed,27,27,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,J,5,-,TTh,330-530,HSKY,1310,"Ali, Anida Y",Open,20,24,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,K,5,-,F,1100-315,UW2,221,"West, Maureen P.",Closed,27,27,-,$20,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,L,5,-,MW,845-1005,UW1,060,"Spiegler, Louise",Open,3,5,-,-,BJ
+BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,M,5,-,MW,845-1045,UW2,040,"Harack, Katrina M.",Open,9,11,-,-,J

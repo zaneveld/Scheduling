@@ -1,0 +1,26 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE104,VIS LIT PRFM ART 1,BCORE,2019,AUT,Restr,no_add_code,-,A,5,-,MW,115-315,UW1,102,"Shayne, Julie",Open,20,48,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2019,AUT,Restr,no_add_code,-,B,5,-,TTh,1100-100,UW1,110,"Atkinson, Jennifer",Open,30,48,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2019,AUT,Restr,no_add_code,-,C,5,-,MW,115-315,DISC,165B,"Pedersen, Alice",Closed,24,24,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2019,AUT,Restr,no_add_code,-,D,5,-,MW,845-1045,UW1,060,"Voyles, Katherine Hardman",Open,19,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2019,AUT,Restr,no_add_code,-,E,5,-,MW,1015-1135,UW1,021,"Doyle, Gavin T",Open,29,30,-,$15,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2019,AUT,Restr,no_add_code,-,F,5,-,MW,1100-100,UW2,021,"Hathaway, Deborah A.",Closed,30,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2019,AUT,Restr,no_add_code,-,G,5,-,TTh,845-1045,UW2,040,"Lambacher, Jason F",Open,27,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2019,AUT,Restr,no_add_code,-,H,5,-,TTh,330-530,DISC,162,"Carpenter, Gary",Open,30,24,-,-,J
+BCORE104,VIS LIT PRFM ART 1,BCORE,2019,AUT,Restr,no_add_code,-,I,5,-,TTh,330-530,UW2,105,"Hsu, Howard",Closed,30,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2019,AUT,Restr,no_add_code,-,J,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '060', in original. Note: couldn't interpret 'Porter,Ian', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret '30', in original."
+BCORE104,VIS LIT PRFM ART 1,BCORE,2019,AUT,Restr,no_add_code,-,K,5,-,MW,330-530,UW2,105,"Doyle, Gavin T",Open,26,30,-,$15,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2019,AUT,Restr,no_add_code,-,L,5,-,MW,330-530,UW1,121,"Morse, Jason H",Open,27,30,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2019,AUT,Restr,no_add_code,-,A,5,-,MW,330-530,UW1,102,"Padilla, Yolanda",Open,20,48,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2019,AUT,Restr,no_add_code,-,B,5,-,TTh,845-1045,UW1,060,"Lichty, Lauren F.",Open,23,24,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2019,AUT,Restr,no_add_code,-,C,5,-,MW,845-1005,UW1,021,"Romero, Adam",Open,29,30,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2019,AUT,Restr,no_add_code,-,D,5,-,MWF,1145-105,UWBB,260,"Brooks, Peter",Open,19,24,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2019,AUT,Restr,no_add_code,-,E,5,-,MW,115-315,UW2,305,"Bruck, Annie M.",Open,39,40,-,$15,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2019,AUT,Restr,no_add_code,-,G,5,-,TTh,330-530,UW2,040,"Lovitt, Charity",Open,24,30,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2019,AUT,Restr,no_add_code,-,I,5,-,TTh,845-1045,UW2,105,"McNabb, S",Closed,23,15,-,-,J
+BCORE107,INDVDUALS & SOC 1,BCORE,2019,AUT,Restr,no_add_code,-,K,5,-,TTh,1100-100,UW1,121,"Nixon, David",Open,27,30,-,-,-
+BCORE110,NATURAL WORLD 1,BCORE,2019,AUT,Restr,no_add_code,-,A,5,-,TTh,330-530,DISC,162,"Al-Noori, Salwa",Open,15,24,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2019,AUT,Restr,no_add_code,-,B,5,-,TTh,845-1045,UW2,105,"McNabb, S",Closed,7,15,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2019,AUT,Restr,no_add_code,-,C,5,-,TTh,1100-100,UW2,040,"Lasker, G",Closed,30,30,-,-,-
+BCORE110,NATURAL WORLD 1,BCORE,2019,AUT,Restr,no_add_code,-,D,5,-,TTh,115-315,UW1,110,"Gold, Warren G",Open,30,48,-,-,-
+BCORE211,DC SPECIAL TOPICS,BCORE,2019,AUT,no_restriction,no_add_code,23692,A,2,-,W,330-530,UW1,060,"Takahashi, Curtis",Open,27,30,CR_NC,-,-

@@ -1,0 +1,29 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCHEM139,PREP FOR GEN CHEM,BCHEM,2024,AUT,no_restriction,no_add_code,10952,A,5,-,TTh,1100-100,DISC,162,"Lovitt, Charity",Open,59,90,-,-,-
+BCHEM143,GEN CHEM I,BCHEM,2024,AUT,no_restriction,no_add_code,10953,A,4,-,MWF,1015-1135,DISC,061,"Finley, Brandon D",Closed,192,192,-,-,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2024,AUT,no_restriction,no_add_code,10954,A,2,-,M,1200-300,CC1,340,"Storfer, Dinara",Closed,24,24,-,$50,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2024,AUT,no_restriction,no_add_code,10955,B,2,-,M,400-700,CC1,340,"Shippy, Scott",Closed,24,24,-,$50,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2024,AUT,no_restriction,no_add_code,10956,C,2,-,T,830-1130,CC1,340,"Thimmaiah, Murali",Closed,24,24,-,$50,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2024,AUT,no_restriction,no_add_code,10957,D,2,-,T,115-415,CC1,340,"Jaffe, Dan",Open,23,24,-,$50,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2024,AUT,no_restriction,no_add_code,10958,E,2,-,W,1200-300,CC1,340,"Storfer, Dinara",Closed,24,24,-,$50,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2024,AUT,no_restriction,no_add_code,10959,F,2,-,W,-,400-700P,-,-,-,-,-,-,-,"CC1 Note: couldn't interpret '340', in original. Note: couldn't interpret 'Shippy,Scott', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '4', in original. Note: couldn't interpret '24', in original. Note: couldn't interpret '$50', in original."
+BCHEM144,GEN CHEM LAB I,BCHEM,2024,AUT,no_restriction,no_add_code,10960,G,2,-,Th,830-1130,CC1,340,"Thimmaiah, Murali",Open,23,24,-,$50,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2024,AUT,no_restriction,no_add_code,10961,H,2,-,Th,115-415,CC1,340,"Thimmaiah, Murali",Closed,24,24,-,$50,-
+BCHEM157,GEN CHEM STRATEGIES ,BCHEM,2024,AUT,no_restriction,no_add_code,10962,A,1,-,MTW,800-1000,*,*,-,-,-,-,-,-," Note: couldn't interpret '*', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '16', in original. Note: couldn't interpret '18', in original."
+BCHEM157,GEN CHEM STRATEGIES ,BCHEM,2024,AUT,no_restriction,no_add_code,10963,B,1,-,MTW,1100-100,*,*,"Mlodnosky, Karyn",Open,16,18,-,-,-
+BCHEM237,ORGANIC CHEMISTRY,BCHEM,2024,AUT,no_restriction,no_add_code,10965,A,4,-,MW,115-315,UW1,041,"Thimmaiah, Murali",Closed,60,60,-,-,-
+BCHEM237,ORGANIC CHEMISTRY,BCHEM,2024,AUT,no_restriction,no_add_code,10966,B,4,-,MW,330-530,DISC,061,"Daruwala, Khushroo P.",Open,26,60,-,-,-
+BCHEM316,QUANT & EQUIL CHEM,BCHEM,2024,AUT,no_restriction,no_add_code,10967,A,4,-,MW,330-530,UW2,340,"Jaffe, Dan",Open,23,36,-,-,-
+BCHEM317,QUANT ENVIRO LAB,BCHEM,2024,AUT,no_restriction,no_add_code,10968,A,3,-,W,1145-105,UW1,021,"Finley, Brandon D",Open,21,36,-,$100,-
+BCHEM317,QUANT ENVIRO LAB,BCHEM,2024,AUT,no_restriction,no_add_code,10969,AA,-,LB,Th,845-1245,DISC,469,"Finley, Brandon D",Closed,12,12,-,-,-
+BCHEM317,QUANT ENVIRO LAB,BCHEM,2024,AUT,no_restriction,no_add_code,10971,AC,-,LB,F,845-1245,DISC,469,"Daruwala, Khushroo P.",Open,9,12,-,-,-
+BCHEM364,BIOCHEMISTRY I,BCHEM,2024,AUT,no_restriction,no_add_code,10972,A,5,-,MW,115-315,UW1,040,"Anderson, Peter",Closed,26,24,-,-,J
+BCHEM366,BIOCHEMISTRY LAB,BCHEM,2024,AUT,no_restriction,no_add_code,10974,A,3,-,M,1145-105,UW1,021,"Robins, Lori",Open,15,16,-,$75,J
+BCHEM366,BIOCHEMISTRY LAB,BCHEM,2024,AUT,no_restriction,no_add_code,10975,AA,-,LB,W,845-1145,DISC,469,"Shippy, Scott",Open,7,8,-,-,J
+BCHEM366,BIOCHEMISTRY LAB,BCHEM,2024,AUT,no_restriction,no_add_code,10976,AB,-,LB,T,845-1145,DISC,469,"Robins, Lori",Closed,8,8,-,-,J
+BCHEM375,MOLECULAR BIOLOGY,BCHEM,2024,AUT,no_restriction,no_add_code,10977,A,5,-,MW,330-530,UW1,031,"Shih, Han-Wei",Open,1,15,-,-,J
+BCHEM401,PHYSICAL CHEM I,BCHEM,2024,AUT,no_restriction,no_add_code,10978,A,4,-,MW,845-1045,UW1,261,"Storfer, Dinara",Open,16,30,-,-,-
+BCHEM498,IND STUDY CHEM,BCHEM,2024,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,10982,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
+BCHEM498,IND STUDY CHEM,BCHEM,2024,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,10983,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."
+BCHEM499,UG RESEARCH CHEM,BCHEM,2024,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,10984,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
+BCHEM499,UG RESEARCH CHEM,BCHEM,2024,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,10985,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '1', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."

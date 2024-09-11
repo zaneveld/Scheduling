@@ -1,0 +1,16 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE118,INDVDUALS & SOC 3,BCORE,2024,SPR,no_restriction,no_add_code,10858,A,5,-,W,115-315,UW1,060,"Porter, Ian",Open,25,30,-,-,B
+BCORE118,INDVDUALS & SOC 3,BCORE,2024,SPR,no_restriction,no_add_code,10859,B,5,-,TTh,845-1045,UW1,010,"Gregory, Wanda",Open,10,20,-,-,J
+BCORE118,INDVDUALS & SOC 3,BCORE,2024,SPR,no_restriction,no_add_code,10860,C,5,-,MW,115-315,UW1,010,"Lambacher, Jason Frederick",Closed,7,15,-,-,J
+BCORE118,INDVDUALS & SOC 3,BCORE,2024,SPR,no_restriction,no_add_code,10861,D,5,-,MW,1100-100,SSGC,101,"Spiegler, Louise",Open,4,30,-,-,J
+BCORE119,NATURAL WORLD 3,BCORE,2024,SPR,no_restriction,no_add_code,10862,A,5,-,TTh,845-1045,UW1,010,"Gregory, Wanda",Open,19,15,-,-,J
+BCORE119,NATURAL WORLD 3,BCORE,2024,SPR,no_restriction,no_add_code,10863,B,5,-,T,1100-100,UW1,021,"Lin, Hsinmei",Closed,7,15,-,-,BJ
+BCORE120,VIS LIT PFRM ART 3,BCORE,2024,SPR,no_restriction,no_add_code,10864,A,5,-,TTh,115-315,UW1,220,"Carpenter, Gary",Open,45,48,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2024,SPR,no_restriction,no_add_code,10865,B,5,-,TTh,1100-100,UW1,261,"Doyle, Gavin",Open,29,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2024,SPR,no_restriction,no_add_code,10866,C,5,-,MW,115-315,UW1,010,"Lambacher, Jason Frederick",Closed,24,20,-,-,J
+BCORE120,VIS LIT PFRM ART 3,BCORE,2024,SPR,no_restriction,no_add_code,10867,D,5,-,T,1100-100,UW1,021,"Lin, Hsinmei",Closed,23,15,-,-,BJ
+BCORE120,VIS LIT PFRM ART 3,BCORE,2024,SPR,no_restriction,no_add_code,10868,E,5,-,Th,330-530,UW1,102,"Morse, Jason H",Open,26,32,-,-,B
+BCORE120,VIS LIT PFRM ART 3,BCORE,2024,SPR,no_restriction,no_add_code,10869,F,5,-,MW,1100-100,SSGC,101,"Spiegler, Louise",Open,18,15,-,-,J
+BCORE120,VIS LIT PFRM ART 3,BCORE,2024,SPR,no_restriction,no_add_code,10870,G,5,-,M,330-530,UW1,121,"Hsu, Howard",Open,28,30,-,-,B
+BCORE133,DISCOVERY CORE III,BCORE,2024,SPR,Restr,no_add_code,-,A,2,-,W,330-530,UW2,211,"Le, Stephanie",Open,23,30,-,-,-
+BCORE133,DISCOVERY CORE III,BCORE,2024,SPR,Restr,no_add_code,-,C,2,-,F,1100-100,UW1,261,"Yates, Suzanne",Closed,21,20,CR_NC,-,-

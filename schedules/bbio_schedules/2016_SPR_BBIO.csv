@@ -1,0 +1,33 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BBIO200,INTRO BIOLOGY II,BBIO,2016,SPR,no_restriction,no_add_code,10671,A,5,-,TTh,845-1045,UW2,005,"Lewis, Alaron",Open,71,80,-,$50,-
+BBIO200,INTRO BIOLOGY II,BBIO,2016,SPR,-,add_code_required,10672,AA,-,LB,T,1055-110,DISC,263,"McNabb, Susan L",-,24,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2016,SPR,no_restriction,no_add_code,10673,AB,-,LB,T,145-400,DISC,263,"McNabb, Susan L",Open,12,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2016,SPR,no_restriction,no_add_code,10674,AC,-,LB,Th,1145-200,DISC,263,"Lewis, Alaron",Open,22,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2016,SPR,no_restriction,no_add_code,10675,AD,-,LB,Th,230-445,DISC,263,"Lewis, Alaron",Open,13,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2016,SPR,no_restriction,no_add_code,10676,A,5,-,TTh,845-1045,DISC,061,"White, Bryan D.",Open,104,120,-,$50,-
+BBIO220,INTRO BIOLOGY III,BBIO,2016,SPR,no_restriction,no_add_code,10677,AA,-,LB,M,845-1045,DISC,267,"White, Bryan D.",Open,13,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2016,SPR,no_restriction,no_add_code,10678,AB,-,LB,W,845-1045,DISC,267,"White, Bryan D.",Closed,24,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2016,SPR,no_restriction,no_add_code,10679,AC,-,LB,M,1100-100,DISC,267,"White, Bryan D.",Open,22,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2016,SPR,no_restriction,no_add_code,10680,AD,-,LB,W,1100-100,DISC,267,"Al-Noori, Salwa",Open,21,22,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2016,SPR,no_restriction,no_add_code,10682,AF,-,LB,W,115-315,DISC,267,"Al-Noori, Salwa",Closed,24,24,-,-,-
+BBIO225,SCIENTIFIC WRITING,BBIO,2016,SPR,-,add_code_required,21554,A,5,-,MW,845-1045,UW2,141,"Galindo, Heather Michelle",-,0,20,-,-,%WJ
+BBIO231,GENES & HEREDITY,BBIO,2016,SPR,no_restriction,no_add_code,10683,A,5,-,TTh,330-530,UW1,102,"Madzima, Thelma F",Open,23,24,-,-,J
+BBIO241,HUMAN ANAT PHYSIO I ,BBIO,2016,SPR,no_restriction,no_add_code,10684,A,6,-,TTh,115-315,UW1,220,"Crowther, Gregory J.",Open,29,36,-,-,-
+BBIO241,HUMAN ANAT PHYSIO I ,BBIO,2016,SPR,no_restriction,no_add_code,10685,AA,-,LB,TF,845-1045,DISC,267,"Crowther, Gregory J.",Closed,18,18,-,-,-
+BBIO241,HUMAN ANAT PHYSIO I ,BBIO,2016,SPR,no_restriction,no_add_code,10686,AB,-,LB,TF,1100-100,DISC,267,"Crowther, Gregory J.",Open,11,18,-,-,-
+BBIO293,SPEC TOPICS BIOLOGY ,BBIO,2016,SPR,no_restriction,no_add_code,10688,B,5,-,F,1100-300,UWBB,260,"Galindo, Heather Michelle",Open,12,14,-,-,-
+BBIO310,BRAIN AND BEHAVIOR,BBIO,2016,SPR,no_restriction,no_add_code,10689,A,5,-,MW,115-315,UW1,051,"Wacker, Douglas",Open,47,48,-,-,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2016,SPR,no_restriction,no_add_code,10690,A,5,-,MW,845-1045,UW1,040,"Jensen, Jeffrey",Open,33,48,-,-,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2016,SPR,no_restriction,no_add_code,10691,AA,-,LB,T,200-500,DISC,267,"Al-Noori, Salwa",Open,15,24,-,-,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2016,SPR,no_restriction,no_add_code,10692,AB,-,LB,Th,115-415,DISC,267,"Al-Noori, Salwa",Open,18,24,-,-,-
+BBIO355,BEHAVIOR ENDOCRINOL ,BBIO,2016,SPR,no_restriction,no_add_code,10693,A,5,-,TTh,115-315,DISC,162,"Wacker, Douglas",Closed,24,24,-,-,-
+BBIO360,INTRO GENETICS,BBIO,2016,SPR,no_restriction,no_add_code,10694,A,5,-,MW,1100-100,DISC,252,"Lewis, Alaron",Open,45,60,-,-,-
+BBIO365,BIOCHEMISTRY II,BBIO,2016,SPR,no_restriction,no_add_code,10695,A,5,-,MW,115-315,UW2,141,"Anderson, Peter C",Closed,31,30,-,-,J
+BBIO375,MOLECULAR BIOLOGY,BBIO,2016,SPR,no_restriction,no_add_code,10696,A,5,-,MW,330-530,UW2,221,"Madzima, Thelma F",Open,13,15,-,-,J
+BBIO466,EVOLUTION,BBIO,2016,SPR,no_restriction,no_add_code,10697,A,5,-,MW,330-530,DISC,061,"Jensen, Jeffrey",Open,59,60,-,-,-
+BBIO471,PLANT ECOLOGY,BBIO,2016,SPR,no_restriction,no_add_code,10698,A,5,-,MW,845-1045,SSG,CNSVTRY,"Chang, Cynthia",Open,25,30,-,-,-
+BBIO471,PLANT ECOLOGY,BBIO,2016,SPR,no_restriction,no_add_code,10699,AA,-,LB,M,115-315,SSG,CNSVTRY,"Chang, Cynthia",Open,25,30,-,-,-
+BBIO485,ADV SEM BIOLOGY,BBIO,2016,SPR,no_restriction,no_add_code,10700,A,1-3,-,F,115-315,UW1,040,"Jensen, Jeffrey",Open,10,20,-,-,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2016,SPR,-,add_code_required,10701,A,5,-,TTh,115-315,UWBB,270,"Servetnick, Marc David",-,12,12,-,$130,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2016,SPR,-,add_code_required,10702,B,5,-,MW,115-315,UWBB,270,"Sen, Keya",-,5,12,-,$130,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2016,SPR,-,add_code_required,10703,C,5,-,MW,845-1045,DISC,263,"Kraemer, Susan M.",-,9,12,-,-,-

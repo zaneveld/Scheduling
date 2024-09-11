@@ -1,0 +1,55 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,Restr,no_add_code,-,A,5,-,MW,845-1045,*,*,"Gustafson, Kristin",Open,15,28,-,-,E
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,-,add_code_required,10999,B,5,-,MW,115-315,DISC,363,"Borsuk, Amaranth",-,10,24,-,-,-
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,Restr,no_add_code,-,C,5,-,MW,1100-100,EERC,102,"Chang, Cynthia",Closed,19,16,-,-,J
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,Restr,no_add_code,-,D,5,-,MW,1100-100,DISC,363,"Carpenter, Gary",Closed,24,24,-,-,-
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,Restr,no_add_code,-,E,5,-,W,1100-100,UW1,060,"Morse, Jason H",Closed,20,20,-,-,B
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,Restr,no_add_code,-,F,5,-,MW,115-315,UW1,010,"Padilla, Yolanda",Closed,42,18,-,-,J
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,Restr,no_add_code,-,G,5,-,MW,115-315,UW1,261,"Janssen, Elizabeth Cole",Closed,28,28,-,-,-
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,Restr,no_add_code,-,H,5,-,MW,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '040', in original. Note: couldn't interpret 'Pisan,Yusuf', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '18', in original. Note: couldn't interpret '20', in original. Note: couldn't interpret 'J', in original."
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,Restr,no_add_code,-,I,5,-,MW,330-530,UW2,031,"Doyle, Gavin",Open,30,30,-,-,J
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,Restr,no_add_code,-,J,5,-,T,845-1045,UW2,040,"Lambacher, Jason Frederick",Closed,22,18,-,-,EBJ
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,Restr,no_add_code,-,K,5,-,T,845-1045,UW2,240,"Iyer, Sunita",Closed,23,18,-,-,BJ
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,Restr,no_add_code,-,L,5,-,Th,845-1045,UW2,240,"Kellejian, Kris",Open,23,28,-,-,B
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,Restr,no_add_code,-,M,5,-,T,1100-100,UW2,040,"Shimabukuro, Mira Chieko",Closed,19,10,-,-,BJ
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,Restr,no_add_code,-,N,5,-,TTh,115-315,UW1,041,"Doyle, Gavin",Closed,29,28,-,-,-
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,Restr,no_add_code,-,O,5,-,TTh,115-315,UW2,040,"Umetsu, Laura K.",Closed,25,18,-,-,J
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,Restr,no_add_code,-,P,5,-,T,115-315,UW1,030,"Spiegler, Louise",Closed,28,28,-,-,B
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,Restr,no_add_code,-,Q,5,-,MW,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '121', in original. Note: couldn't interpret 'Yum,Samuel', in original. Note: couldn't interpret 'M.', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '17', in original. Note: couldn't interpret '28', in original."
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,Restr,no_add_code,-,R,5,-,T,330-530,UW2,105,"Hsu, Howard",Closed,28,28,-,-,B
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,Restr,no_add_code,-,S,5,-,Th,330-530,UW1,031,"West, Maureen P.",Closed,23,20,-,-,EBJ
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,Restr,no_add_code,-,T,5,-,MW,115-315,UW2,211,"Brooks, Peter",Open,27,28,-,-,-
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,Restr,no_add_code,-,U,5,-,TTh,330-530,SSGC,101,"Valdez, Ursula",Open,20,16,-,-,J
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,Restr,no_add_code,-,V,5,-,TTh,330-530,UW2,211,"Romero, Adam",Open,19,28,-,-,-
+BCORE104,DISC CORE: ART & HUM,BCORE,2024,AUT,Restr,no_add_code,-,W,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '205', in original. Note: couldn't interpret 'NIXON,DAVID', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '13', in original. Note: couldn't interpret '18', in original. Note: couldn't interpret 'J', in original."
+BCORE107,DISC CORE: SOC SCI,BCORE,2024,AUT,Restr,no_add_code,-,A,5,-,MW,845-1045,UW2,221,"Shinneman, Avery",Open,5,18,-,-,J
+BCORE107,DISC CORE: SOC SCI,BCORE,2024,AUT,Restr,no_add_code,-,B,5,-,TTh,845-1045,DISC,252,"Turner, Rob",Open,7,28,-,-,-
+BCORE107,DISC CORE: SOC SCI,BCORE,2024,AUT,Restr,no_add_code,-,C,5,-,TTh,1100-100,UW2,221,"Shippy, Scott",Closed,16,18,-,$8,J
+BCORE107,DISC CORE: SOC SCI,BCORE,2024,AUT,Restr,no_add_code,-,D,5,-,M,1100-100,UW1,060,"Dupuis, Marc J.",Closed,28,28,-,-,B
+BCORE107,DISC CORE: SOC SCI,BCORE,2024,AUT,Restr,no_add_code,-,E,5,-,MW,115-315,UW1,010,"Shayne, Julie",Closed,6,30,-,-,J
+BCORE107,DISC CORE: SOC SCI,BCORE,2024,AUT,Restr,no_add_code,-,F,5,-,MW,115-315,UW1,031,"Lichty, Lauren F.",Open,5,28,-,-,-
+BCORE107,DISC CORE: SOC SCI,BCORE,2024,AUT,Restr,no_add_code,-,G,5,-,TTh,115-315,DISC,061,"Shaw, Carol A",Closed,28,28,-,-,-
+BCORE107,DISC CORE: SOC SCI,BCORE,2024,AUT,Restr,no_add_code,-,H,5,-,MW,330-530,UW2,211,"Silva, Janelle M",Closed,28,28,-,-,-
+BCORE107,DISC CORE: SOC SCI,BCORE,2024,AUT,Restr,no_add_code,-,I,5,-,MW,330-530,UW2,221,"Mlodnosky, Karyn",Open,14,15,-,-,J
+BCORE107,DISC CORE: SOC SCI,BCORE,2024,AUT,Restr,no_add_code,-,J,5,-,TTh,845-1045,UW1,221,"Reinnoldt, James",Open,9,28,-,-,-
+BCORE107,DISC CORE: SOC SCI,BCORE,2024,AUT,Restr,no_add_code,-,K,5,-,TTh,845-1045,UW1,060,"Yeigh, Wolf",Open,11,15,-,-,J
+BCORE107,DISC CORE: SOC SCI,BCORE,2024,AUT,Restr,no_add_code,-,L,5,-,T,845-1045,UW2,040,"Lambacher, Jason Frederick",Closed,6,12,-,-,EBJ
+BCORE107,DISC CORE: SOC SCI,BCORE,2024,AUT,Restr,no_add_code,-,M,5,-,T,845-1045,UW2,240,"Iyer, Sunita",Closed,5,12,-,-,BJ
+BCORE107,DISC CORE: SOC SCI,BCORE,2024,AUT,Restr,no_add_code,-,N,5,-,TTh,1100-100,UW1,261,"Nielubowicz, Daniel",Closed,28,28,-,-,-
+BCORE107,DISC CORE: SOC SCI,BCORE,2024,AUT,Restr,no_add_code,-,O,5,-,T,1100-100,UW2,040,"Shimabukuro, Mira Chieko",Closed,1,10,-,-,BJ
+BCORE107,DISC CORE: SOC SCI,BCORE,2024,AUT,Restr,no_add_code,-,Q,5,-,Th,1100-100,UW1,202,"Hiukka, Kristiina",Closed,28,28,CR_NC,-,B
+BCORE107,DISC CORE: SOC SCI,BCORE,2024,AUT,Restr,no_add_code,-,R,5,-,TTh,115-315,UW1,060,"Metcalf-Lindenburger, Dotti",Closed,17,18,-,-,J
+BCORE107,DISC CORE: SOC SCI,BCORE,2024,AUT,Restr,no_add_code,-,S,5,-,TTh,115-315,UW2,040,"Umetsu, Laura K.",Closed,3,12,-,-,J
+BCORE107,DISC CORE: SOC SCI,BCORE,2024,AUT,Restr,no_add_code,-,T,5,-,MW,1100-100,UW2,105,"Porter, Ian",Open,12,28,-,-,-
+BCORE107,DISC CORE: SOC SCI,BCORE,2024,AUT,Restr,no_add_code,-,U,5,-,Th,330-530,UW1,031,"West, Maureen P.",Closed,5,10,-,-,EBJ
+BCORE107,DISC CORE: SOC SCI,BCORE,2024,AUT,Restr,no_add_code,-,V,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '205', in original. Note: couldn't interpret 'NIXON,DAVID', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '10', in original. Note: couldn't interpret '12', in original. Note: couldn't interpret 'J', in original."
+BCORE110,DISC CORE: NTRL SCI ,BCORE,2024,AUT,Restr,no_add_code,-,A,5,-,MW,845-1045,UW2,221,"Shinneman, Avery",Open,7,12,-,-,J
+BCORE110,DISC CORE: NTRL SCI ,BCORE,2024,AUT,Restr,no_add_code,-,B,5,-,TTh,1100-100,UW2,221,"Shippy, Scott",Closed,12,12,-,-,J
+BCORE110,DISC CORE: NTRL SCI ,BCORE,2024,AUT,Restr,no_add_code,-,C,5,-,MW,1100-100,EERC,102,"Atkinson, Jennifer",Closed,11,17,-,-,J
+BCORE110,DISC CORE: NTRL SCI ,BCORE,2024,AUT,Restr,no_add_code,-,D,5,-,MW,330-530,UW2,221,"Mlodnosky, Karyn",Open,8,15,-,-,J
+BCORE110,DISC CORE: NTRL SCI ,BCORE,2024,AUT,Restr,no_add_code,-,E,5,-,MW,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '040', in original. Note: couldn't interpret 'Pisan,Yusuf', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '4', in original. Note: couldn't interpret '10', in original. Note: couldn't interpret 'J', in original."
+BCORE110,DISC CORE: NTRL SCI ,BCORE,2024,AUT,Restr,no_add_code,-,F,5,-,MW,330-530,UW2,031,"Lovitt, Charity",Open,3,18,-,-,J
+BCORE110,DISC CORE: NTRL SCI ,BCORE,2024,AUT,Restr,no_add_code,-,G,5,-,TTh,845-1045,UW1,060,"Yeigh, Wolf",Open,11,15,-,-,J
+BCORE110,DISC CORE: NTRL SCI ,BCORE,2024,AUT,Restr,no_add_code,-,I,5,-,TTh,115-315,UW1,060,"Metcalf-Lindenburger, Dotti",Closed,11,12,-,-,J
+BCORE110,DISC CORE: NTRL SCI ,BCORE,2024,AUT,Restr,no_add_code,-,J,5,-,TTh,330-530,SSGC,101,"Valdez, Ursula",Open,3,8,-,-,J
+BCORE211,DC SPECIAL TOPICS,BCORE,2024,AUT,-,add_code_required,23777,A,2,-,T,330-530,UW1,060,"Hillyard, Cinnamon",-,20,30,-,-,-

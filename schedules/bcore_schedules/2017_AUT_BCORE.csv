@@ -1,0 +1,33 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE104,VIS LIT PRFM ART 1,BCORE,2017,AUT,Restr,no_add_code,-,A,5,-,MW,115-315,UW2,131,"Atkinson, Jennifer W",Open,39,40,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2017,AUT,Restr,no_add_code,-,B,5,-,TTh,330-530,UW1,020,"Roberts, Georgia M.",Open,25,40,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2017,AUT,Restr,no_add_code,-,C,5,-,TTh,1100-100,UW1,221,"Nixon, David M.",Open,39,40,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2017,AUT,Restr,no_add_code,-,D,5,-,MW,115-215,UW2,021,"Pedersen, Alice L",Closed,24,24,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2017,AUT,Restr,no_add_code,-,E,5,-,MWF,115-235,UW1,031,"Brooks, Peter J",Open,29,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2017,AUT,Restr,no_add_code,-,F,5,-,MW,1015-1135,UW1,221,"Doyle, Gavin",Closed,31,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2017,AUT,Restr,no_add_code,-,G,5,-,MW,1145-105,UW1,031,"Buttler, Tasha M",Open,29,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2017,AUT,Restr,no_add_code,-,H,5,-,MW,245-405,UW1,031,"Lambacher, Jason F",Open,27,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2017,AUT,Restr,no_add_code,-,I,5,-,MW,415-535,UW1,031,"Morse, Jason H",Open,28,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2017,AUT,Restr,no_add_code,-,J,5,-,TTh,1100-100,UW1,110,"Carpenter, Gary L.",Open,23,24,-,-,J
+BCORE104,VIS LIT PRFM ART 1,BCORE,2017,AUT,-,add_code_required,10959,K,5,-,TTh,115-315,SSG,CNSVTRY,"Lovitt, Charity E",-,25,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2017,AUT,Restr,no_add_code,-,L,5,-,TTh,330-530,UW1,121,"Hsu, Howard",Closed,30,30,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2017,AUT,Restr,no_add_code,-,M,5,-,TTh,1100-100,UW1,110,"Spiegler, Louise",Open,22,23,-,-,J
+BCORE107,INDVDUALS & SOC 1,BCORE,2017,AUT,Restr,no_add_code,-,A,5,-,MW,330-530,UW2,131,"Shayne, Julie",Open,39,40,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2017,AUT,Restr,no_add_code,-,B,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '020', in original. Note: couldn't interpret 'BRAGIN,NAOMI', in original. Note: couldn't interpret 'E', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '25', in original. Note: couldn't interpret '40', in original."
+BCORE107,INDVDUALS & SOC 1,BCORE,2017,AUT,Restr,no_add_code,-,C,5,-,TTh,115-315,UW1,221,"Leissle, Kristy A.",Open,39,40,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2017,AUT,Restr,no_add_code,-,D,5,-,TTh,845-1045,UW2,131,"Rosenberg, Karen Esther",Closed,24,24,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2017,AUT,Restr,no_add_code,-,F,5,-,TTh,845-1045,UW2,040,"Shinneman, Avery",Open,18,15,-,-,J
+BCORE107,INDVDUALS & SOC 1,BCORE,2017,AUT,Restr,no_add_code,-,G,5,-,TTh,845-1045,UW1,121,"Redwood, Loren K.",Closed,30,30,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2017,AUT,Restr,no_add_code,-,H,5,-,TTh,1100-100,UW1,031,"Padilla, Amparo Y",Open,29,30,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2017,AUT,Restr,no_add_code,-,I,5,-,TTh,1100-100,UW2,221,"Porter, Ian Joseph",Open,28,30,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2017,AUT,Restr,no_add_code,-,J,5,-,TTh,115-315,DISC,061,"O'Neill, Kimberly M.",Closed,30,30,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2017,AUT,Restr,no_add_code,-,L,5,-,MW,845-1005,UW1,031,"Gliboff, Matthew",Closed,19,19,-,-,J
+BCORE107,INDVDUALS & SOC 1,BCORE,2017,AUT,Restr,no_add_code,-,M,5,-,TTh,845-1045,UW1,021,"McNabb, Susan L",Open,18,20,-,-,J
+BCORE107,INDVDUALS & SOC 1,BCORE,2017,AUT,Restr,no_add_code,-,N,5,-,F,1100-315,DISC,165B,"West, Maureen P.",Closed,12,12,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2017,AUT,Restr,no_add_code,-,A,5,-,MW,845-1005,UW1,031,"Gliboff, Matthew",Open,8,11,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2017,AUT,Restr,no_add_code,-,B,5,-,MW,1100-100,UW2,040,"Lasker, Grace",Closed,31,30,-,-,-
+BCORE110,NATURAL WORLD 1,BCORE,2017,AUT,Restr,no_add_code,-,C,5,-,TTh,845-1045,UW1,021,"McNabb, Susan L",Open,8,10,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2017,AUT,Restr,no_add_code,-,D,5,-,F,1100-315,DISC,165B,"West, Maureen P.",Open,7,12,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2017,AUT,no_restriction,no_add_code,23284,E,5,-,TTh,845-1045,UW2,040,"Shinneman, Avery",Open,6,15,-,-,J
+BCORE207,DC INDIVIDUALS & SOC,BCORE,2017,AUT,no_restriction,no_add_code,23341,A,5,-,MW,845-1045,UW2,205,"Gustafson, Kristin L.",Open,4,30,-,-,-
+BCORE211,DC SPECIAL TOPICS,BCORE,2017,AUT,Restr,no_add_code,-,B,2,-,Th,115-315,UW2,021,"Hathaway, Deborah A",Open,2,24,-,-,-

@@ -1,0 +1,14 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCHEM163,GEN CHEM III,BCHEM,2022,SUM,no_restriction,no_add_code,10264,A,4,-,MW,830-1100,DISC,162,"Finley, B",Open,55,72,-,-,-
+BCHEM164,GEN CHEM LAB III,BCHEM,2022,SUM,no_restriction,no_add_code,10265,A,2,-,T,900-1200,CC1,340,"Masoumi, Narges",Open,9,24,-,$50,-
+BCHEM164,GEN CHEM LAB III,BCHEM,2022,SUM,no_restriction,no_add_code,10266,B,2,-,T,1230-330,CC1,340,"Masoumi, Narges",Open,11,24,-,$50,-
+BCHEM164,GEN CHEM LAB III,BCHEM,2022,SUM,no_restriction,no_add_code,10267,C,2,-,W,1230-330,CC1,340,"Finley, B",Open,21,24,-,$50,-
+BCHEM239,ORGANIC CHEMISTRY,BCHEM,2022,SUM,no_restriction,no_add_code,10268,A,4,-,TTh,830-1100,UW2,305,"Thimmaiah, M",Open,15,40,-,-,-
+BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2022,SUM,no_restriction,no_add_code,10269,A,3,-,T,1115-145,UW2,240,"Thimmaiah, M",Open,16,40,-,$90,-
+BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2022,SUM,no_restriction,no_add_code,10271,AB,-,LB,Th,1230-430,DISC,469,"Thimmaiah, M",Open,16,20,-,-,-
+BCHEM364,BIOCHEMISTRY I,BCHEM,2022,SUM,no_restriction,no_add_code,10272,A,5,-,MTWTh,200-430,UW1,050,"Anderson, P",Open,20,24,-,-,J
+BCHEM365,BIOCHEMISTRY II,BCHEM,2022,SUM,no_restriction,no_add_code,10273,A,5,-,MTWTh,200-430,UW1,030,"Anderson, P",Open,20,24,-,-,J
+BCHEM498,IND STUDY CHEM,BCHEM,2022,SUM,no_restriction,no_add_code,-,IS,-,-,-,-,-,10274,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
+BCHEM498,IND STUDY CHEM,BCHEM,2022,SUM,no_restriction,no_add_code,-,IS,-,-,-,-,-,10275,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."
+BCHEM499,UG RESEARCH CHEM,BCHEM,2022,SUM,no_restriction,no_add_code,-,IS,-,-,-,-,-,10276,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '8', in original. Note: couldn't interpret '10E', in original."
+BCHEM499,UG RESEARCH CHEM,BCHEM,2022,SUM,no_restriction,no_add_code,-,IS,-,-,-,-,-,10277,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."

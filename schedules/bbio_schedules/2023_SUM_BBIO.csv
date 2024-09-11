@@ -1,0 +1,9 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BBIO340,INTRO BIOINFORMATICS,BBIO,2023,SUM,no_restriction,no_add_code,14095,A,5,-,MTWTh,200-430,*,*,"Zaneveld, Jesse",Open,21,48,-,-,O
+BBIO351,ANAT & PHYSIOL I,BBIO,2023,SUM,no_restriction,no_add_code,14153,A,5,-,MTWTh,830-1100,UW2,305,"Crowther, Gregory",Open,9,24,-,$110,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2023,SUM,no_restriction,no_add_code,14154,AA,-,LB,MW,1200-300,DISC,267,"Crowther, Gregory",Open,9,24,-,-,-
+BBIO364,BIOCHEMISTRY I,BBIO,2023,SUM,no_restriction,no_add_code,14097,A,5,-,MTWTh,1115-145,UW1,050,"Anderson, Peter",Open,23,24,-,-,J
+BBIO365,BIOCHEMISTRY II,BBIO,2023,SUM,no_restriction,no_add_code,14099,A,5,-,MTWTh,1115-145,UW1,051,"Anderson, Peter",Closed,24,24,-,-,J
+BBIO372,STEM CELLS,BBIO,2023,SUM,no_restriction,no_add_code,10211,A,5,-,MTWTh,1115-145,UW1,050,"White, Bryan",Open,12,30,-,-,-
+BBIO394,TOPICS IN NEUROSCI,BBIO,2023,SUM,no_restriction,no_add_code,14093,A,5,-,MW,830-1100,UWBB,107G,"Al-Noori, Salwa",Open,13,30,-,-,B
+BBIO495,INVESTIGATIVE BIO,BBIO,2023,SUM,-,add_code_required,10213,A,5,-,MW,1115-145,DISC,263,"Narayanan, Zareen",-,12,12,-,$130,-

@@ -1,0 +1,17 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE115,INDVDUALS & SOC 2,BCORE,2021,WIN,no_restriction,no_add_code,10893,A,5,-,W,945-1045,*,*,"Lambacher, Jason Frederick",Open,28,30,-,-,-
+BCORE115,INDVDUALS & SOC 2,BCORE,2021,WIN,no_restriction,no_add_code,10894,B,5,-,MW,845-1045,*,*,"Gregory, Wanda",Open,22,30,-,-,-
+BCORE115,INDVDUALS & SOC 2,BCORE,2021,WIN,no_restriction,no_add_code,10895,C,5,-,T,845-1045,*,*,"Watts, Linda",Open,7,10,-,-,J
+BCORE115,INDVDUALS & SOC 2,BCORE,2021,WIN,no_restriction,no_add_code,10896,D,5,-,T,330-530,*,*,"Harkewicz, Laura J",Open,20,30,-,-,-
+BCORE115,INDVDUALS & SOC 2,BCORE,2021,WIN,no_restriction,no_add_code,10897,E,5,-,Th,330-530,*,*,"Morse, Jason H",Open,21,30,-,-,-
+BCORE115,INDVDUALS & SOC 2,BCORE,2021,WIN,no_restriction,no_add_code,10899,G,5,-,Th,-,545-745P,*,-,-,-,-,-,-,"* Note: couldn't interpret 'West,Maureen', in original. Note: couldn't interpret 'P.', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '16', in original. Note: couldn't interpret '30', in original."
+BCORE116,NATURAL WORLD 2,BCORE,2021,WIN,no_restriction,no_add_code,10900,A,5,-,W,330-530,*,*,"Valdez, Ursula",Open,22,30,-,-,-
+BCORE116,NATURAL WORLD 2,BCORE,2021,WIN,no_restriction,no_add_code,10901,B,5,-,MW,115-315,*,*,"Campbell, Dana",Open,22,24,-,-,J
+BCORE117,VIS LIT PRFM ART 2,BCORE,2021,WIN,no_restriction,no_add_code,10902,A,5,-,W,1100-1200,*,*,"Porter, Ian",Closed,30,30,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2021,WIN,no_restriction,no_add_code,10903,B,5,-,MW,1100-1200,*,*,"Hathaway, Deborah A.",Closed,31,30,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2021,WIN,no_restriction,no_add_code,10904,C,5,-,MW,115-215,*,*,"Carpenter, Gary",Closed,32,30,-,-,S
+BCORE117,VIS LIT PRFM ART 2,BCORE,2021,WIN,no_restriction,no_add_code,10905,D,5,-,MW,115-215,*,*,"Hathaway, Deborah A.",Closed,31,30,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2021,WIN,no_restriction,no_add_code,10906,E,5,-,Th,115-315,*,*,"Doyle, Gavin T",Closed,30,30,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2021,WIN,no_restriction,no_add_code,10907,F,5,-,TTh,330-530,*,*,"Nixon, David",Open,29,30,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2021,WIN,no_restriction,no_add_code,21793,G,5,-,MW,115-315,*,*,"Bertram, Miriam A.",Open,23,24,-,-,J
+BCORE117,VIS LIT PRFM ART 2,BCORE,2021,WIN,no_restriction,no_add_code,22328,H,5,-,T,845-1045,*,*,"Watts, Linda",Open,10,20,-,-,J

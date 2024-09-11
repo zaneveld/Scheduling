@@ -1,0 +1,11 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BBIO340,COMP BIO,BBIO,2022,SUM,no_restriction,no_add_code,14219,A,5,-,MW,1115-145,UW2,105,"Zaneveld, Jesse",Open,9,32,-,-,%B
+BBIO351,ANAT & PHYSIOL I,BBIO,2022,SUM,no_restriction,no_add_code,14211,A,5,-,TTh,830-1100,UW1,040,"Crowther, Gregory",Open,15,48,-,$160,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2022,SUM,no_restriction,no_add_code,14225,AA,-,LB,T,1200-300,DISC,267,"Crowther, Gregory",Open,8,24,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2022,SUM,no_restriction,no_add_code,14226,AB,-,LB,Th,1200-300,DISC,267,"Crowther, Gregory",Open,7,24,-,-,-
+BBIO360,INTRO GENETICS,BBIO,2022,SUM,no_restriction,no_add_code,10215,A,5,-,MW,1115-115,UWBB,205,"Madzima, Thelma F",Open,13,30,-,-,B
+BBIO364,BIOCHEMISTRY I,BBIO,2022,SUM,no_restriction,no_add_code,10216,A,5,-,MTWTh,200-430,UW1,050,"Anderson, P",Open,25,24,-,-,J
+BBIO365,BIOCHEMISTRY II,BBIO,2022,SUM,no_restriction,no_add_code,10217,A,5,-,MTWTh,200-430,UW1,030,"Anderson, P",Open,26,24,-,-,J
+BBIO372,STEM CELLS,BBIO,2022,SUM,no_restriction,no_add_code,14212,A,5,-,MTWTh,830-1100,UW1,060,"White, Bryan",Open,25,30,-,-,-
+BBIO394,TOPICS IN NEUROSCI,BBIO,2022,SUM,no_restriction,no_add_code,14224,A,5,-,MW,200-430,UWBB,107G,"Al-Noori, Salwa",Open,14,20,-,-,B
+BBIO495,INVESTIGATIVE BIO,BBIO,2022,SUM,-,add_code_required,14227,A,5,-,MTWTh,1115-145,UWBB,270,"Sen, Keya",-,11,12,-,$130,-

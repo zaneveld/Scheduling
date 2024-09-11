@@ -1,0 +1,8 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BST200,INTRO TO CLIMATE SCI,BST,2016,SPR,no_restriction,no_add_code,11774,A,5,-,TTh,845-1045,LBA,003,"White, Rachel H",Open,11,15,-,-,J
+BST293,SPECIAL TOPICS,BST,2016,SPR,no_restriction,no_add_code,11776,B,5,-,MW,330-530,UW1,110,"Buck, Warren W",Open,7,30,-,-,-
+BST381,POWER GENERATION,BST,2016,SPR,no_restriction,no_add_code,11777,A,5,-,MW,330-530,UW2,131,"Collins, Steven W.",Open,0,20,-,-,J
+BST498,IND STUDY SCI TECH,BST,2016,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,11778,A,-,5,-,-,-,"to_be_arranged Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
+BST498,IND STUDY SCI TECH,BST,2016,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,11779,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '1', in original. Note: couldn't interpret '10E', in original."
+BST499,UG RESEARCH SCI TECH,BST,2016,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,11780,A,-,5,-,-,-,"to_be_arranged Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
+BST499,UG RESEARCH SCI TECH,BST,2016,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,11781,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '2', in original. Note: couldn't interpret '10E', in original."

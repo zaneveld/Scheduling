@@ -1,0 +1,34 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BBIO180,INTRO BIOLOGY I,BBIO,2020,AUT,no_restriction,no_add_code,10777,A,5,-,TTh,845-1045,*,*,"Jensen, J",Open,140,144,-,$70,-
+BBIO180,INTRO BIOLOGY I,BBIO,2020,AUT,no_restriction,no_add_code,10778,AA,-,LB,M,845-1045,*,*,"Jensen, J",Closed,24,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2020,AUT,no_restriction,no_add_code,10779,AB,-,LB,M,1115-115,*,*,"Jensen, J",Closed,24,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2020,AUT,no_restriction,no_add_code,10780,AC,-,LB,M,145-345,*,*,"Campbell, D",Open,23,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2020,AUT,no_restriction,no_add_code,10781,AD,-,LB,W,845-1045,*,*,"Campbell, D",Closed,24,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2020,AUT,no_restriction,no_add_code,10782,AE,-,LB,W,1115-115,*,*,"Campbell, D",Closed,24,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2020,AUT,no_restriction,no_add_code,10783,AF,-,LB,W,145-345,*,*,"Campbell, D",Open,21,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2020,AUT,no_restriction,no_add_code,10784,A,5,-,TTh,845-1045,*,*,"White, B",Open,48,80,-,$70,-
+BBIO220,INTRO BIOLOGY III,BBIO,2020,AUT,no_restriction,no_add_code,10785,AA,-,LB,M,1100-100,*,*,"White, B",Open,24,28,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2020,AUT,-,add_code_required,10786,AB,-,LB,W,1100-100,*,*,"White, B",-,0,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2020,AUT,no_restriction,no_add_code,10787,AC,-,LB,W,130-330,*,*,"White, B",Open,24,28,-,-,-
+BBIO310,BRAIN AND BEHAVIOR,BBIO,2020,AUT,no_restriction,no_add_code,10789,A,5,-,TTh,1100-100,*,*,"Al-Noori, Salwa",Closed,50,48,-,-,-
+BBIO335,SALMON AND SOCIETY,BBIO,2020,AUT,no_restriction,no_add_code,10790,A,5,-,F,845-1245,DISC,252,"Jensen, J",Open,14,20,-,$100,-
+BBIO340,COMP BIO,BBIO,2020,AUT,no_restriction,no_add_code,22993,A,5,-,MW,330-530,*,*,"Zaneveld, Jesse",Open,15,30,-,-,%
+BBIO351,ANAT & PHYSIOL I,BBIO,2020,AUT,no_restriction,no_add_code,10791,A,5,-,TTh,845-1045,*,*,"Price, M",Closed,60,60,-,$160,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2020,AUT,no_restriction,no_add_code,10792,AA,-,LB,T,200-500,DISC,267,"Price, M",Closed,20,20,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2020,AUT,no_restriction,no_add_code,10793,AB,-,LB,Th,200-500,DISC,267,"Price, M",Closed,20,20,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2020,AUT,no_restriction,no_add_code,10794,AC,-,LB,F,845-1145,DISC,267,"Price, M",Closed,20,20,-,-,-
+BBIO360,INTRO GENETICS,BBIO,2020,AUT,no_restriction,no_add_code,10795,A,5,-,MW,115-315,*,*,"Madzima, Thelma F",Open,47,48,-,-,-
+BBIO364,BIOCHEMISTRY I,BBIO,2020,AUT,no_restriction,no_add_code,10796,A,5,-,MW,845-1045,*,*,"Robins, Lori",Open,21,24,-,-,J
+BBIO365,BIOCHEMISTRY II,BBIO,2020,AUT,no_restriction,no_add_code,10797,A,5,-,TTh,1100-100,*,*,"Anderson, Peter",Open,11,24,-,-,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2020,AUT,no_restriction,no_add_code,10798,A,3,-,M,115-215,*,*,"Tyson, Elizabeth",Open,6,8,-,$75,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2020,AUT,no_restriction,no_add_code,10799,AA,-,LB,T,1215-315,DISC,469,"Tyson, Elizabeth",Open,6,8,-,-,J
+BBIO370,MICROBIOLOGY,BBIO,2020,AUT,no_restriction,no_add_code,10800,A,5,-,TTh,115-315,*,*,"Davidson-Atkins, Seana K",Closed,48,48,-,$150,-
+BBIO370,MICROBIOLOGY,BBIO,2020,AUT,-,add_code_required,10801,AA,-,LB,F,845-1045,DISC,263,"Hillesland, Kristina Linnea",-,24,24,-,-,-
+BBIO370,MICROBIOLOGY,BBIO,2020,AUT,-,add_code_required,10802,AB,-,LB,F,115-315,DISC,263,"Hillesland, Kristina Linnea",-,24,24,-,-,-
+BBIO375,MOLECULAR BIOLOGY,BBIO,2020,AUT,no_restriction,no_add_code,10803,A,5,-,MW,845-1045,*,*,"Madzima, Thelma F",Open,14,15,-,-,J
+BBIO380,CELL BIOLOGY,BBIO,2020,AUT,no_restriction,no_add_code,10804,A,5,-,F,115-345,*,*,"Lewis, A",Open,42,48,-,-,-
+BBIO394,TOPICS IN NEUROSCI,BBIO,2020,AUT,Restr,no_add_code,-,A,5,-,TTh,330-530,*,*,"Al-Noori, Salwa",Open,20,48,-,-,-
+BBIO466,EVOLUTION,BBIO,2020,AUT,no_restriction,no_add_code,10807,A,5,-,MW,1100-100,*,*,"Zaneveld, Jesse",Open,47,48,-,-,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2020,AUT,-,add_code_required,10808,A,5,-,TTh,1100-100,*,*,"Chang, C",-,11,12,-,-,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2020,AUT,-,add_code_required,10809,B,5,-,TTh,1100-100,DISC,267,"Wacker, D",-,12,12,-,$130,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2020,AUT,-,add_code_required,10810,C,5,-,MW,115-315,UWBB,270,"Servetnick, Marc",-,11,12,-,$130,-

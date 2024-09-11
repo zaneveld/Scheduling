@@ -1,0 +1,12 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE118,INDVDUALS & SOC 3,BCORE,2023,SPR,no_restriction,no_add_code,10867,A,5,-,MW,1100-100,LBA,003,"Lambacher, Jason Frederick",Open,23,30,-,-,-
+BCORE118,INDVDUALS & SOC 3,BCORE,2023,SPR,no_restriction,no_add_code,10869,C,5,-,T,330-530,*,*,"West, Maureen P.",Open,15,30,-,-,-
+BCORE118,INDVDUALS & SOC 3,BCORE,2023,SPR,no_restriction,no_add_code,10870,D,5,-,MW,1100-100,UW1,060,"Shayne, Julie",Open,11,30,-,-,-
+BCORE118,INDVDUALS & SOC 3,BCORE,2023,SPR,no_restriction,no_add_code,21485,E,5,-,T,115-315,UW1,261,"Porter, Ian",Open,27,30,-,-,B
+BCORE119,NATURAL WORLD 3,BCORE,2023,SPR,no_restriction,no_add_code,10871,A,5,-,MW,115-315,UW1,020,"Mourad, Pierre D.",Open,24,48,-,-,-
+BCORE119,NATURAL WORLD 3,BCORE,2023,SPR,no_restriction,no_add_code,10872,B,5,-,MW,330-530,UW1,010,"Campbell, Dana",Open,4,20,-,-,J
+BCORE120,VIS LIT PFRM ART 3,BCORE,2023,SPR,no_restriction,no_add_code,10875,A,5,-,MW,330-530,UW1,010,"Campbell, Dana",Open,23,28,-,-,J
+BCORE120,VIS LIT PFRM ART 3,BCORE,2023,SPR,no_restriction,no_add_code,10876,B,5,-,TTh,330-530,UW1,060,"Spiegler, Louise",Open,22,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2023,SPR,no_restriction,no_add_code,10877,C,5,-,MW,1100-100,UW1,031,"Doyle, Gavin",Closed,30,30,-,-,-
+BCORE133,DISCOVERY CORE III,BCORE,2023,SPR,Restr,no_add_code,-,A,2,-,M,330-530,UW2,305,"Brooks, Peter",Open,10,20,-,-,-
+BCORE133,DISCOVERY CORE III,BCORE,2023,SPR,Restr,no_add_code,-,B,2,-,W,115-315,UW1,261,"Brooks, Peter",Open,17,20,-,-,-

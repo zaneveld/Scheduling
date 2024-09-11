@@ -1,0 +1,30 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,no_add_code,-,B,5,-,MW,1100-100,UW1,121,"Gregory, Wanda",Closed,31,31,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,no_add_code,-,C,5,-,W,845-1045,UW1,110,"Jung, Jin-Kyu",Closed,48,48,-,-,B
+BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,no_add_code,-,D,5,-,MW,330-530,UW2,307,"Brooks, Peter",Closed,18,18,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,no_add_code,-,E,5,-,M,1100-100,UW2,021,"Hathaway, Deborah A.",Closed,31,31,-,-,B
+BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,no_add_code,-,F,5,-,M,115-315,UW2,021,"Hathaway, Deborah A.",Closed,31,31,-,-,B
+BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,no_add_code,-,G,5,-,W,330-530,UW2,141,"Spiegler, Louise",Open,30,31,-,-,B
+BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,no_add_code,-,H,5,-,TTh,845-1045,UW1,060,"Doyle, Gavin",Open,29,30,-,$15,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,no_add_code,-,I,5,-,TTh,830-1030,UW2,221,"Atkinson, Jennifer",Open,21,30,-,-,J
+BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,no_add_code,-,J,5,-,T,845-1045,UW1,220,"Lambacher, Jason Frederick",Closed,30,30,-,-,B
+BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,no_add_code,-,K,5,-,TTh,1100-100,DISC,162,"Doyle, Gavin",Open,49,48,-,-,J
+BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,no_add_code,-,L,5,-,TTh,1100-100,*,*,"Carpenter, Gary",Open,29,31,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,no_add_code,-,M,5,-,TTh,115-315,UW1,121,"Hsu, Howard",Closed,31,31,-,-,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,no_add_code,-,N,5,-,Th,-,545-745P,*,-,-,-,-,-,-,"* Note: couldn't interpret 'Morse,Jason', in original. Note: couldn't interpret 'H', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '31', in original. Note: couldn't interpret '31', in original."
+BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,no_add_code,-,O,5,-,TTh,330-530,UW1,041,"Valdez, Ursula",Open,26,30,-,-,J
+BCORE107,INDVDUALS & SOC 1,BCORE,2021,AUT,Restr,no_add_code,-,A,5,-,MW,1015-1135,*,*,"Shimabukuro, Mira Chieko",Open,38,40,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2021,AUT,Restr,no_add_code,-,B,5,-,MW,1145-105,UW2,040,"Porter, Ian",Closed,30,30,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2021,AUT,Restr,no_add_code,-,D,5,-,MW,115-315,UW1,110,"Stiber, Michael",Closed,48,48,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2021,AUT,Restr,no_add_code,-,E,5,-,MW,330-530,UW1,060,"Shaw, Carol A",Open,29,30,-,-,B
+BCORE107,INDVDUALS & SOC 1,BCORE,2021,AUT,Restr,no_add_code,-,F,5,-,T,845-1045,UW2,040,"Lichty, Lauren F.",Open,28,30,-,-,B
+BCORE107,INDVDUALS & SOC 1,BCORE,2021,AUT,Restr,no_add_code,-,H,5,-,TTh,330-530,UW1,120,"McNabb, She, Her, Hers, Susan",Closed,15,30,-,-,J
+BCORE107,INDVDUALS & SOC 1,BCORE,2021,AUT,Restr,no_add_code,-,I,5,-,T,330-530,UW1,060,"Hiukka, Kristiina",Closed,30,30,CR_NC,-,B
+BCORE107,INDVDUALS & SOC 1,BCORE,2021,AUT,Restr,no_add_code,-,J,5,-,TTh,330-530,UW2,040,"Nixon, David",Closed,30,30,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2021,AUT,Restr,no_add_code,-,K,5,-,Th,330-530,*,*,"Merchant, Natasha H.",Closed,31,31,-,-,-
+BCORE110,NATURAL WORLD 1,BCORE,2021,AUT,Restr,no_add_code,-,B,5,-,TTh,830-1030,UW2,221,"Stokes, David L.",Open,8,30,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2021,AUT,Restr,no_add_code,-,C,5,-,TTh,1100-100,DISC,162,"Lovitt, Charity",Open,14,48,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2021,AUT,Restr,no_add_code,-,D,5,-,TTh,115-315,*,*,"Lasker, Grace",Open,23,24,-,-,-
+BCORE110,NATURAL WORLD 1,BCORE,2021,AUT,Restr,no_add_code,-,E,5,-,TTh,330-530,UW1,120,"McNabb, She, Her, Hers, Susan",Closed,16,30,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2021,AUT,Restr,no_add_code,-,F,5,-,TTh,330-530,UW1,041,"Valdez, Ursula",Open,4,30,-,-,J
+BCORE211,DC SPECIAL TOPICS,BCORE,2021,AUT,Restr,no_add_code,-,A,2,-,W,330-530,UW2,221,"Terry, Susan",Closed,32,30,CR_NC,$12,B

@@ -1,0 +1,10 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BBIO220,INTRO BIOLOGY III,BBIO,2020,SUM,no_restriction,no_add_code,14241,A,5,-,TTh,830-1100,*,*,"Al-Noori, Salwa",Open,35,48,-,$70,-
+BBIO220,INTRO BIOLOGY III,BBIO,2020,SUM,no_restriction,no_add_code,14242,AA,-,LB,T,1200-200,DISC,267,"Al-Noori, Salwa",Closed,16,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2020,SUM,no_restriction,no_add_code,14243,AB,-,LB,Th,100-300,*,*,"Al-Noori, Salwa",Open,19,24,-,-,-
+BBIO360,INTRO GENETICS,BBIO,2020,SUM,no_restriction,no_add_code,10212,A,5,-,MTWTh,1115-115,UW1,050,"Madzima, Thelma F",Closed,29,30,-,-,-
+BBIO364,BIOCHEMISTRY I,BBIO,2020,SUM,no_restriction,no_add_code,10213,A,5,-,MTWTh,200-430,DISC,252,"Anderson, Peter",Closed,26,24,-,-,J
+BBIO365,BIOCHEMISTRY II,BBIO,2020,SUM,no_restriction,no_add_code,14245,A,5,-,-,to_be_arranged,*,*,"Anderson, Peter",Closed,38,24,-,-,J
+BBIO372,STEM CELLS,BBIO,2020,SUM,no_restriction,no_add_code,10214,A,5,-,MTWTh,1115-115,UW1,261,"White, B",Closed,26,30,-,-,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2020,SUM,-,add_code_required,14253,A,5,-,TTh,1115-145,UWBB,270,"Sen, Keya",-,6,12,-,$130,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2020,SUM,-,add_code_required,14254,B,5,-,MTWTh,1115-145,UW1,121,"Zaneveld, Jesse",-,11,13,-,$130,-

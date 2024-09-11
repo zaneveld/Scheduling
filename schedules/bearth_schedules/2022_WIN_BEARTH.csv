@@ -1,0 +1,5 @@
+Class Number,Class,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BEARTH154,INTRO OCEANOGRAPHY,no_restriction,no_add_code,21699,A,5,-,TTh,1100-100,UW1,060,"Galindo, Heather M",Open,28,30,-,-,-
+BEARTH155,INTRO TO CLIMATE SCI,no_restriction,no_add_code,21698,A,5,-,TTh,115-315,LBA,003,"Fields, Tracy A",Closed,30,30,-,-,-
+BEARTH318,HYDROGEOLOGY,no_restriction,no_add_code,11243,A,5,-,TTh,330-530,DISC,369,"Turner, Rob",Open,21,24,-,$16,-
+BEARTH341,NATURAL HAZARDS,no_restriction,no_add_code,11244,A,5,-,MW,330-530,UW1,020,"Redsteer, Margaret",Open,17,48,-,-,-

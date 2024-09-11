@@ -1,0 +1,20 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE115,INDVDUALS & SOC 2,BCORE,2016,WIN,Restr,no_add_code,-,A,5,-,MW,1100-100,UW2,040,"Porter, Ian Joseph",Open,29,30,-,-,-
+BCORE115,INDVDUALS & SOC 2,BCORE,2016,WIN,Restr,no_add_code,-,B,5,-,MW,115-315,UW2,040,"Redwood, Loren K.",Closed,30,30,-,-,-
+BCORE115,INDVDUALS & SOC 2,BCORE,2016,WIN,Restr,no_add_code,-,C,5,-,MW,330-530,UW1,040,"Shelton, Maura",Closed,30,30,-,-,-
+BCORE115,INDVDUALS & SOC 2,BCORE,2016,WIN,Restr,no_add_code,-,D,5,-,TTh,1100-100,UW1,031,"Doyle, Gavin",Open,29,30,-,-,W
+BCORE115,INDVDUALS & SOC 2,BCORE,2016,WIN,Restr,no_add_code,-,E,5,-,TTh,115-315,UW2,240,"Gao, Wei Zhi",Closed,32,30,-,-,W
+BCORE115,INDVDUALS & SOC 2,BCORE,2016,WIN,Restr,no_add_code,-,F,5,-,T,330-530,SSG,CNSVTRY,"Buttler, Tasha M",Closed,30,30,-,-,S
+BCORE116,NATURAL WORLD 2,BCORE,2016,WIN,Restr,no_add_code,-,A,5,-,TTh,845-1045,DISC,369,"Shinneman, Avery",Open,23,24,-,-,-
+BCORE116,NATURAL WORLD 2,BCORE,2016,WIN,Restr,no_add_code,-,B,5,-,MW,115-315,UWBB,230,"McNabb, Susan L",Closed,30,30,-,-,W
+BCORE116,NATURAL WORLD 2,BCORE,2016,WIN,Restr,no_add_code,-,C,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '205', in original. Note: couldn't interpret 'FINLEY,BRANDON', in original. Note: couldn't interpret 'DEARMOND', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret 'W', in original."
+BCORE116,NATURAL WORLD 2,BCORE,2016,WIN,Restr,no_add_code,-,D,5,-,TTh,1100-100,UW2,221,"Lasker, Grace",Closed,30,30,-,-,-
+BCORE116,NATURAL WORLD 2,BCORE,2016,WIN,Restr,no_add_code,-,E,5,-,TTh,845-1045,UW1,051,"Angotti, Robin Lynn",Open,29,48,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2016,WIN,Restr,no_add_code,-,A,5,-,MW,845-1045,UW2,105,"Hsu, Howard",Closed,30,30,-,-,W
+BCORE117,VIS LIT PRFM ART 2,BCORE,2016,WIN,Restr,no_add_code,-,B,5,-,MW,115-315,SSG,CNSVTRY,"Spiegler, Louise",Open,26,30,-,-,W
+BCORE117,VIS LIT PRFM ART 2,BCORE,2016,WIN,Restr,no_add_code,-,C,5,-,TTh,1100-100,UW1,040,"Lambacher, Jason F",Closed,18,17,-,-,J
+BCORE117,VIS LIT PRFM ART 2,BCORE,2016,WIN,Restr,no_add_code,-,D,5,-,TTh,330-530,UW2,105,"Carpenter, Phillip D.",Closed,34,30,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2016,WIN,Restr,no_add_code,-,E,5,-,F,1100-315,UW1,031,"West, Maureen P.",Closed,20,14,-,-,WJ
+BCORE117,VIS LIT PRFM ART 2,BCORE,2016,WIN,Restr,no_add_code,-,F,5,-,TTh,1100-100,UW1,040,"Lambacher, Jason F",Open,12,13,-,-,J
+BCORE117,VIS LIT PRFM ART 2,BCORE,2016,WIN,Restr,no_add_code,-,G,5,-,F,1100-315,UW1,031,"West, Maureen P.",Closed,16,16,-,-,WJ
+BCORE117,VIS LIT PRFM ART 2,BCORE,2016,WIN,Restr,no_add_code,-,H,5,-,TTh,1100-100,UW1,050,"Nixon, David M.",Closed,30,30,-,-,-

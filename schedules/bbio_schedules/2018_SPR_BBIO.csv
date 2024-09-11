@@ -1,0 +1,37 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BBIO200,INTRO BIOLOGY II,BBIO,2018,SPR,no_restriction,no_add_code,10684,A,5,-,TTh,845-1045,UW2,005,"Ma, Eva",Open,63,96,-,$70,-
+BBIO200,INTRO BIOLOGY II,BBIO,2018,SPR,no_restriction,no_add_code,10685,AA,-,LB,T,1115-115,DISC,263,"Ma, Eva",Closed,24,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2018,SPR,no_restriction,no_add_code,10686,AB,-,LB,T,145-345,DISC,263,"Davidson, Seana K",Open,15,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2018,SPR,no_restriction,no_add_code,10687,AC,-,LB,Th,1115-115,DISC,263,"Ma, Eva",Closed,24,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2018,SPR,no_restriction,no_add_code,10689,A,5,-,TTh,845-1045,DISC,061,"Al-Noori, Salwa",Open,100,120,-,$70,-
+BBIO220,INTRO BIOLOGY III,BBIO,2018,SPR,no_restriction,no_add_code,10690,AA,-,LB,M,1100-100,DISC,267,"Al-Noori, Salwa",Open,23,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2018,SPR,no_restriction,no_add_code,10692,AC,-,LB,W,1100-100,DISC,267,"Al-Noori, Salwa",Closed,24,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2018,SPR,no_restriction,no_add_code,10693,AD,-,LB,W,115-315,DISC,267,"Al-Noori, Salwa",Open,23,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2018,SPR,no_restriction,no_add_code,10694,AE,-,LB,W,330-530,DISC,267,"Lewis, Alaron",Open,20,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2018,SPR,no_restriction,no_add_code,10695,AF,-,LB,M,115-315,DISC,267,"Al-Noori, Salwa",Open,10,24,-,-,-
+BBIO233,CANCER,BBIO,2018,SPR,no_restriction,no_add_code,20906,A,5,-,TTh,115-315,LBA,003,"McNabb, Susan L",Open,29,30,-,-,-
+BBIO241,HUMAN ANAT PHYSIO I ,BBIO,2018,SPR,Restr,no_add_code,-,A,6,-,TTh,330-530,LBA,003,"Price, Michele",Closed,31,31,-,$50,-
+BBIO241,HUMAN ANAT PHYSIO I ,BBIO,2018,SPR,Restr,no_add_code,-,AA,-,LB,TF,845-1045,DISC,267,"Price, Michele",Open,15,16,-,-,-
+BBIO241,HUMAN ANAT PHYSIO I ,BBIO,2018,SPR,Restr,no_add_code,-,AB,-,LB,TF,1100-100,DISC,267,"Price, Michele",Closed,16,16,-,-,-
+BBIO310,BRAIN AND BEHAVIOR,BBIO,2018,SPR,no_restriction,no_add_code,10696,A,5,-,MW,330-530,DISC,061,"Downs, Jodi L",Closed,101,100,-,-,-
+BBIO330,MARINE BIOLOGY,BBIO,2018,SPR,no_restriction,no_add_code,10697,A,5,-,F,1100-300,UWBB,205,"Galindo, Heather Michelle",Closed,18,18,-,$95,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2018,SPR,no_restriction,no_add_code,10698,A,5,-,MW,845-1045,UW1,210,"Jensen, Jeffrey",Open,38,48,-,$110,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2018,SPR,no_restriction,no_add_code,10699,AA,-,LB,T,200-500,DISC,267,"Jensen, Jeffrey",Open,17,24,-,-,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2018,SPR,no_restriction,no_add_code,10700,AB,-,LB,Th,115-415,DISC,267,"Jensen, Jeffrey",Open,21,24,-,-,-
+BBIO355,BEHAVIOR ENDOCRINOL ,BBIO,2018,SPR,no_restriction,no_add_code,10701,A,5,-,TTh,1100-100,UWBB,260,"Wacker, Douglas",Open,22,24,-,-,-
+BBIO360,INTRO GENETICS,BBIO,2018,SPR,no_restriction,no_add_code,10702,A,5,-,MW,1100-100,DISC,252,"Madzima, Thelma F",Open,31,60,-,-,-
+BBIO364,BIOCHEMISTRY I,BBIO,2018,SPR,no_restriction,no_add_code,10703,A,5,-,MW,115-315,UW2,031,"Robins, Lori",Open,23,24,-,-,J
+BBIO365,BIOCHEMISTRY II,BBIO,2018,SPR,no_restriction,no_add_code,10704,A,5,-,MW,115-315,UW2,131,"Anderson, Peter C",Closed,30,24,-,-,J
+BBIO375,MOLECULAR BIOLOGY,BBIO,2018,SPR,no_restriction,no_add_code,10705,A,5,-,MW,330-530,UW2,131,"Madzima, Thelma F",Open,22,20,-,-,J
+BBIO380,CELL BIOLOGY,BBIO,2018,SPR,no_restriction,no_add_code,10706,A,5,-,F,1100-200,UWBB,107G,"Lewis, Alaron",Open,20,24,-,-,W
+BBIO383,BIOINFORMATICS,BBIO,2018,SPR,no_restriction,no_add_code,10707,A,5,-,MW,330-530,UW2,305,"Zaneveld, Jesse R",Open,9,12,-,$23,J
+BBIO385,ANIMAL BEHAVIOR,BBIO,2018,SPR,no_restriction,no_add_code,10708,A,5,-,TTh,330-530,SSG,CNSVTRY,"Wacker, Douglas",Closed,24,24,-,-,-
+BBIO393,SPEC TOPICS BIOLOGY ,BBIO,2018,SPR,no_restriction,no_add_code,10709,A,5,-,MW,845-1045,UWBB,260,"Stredwick, Kristina Linnea",Open,6,24,-,-,-
+BBIO466,EVOLUTION,BBIO,2018,SPR,no_restriction,no_add_code,10710,A,5,-,MW,330-530,UW1,040,"Jensen, Jeffrey",Open,44,48,-,-,-
+BBIO471,PLANT ECOLOGY,BBIO,2018,SPR,no_restriction,no_add_code,10711,A,5,-,TTh,845-1045,SSG,CNSVTRY,"Chang, Cynthia",Closed,26,24,-,$80,-
+BBIO471,PLANT ECOLOGY,BBIO,2018,SPR,no_restriction,no_add_code,10712,AA,-,LB,T,1100-100,SSG,CNSVTRY,"Chang, Cynthia",Closed,12,12,-,-,-
+BBIO471,PLANT ECOLOGY,BBIO,2018,SPR,no_restriction,no_add_code,10713,AB,-,LB,Th,1100-100,SSG,CNSVTRY,"Chang, Cynthia",Closed,14,12,-,-,-
+BBIO480,NEUROBIOLOGY,BBIO,2018,SPR,no_restriction,no_add_code,20904,A,5,-,MW,845-1045,UW1,102,"Lewis, Alaron",Open,40,48,-,-,-
+BBIO485,ADV SEM BIOLOGY,BBIO,2018,SPR,no_restriction,no_add_code,20905,A,3,-,F,845-1045,SSG,CNSVTRY,"Al-Noori, Salwa",Open,9,24,-,-,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2018,SPR,-,add_code_required,10714,A,5,-,TTh,1100-100,UWBB,270,"Zaneveld, Jesse R",-,12,12,-,$130,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2018,SPR,-,add_code_required,10715,B,5,-,MW,1100-100,UWBB,270,"Sen, Keya",-,13,12,-,-,-

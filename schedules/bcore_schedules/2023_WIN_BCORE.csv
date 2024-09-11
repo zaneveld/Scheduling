@@ -1,0 +1,14 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE115,INDVDUALS & SOC 2,BCORE,2023,WIN,no_restriction,no_add_code,10942,A,5,-,MW,1100-100,LBA,003,"Shayne, Julie",Open,28,30,-,-,-
+BCORE115,INDVDUALS & SOC 2,BCORE,2023,WIN,no_restriction,no_add_code,10944,C,5,-,TTh,1100-100,UW1,060,"Porter, Ian",Open,28,30,-,-,-
+BCORE115,INDVDUALS & SOC 2,BCORE,2023,WIN,no_restriction,no_add_code,10945,D,5,-,T,-,545-745P,*,-,-,-,-,-,-,"* Note: couldn't interpret 'West,Maureen', in original. Note: couldn't interpret 'P.', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret '30', in original."
+BCORE116,NATURAL WORLD 2,BCORE,2023,WIN,no_restriction,no_add_code,10946,A,5,-,MW,1100-100,UW1,110,"Lin, Hsinmei",Closed,17,17,-,-,J
+BCORE117,VIS LIT PRFM ART 2,BCORE,2023,WIN,no_restriction,no_add_code,10947,A,5,-,MW,845-1045,UW2,141,"Lambacher, Jason Frederick",Closed,31,30,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2023,WIN,no_restriction,no_add_code,10948,B,5,-,MW,1100-100,UW1,110,"Lin, Hsinmei",Closed,15,15,-,-,J
+BCORE117,VIS LIT PRFM ART 2,BCORE,2023,WIN,no_restriction,no_add_code,10949,C,5,-,MW,115-315,UWBB,260,"Brooks, Peter",Open,19,24,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2023,WIN,no_restriction,no_add_code,10950,D,5,-,W,330-530,UW1,261,"Roberts, Georgia M.",Open,28,30,-,-,B
+BCORE117,VIS LIT PRFM ART 2,BCORE,2023,WIN,no_restriction,no_add_code,10951,E,5,-,TTh,845-1045,UW2,141,"Porter, Ian",Open,29,30,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2023,WIN,no_restriction,no_add_code,10952,F,5,-,TTh,1100-100,UW1,010,"Gregory, Wanda",Closed,31,30,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2023,WIN,no_restriction,no_add_code,10954,H,5,-,TTh,330-530,UW2,305,"Doyle, Gavin",Closed,30,30,-,-,-
+BCORE133,DISCOVERY CORE III,BCORE,2023,WIN,Restr,no_add_code,-,A,2,-,F,115-315,UW2,205,"Hillyard, Cinnamon",Closed,22,20,-,-,-
+BCORE133,DISCOVERY CORE III,BCORE,2023,WIN,no_restriction,no_add_code,22470,C,2,-,F,1145-100,UW1,261,"Shippy, Scott",Closed,21,20,-,-,-

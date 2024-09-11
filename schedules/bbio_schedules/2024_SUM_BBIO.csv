@@ -1,0 +1,8 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BBIO340,INTRO BIOINFORMATICS,BBIO,2024,SUM,no_restriction,no_add_code,10201,A,5,-,MTWTh,200-430,*,*,"Zaneveld, Jesse",Open,22,48,-,-,O
+BBIO360,INTRO GENETICS,BBIO,2024,SUM,no_restriction,no_add_code,14071,A,5,-,MTWTh,1115-145,UW1,221,"Horm, Teresa Marie",Open,14,48,-,-,-
+BBIO365,BIOCHEMISTRY II,BBIO,2024,SUM,no_restriction,no_add_code,10205,A,5,-,MTWTh,1115-145,INV,134,-,-,-,-,-,-," Note: couldn't interpret '134', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '20', in original. Note: couldn't interpret '24', in original. Note: couldn't interpret 'J', in original."
+BBIO372,STEM CELLS,BBIO,2024,SUM,no_restriction,no_add_code,10207,A,5,-,MTWTh,830-1100,UW1,060,"White, Bryan",Open,18,30,-,-,-
+BBIO394,TOPICS IN NEUROSCI,BBIO,2024,SUM,no_restriction,no_add_code,10208,A,5,-,MW,830-1100,UW1,010,"Al-Noori, Salwa",Open,10,30,-,-,B
+BBIO495,INVESTIGATIVE BIO,BBIO,2024,SUM,-,add_code_required,10209,A,5,-,MTWTh,1115-145,INV,223,"Wacker, Douglas",-,6,12,-,$130,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2024,SUM,-,add_code_required,14130,B,5,-,MTWTh,200-430,*,*,"Zaneveld, Jesse",-,12,12,-,-,O

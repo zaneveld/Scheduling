@@ -1,0 +1,17 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE118,INDVDUALS & SOC 3,BCORE,2019,SPR,Restr,no_add_code,-,A,5,-,MW,115-315,UW2,221,"Porter, Ian Joseph",Open,29,30,-,-,-
+BCORE118,INDVDUALS & SOC 3,BCORE,2019,SPR,Restr,no_add_code,-,B,5,-,TTh,845-1045,UW1,221,"Lambacher, Jason F",Open,29,30,-,-,-
+BCORE118,INDVDUALS & SOC 3,BCORE,2019,SPR,Restr,no_add_code,-,C,5,-,TTh,1100-100,UW1,031,"Nixon, David",Closed,30,30,-,-,-
+BCORE118,INDVDUALS & SOC 3,BCORE,2019,SPR,Restr,no_add_code,-,D,5,-,TTh,115-315,UW1,060,"Redwood, Loren K.",Closed,30,30,-,-,-
+BCORE119,NATURAL WORLD 3,BCORE,2019,SPR,Restr,no_add_code,-,A,5,-,TTh,845-1045,UW1,031,"Gunnerson, Kim",Open,27,30,-,-,-
+BCORE119,NATURAL WORLD 3,BCORE,2019,SPR,Restr,no_add_code,-,B,5,-,MW,1100-100,UW2,205,"Lasker, Grace",Closed,30,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2019,SPR,Restr,no_add_code,-,A,5,-,TTh,1100-100,UW2,021,"Hathaway, Deborah A",Closed,33,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2019,SPR,Restr,no_add_code,-,B,5,-,TTh,330-530,UW2,040,"Watts, Linda S",Open,17,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2019,SPR,Restr,no_add_code,-,C,5,-,MW,330-530,UW1,060,"Doyle, Gavin",Closed,30,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2019,SPR,Restr,no_add_code,-,D,5,-,TTh,330-530,UW1,121,"Hsu, Howard",Closed,30,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2019,SPR,Restr,no_add_code,-,E,5,-,TTh,115-315,UWBB,260,"Shaw, Carol A",Open,22,24,-,-,-
+BCORE133,DISCOVERY CORE III,BCORE,2019,SPR,Restr,no_add_code,-,B,2,-,M,1100-100,LBA,003,"Brooks, Peter",Open,8,20,-,-,%
+BCORE133,DISCOVERY CORE III,BCORE,2019,SPR,Restr,no_add_code,-,C,2,-,W,115-315,UWBB,107G,"Brooks, Peter",Open,19,20,-,-,%
+BCORE133,DISCOVERY CORE III,BCORE,2019,SPR,Restr,no_add_code,-,D,2,-,T,1100-100,DISC,165B,"Shinneman, Avery",Open,16,20,-,-,%
+BCORE133,DISCOVERY CORE III,BCORE,2019,SPR,Restr,no_add_code,-,E,2,-,Th,115-315,DISC,165B,"Shinneman, Avery",Open,7,20,-,-,%
+BCORE133,DISCOVERY CORE III,BCORE,2019,SPR,Restr,no_add_code,-,F,2,-,F,115-315,UWBB,107G,"Shinneman, Avery",Open,3,20,-,-,%

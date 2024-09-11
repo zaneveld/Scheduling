@@ -1,0 +1,35 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BBIO180,INTRO BIOLOGY I,BBIO,2018,AUT,no_restriction,no_add_code,10708,A,5,-,TTh,845-1045,DISC,061,"Jensen, Jeffrey",Open,134,144,-,$70,-
+BBIO180,INTRO BIOLOGY I,BBIO,2018,AUT,no_restriction,no_add_code,10709,AA,-,LB,M,845-1045,DISC,263,"Jensen, Jeffrey",Open,21,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2018,AUT,no_restriction,no_add_code,10710,AB,-,LB,M,1115-115,DISC,263,"Jensen, Jeffrey",Closed,24,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2018,AUT,no_restriction,no_add_code,10711,AC,-,LB,M,145-345,DISC,263,"Cutler, Samuel R",Open,22,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2018,AUT,no_restriction,no_add_code,10712,AD,-,LB,W,845-1045,DISC,263,"Campbell, Dana",Open,23,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2018,AUT,no_restriction,no_add_code,10713,AE,-,LB,W,1115-115,DISC,263,"Campbell, Dana",Open,23,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2018,AUT,no_restriction,no_add_code,10714,AF,-,LB,W,145-345,DISC,263,"Campbell, Dana",Open,21,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2018,AUT,no_restriction,no_add_code,10715,A,5,-,TTh,845-1045,DISC,252,"Al-Noori, Salwa",Open,54,60,-,$70,-
+BBIO220,INTRO BIOLOGY III,BBIO,2018,AUT,no_restriction,no_add_code,10716,AA,-,LB,M,1100-100,DISC,267,"Al-Noori, Salwa",Open,18,20,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2018,AUT,no_restriction,no_add_code,10717,AB,-,LB,W,1100-100,DISC,267,"Al-Noori, Salwa",Open,17,20,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2018,AUT,no_restriction,no_add_code,10718,AC,-,LB,W,130-330,DISC,267,"Al-Noori, Salwa",Open,19,20,-,-,-
+BBIO260,MEDICAL MICROBIOL,BBIO,2018,AUT,Restr,no_add_code,-,A,6,-,MW,115-315,UWBB,205,"Iverson_Cabral, Stefanie L",Open,33,40,-,$50,-
+BBIO260,MEDICAL MICROBIOL,BBIO,2018,AUT,Restr,no_add_code,-,AA,-,LB,TTh,845-1045,DISC,263,"Vandepas, Lauren Elizabeth",Open,19,20,-,-,-
+BBIO260,MEDICAL MICROBIOL,BBIO,2018,AUT,Restr,no_add_code,-,AB,-,LB,TTh,115-315,DISC,263,"To, Jenny",Open,14,20,-,-,-
+BBIO310,BRAIN AND BEHAVIOR,BBIO,2018,AUT,no_restriction,no_add_code,10723,A,5,-,MW,1100-100,DISC,162,"Downs, Jodi L",Open,97,100,-,-,-
+BBIO335,SALMON AND SOCIETY,BBIO,2018,AUT,no_restriction,no_add_code,23574,A,5,-,F,845-1245,SSG,CNSVTRY,"Jensen, Jeffrey",Open,18,20,-,$100,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2018,AUT,-,add_code_required,10724,A,5,-,TTh,845-1045,UW1,041,"Price, Michele",-,60,60,-,$160,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2018,AUT,-,add_code_required,10725,AA,-,LB,T,200-500,DISC,267,"Price, Michele",-,20,20,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2018,AUT,-,add_code_required,10726,AB,-,LB,Th,200-500,DISC,267,"Price, Michele",-,20,20,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2018,AUT,no_restriction,no_add_code,10727,AC,-,LB,F,845-1145,DISC,267,"Price, Michele",Closed,20,20,-,-,-
+BBIO360,INTRO GENETICS,BBIO,2018,AUT,-,add_code_required,10728,A,5,-,MW,1100-100,UW2,005,"Lewis, Alaron",-,64,60,-,-,-
+BBIO364,BIOCHEMISTRY I,BBIO,2018,AUT,-,add_code_required,10729,A,5,-,MW,845-1045,UW2,240,"Robins, Lori",-,23,24,-,-,J
+BBIO365,BIOCHEMISTRY II,BBIO,2018,AUT,no_restriction,no_add_code,10730,A,5,-,TTh,1100-100,UW1,220,"Anderson, Peter C",Open,12,24,-,-,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2018,AUT,no_restriction,no_add_code,10731,A,3,-,M,115-215,UW2,228,"Robins, Lori",Closed,8,8,-,$60,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2018,AUT,-,add_code_required,10732,AA,-,LB,T,1215-315,DISC,469,"Robins, Lori",-,8,8,-,-,J
+BBIO370,MICROBIOLOGY,BBIO,2018,AUT,-,add_code_required,10734,A,5,-,TTh,115-315,UWBB,240,"Hillesland, Kristina Linnea",-,46,48,-,$150,-
+BBIO370,MICROBIOLOGY,BBIO,2018,AUT,-,add_code_required,10735,AA,-,LB,F,845-1045,DISC,263,"Hillesland, Kristina Linnea",-,23,24,-,-,-
+BBIO370,MICROBIOLOGY,BBIO,2018,AUT,-,add_code_required,10736,AB,-,LB,F,115-315,DISC,263,"Hillesland, Kristina Linnea",-,23,24,-,-,-
+BBIO375,MOLECULAR BIOLOGY,BBIO,2018,AUT,no_restriction,no_add_code,10737,A,5,-,MW,845-1045,UW2,040,"Ratnakumar, Kajan",Closed,19,15,-,-,J
+BBIO380,CELL BIOLOGY,BBIO,2018,AUT,-,add_code_required,10738,A,5,-,F,115-345,DISC,252,"Lewis, Alaron",-,48,48,-,-,-
+BBIO460,DEVELOPMENTAL BIOL,BBIO,2018,AUT,no_restriction,no_add_code,10741,A,5,-,TTh,330-530,UWBB,205,"Servetnick, Marc David",Open,15,48,-,-,-
+BBIO466,EVOLUTION,BBIO,2018,AUT,no_restriction,no_add_code,10742,A,5,-,TTh,845-1045,DISC,162,"Zaneveld, Jesse R",Open,57,60,-,-,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2018,AUT,-,add_code_required,10743,A,5,-,TTh,1100-100,SSG,CNSVTRY,"Chang, Cynthia",-,12,6,-,$20,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2018,AUT,-,add_code_required,10744,B,5,-,TTh,1100-100,DISC,267,"Wacker, Douglas",-,12,12,-,$130,-

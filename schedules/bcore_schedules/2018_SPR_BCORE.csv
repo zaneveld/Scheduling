@@ -1,0 +1,17 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE118,INDVDUALS & SOC 3,BCORE,2018,SPR,Restr,no_add_code,-,A,5,-,MW,845-1045,UW2,040,"Lambacher, Jason F",Open,29,30,-,-,-
+BCORE118,INDVDUALS & SOC 3,BCORE,2018,SPR,Restr,no_add_code,-,B,5,-,W,1100-100,UW2,040,"Tuke, Greg",Closed,30,30,-,-,B
+BCORE118,INDVDUALS & SOC 3,BCORE,2018,SPR,Restr,no_add_code,-,C,5,-,M,1100-100,UW2,040,"Brockhaus, Andreas J.",Open,26,30,-,-,B
+BCORE118,INDVDUALS & SOC 3,BCORE,2018,SPR,Restr,no_add_code,-,D,5,-,TTh,1100-100,UW2,221,"Redwood, Loren K.",Open,25,30,-,-,-
+BCORE118,INDVDUALS & SOC 3,BCORE,2018,SPR,Restr,no_add_code,-,E,5,-,TTh,330-530,UW2,040,"Porter, Ian Joseph",Open,16,30,-,-,-
+BCORE118,INDVDUALS & SOC 3,BCORE,2018,SPR,Restr,no_add_code,-,F,5,-,MW,115-315,UW1,060,"Doogar, Rajib K",Open,17,30,-,-,-
+BCORE118,INDVDUALS & SOC 3,BCORE,2018,SPR,no_restriction,no_add_code,21771,G,5,-,MW,330-530,SSG,CNSVTRY,"Nixon, David M.",Open,29,30,-,-,-
+BCORE119,NATURAL WORLD 3,BCORE,2018,SPR,Restr,no_add_code,-,B,5,-,TTh,845-1045,UW2,221,"Gunnerson, Kim N",Closed,30,30,-,-,-
+BCORE119,NATURAL WORLD 3,BCORE,2018,SPR,Restr,no_add_code,-,C,5,-,TTh,1100-100,UW2,205,"McNabb, Susan L",Open,26,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2018,SPR,Restr,no_add_code,-,A,5,-,MW,845-1045,UW2,221,"Voyles, Katherine Hardman",Open,18,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2018,SPR,Restr,no_add_code,-,B,5,-,MW,1100-100,SSG,CNSVTRY,"Spiegler, Louise",Open,19,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2018,SPR,Restr,no_add_code,-,C,5,-,MW,115-315,UW2,221,"Doyle, Gavin",Open,29,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2018,SPR,Restr,no_add_code,-,D,5,-,TTh,1100-100,UW1,031,"Watts, Linda S",Open,17,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2018,SPR,Restr,no_add_code,-,E,5,-,TTh,115-315,UW1,031,"Morse, Jason H",Open,24,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2018,SPR,Restr,no_add_code,-,F,5,-,TTh,330-530,UW2,105,"Hsu, Howard",Closed,30,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2018,SPR,Restr,no_add_code,-,G,5,-,F,1100-315,UW2,040,"West, Maureen P.",Open,23,30,-,-,-

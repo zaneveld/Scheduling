@@ -1,0 +1,35 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BBIO200,INTRO BIOLOGY II,BBIO,2022,SPR,no_restriction,no_add_code,10686,A,5,-,TTh,845-1045,UW2,005,"McNabb, She, Her, Hers, Susan",Open,47,72,-,$70,-
+BBIO200,INTRO BIOLOGY II,BBIO,2022,SPR,no_restriction,no_add_code,10687,AA,-,LB,T,1100-100,DISC,263,"McNabb, She, Her, Hers, Susan",Open,19,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2022,SPR,no_restriction,no_add_code,10688,AB,-,LB,T,130-330,DISC,263,"McNabb, She, Her, Hers, Susan",Open,7,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2022,SPR,no_restriction,no_add_code,10689,AC,-,LB,Th,1100-100,DISC,263,"McNabb, She, Her, Hers, Susan",Open,21,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2022,SPR,no_restriction,no_add_code,10690,A,5,-,TTh,845-1045,DISC,162,"Al-Noori, Salwa",Open,94,96,-,$70,-
+BBIO220,INTRO BIOLOGY III,BBIO,2022,SPR,no_restriction,no_add_code,10691,AA,-,LB,M,1100-100,DISC,267,"Al-Noori, Salwa",Closed,24,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2022,SPR,no_restriction,no_add_code,10692,AB,-,LB,M,130-330,DISC,267,"Al-Noori, Salwa",Closed,24,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2022,SPR,no_restriction,no_add_code,10693,AC,-,LB,W,1100-100,DISC,267,"Al-Noori, Salwa",Open,23,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2022,SPR,no_restriction,no_add_code,10694,AD,-,LB,W,130-330,DISC,267,"Al-Noori, Salwa",Open,23,24,-,-,-
+BBIO285,SEMINAR IN BIOLOGY,BBIO,2022,SPR,no_restriction,no_add_code,10696,A,3,-,W,330-530,DISC,256,"Price, R",Closed,12,12,-,-,J
+BBIO293,SPEC TOPICS BIOLOGY ,BBIO,2022,SPR,no_restriction,no_add_code,10697,A,5,-,W,845-1045,UW1,102,"Price, Michele B.",Open,17,40,-,-,-
+BBIO310,BRAIN AND BEHAVIOR,BBIO,2022,SPR,Restr,no_add_code,-,A,5,-,MW,1100-100,DISC,162,"White, Bryan",Open,87,90,-,-,-
+BBIO330,MARINE BIOLOGY,BBIO,2022,SPR,no_restriction,no_add_code,21247,A,5,-,F,1100-300,UW2,240,"Galindo, Heather M",Open,17,18,-,$104,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2022,SPR,no_restriction,no_add_code,10699,A,5,-,TTh,845-1045,UW2,240,"Champagne, C",Open,36,48,-,$110,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2022,SPR,no_restriction,no_add_code,10700,AA,-,LB,F,1100-200,DISC,267,"Champagne, C",Open,15,24,-,-,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2022,SPR,no_restriction,no_add_code,10701,AB,-,LB,Th,115-415,DISC,267,"Champagne, C",Open,21,24,-,-,-
+BBIO355,BEHAVIOR ENDOCRINOL ,BBIO,2022,SPR,no_restriction,no_add_code,10702,A,5,-,TTh,330-530,UW2,040,"Wacker, Douglas",Open,24,28,-,-,-
+BBIO360,INTRO GENETICS,BBIO,2022,SPR,no_restriction,no_add_code,10703,A,5,-,MW,330-530,UW2,141,"De Lange, Orlando",Open,40,48,-,-,-
+BBIO364,BIOCHEMISTRY I,BBIO,2022,SPR,no_restriction,no_add_code,10704,A,5,-,MW,845-1045,UW2,205,"Shippy, Scott",Open,8,15,-,-,J
+BBIO365,BIOCHEMISTRY II,BBIO,2022,SPR,no_restriction,no_add_code,10705,A,5,-,TTh,1100-100,UW1,210,"Anderson, Peter",Open,11,24,-,-,J
+BBIO370,MICROBIOLOGY,BBIO,2022,SPR,no_restriction,no_add_code,10706,A,5,-,TTh,330-530,UW1,210,"Hillesland, K",Open,31,48,-,$150,-
+BBIO370,MICROBIOLOGY,BBIO,2022,SPR,no_restriction,no_add_code,10707,AA,-,LB,M,115-315,DISC,263,"Seah, Yee Mey",Open,12,24,-,-,-
+BBIO370,MICROBIOLOGY,BBIO,2022,SPR,no_restriction,no_add_code,10708,AB,-,LB,W,115-315,DISC,263,"Seah, Yee Mey",Open,19,24,-,-,-
+BBIO372,STEM CELLS,BBIO,2022,SPR,no_restriction,no_add_code,10709,A,5,-,TTh,1100-100,UW1,221,"White, Bryan",Open,47,48,-,-,-
+BBIO380,CELL BIOLOGY,BBIO,2022,SPR,-,add_code_required,10711,A,5,-,F,1100-130,UWBB,240,"Lewis, Alaron A",-,24,24,-,-,W
+BBIO383,BIOINFORMATICS,BBIO,2022,SPR,no_restriction,no_add_code,10712,A,5,-,TTh,330-530,*,*,"Zaneveld, Jesse",Closed,17,15,-,-,JO
+BBIO393,SPEC TOPICS BIOLOGY ,BBIO,2022,SPR,no_restriction,no_add_code,10713,A,5,-,TTh,115-315,SSGC,101,"Jensen, Jeffrey",Open,13,24,-,-,-
+BBIO393,SPEC TOPICS BIOLOGY ,BBIO,2022,SPR,no_restriction,no_add_code,10714,AA,-,LB,T,330-530,SSGC,101,"Jensen, Jeffrey",Open,9,24,-,-,-
+BBIO393,SPEC TOPICS BIOLOGY ,BBIO,2022,SPR,no_restriction,no_add_code,10715,AB,-,LB,Th,330-530,SSGC,101,"Jensen, Jeffrey",Open,4,24,-,-,-
+BBIO393,SPEC TOPICS BIOLOGY ,BBIO,2022,SPR,no_restriction,no_add_code,10716,B,5,-,T,115-315,DISC,252,"Madzima, Thelma F",Open,6,24,-,-,B
+BBIO466,EVOLUTION,BBIO,2022,SPR,no_restriction,no_add_code,10718,A,5,-,MW,115-315,UW1,220,"Buser, Thaddaeus J.",Open,41,48,-,-,-
+BBIO480,NEUROBIOLOGY,BBIO,2022,SPR,no_restriction,no_add_code,10722,A,5,-,MW,1100-100,UW2,131,"Lewis, Alaron A",Open,46,48,-,-,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2022,SPR,-,add_code_required,10723,A,5,-,MW,115-315,UWBB,270,"Price, Michele B.",-,13,12,-,$130,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2022,SPR,-,add_code_required,10724,B,5,-,TTh,1100-100,UWBB,270,"Hillesland, K",-,11,12,-,$130,-
