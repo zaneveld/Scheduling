@@ -12,6 +12,8 @@ Scheduling Resources for UW Bothell Biology
 
 <a href="https://docs.google.com/spreadsheets/d/1Z56N55ZOaN0QMOWFeGucr1zAWYr17CxXfKa-GKFyn8Q/edit?gid=300482433#gid=300482433"> Instructor Planning </a>
 
+<a href="https://docs.google.com/spreadsheets/d/1HDVDuCnEZ104fPc2Z3jCxAvNh9LnFVR1OvMknUFjiQA/edit?gid=0#gid=0">Instructor Contact Info </a>
+
 ## Scheduling Diagram
 
 <img src="./static/Scheduling_Diagram.png" width="800"  description="A diagram highlighting proposed workflows for hiring in the School of STEM. This is for my (Zaneveld's) internal use and hard to susccinctly describe, so let me know if you need an accessible/text version.">
