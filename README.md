@@ -7,6 +7,10 @@ Scheduling Resources for UW Bothell Biology
 
 <a href="https://www.uwb.edu/academic-calendar/2024-2025-calendars/dates-of-instruction-2024-2025"> Dates of Instruction 2024-2025 </a>
 
+<a href="https://forms.gle/zxasyCXRXKxffx3c9"> New Scheduling Log Entry (use to record changes to classes, requested, changes issues alongside email)</a>
+
+<a href="https://docs.google.com/spreadsheets/d/1Ue2ju4bGIrp-gsZVByhaozGD4e4eqsDugyClNIDsm9o/edit?usp=sharing"> Scheduling Log </a>
+
 ## Internal Links (Restricted Access)
 <a href="https://docs.google.com/spreadsheets/d/1Z56N55ZOaN0QMOWFeGucr1zAWYr17CxXfKa-GKFyn8Q/edit?gid=300482433#gid=300482433"> Filled Applicant Rubric</a>
 
