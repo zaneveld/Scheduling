@@ -18,6 +18,13 @@ Scheduling Resources for UW Bothell Biology
 
 <a href="https://docs.google.com/spreadsheets/d/1HDVDuCnEZ104fPc2Z3jCxAvNh9LnFVR1OvMknUFjiQA/edit?gid=0#gid=0">Instructor Contact Info </a>
 
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=W9229i_wGkSZoBYqxQYL0h9UBx13xapHuqmsVDYDNcRUQjAzM0MwQjBXS1ZFM1hKWUZNV1ZDRFM4MSQlQCN0PWcu"> School of STEM Course Change Form </a>
+
+
+## In Development
+
+<a href="https://docs.google.com/spreadsheets/d/1vit15cTAab0oFcXShCKY8sVbGLPYlcaVBbu3MyhQ1NU/edit?gid=149408979#gid=149408979"> Scheduling Plan </a>
+
 ## Scheduling Diagram
 
 <img src="./static/Scheduling_Diagram.png" width="800"  description="A diagram highlighting proposed workflows for hiring in the School of STEM. This is for my (Zaneveld's) internal use and hard to susccinctly describe, so let me know if you need an accessible/text version.">
