@@ -8,7 +8,7 @@ Scheduling Resources for UW Bothell Biology
 
 <a href="https://www.uwb.edu/academic-calendar/2024-2025-calendars/dates-of-instruction-2024-2025"> Dates of Instruction 2024-2025 </a>
 
-<a href="https://docs.google.com/spreadsheets/d/1uIv9RwFkafwDJm-eblw2n1BDx5AhW50MxXAIyAPpeTA/edit?usp=sharing"> Scheduling Log </a>"> Time Schedule Metadata </a>
+<a href="https://docs.google.com/spreadsheets/d/1uIv9RwFkafwDJm-eblw2n1BDx5AhW50MxXAIyAPpeTA/edit?usp=sharing"> Time Schedule Metadata </a>
 
 ### Scheduling log
 This can be used to record changes to classes or requests. Especially useful for recurring issues we should check for in future quarters. Free text.
