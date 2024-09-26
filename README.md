@@ -8,6 +8,9 @@ Scheduling Resources for UW Bothell Biology
 
 <a href="https://www.uwb.edu/academic-calendar/2024-2025-calendars/dates-of-instruction-2024-2025"> Dates of Instruction 2024-2025 </a>
 
+### Planning Tools
+
+The time schedule metadata sheet holds metadata about classes and instructors that can be used for manual or automated checks when submitting the Winter or Spring time schedules
 <a href="https://docs.google.com/spreadsheets/d/1uIv9RwFkafwDJm-eblw2n1BDx5AhW50MxXAIyAPpeTA/edit?usp=sharing"> Time Schedule Metadata </a>
 
 ### Scheduling log
