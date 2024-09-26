@@ -10,16 +10,18 @@ Scheduling Resources for UW Bothell Biology
 
 ### Planning Tools
 
-The time schedule metadata sheet holds metadata about classes and instructors that can be used for manual or automated checks when submitting the Winter or Spring time schedules
+
 <a href="https://docs.google.com/spreadsheets/d/1uIv9RwFkafwDJm-eblw2n1BDx5AhW50MxXAIyAPpeTA/edit?usp=sharing"> Time Schedule Metadata </a>
+The time schedule metadata sheet holds metadata about classes and instructors that can be used for manual or automated checks when submitting the Winter or Spring time schedules
 
 ### Scheduling log
-This can be used to record changes to classes or requests. Especially useful for recurring issues we should check for in future quarters. Free text.
+
 <a href="https://forms.gle/zxasyCXRXKxffx3c9"> New Scheduling Log Entry</a>
+This can be used to record changes to classes or requests. Especially useful for recurring issues we should check for in future quarters. Free text.
 
-View entries in the scheduling log. I'll record changes there, so you can see what has/hasn't been done.
+
 <a href="https://docs.google.com/spreadsheets/d/1Ue2ju4bGIrp-gsZVByhaozGD4e4eqsDugyClNIDsm9o/edit?usp=sharing"> Scheduling Log </a>
-
+Use the link above to view entries in the scheduling log. I'll record changes there, so you can see what has/hasn't been done.
 
 
 ## Internal Links (Restricted Access)
