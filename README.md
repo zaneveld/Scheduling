@@ -3,13 +3,21 @@ Scheduling Resources for UW Bothell Biology
 
 ## Key Links
 
-<a href="https://www.washington.edu/students/timeschd/B/AUT2024/bbio.html"> Biology Time Schedule </a>
+### UW Bothell Schedules
+<a href="https://www.washington.edu/students/timeschd/B/AUT2024/bbio.html"> Biology Time Schedule 2024 </a>
 
 <a href="https://www.uwb.edu/academic-calendar/2024-2025-calendars/dates-of-instruction-2024-2025"> Dates of Instruction 2024-2025 </a>
 
-<a href="https://forms.gle/zxasyCXRXKxffx3c9"> New Scheduling Log Entry (use to record changes to classes, requested, changes issues alongside email)</a>
+<a href="<a href="https://docs.google.com/spreadsheets/d/1uIv9RwFkafwDJm-eblw2n1BDx5AhW50MxXAIyAPpeTA/edit?usp=sharing"> Scheduling Log </a>"> Time Schedule Metadata </a>
 
+### Scheduling log
+This can be used to record changes to classes or requests. Especially useful for recurring issues we should check for in future quarters. Free text.
+<a href="https://forms.gle/zxasyCXRXKxffx3c9"> New Scheduling Log Entry</a>
+
+View entries in the scheduling log. I'll record changes there, so you can see what has/hasn't been done.
 <a href="https://docs.google.com/spreadsheets/d/1Ue2ju4bGIrp-gsZVByhaozGD4e4eqsDugyClNIDsm9o/edit?usp=sharing"> Scheduling Log </a>
+
+
 
 ## Internal Links (Restricted Access)
 <a href="https://docs.google.com/spreadsheets/d/1Z56N55ZOaN0QMOWFeGucr1zAWYr17CxXfKa-GKFyn8Q/edit?gid=300482433#gid=300482433"> Filled Applicant Rubric</a>
