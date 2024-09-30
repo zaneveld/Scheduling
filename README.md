@@ -33,6 +33,7 @@ Use the link above to view entries in the scheduling log. I'll record changes th
 
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=W9229i_wGkSZoBYqxQYL0h9UBx13xapHuqmsVDYDNcRUQjAzM0MwQjBXS1ZFM1hKWUZNV1ZDRFM4MSQlQCN0PWcu"> School of STEM Course Change Form </a>
 
+<a href="https://docs.google.com/document/d/1de8lnNOO6cf8oQAyPV1XHJZQvTVOXPQsxeEnwJZ6Hog/edit?usp=sharing"> Chair - Program Coordinator Communications Portal </a>
 
 ## In Development
 
