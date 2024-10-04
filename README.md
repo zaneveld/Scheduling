@@ -3,6 +3,10 @@ Scheduling Resources for UW Bothell Biology
 
 ## Key Links
 
+### Hiring
+<a href="https://ap.washington.edu/ahr/position-details/?job_id=138348"> Part-time job ad</a>
+Link to ad for part-time teaching faculty at UW Bothell Biological Sciences 
+
 ### UW Bothell Schedules
 <a href="https://www.washington.edu/students/timeschd/B/AUT2024/bbio.html"> Biology Time Schedule 2024 </a>
 
@@ -18,7 +22,6 @@ The time schedule metadata sheet holds metadata about classes and instructors th
 
 <a href="https://forms.gle/zxasyCXRXKxffx3c9"> New Scheduling Log Entry</a>
 This can be used to record changes to classes or requests. Especially useful for recurring issues we should check for in future quarters. Free text.
-
 
 <a href="https://docs.google.com/spreadsheets/d/1Ue2ju4bGIrp-gsZVByhaozGD4e4eqsDugyClNIDsm9o/edit?usp=sharing"> Scheduling Log </a>
 Use the link above to view entries in the scheduling log. I'll record changes there, so you can see what has/hasn't been done.
