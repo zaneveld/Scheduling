@@ -29,9 +29,11 @@ This can be used to record changes to classes or requests. Especially useful for
 Use the link above to view entries in the scheduling log. I'll record changes there, so you can see what has/hasn't been done.
 
 ## STEM Internal Links (Restricted Access)
-<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=W9229i_wGkSZoBYqxQYL0h9UBx13xapHuqmsVDYDNcRUQjAzM0MwQjBXS1ZFM1hKWUZNV1ZDRFM4MSQlQCN0PWcu"> School of STEM Course Change Form </a>
+<a href="https://uwnetid.sharepoint.com/:x:/r/sites/og_stem_time_schedule/_layouts/15/Doc.aspx?sourcedoc=%7BB8EA2ADC-BA24-4E9C-A2EF-46F9361B5BA7%7D&file=TS%20Upload%20Form.xlsx&action=default&mobileredirect=true"> STEM Time Schedule Change Spreadsheet (New)</a>
 
-<a href="https://uwnetid.sharepoint.com/:x:/r/sites/og_stem_time_schedule/_layouts/15/Doc.aspx?sourcedoc=%7BB8EA2ADC-BA24-4E9C-A2EF-46F9361B5BA7%7D&file=TS%20Upload%20Form.xlsx&action=default&mobileredirect=true"> STEM Time Schedule Change Spreadsheet for Bulk Changes</a>
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=W9229i_wGkSZoBYqxQYL0h9UBx13xapHuqmsVDYDNcRUQjAzM0MwQjBXS1ZFM1hKWUZNV1ZDRFM4MSQlQCN0PWcu"> School of STEM Course Change Form (Legacy) </a>
+
+
 
 ## Biology Internal Links (Restricted Access)
 <a href="https://docs.google.com/document/d/1de8lnNOO6cf8oQAyPV1XHJZQvTVOXPQsxeEnwJZ6Hog/edit?usp=sharing"> Chair - Program Coordinator Communications Portal </a>
