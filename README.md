@@ -3,6 +3,10 @@ Scheduling Resources for UW Bothell Biology
 
 ## Key Links
 
+## General Information
+
+<a href="https://uwnetid.sharepoint.com/sites/uwbschoolofstem"> School of STEM sharepoint site </a>
+
 ### Hiring
 <a href="https://ap.washington.edu/ahr/position-details/?job_id=138348"> Part-time job ad</a>
 Link to ad for part-time teaching faculty at UW Bothell Biological Sciences 
