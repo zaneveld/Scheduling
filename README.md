@@ -6,6 +6,7 @@ Scheduling Resources for UW Bothell Biology
 ## General Information
 
 <a href="https://uwnetid.sharepoint.com/sites/uwbschoolofstem"> School of STEM sharepoint site </a>
+
 <a href="https://uwnetid.sharepoint.com/sites/uwbschoolofstem/biologicalsciences/SitePages/Home(1).aspx"> Biology sharepoint site</a>
 
 ### Hiring
