@@ -51,7 +51,7 @@ Use the link above to view entries in the scheduling log. I'll record changes th
 
 <a href="https://docs.google.com/spreadsheets/d/1HDVDuCnEZ104fPc2Z3jCxAvNh9LnFVR1OvMknUFjiQA/edit?gid=0#gid=0">Instructor Contact Info </a>
 
-
+<a href = "https://docs.google.com/spreadsheets/d/1Hp9lFGK47g6fygIxH3M4N_X9SQSqdcz_gp3h8-lrZMY/edit?usp=sharing"> Schedule Planning AUT2025 - SPR2026 </a>
 
 
 
