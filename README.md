@@ -36,7 +36,7 @@ This can be used to record changes to classes or requests. Especially useful for
 Use the link above to view entries in the scheduling log. I'll record changes there, so you can see what has/hasn't been done.
 
 ## STEM Internal Links (Restricted Access)
-<a href="https://uwnetid.sharepoint.com/:x:/r/sites/og_stem_time_schedule/_layouts/15/Doc.aspx?sourcedoc=%7BB8EA2ADC-BA24-4E9C-A2EF-46F9361B5BA7%7D&file=TS%20Upload%20Form.xlsx&action=default&mobileredirect=true"> STEM Time Schedule Change Spreadsheet (New)</a>
+<a href="https://uwnetid.sharepoint.com/:x:/r/sites/og_stem_time_schedule/Shared%20Documents/Planning%20tools/AY%202025-26/STEM%20Planning%20Tool_Autumn25.xlsx?d=w1e131458660c44f3a8cae4f92a9d8afd&csf=1&web=1&e=7FglAg"> STEM Time Schedule Change Spreadsheet (Updated as of 2/5/2025)</a>
 
 
 
