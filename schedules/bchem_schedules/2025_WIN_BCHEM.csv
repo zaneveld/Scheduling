@@ -1,0 +1,33 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCHEM143,GEN CHEM I,BCHEM,2025,WIN,-,-,10870,A,4,-,MWF,1015-1135,DISC,061,"Lovitt, Charity",Open,185,192,-,-,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2025,WIN,no_restriction,no_add_code,10871,A,2,-,M,1200-300,CC1,340,"Shippy, Scott",Open,22,24,-,$50,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2025,WIN,no_restriction,no_add_code,10872,B,2,-,T,830-1130,CC1,340,"Thimmaiah, Murali",Open,22,24,-,$50,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2025,WIN,no_restriction,no_add_code,10873,C,2,-,T,115-415,CC1,340,"Storfer, Dinara",Closed,24,24,-,$50,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2025,WIN,no_restriction,no_add_code,10874,D,2,-,W,1200-300,CC1,340,"Linganathan, Porselvi",Open,23,24,-,$50,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2025,WIN,no_restriction,no_add_code,10875,E,2,-,Th,830-1130,CC1,340,"Linganathan, Porselvi",Open,22,24,-,$50,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2025,WIN,no_restriction,no_add_code,10876,F,2,-,Th,115-415,CC1,340,"Storfer, Dinara",Open,22,24,-,$50,-
+BCHEM153,GEN CHEM II,BCHEM,2025,WIN,-,-,10877,A,4,-,MWF,845-1005,DISC,061,"Finley, Brandon D",Open,82,120,-,-,-
+BCHEM154,GEN CHEM LAB II,BCHEM,2025,WIN,-,-,10878,A,2,-,M,1230-330,DISC,463,"Finley, Brandon D",Open,17,24,-,$50,-
+BCHEM154,GEN CHEM LAB II,BCHEM,2025,WIN,-,-,10879,B,2,-,T,900-1200,DISC,463,"Mlodnosky, Karyn",Open,10,24,-,$50,-
+BCHEM154,GEN CHEM LAB II,BCHEM,2025,WIN,-,-,10880,C,2,-,T,145-445,DISC,463,"Mlodnosky, Karyn",Open,21,24,-,$50,-
+BCHEM154,GEN CHEM LAB II,BCHEM,2025,WIN,-,-,10881,D,2,-,W,1230-330,DISC,463,"Finley, Brandon D",Open,21,24,-,$50,-
+BCHEM237,ORGANIC CHEMISTRY,BCHEM,2025,WIN,-,-,10889,A,4,-,MW,1100-100,DISC,162,"Daruwala, Khushroo P.",Open,30,48,-,-,-
+BCHEM238,ORGANIC CHEMISTRY,BCHEM,2025,WIN,-,-,10890,A,4,-,MW,115-315,DISC,162,"Thimmaiah, Murali",Open,81,96,-,-,-
+BCHEM241,ORGANIC CHEM LAB I,BCHEM,2025,WIN,-,-,10891,A,3,-,W,330-530,DISC,162,"Thimmaiah, Murali",Open,73,80,-,$75,-
+BCHEM241,ORGANIC CHEM LAB I,BCHEM,2025,WIN,-,-,10892,AA,-,LB,Th,845-1245,DISC,469,"Daruwala, Khushroo P.",Open,17,20,-,-,-
+BCHEM241,ORGANIC CHEM LAB I,BCHEM,2025,WIN,-,-,10893,AB,-,LB,Th,115-515,DISC,469,"Thimmaiah, Murali",Closed,20,20,-,-,-
+BCHEM241,ORGANIC CHEM LAB I,BCHEM,2025,WIN,-,-,10894,AC,-,LB,F,830-1230,DISC,469,"Thimmaiah, Murali",Closed,20,20,-,-,-
+BCHEM241,ORGANIC CHEM LAB I,BCHEM,2025,WIN,-,-,10895,AD,-,LB,F,130-530,DISC,469,"Daruwala, Khushroo P.",Open,16,20,-,-,-
+BCHEM294,SEMINAR,BCHEM,2025,WIN,no_restriction,no_add_code,10896,A,1,-,F,115-315,UW2,131,"Lovitt, Charity",Open,39,40,CR_NC,-,-
+BCHEM310,MOLEC MOD,BCHEM,2025,WIN,no_restriction,no_add_code,10897,A,5,-,TTh,1100-100,UW2,228,"Anderson, Peter",Open,8,18,-,-,-
+BCHEM312,INOR CHEM I,BCHEM,2025,WIN,no_restriction,no_add_code,10898,A,3,-,TTh,330-530,UW2,307,"Daruwala, Khushroo P.",Open,5,18,-,-,-
+BCHEM365,BIOCHEMISTRY II,BCHEM,2025,WIN,no_restriction,no_add_code,10899,A,5,-,MW,115-315,UW2,141,"Anderson, Peter",Closed,29,24,-,-,J
+BCHEM402,PHYSICAL CHEM II,BCHEM,2025,WIN,Restr,no_add_code,-,A,4,-,TTh,845-1045,UW2,221,"Storfer, Dinara",Open,19,30,-,-,-
+BCHEM426,INSTRUMENTAL ANLYS,BCHEM,2025,WIN,Restr,no_add_code,-,A,5,-,TTh,115-315,UW2,240,"Shippy, Scott",Open,21,24,-,$120,-
+BCHEM426,INSTRUMENTAL ANLYS,BCHEM,2025,WIN,Restr,-,-,AA,-,LB,W,845-1245,DISC,469,"Shippy, Scott",Closed,12,12,-,-,-
+BCHEM426,INSTRUMENTAL ANLYS,BCHEM,2025,WIN,Restr,-,-,AB,-,LB,W,115-515,DISC,469,"Shippy, Scott",Open,9,12,-,-,-
+BCHEM493,ADV TOPICS IN CHEM,BCHEM,2025,WIN,Restr,no_add_code,-,A,5,-,MW,330-530,UW1,102,"Lovitt, Charity",Open,5,20,-,-,-
+BCHEM498,IND STUDY CHEM,BCHEM,2025,WIN,IS,add_code_required,10906,A,1-5,-,-,to_be_arranged,-,0,-,-,-,-,-,-,10E
+BCHEM498,IND STUDY CHEM,BCHEM,2025,WIN,IS,-,10907,C,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,"10E Note: couldn't interpret 'CR_NC', in original."
+BCHEM499,UG RESEARCH CHEM,BCHEM,2025,WIN,IS,-,10908,B,1-5,-,-,to_be_arranged,-,-,-,Open,3,-,-,-,10E
+BCHEM499,UG RESEARCH CHEM,BCHEM,2025,WIN,IS,-,10909,C,1-5,-,-,to_be_arranged,-,-,-,Open,4,-,-,-,"10E Note: couldn't interpret 'CR_NC', in original."

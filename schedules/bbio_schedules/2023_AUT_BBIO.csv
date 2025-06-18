@@ -1,32 +1,32 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BBIO180,INTRO BIOLOGY I,BBIO,2023,AUT,no_restriction,no_add_code,10780,A,5,-,TTh,845-1045,DISC,061,"Jensen, Jeffrey",Open,137,144,-,$70,-
-BBIO180,INTRO BIOLOGY I,BBIO,2023,AUT,no_restriction,no_add_code,10781,AA,-,LB,T,1100-100,DISC,263,"Campbell, Dana",Open,23,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2023,AUT,no_restriction,no_add_code,10782,AB,-,LB,Th,1100-100,DISC,263,"Campbell, Dana",Open,23,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2023,AUT,no_restriction,no_add_code,10783,AC,-,LB,T,130-330,DISC,263,"Campbell, Dana",Open,20,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2023,AUT,no_restriction,no_add_code,10784,AD,-,LB,W,845-1045,DISC,263,"Campbell, Dana",Closed,24,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2023,AUT,no_restriction,no_add_code,10785,AE,-,LB,W,1115-115,DISC,263,"Campbell, Dana",Open,23,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2023,AUT,no_restriction,no_add_code,10786,AF,-,LB,W,145-345,DISC,263,"Campbell, Dana",Closed,24,24,-,-,-
-BBIO220,INTRO BIOLOGY III,BBIO,2023,AUT,no_restriction,no_add_code,10787,A,5,-,TTh,845-1045,DISC,162,"White, Bryan",Open,47,72,-,$70,-
-BBIO220,INTRO BIOLOGY III,BBIO,2023,AUT,no_restriction,no_add_code,10788,AA,-,LB,M,1100-100,DISC,267,"White, Bryan",Closed,24,24,-,-,-
-BBIO220,INTRO BIOLOGY III,BBIO,2023,AUT,no_restriction,no_add_code,10789,AB,-,LB,M,130-330,DISC,267,"White, Bryan",Open,23,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2023,AUT,-,-,10780,A,5,-,TTh,845-1045,DISC,061,"Jensen, Jeffrey",Open,137,144,-,$70,-
+BBIO180,INTRO BIOLOGY I,BBIO,2023,AUT,-,-,10781,AA,-,LB,T,1100-100,DISC,263,"Campbell, Dana",Open,23,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2023,AUT,-,-,10782,AB,-,LB,Th,1100-100,DISC,263,"Campbell, Dana",Open,23,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2023,AUT,-,-,10783,AC,-,LB,T,130-330,DISC,263,"Campbell, Dana",Open,20,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2023,AUT,-,-,10784,AD,-,LB,W,845-1045,DISC,263,"Campbell, Dana",Closed,24,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2023,AUT,-,-,10785,AE,-,LB,W,1115-115,DISC,263,"Campbell, Dana",Open,23,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2023,AUT,-,-,10786,AF,-,LB,W,145-345,DISC,263,"Campbell, Dana",Closed,24,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2023,AUT,-,-,10787,A,5,-,TTh,845-1045,DISC,162,"White, Bryan",Open,47,72,-,$70,-
+BBIO220,INTRO BIOLOGY III,BBIO,2023,AUT,-,-,10788,AA,-,LB,M,1100-100,DISC,267,"White, Bryan",Closed,24,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2023,AUT,-,-,10789,AB,-,LB,M,130-330,DISC,267,"White, Bryan",Open,23,24,-,-,-
 BBIO233,CANCER,BBIO,2023,AUT,no_restriction,no_add_code,10792,A,5,-,MW,330-530,UW2,205,"McNabb, Susan",Open,19,30,-,-,-
-BBIO310,BRAIN AND BEHAVIOR,BBIO,2023,AUT,no_restriction,no_add_code,10794,A,5,-,TTh,115-315,DISC,061,"White, Bryan",Open,100,110,-,-,-
+BBIO310,BRAIN AND BEHAVIOR,BBIO,2023,AUT,-,-,10794,A,5,-,TTh,115-315,DISC,061,"White, Bryan",Open,100,110,-,-,-
 BBIO351,ANAT & PHYSIOL I,BBIO,2023,AUT,no_restriction,no_add_code,10795,A,5,-,TTh,845-1045,UW2,005,"Price, Michele B.",Open,52,60,-,$160,-
-BBIO351,ANAT & PHYSIOL I,BBIO,2023,AUT,no_restriction,no_add_code,10796,AA,-,LB,T,200-500,DISC,267,"Price, Michele B.",Open,19,20,-,-,-
-BBIO351,ANAT & PHYSIOL I,BBIO,2023,AUT,no_restriction,no_add_code,10797,AB,-,LB,Th,200-500,DISC,267,"Price, Michele B.",Open,14,20,-,-,-
-BBIO351,ANAT & PHYSIOL I,BBIO,2023,AUT,no_restriction,no_add_code,10798,AC,-,LB,F,845-1145,DISC,267,"Price, Michele B.",Open,19,20,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2023,AUT,-,-,10796,AA,-,LB,T,200-500,DISC,267,"Price, Michele B.",Open,19,20,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2023,AUT,-,-,10797,AB,-,LB,Th,200-500,DISC,267,"Price, Michele B.",Open,14,20,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2023,AUT,-,-,10798,AC,-,LB,F,845-1145,DISC,267,"Price, Michele B.",Open,19,20,-,-,-
 BBIO360,INTRO GENETICS,BBIO,2023,AUT,no_restriction,no_add_code,10799,A,5,-,TTh,845-1045,UW2,240,"Servetnick, Marc",Open,47,48,-,-,-
 BBIO364,BIOCHEMISTRY I,BBIO,2023,AUT,no_restriction,no_add_code,10800,A,5,-,MW,115-315,UW1,220,"Robins, Lori",Open,21,24,-,-,J
 BBIO366,BIOCHEMISTRY LAB,BBIO,2023,AUT,no_restriction,no_add_code,10801,A,3,-,M,845-1005,UW1,030,"Shippy, Scott",Open,7,16,-,$75,J
-BBIO366,BIOCHEMISTRY LAB,BBIO,2023,AUT,no_restriction,no_add_code,10802,AA,-,LB,W,845-1145,DISC,469,"Shippy, Scott",Open,4,8,-,-,J
-BBIO366,BIOCHEMISTRY LAB,BBIO,2023,AUT,no_restriction,no_add_code,10803,AB,-,LB,W,1215-315,DISC,469,"Shippy, Scott",Open,3,8,-,-,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2023,AUT,-,-,10802,AA,-,LB,W,845-1145,DISC,469,"Shippy, Scott",Open,4,8,-,-,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2023,AUT,-,-,10803,AB,-,LB,W,1215-315,DISC,469,"Shippy, Scott",Open,3,8,-,-,J
 BBIO370,MICROBIOLOGY,BBIO,2023,AUT,no_restriction,no_add_code,10804,A,5,-,MW,115-315,UW2,141,"Hillesland, Kristina Linnea",Open,47,48,-,$150,-
 BBIO370,MICROBIOLOGY,BBIO,2023,AUT,-,add_code_required,10805,AA,-,LB,F,845-1045,DISC,263,"Narayanan, Zareen",-,24,24,-,-,-
-BBIO370,MICROBIOLOGY,BBIO,2023,AUT,no_restriction,no_add_code,10806,AB,-,LB,F,115-315,DISC,263,"Narayanan, Zareen",Open,23,24,-,-,-
+BBIO370,MICROBIOLOGY,BBIO,2023,AUT,-,-,10806,AB,-,LB,F,115-315,DISC,263,"Narayanan, Zareen",Open,23,24,-,-,-
 BBIO375,MOLECULAR BIOLOGY,BBIO,2023,AUT,-,add_code_required,10807,A,5,-,TTh,1100-100,UWBB,107G,"Madzima, Thelma F",-,10,13,-,-,J
 BBIO380,CELL BIOLOGY,BBIO,2023,AUT,no_restriction,no_add_code,10808,A,5,-,F,1100-130,UWBB,230,"Lewis, Alaron A",Closed,25,24,-,-,-
 BBIO394,TOPICS IN NEUROSCI,BBIO,2023,AUT,no_restriction,no_add_code,10809,A,5,-,MW,845-1045,UWBB,240,"Al-Noori, Salwa",Open,12,48,-,-,-
-BBIO466,EVOLUTION,BBIO,2023,AUT,no_restriction,no_add_code,10810,A,5,-,MW,330-530,DISC,252,"Chicana, Betsabel",Open,41,60,-,-,-
+BBIO466,EVOLUTION,BBIO,2023,AUT,-,-,10810,A,5,-,MW,330-530,DISC,252,"Chicana, Betsabel",Open,41,60,-,-,-
 BBIO495,INVESTIGATIVE BIO,BBIO,2023,AUT,-,add_code_required,10811,A,5,-,MW,1100-100,SSGC,101,"Jensen, Jeffrey",-,12,12,-,$130,-
 BBIO495,INVESTIGATIVE BIO,BBIO,2023,AUT,-,add_code_required,10812,B,5,-,TTh,1100-100,SSGC,101,"Chang, Cynthia",-,12,12,-,$130,-
 BBIO495,INVESTIGATIVE BIO,BBIO,2023,AUT,-,add_code_required,10813,C,5,-,TTh,1100-100,*,*,"Zaneveld, Jesse",-,11,12,-,-,O

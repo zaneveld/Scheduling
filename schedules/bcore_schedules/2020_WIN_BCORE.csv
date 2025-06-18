@@ -4,7 +4,7 @@ BCORE115,INDVDUALS & SOC 2,BCORE,2020,WIN,Restr,no_add_code,-,C,5,-,MW,115-315,U
 BCORE115,INDVDUALS & SOC 2,BCORE,2020,WIN,Restr,no_add_code,-,F,5,-,T,330-530,UW1,060,"Gliboff, Matthew",Closed,30,30,-,-,B
 BCORE115,INDVDUALS & SOC 2,BCORE,2020,WIN,Restr,no_add_code,-,G,5,-,TTh,115-315,UW1,261,"Morse, Jason H",Open,26,30,-,-,-
 BCORE115,INDVDUALS & SOC 2,BCORE,2020,WIN,Restr,no_add_code,-,H,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '221', in original. Note: couldn't interpret 'West,Maureen', in original. Note: couldn't interpret 'P.', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '11', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret '$15', in original."
-BCORE116,NATURAL WORLD 2,BCORE,2020,WIN,Restr,no_add_code,-,A,5,-,MW,115-315,DISC,252,"Mourad, Pierre D.",Open,49,50,-,-,-
+BCORE116,NATURAL WORLD 2,BCORE,2020,WIN,Restr,-,-,A,5,-,MW,115-315,DISC,252,"Mourad, Pierre D.",Open,49,50,-,-,-
 BCORE116,NATURAL WORLD 2,BCORE,2020,WIN,Restr,no_add_code,-,C,5,-,TTh,330-530,UW2,340,"Valdez, Ursula",Open,18,30,-,-,-
 BCORE116,NATURAL WORLD 2,BCORE,2020,WIN,Restr,no_add_code,-,D,5,-,MW,1100-100,UW1,102,"Campbell, Dana",Open,19,20,-,-,J
 BCORE117,VIS LIT PRFM ART 2,BCORE,2020,WIN,Restr,no_add_code,-,A,5,-,MW,1100-100,UW2,021,"Hathaway, Deborah A.",Closed,32,30,-,-,-
@@ -15,5 +15,5 @@ BCORE117,VIS LIT PRFM ART 2,BCORE,2020,WIN,Restr,no_add_code,-,E,5,-,Th,330-530,
 BCORE117,VIS LIT PRFM ART 2,BCORE,2020,WIN,Restr,no_add_code,-,F,5,-,Th,845-1045,UW1,060,"Carpenter, Gary",Closed,30,30,-,$15,B
 BCORE117,VIS LIT PRFM ART 2,BCORE,2020,WIN,Restr,no_add_code,-,G,5,-,TTh,1100-100,UW2,040,"Nixon, David",Closed,30,30,-,-,-
 BCORE117,VIS LIT PRFM ART 2,BCORE,2020,WIN,Restr,no_add_code,-,H,5,-,T,845-1045,UW1,060,"Porter, Ian",Open,28,30,-,-,B
-BCORE117,VIS LIT PRFM ART 2,BCORE,2020,WIN,Restr,no_add_code,-,I,5,-,TTh,115-315,DISC,061,"Doyle, Gavin T",Open,28,30,-,-,-
+BCORE117,VIS LIT PRFM ART 2,BCORE,2020,WIN,Restr,-,-,I,5,-,TTh,115-315,DISC,061,"Doyle, Gavin T",Open,28,30,-,-,-
 BCORE211,DC SPECIAL TOPICS,BCORE,2020,WIN,no_restriction,no_add_code,10919,A,2,-,W,330-530,UW2,131,"Takahashi, Curtis",Closed,30,30,CR_NC,-,B

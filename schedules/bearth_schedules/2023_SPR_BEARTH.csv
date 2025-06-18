@@ -1,6 +1,6 @@
-Class Number,Class,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BEARTH153,INTRO GEOLOGY,no_restriction,no_add_code,11166,A,5,-,Th,115-315,DISC,369,"Kochanski, Mark",Closed,24,24,-,$20,B
-BEARTH154,INTRO OCEANOGRAPHY,no_restriction,no_add_code,21237,A,5,-,TTh,1100-100,UW1,102,"Galindo, Heather M",Open,38,40,-,-,-
-BEARTH155,INTRO TO CLIMATE SCI,no_restriction,no_add_code,11167,A,5,-,TTh,115-315,UW1,220,"Fields, Tracy A",Open,45,48,-,-,-
-BEARTH310,WEATHER AND CLIMATE ,no_restriction,no_add_code,21247,A,5,-,MW,330-530,UW2,205,"Salathe, Eric P",Open,6,30,-,-,-
-BEARTH321,GEOMORPHOLOGY,no_restriction,no_add_code,11168,A,5,-,TTh,1100-100,DISC,369,"Turner, Rob",Open,16,24,-,-,-
+Class Number,Class,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other,Year,Quarter
+BEARTH153,INTRO GEOLOGY,-,-,11166,A,5,-,Th,115-315,DISC,369,"Kochanski, Mark",Closed,24,24,-,$20,B,2023,SPR
+BEARTH154,INTRO OCEANOGRAPHY,no_restriction,no_add_code,21237,A,5,-,TTh,1100-100,UW1,102,"Galindo, Heather M",Open,38,40,-,-,-,2023,SPR
+BEARTH155,INTRO TO CLIMATE SCI,no_restriction,no_add_code,11167,A,5,-,TTh,115-315,UW1,220,"Fields, Tracy A",Open,45,48,-,-,-,2023,SPR
+BEARTH310,WEATHER AND CLIMATE ,no_restriction,no_add_code,21247,A,5,-,MW,330-530,UW2,205,"Salathe, Eric P",Open,6,30,-,-,-,2023,SPR
+BEARTH321,GEOMORPHOLOGY,-,-,11168,A,5,-,TTh,1100-100,DISC,369,"Turner, Rob",Open,16,24,-,-,-,2023,SPR

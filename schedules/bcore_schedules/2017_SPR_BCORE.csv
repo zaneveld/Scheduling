@@ -1,7 +1,7 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
 BCORE118,INDVDUALS & SOC 3,BCORE,2017,SPR,Restr,no_add_code,-,A,5,-,M,1100-100,UW2,040,"Brockhaus, Andreas J.",Open,29,30,-,-,WB
 BCORE118,INDVDUALS & SOC 3,BCORE,2017,SPR,Restr,no_add_code,-,B,5,-,TTh,1100-100,UWBB,205,"Buttler, Tasha M",Open,29,30,-,-,-
-BCORE118,INDVDUALS & SOC 3,BCORE,2017,SPR,Restr,no_add_code,-,C,5,-,MW,115-315,UW2,221,"Spiegler, Louise",Closed,30,30,-,-,-
+BCORE118,INDVDUALS & SOC 3,BCORE,2017,SPR,Restr,-,-,C,5,-,MW,115-315,UW2,221,"Spiegler, Louise",Closed,30,30,-,-,-
 BCORE118,INDVDUALS & SOC 3,BCORE,2017,SPR,Restr,no_add_code,-,D,5,-,TTh,330-530,UW2,221,"Nixon, David M.",Open,28,30,-,-,-
 BCORE118,INDVDUALS & SOC 3,BCORE,2017,SPR,Restr,no_add_code,-,E,5,-,TTh,115-315,UW2,040,"Redwood, Loren K.",Open,29,30,-,-,-
 BCORE118,INDVDUALS & SOC 3,BCORE,2017,SPR,Restr,no_add_code,-,F,5,-,MW,845-1045,UW1,060,"Lambacher, Jason F",Open,21,30,-,-,-

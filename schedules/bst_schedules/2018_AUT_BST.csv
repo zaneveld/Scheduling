@@ -1,11 +1,11 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BST153,INTRO GEOLOGY,BST,2018,AUT,no_restriction,no_add_code,11935,A,5,-,MW,845-1045,DISC,369,-,-,-,-,-,-," Note: couldn't interpret '369', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '5', in original. Note: couldn't interpret '12', in original. Note: couldn't interpret 'J', in original."
-BST154,INTRO OCEANOGRAPHY,BST,2018,AUT,no_restriction,no_add_code,11936,A,5,-,MW,330-530,DISC,252,"Galindo, Heather Michelle",Open,13,24,-,-,J
+BST153,INTRO GEOLOGY,BST,2018,AUT,-,-,11935,A,5,-,MW,845-1045,DISC,369,-,-,-,-,-,-," Note: couldn't interpret '369', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '5', in original. Note: couldn't interpret '12', in original. Note: couldn't interpret 'J', in original."
+BST154,INTRO OCEANOGRAPHY,BST,2018,AUT,-,-,11936,A,5,-,MW,330-530,DISC,252,"Galindo, Heather Michelle",Open,13,24,-,-,J
 BST200,INTRO TO CLIMATE SCI,BST,2018,AUT,no_restriction,no_add_code,11937,A,5,-,TTh,115-315,UW2,211,"Galindo, Heather Michelle",Open,29,30,-,-,-
 BST205,WOMEN IN STEM,BST,2018,AUT,no_restriction,no_add_code,23478,A,3,-,TTh,1100-1230,UWBB,205,"Hill, Erin",Open,26,30,-,-,%
 BST301,SCIENTIFIC WRITING,BST,2018,AUT,no_restriction,no_add_code,11938,A,5,-,MW,115-315,UW1,261,"Galindo, Heather Michelle",Closed,24,24,-,-,W
-BST498,IND STUDY SCI TECH,BST,2018,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,11940,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '5', in original."
-BST498,IND STUDY SCI TECH,BST,2018,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,11941,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '5', in original. Note: couldn't interpret 'CR_NC', in original."
-BST498,IND STUDY SCI TECH,BST,2018,AUT,-,-,-,IS,-,-,-,-,-,-,-,-,-,-,-,-,"add_code_required Note: couldn't interpret '11942', in original. Note: couldn't interpret 'C', in original. Note: couldn't interpret '1-5', in original. Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '15', in original."
-BST499,UG RESEARCH SCI TECH,BST,2018,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,11943,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '5', in original."
-BST499,UG RESEARCH SCI TECH,BST,2018,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,11944,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '5', in original. Note: couldn't interpret 'CR_NC', in original."
+BST498,IND STUDY SCI TECH,BST,2018,AUT,IS,-,11940,A,1-5,-,-,to_be_arranged,-,-,-,Open,0,5,-,-,-
+BST498,IND STUDY SCI TECH,BST,2018,AUT,IS,-,11941,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,5,CR_NC,-,-
+BST498,IND STUDY SCI TECH,BST,2018,AUT,IS,add_code_required,11942,C,1-5,-,-,to_be_arranged,-,0,-,-,15,-,-,-,-
+BST499,UG RESEARCH SCI TECH,BST,2018,AUT,IS,-,11943,A,1-5,-,-,to_be_arranged,-,-,-,Open,0,5,-,-,-
+BST499,UG RESEARCH SCI TECH,BST,2018,AUT,IS,-,11944,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,5,CR_NC,-,-

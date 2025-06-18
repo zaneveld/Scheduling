@@ -1,0 +1,93 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BIS209,VISUAL & MEDIA,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,TTh,330-530,UW2,240,"Laynor, Gregory Daniel",Open,43,45,-,-,-
+BIS218,THE POWER OF MAPS,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,TTh,330-530,UW1,120,"Gordon, Elyse S.",Open,23,32,-,-,%
+BIS224,INTRO FEMINIST STDY ,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,MW,1100-100,UW1,041,"Robert_Hoyt, Nicole L.",Open,44,45,-,-,-
+BIS225,SOCIAL PSYCHOLOGY,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,MW,330-530,UW1,221,"Silva, Janelle M",Open,44,45,-,-,-
+BIS232,DATA VISUALIZATION,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,TTh,845-1045,UW1,121,"Cook, Katherine Ann",Closed,33,32,-,-,-
+BIS236,INTERACTIVE MEDIA,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,MW,845-1045,UW1,210,"Gregory, Wanda V",Open,44,45,-,-,%
+BIS237,PUBLIC SPEAKING/COM ,BIS,2016,WIN,Restr,-,-,A,5,-,TTh,115-315,UW1,220,"Vaughan, Denise A",Closed,45,45,-,-,%
+BIS241,NATURE IN NORTHWEST ,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,MW,1100-100,LBA,003,"Crandell, Caren",Open,28,30,-,-,-
+BIS242,ENVIRONMENTAL GEOG,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,MW,330-530,UW2,240,"Lopez, Santiago",Closed,45,45,-,-,-
+BIS243,INTRO ENVIRON ISS,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,MW,845-1045,UW2,031,"Stokes, David L.",Open,44,45,-,-,-
+BIS255,CRITICAL DIVERSITY,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,MW,1100-100,LB1,203,"Merchant, Natasha",Open,27,29,-,-,%J
+BIS256,INTRO AFR AMER STDY ,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,TTh,1100-100,UW1,220,"Berger, Daniel",Open,44,45,-,-,%
+BIS257,INTRO ASIAN AM STDY ,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,MW,845-1045,UW2,131,"Wong, Jane",Open,44,45,-,-,%
+BIS258,INTRO LATINA/O STUDY,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,MW,330-530,UW2,031,"Baros, Richard A.",Open,15,45,-,-,%
+BIS263,LIT INTO FILM,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '240', in original. Note: couldn't interpret 'GOLDSTEIN,DAVID', in original. Note: couldn't interpret 'S.', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '38', in original. Note: couldn't interpret '45', in original."
+BIS270,ABNORMAL PSYCHOLOGY ,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,TTh,845-1045,UW2,141,"Stewart, John Eric",Open,44,45,-,-,-
+BIS282,GLOBALIZATION,BIS,2016,WIN,Restr,-,-,A,5,-,MW,845-1045,UW2,141,"Leissle, Kristy A.",Open,40,45,-,-,-
+BIS284,INTL RELATIONS,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,MW,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '110', in original. Note: couldn't interpret 'NAZEMI,NADER', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '13', in original. Note: couldn't interpret '45', in original."
+BIS284,INTL RELATIONS,BIS,2016,WIN,Restr,no_add_code,-,B,5,-,TTh,115-315,UW2,031,"Lambacher, Jason F",Open,44,45,-,-,-
+BIS285,SEMINAR IN BIOLOGY,BIS,2016,WIN,Restr,no_add_code,-,A,3,-,W,115-315,UW1,010,"Price, Rebecca M",Closed,12,12,-,-,%J
+BIS285,SEMINAR IN BIOLOGY,BIS,2016,WIN,Restr,no_add_code,-,B,3,-,Th,115-315,UWBB,205,"Price, Rebecca M",Open,11,12,-,-,%J
+BIS293,SPECIAL TOPICS,BIS,2016,WIN,Restr,no_add_code,-,C,5,-,TTh,1100-100,UW1,041,"Wood, Alan T",Open,35,45,-,-,-
+BIS300,INTERDISC INQUIRY,BIS,2016,WIN,Restr,-,-,A,5,-,MW,115-315,DISC,061,"Lichty, Lauren F.",Closed,30,30,-,-,W
+BIS300,INTERDISC INQUIRY,BIS,2016,WIN,Restr,-,-,B,5,-,TTh,1100-100,UW2,340,"Kellejian, Kristine E.",Closed,32,30,-,-,W
+BIS300,INTERDISC INQUIRY,BIS,2016,WIN,Restr,no_add_code,-,C,5,-,TTh,845-1045,UWBB,240,"Goldstein, David S.",Open,29,30,-,-,W
+BIS300,INTERDISC INQUIRY,BIS,2016,WIN,Restr,no_add_code,-,D,5,-,MW,1100-100,UW2,221,"Kurian, Alka",Open,29,30,-,-,W
+BIS300,INTERDISC INQUIRY,BIS,2016,WIN,Restr,no_add_code,-,E,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '060', in original. Note: couldn't interpret 'CHARUSHEELA,S.', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '29', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret 'W', in original."
+BIS312,APPRS SOCIAL RESRCH ,BIS,2016,WIN,Restr,-,-,A,5,-,Th,1100-100,DISC,162,"Lerum, Kari A",Closed,36,32,-,-,-
+BIS312,APPRS SOCIAL RESRCH ,BIS,2016,WIN,Restr,no_add_code,-,B,5,-,Th,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '110', in original. Note: couldn't interpret 'LERUM,KARI', in original. Note: couldn't interpret 'A', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '29', in original. Note: couldn't interpret '32', in original."
+BIS313,ISSUES MEDIA STDY,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,TTh,845-1045,UW1,221,"Krabill, Ronald Stanley",Closed,45,45,-,-,-
+BIS313,ISSUES MEDIA STDY,BIS,2016,WIN,Restr,no_add_code,-,C,5,-,-,"to_be_arranged_ROBERTS,GEORGIA",M.,-,-,Closed,37,30,-,-,D
+BIS313,ISSUES MEDIA STDY,BIS,2016,WIN,Restr,no_add_code,-,D,5,-,MW,115-315,UW1,210,"Gregory, Wanda V",Closed,46,45,-,-,-
+BIS314,TOPICS IN GEOGRAPHY ,BIS,2016,WIN,Restr,-,-,A,5,-,TTh,115-315,DISC,258,"Oh, Gunwha",Open,21,24,-,-,-
+BIS315,UNDERSTANDING STATS ,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,MW,1100-100,UW1,121,"Twinam, Tate A",Open,26,32,-,-,-
+BIS315,UNDERSTANDING STATS ,BIS,2016,WIN,Restr,no_add_code,-,B,5,-,TTh,1100-100,UW1,121,"Hillyard, Cinnamon",Closed,33,32,-,-,-
+BIS315,UNDERSTANDING STATS ,BIS,2016,WIN,Restr,no_add_code,-,C,5,-,TTh,115-315,UW1,121,"Cook, Katherine Ann",Open,31,32,-,-,-
+BIS316,TPCS IN PSYCHOLOGY,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,MW,845-1045,UW1,041,"Lichty, Lauren F.",Closed,45,45,-,-,-
+BIS323,HSTRY OF PHOTOGRAPHY,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,TTh,1100-100,UW1,110,"Caplow, Deborah",Open,41,45,-,-,%
+BIS328,DVSTY LDRSHP ENGMNT ,BIS,2016,WIN,-,add_code_required,11662,A,5,-,TTh,1100-100,LBA,003,"Kurashige, Scott T.",-,21,20,-,-,%J
+BIS330,DEMOCRATIC CAPITLSM ,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,MW,330-530,UW1,121,"Kim, Kevin",Open,23,32,-,-,-
+BIS335,HUMAN RIGHTS IN US,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,TTh,115-315,UW1,102,"Streichler, Stuart Alan",Closed,45,45,-,-,-
+BIS339,GLOBAL CLTR STDY,BIS,2016,WIN,Restr,-,-,A,5,-,TTh,1100-100,UW1,051,"Trumbull, Raissa Desmet",Open,30,45,-,-,-
+BIS340,APPRS CULTURAL RES,BIS,2016,WIN,Restr,-,-,A,5,-,MW,1100-100,UW2,240,"Trumbull, Raissa Desmet",Closed,36,32,-,-,-
+BIS341,STUDY OF CULTURE,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,TTh,330-530,UW1,221,"Valle, Gabriel R",Closed,45,45,-,-,-
+BIS341,STUDY OF CULTURE,BIS,2016,WIN,Restr,no_add_code,-,B,5,-,MW,330-530,UW1,051,"Martin, Minda J.",Open,43,45,-,-,-
+BIS341,STUDY OF CULTURE,BIS,2016,WIN,Restr,no_add_code,-,C,5,-,MW,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '221', in original. Note: couldn't interpret 'HAREWOOD,SUSAN', in original. Note: couldn't interpret 'JUANITA', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '9', in original. Note: couldn't interpret '45', in original."
+BIS342,GEOG INF SYS,BIS,2016,WIN,Restr,-,-,A,5,-,MW,115-315,DISC,258,"Jung, Jin-Kyu",Closed,25,24,-,-,-
+BIS347,HIST AM DOCUM FILM,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,T,330-745,UW1,051,"Yum, Samuel M.",Open,28,45,-,-,-
+BIS347,HIST AM DOCUM FILM,BIS,2016,WIN,Restr,no_add_code,-,B,5,-,MW,1100-100,UW2,305,"Goldstein, David S.",Closed,40,40,-,-,-
+BIS356,ETHICS & ENVIRONMNT ,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,TTh,1100-100,UW2,141,"Atkinson, Jennifer W",Open,44,45,-,-,-
+BIS370,19TH CENT AM LIT,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,TTh,115-315,UW2,131,"Roberts, Georgia M.",Open,43,45,-,-,-
+BIS374,MID-EAST POLITICS,BIS,2016,WIN,Restr,-,-,A,5,-,MW,115-315,DISC,162,"Dana, Karam",Open,44,90,-,-,%
+BIS379,AM ETHNIC LIT,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,MW,330-530,UW1,210,"Murr, Jonathan E",Closed,45,45,-,-,-
+BIS380,BIOETHICS,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '005', in original. Note: couldn't interpret 'HARKEWICZ,LAURA', in original. Note: couldn't interpret 'J.', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '45', in original. Note: couldn't interpret '45', in original. Note: couldn't interpret '%', in original."
+BIS387,WOMEN & AMER LIT,BIS,2016,WIN,Restr,-,-,A,5,-,MW,845-1045,DISC,252,"Pedersen, Alice L",Open,43,45,-,-,-
+BIS393,SPECIAL TOPICS,BIS,2016,WIN,Restr,no_add_code,-,B,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '102', in original. Note: couldn't interpret 'STREICHLER,STUART', in original. Note: couldn't interpret 'ALAN', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '32', in original. Note: couldn't interpret '45', in original."
+BIS396,TOPS SUSTAINABILITY ,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,F,845-100,UW1,121,"Rivera, Rebeca F",Open,23,24,-,-,-
+BIS397,TOPICS ENVIR STDYS,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UWBB Note: couldn't interpret '240', in original. Note: couldn't interpret 'LAMBERT,AMY', in original. Note: couldn't interpret 'M', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret '45', in original."
+BIS398,DIR STUDY/RESEARCH,BIS,2016,WIN,IS,add_code_required,11681,A,1-5,-,-,to_be_arranged,-,20,-,-,-,-,-,-,10E
+BIS399,PRTFLIO&CAREER DEV,BIS,2016,WIN,Restr,no_add_code,-,A,2,-,M,330-530,UW2,307,"Redwood, Loren K.",Open,7,18,-,-,-
+BIS406,URBAN PLAN & GEOG,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,MW,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '307', in original. Note: couldn't interpret 'JUNG,JIN-KYU', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '10', in original. Note: couldn't interpret '10', in original. Note: couldn't interpret '%J', in original."
+BIS407,CHILDREN'S LIT,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,MW,1100-100,UW1,040,"Watts, Linda S",Open,38,40,-,-,-
+BIS410,QUALITATIVE INQUIRY ,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,TTh,330-530,UW2,131,"Rivera, Rebeca F",Open,11,40,-,-,-
+BIS442,ADV GIS ANLYS &APP,BIS,2016,WIN,Restr,-,-,A,5,-,MW,1100-100,DISC,258,"Lopez, Santiago",Open,5,24,-,-,%
+BIS445,REALITY OF INEQUAL,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,TTh,330-530,UW2,141,"Lanza, Caroline",Open,37,40,-,-,-
+BIS448,SOCIAL POLICY,BIS,2016,WIN,Restr,-,-,A,5,-,MW,1100-100,DISC,162,"Carlisle, Shauna",Open,39,40,-,-,%
+BIS466,H RGTS & RESISTANCE ,BIS,2016,WIN,Restr,-,-,A,5,-,MW,330-530,DISC,162,"Kochis, Bruce E.",Open,29,40,-,-,-
+BIS470,"ART,POL,&SOC CHANG",BIS,2016,WIN,Restr,no_add_code,-,A,5,-,MW,330-530,UW1,030,"Robert_Hoyt, Nicole L.",Open,20,40,-,-,-
+BIS483,COMM ORGANIZING,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,MW,115-315,LBA,003,"Collins, Charles R.",Closed,19,18,-,-,%
+BIS490,ADVANCED SEMINAR,BIS,2016,WIN,Restr,no_add_code,-,A,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '228', in original. Note: couldn't interpret 'DANBY,COLIN', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '8', in original. Note: couldn't interpret '18', in original. Note: couldn't interpret 'W', in original."
+BIS490,ADVANCED SEMINAR,BIS,2016,WIN,Restr,-,-,B,5,-,F,845-1230,UW2,228,"Kochis, Bruce E.",Open,9,18,-,-,W
+BIS490,ADVANCED SEMINAR,BIS,2016,WIN,Restr,no_add_code,-,C,5,-,F,115-530,UW1,121,"Lanza, Caroline",Open,10,18,-,-,W
+BIS490,ADVANCED SEMINAR,BIS,2016,WIN,Restr,-,-,D,5,-,Th,330-745,SSG,CNSVTRY,"Gustafson, Kristin Louise",Open,4,12,-,-,WJ
+BIS490,ADVANCED SEMINAR,BIS,2016,WIN,-,add_code_required,11697,E,5,-,MW,115-315,UW2,228,"Stokes, David L.",-,6,6,-,-,WJ
+BIS490,ADVANCED SEMINAR,BIS,2016,WIN,-,add_code_required,11698,F,5,-,MW,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '031', in original. Note: couldn't interpret 'SHAYNE,JULIE', in original. Note: couldn't interpret '8', in original. Note: couldn't interpret '8', in original. Note: couldn't interpret 'WJ', in original."
+BIS490,ADVANCED SEMINAR,BIS,2016,WIN,Restr,no_add_code,-,G,5,-,TTh,845-1045,UW1,041,"Giles, David",Open,17,18,-,-,W
+BIS490,ADVANCED SEMINAR,BIS,2016,WIN,Restr,no_add_code,-,H,5,-,MW,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '228', in original. Note: couldn't interpret 'EVANS,HEATHER', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '18', in original. Note: couldn't interpret '18', in original. Note: couldn't interpret 'WS', in original."
+BIS492,SENIOR THESIS,BIS,2016,WIN,IS,add_code_required,11699,A,5,-,-,to_be_arranged,-,1,-,-,10,-,-,-,W
+BIS494,TASK FORCE,BIS,2016,WIN,-,add_code_required,11700,A,2,-,M,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '221', in original. Note: couldn't interpret 'WALSH,CAMILLE', in original. Note: couldn't interpret 'L', in original. Note: couldn't interpret '3', in original. Note: couldn't interpret '12', in original. Note: couldn't interpret 'CR_NC', in original."
+BIS494,TASK FORCE,BIS,2016,WIN,Restr,-,-,B,3,-,Th,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '031', in original. Note: couldn't interpret 'VAUGHAN,DENISE', in original. Note: couldn't interpret 'A', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '6', in original. Note: couldn't interpret '20', in original."
+BIS494,TASK FORCE,BIS,2016,WIN,-,add_code_required,21517,C,3,-,-,to_be_arranged,*,*,"Vaughan, Denise A",-,0,20,-,-,-
+BIS495,INTERNSHIP,BIS,2016,WIN,-,add_code_required,11702,A,-,-,-,2-6,F,-,-,-,-,-,-,-,"100-300 Note: couldn't interpret 'UWBB', in original. Note: couldn't interpret '260', in original. Note: couldn't interpret 'REDWOOD,LOREN', in original. Note: couldn't interpret 'K.', in original. Note: couldn't interpret '9', in original. Note: couldn't interpret '15', in original. Note: couldn't interpret 'CR_NC', in original."
+BIS497,STATE INTERNSHIP,BIS,2016,WIN,-,add_code_required,11703,A,5,-,-,to_be_arranged,-,-,"Spaulding, Randall S.",-,3,-,-,-,5E
+BIS497,STATE INTERNSHIP,BIS,2016,WIN,-,add_code_required,11704,B,5,-,-,to_be_arranged,-,-,"Spaulding, Randall S.",-,2,-,-,-,5E
+BIS497,STATE INTERNSHIP,BIS,2016,WIN,-,add_code_required,11705,C,5,-,-,to_be_arranged,-,-,"Spaulding, Randall S.",-,2,-,-,-,5E
+BIS498,UNDERGRAD RESEARCH,BIS,2016,WIN,IS,add_code_required,11706,A,1-5,-,-,to_be_arranged,-,23,-,-,-,-,-,-,10E
+BIS499,PORTFOLIO CAPSTONE,BIS,2016,WIN,Restr,no_add_code,-,A,3,-,W,845-1045,UW1,060,"Caplow, Deborah",Open,22,24,-,-,W
+BIS499,PORTFOLIO CAPSTONE,BIS,2016,WIN,Restr,no_add_code,-,B,3,-,T,845-1045,UW1,031,"Caplow, Deborah",Open,16,24,-,-,W
+BIS499,PORTFOLIO CAPSTONE,BIS,2016,WIN,Restr,no_add_code,-,C,3,-,W,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '040', in original. Note: couldn't interpret 'CHARUSHEELA,S.', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '24', in original. Note: couldn't interpret '24', in original. Note: couldn't interpret 'W', in original."
+BIS499,PORTFOLIO CAPSTONE,BIS,2016,WIN,Restr,no_add_code,-,D,3,-,Th,845-1045,UW1,031,"Kurian, Alka",Open,21,24,-,-,W
+BIS499,PORTFOLIO CAPSTONE,BIS,2016,WIN,Restr,-,-,E,3,-,T,1100-100,DISC,162,"Goldberg, Michael L.",Closed,24,24,-,-,W
+BIS499,PORTFOLIO CAPSTONE,BIS,2016,WIN,Restr,no_add_code,-,F,3,-,W,115-315,UW1,031,"Shimabukuro, Mira Chieko",Open,23,24,-,-,W

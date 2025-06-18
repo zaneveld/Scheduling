@@ -1,36 +1,36 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BBIO180,INTRO BIOLOGY I,BBIO,2016,AUT,no_restriction,no_add_code,10726,A,5,-,TTh,845-1045,DISC,061,"Jensen, Jeffrey",Open,90,144,-,$70,-
-BBIO180,INTRO BIOLOGY I,BBIO,2016,AUT,no_restriction,no_add_code,10727,AA,-,LB,M,845-1045,DISC,263,"Jensen, Jeffrey",Open,13,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2016,AUT,no_restriction,no_add_code,10728,AB,-,LB,M,1115-115,DISC,263,"Jensen, Jeffrey",Open,23,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2016,AUT,no_restriction,no_add_code,10729,AC,-,LB,W,845-1045,DISC,263,"Crowther, Gregory J.",Open,16,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2016,AUT,no_restriction,no_add_code,10730,AD,-,LB,W,1115-115,DISC,263,"Crowther, Gregory J.",Open,17,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2016,AUT,no_restriction,no_add_code,10731,AE,-,LB,M,145-345,DISC,263,"Crowther, Gregory J.",Open,21,24,-,-,-
-BBIO220,INTRO BIOLOGY III,BBIO,2016,AUT,no_restriction,no_add_code,10733,A,5,-,TTh,1100-100,DISC,162,"Al-Noori, Salwa",Open,39,60,-,$70,-
-BBIO220,INTRO BIOLOGY III,BBIO,2016,AUT,no_restriction,no_add_code,10734,AA,-,LB,W,130-330,DISC,267,"Al-Noori, Salwa",Open,23,24,-,-,-
-BBIO220,INTRO BIOLOGY III,BBIO,2016,AUT,no_restriction,no_add_code,10735,AB,-,LB,M,1100-100,DISC,267,"Al-Noori, Salwa",Open,16,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2016,AUT,-,-,10726,A,5,-,TTh,845-1045,DISC,061,"Jensen, Jeffrey",Open,90,144,-,$70,-
+BBIO180,INTRO BIOLOGY I,BBIO,2016,AUT,-,-,10727,AA,-,LB,M,845-1045,DISC,263,"Jensen, Jeffrey",Open,13,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2016,AUT,-,-,10728,AB,-,LB,M,1115-115,DISC,263,"Jensen, Jeffrey",Open,23,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2016,AUT,-,-,10729,AC,-,LB,W,845-1045,DISC,263,"Crowther, Gregory J.",Open,16,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2016,AUT,-,-,10730,AD,-,LB,W,1115-115,DISC,263,"Crowther, Gregory J.",Open,17,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2016,AUT,-,-,10731,AE,-,LB,M,145-345,DISC,263,"Crowther, Gregory J.",Open,21,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2016,AUT,-,-,10733,A,5,-,TTh,1100-100,DISC,162,"Al-Noori, Salwa",Open,39,60,-,$70,-
+BBIO220,INTRO BIOLOGY III,BBIO,2016,AUT,-,-,10734,AA,-,LB,W,130-330,DISC,267,"Al-Noori, Salwa",Open,23,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2016,AUT,-,-,10735,AB,-,LB,M,1100-100,DISC,267,"Al-Noori, Salwa",Open,16,24,-,-,-
 BBIO225,SCIENTIFIC WRITING,BBIO,2016,AUT,no_restriction,no_add_code,22590,A,5,-,MW,845-1045,UW2,211,"Galindo, Heather Michelle",Open,18,20,-,-,%WJ
 BBIO231,GENES & HEREDITY,BBIO,2016,AUT,no_restriction,no_add_code,10737,A,5,-,MW,115-315,LBA,003,"McNabb, Susan L",Open,13,15,-,-,J
 BBIO235,SALMON AND SOCIETY,BBIO,2016,AUT,no_restriction,no_add_code,10738,A,5,-,F,845-1245,UWBB,107G,"Jensen, Jeffrey",Open,13,24,-,$100,-
 BBIO260,MEDICAL MICROBIOL,BBIO,2016,AUT,Restr,no_add_code,-,A,6,-,MW,115-315,UW1,031,"Sen, Keya",Open,29,30,-,$50,-
-BBIO260,MEDICAL MICROBIOL,BBIO,2016,AUT,Restr,no_add_code,-,AA,-,LB,TTh,845-1045,DISC,263,"Sen, Keya",Closed,15,15,-,-,-
-BBIO260,MEDICAL MICROBIOL,BBIO,2016,AUT,Restr,no_add_code,-,AB,-,LB,TTh,115-315,DISC,263,"Sen, Keya",Open,14,15,-,-,-
+BBIO260,MEDICAL MICROBIOL,BBIO,2016,AUT,Restr,-,-,AA,-,LB,TTh,845-1045,DISC,263,"Sen, Keya",Closed,15,15,-,-,-
+BBIO260,MEDICAL MICROBIOL,BBIO,2016,AUT,Restr,-,-,AB,-,LB,TTh,115-315,DISC,263,"Sen, Keya",Open,14,15,-,-,-
 BBIO310,BRAIN AND BEHAVIOR,BBIO,2016,AUT,no_restriction,no_add_code,10743,A,5,-,MW,845-1045,UW2,005,"White, Bryan D.",Closed,83,75,-,-,-
 BBIO351,ANAT & PHYSIOL I,BBIO,2016,AUT,-,add_code_required,10744,A,5,-,TTh,845-1045,DISC,252,"Price, Michele",-,60,60,-,$160,-
 BBIO351,ANAT & PHYSIOL I,BBIO,2016,AUT,-,add_code_required,10745,AA,-,LB,T,200-500,DISC,267,"Price, Michele",-,20,20,-,-,-
 BBIO351,ANAT & PHYSIOL I,BBIO,2016,AUT,-,add_code_required,10746,AB,-,LB,Th,200-500,DISC,267,"Price, Michele",-,19,20,-,-,-
 BBIO351,ANAT & PHYSIOL I,BBIO,2016,AUT,-,add_code_required,10747,AC,-,LB,F,845-1145,DISC,267,"Price, Michele",-,21,20,-,-,-
-BBIO360,INTRO GENETICS,BBIO,2016,AUT,no_restriction,no_add_code,10748,A,5,-,MW,1100-100,DISC,252,"Madzima, Thelma F",Open,59,60,-,-,-
+BBIO360,INTRO GENETICS,BBIO,2016,AUT,-,-,10748,A,5,-,MW,1100-100,DISC,252,"Madzima, Thelma F",Open,59,60,-,-,-
 BBIO364,BIOCHEMISTRY I,BBIO,2016,AUT,-,add_code_required,10749,A,5,-,MW,845-1045,UW1,202,"Robins, Lori",-,23,24,-,-,J
-BBIO365,BIOCHEMISTRY II,BBIO,2016,AUT,no_restriction,no_add_code,10750,A,5,-,TTh,1100-100,UW2,305,"Lewis, Alaron",Closed,15,15,-,-,J
-BBIO366,BIOCHEMISTRY LAB,BBIO,2016,AUT,no_restriction,no_add_code,10751,A,3,-,M,330-430,DISC,469,"Robins, Lori",Closed,9,16,-,$60,J
+BBIO365,BIOCHEMISTRY II,BBIO,2016,AUT,-,-,10750,A,5,-,TTh,1100-100,UW2,305,"Lewis, Alaron",Closed,15,15,-,-,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2016,AUT,-,-,10751,A,3,-,M,330-430,DISC,469,"Robins, Lori",Closed,9,16,-,$60,J
 BBIO366,BIOCHEMISTRY LAB,BBIO,2016,AUT,-,add_code_required,10752,AA,-,LB,T,845-1145,DISC,469,"Robins, Lori",-,5,6,-,-,J
 BBIO366,BIOCHEMISTRY LAB,BBIO,2016,AUT,-,add_code_required,10753,AB,-,LB,T,1215-315,DISC,469,"Robins, Lori",-,4,6,-,-,J
 BBIO370,MICROBIOLOGY,BBIO,2016,AUT,-,add_code_required,10754,A,5,-,TTh,115-315,UWBB,240,"Stredwick, Kristina Linnea",-,46,48,-,$150,-
 BBIO370,MICROBIOLOGY,BBIO,2016,AUT,-,add_code_required,10755,AA,-,LB,F,845-1045,DISC,263,"Stredwick, Kristina Linnea",-,23,24,-,-,-
 BBIO370,MICROBIOLOGY,BBIO,2016,AUT,-,add_code_required,10756,AB,-,LB,F,115-315,DISC,263,"Stredwick, Kristina Linnea",-,23,24,-,-,-
 BBIO375,MOLECULAR BIOLOGY,BBIO,2016,AUT,no_restriction,no_add_code,10757,A,5,-,TTh,330-530,UW2,305,"Ma, Eva",Open,13,20,-,-,J
-BBIO380,CELL BIOLOGY,BBIO,2016,AUT,no_restriction,no_add_code,10758,A,5,-,F,1100-200,UW1,010,"Lewis, Alaron",Open,43,48,-,-,-
-BBIO466,EVOLUTION,BBIO,2016,AUT,no_restriction,no_add_code,10761,A,5,-,TTh,1100-100,DISC,252,"Valdez, Maria Ursula",Open,47,60,-,-,-
+BBIO380,CELL BIOLOGY,BBIO,2016,AUT,-,-,10758,A,5,-,F,1100-200,UW1,010,"Lewis, Alaron",Open,43,48,-,-,-
+BBIO466,EVOLUTION,BBIO,2016,AUT,-,-,10761,A,5,-,TTh,1100-100,DISC,252,"Valdez, Maria Ursula",Open,47,60,-,-,-
 BBIO495,INVESTIGATIVE BIO,BBIO,2016,AUT,-,add_code_required,10762,A,5,-,TTh,1100-100,DISC,267,"Wacker, Douglas",-,12,12,-,$130,-
 BBIO495,INVESTIGATIVE BIO,BBIO,2016,AUT,-,add_code_required,10763,B,5,-,MW,1100-100,UWBB,270,"White, Bryan D.",-,12,12,-,$130,-
 BBIO495,INVESTIGATIVE BIO,BBIO,2016,AUT,-,add_code_required,10764,C,5,-,TTh,1100-100,SSG,CNSVTRY,"Chang, Cynthia",-,12,12,-,$20,-

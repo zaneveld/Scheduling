@@ -1,0 +1,30 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BBIO200,INTRO BIOLOGY II,BBIO,2025,SPR,-,-,10666,A,5,-,TTh,845-1045,DISC,061,"Cooper, Tim",Open,62,72,-,$70,-
+BBIO200,INTRO BIOLOGY II,BBIO,2025,SPR,-,-,10667,AA,-,LB,W,1100-100,DISC,263,"Upreti, Reshmi",Open,17,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2025,SPR,-,-,10668,AB,-,LB,W,130-330,DISC,263,"Shih, Han-Wei",Open,22,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2025,SPR,-,-,10669,AC,-,LB,Th,1100-100,DISC,263,"Ostrowski, Elizabeth",Open,23,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2025,SPR,-,-,10670,A,5,-,TTh,845-1045,DISC,162,"Al-Noori, Salwa",Open,89,96,-,$70,-
+BBIO220,INTRO BIOLOGY III,BBIO,2025,SPR,-,-,10671,AA,-,LB,M,1100-100,DISC,267,"Al-Noori, Salwa",Open,20,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2025,SPR,-,-,10672,AB,-,LB,M,130-330,DISC,267,"Al-Noori, Salwa",Open,23,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2025,SPR,-,-,10673,AC,-,LB,W,1100-100,DISC,267,"Al-Noori, Salwa",Open,22,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2025,SPR,-,-,10674,AD,-,LB,W,130-330,DISC,267,"Al-Noori, Salwa",Closed,24,24,-,-,-
+BBIO285,SEMINAR IN BIOLOGY,BBIO,2025,SPR,no_restriction,no_add_code,10676,A,3,-,Th,1100-100,UW1,051,"Price, Becca",Open,13,10,-,-,J
+BBIO310,BRAIN AND BEHAVIOR,BBIO,2025,SPR,Restr,no_add_code,-,A,5,-,MW,845-1045,UW2,005,"Downs, Jodi L",Open,84,90,-,-,-
+BBIO330,MARINE BIOLOGY,BBIO,2025,SPR,no_restriction,no_add_code,10678,A,5,-,F,1100-300,UW1,221,"Galindo, Heather M",Closed,18,18,-,$113,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2025,SPR,no_restriction,no_add_code,10679,A,5,-,TTh,845-1045,INV,134,"Jensen, Jeffrey",Open,22,24,-,$110,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2025,SPR,-,-,10681,AB,-,LB,Th,115-415,DISC,267,"Jensen, Jeffrey",Open,22,24,-,-,-
+BBIO360,INTRO GENETICS,BBIO,2025,SPR,no_restriction,no_add_code,10682,A,5,-,MW,1100-100,UW1,110,"Gillis, Ian",Open,44,48,-,-,-
+BBIO364,BIOCHEMISTRY I,BBIO,2025,SPR,no_restriction,no_add_code,10683,A,5,-,MW,845-1045,UW2,141,"Shippy, Scott",Open,13,24,-,-,J
+BBIO370,MICROBIOLOGY,BBIO,2025,SPR,no_restriction,no_add_code,10684,A,5,-,MW,330-530,UW1,221,"Upreti, Reshmi",Open,44,48,-,$150,-
+BBIO370,MICROBIOLOGY,BBIO,2025,SPR,-,-,10685,AA,-,LB,M,115-315,DISC,263,"Cooper, Tim",Open,22,24,-,-,-
+BBIO370,MICROBIOLOGY,BBIO,2025,SPR,-,-,10686,AB,-,LB,T,115-315,DISC,263,"Cooper, Tim",Open,22,24,-,-,-
+BBIO375,MOLECULAR BIOLOGY,BBIO,2025,SPR,no_restriction,no_add_code,10687,A,5,-,TTh,330-530,UW1,041,"Shih, Han-Wei",Open,17,30,-,-,J
+BBIO380,CELL BIOLOGY,BBIO,2025,SPR,no_restriction,no_add_code,10688,A,5,-,MW,330-530,UW2,221,"Newman, Shannon L.",Closed,24,24,-,-,-
+BBIO383,BIOINFORMATICS,BBIO,2025,SPR,no_restriction,no_add_code,10689,A,5,-,TTh,1100-100,*,*,"Zaneveld, Jesse",Closed,16,15,-,$23,JO
+BBIO385,ANIMAL BEHAVIOR,BBIO,2025,SPR,no_restriction,no_add_code,10690,A,5,-,MW,1100-100,SSGC,101,"Wacker, Douglas",Closed,24,24,-,-,-
+BBIO394,TOPICS IN NEUROSCI,BBIO,2025,SPR,no_restriction,no_add_code,10693,A,5,-,TTh,115-315,UW1,261,"Haldipur, Parthiv",Open,11,30,-,-,-
+BBIO466,EVOLUTION,BBIO,2025,SPR,-,-,10694,A,5,-,MW,1100-100,DISC,162,"Jensen, Jeffrey",Closed,48,48,-,-,-
+BBIO480,NEUROBIOLOGY,BBIO,2025,SPR,no_restriction,no_add_code,10695,A,5,-,MW,115-315,UW1,051,"McNabb, Susan",Open,23,48,-,-,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2025,SPR,-,add_code_required,10696,A,5,-,MW,115-315,INV,223,"Ostrowski, Elizabeth",-,12,12,-,$130,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2025,SPR,-,add_code_required,10697,B,5,-,TTh,115-315,INV,223,"Price, Michele B.",-,10,12,-,$130,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2025,SPR,-,add_code_required,10698,C,5,-,MW,845-1045,INV,223,"Cooper, Tim",-,11,12,-,$130,-

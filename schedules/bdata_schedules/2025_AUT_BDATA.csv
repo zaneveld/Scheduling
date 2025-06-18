@@ -1,0 +1,7 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BDATA200,INTRO DATA STUDIES,BDATA,2025,AUT,Restr,no_add_code,-,A,5,-,MW,1100-100,UW1,120,"Trujillo, Caleb",Closed,36,36,-,-,-
+BDATA200,INTRO DATA STUDIES,BDATA,2025,AUT,no_restriction,no_add_code,11059,B,5,-,Th,330-530,UW1,120,"Nurmukhametov, Gani",Closed,37,36,-,-,B
+BDATA232,INTRO DATA VISUALZTN,BDATA,2025,AUT,Restr,no_add_code,-,A,5,-,M,1100-100,UW2,105,"Anderson, Baaska",Open,17,32,-,-,B
+BDATA232,INTRO DATA VISUALZTN,BDATA,2025,AUT,Restr,no_add_code,-,B,5,-,TTh,1100-100,UW1,120,-,-,-,-,-,-," Note: couldn't interpret '120', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '13', in original. Note: couldn't interpret '36', in original."
+BDATA232,INTRO DATA VISUALZTN,BDATA,2025,AUT,Restr,no_add_code,-,C,5,-,Th,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '120', in original. Note: couldn't interpret 'Nurmukhametov,Gani', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '10', in original. Note: couldn't interpret '36', in original. Note: couldn't interpret 'B', in original."
+BDATA412,ADVANCED DATA VIS,BDATA,2025,AUT,Restr,-,-,A,5,-,MW,330-530,DISC,258,"Trujillo, Caleb",Closed,32,32,-,-,-

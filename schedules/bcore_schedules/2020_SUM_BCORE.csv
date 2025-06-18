@@ -1,2 +1,2 @@
-Class Number,Class,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BCORE211,DC SPECIAL TOPICS,no_restriction,no_add_code,14492,A,2,-,W,200-430,*,*,"Takahashi, Curtis",Open,14,30,CR_NC,$12,-
+Class Number,Class,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other,Year,Quarter
+BCORE211,DC SPECIAL TOPICS,no_restriction,no_add_code,14492,A,2,-,W,200-430,*,*,"Takahashi, Curtis",Open,14,30,CR_NC,$12,-,2020,SUM

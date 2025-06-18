@@ -1,29 +1,29 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BBIO180,INTRO BIOLOGY I,BBIO,2023,WIN,no_restriction,no_add_code,10739,A,5,-,TTh,845-1045,DISC,162,"Jensen, Jeffrey",Open,74,96,-,$70,-
-BBIO180,INTRO BIOLOGY I,BBIO,2023,WIN,no_restriction,no_add_code,10740,AA,-,LB,T,1100-100,DISC,263,"Campbell, Dana",Open,23,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2023,WIN,no_restriction,no_add_code,10741,AB,-,LB,T,130-330,DISC,263,"Campbell, Dana",Open,16,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2023,WIN,no_restriction,no_add_code,10742,AC,-,LB,Th,1100-100,DISC,263,"Campbell, Dana",Open,22,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2023,WIN,no_restriction,no_add_code,10743,AD,-,LB,Th,130-330,DISC,263,"Campbell, Dana",Open,13,24,-,-,-
-BBIO200,INTRO BIOLOGY II,BBIO,2023,WIN,no_restriction,no_add_code,10744,A,5,-,TTh,845-1045,DISC,061,"Lewis, Alaron A",Open,52,96,-,$70,-
-BBIO200,INTRO BIOLOGY II,BBIO,2023,WIN,no_restriction,no_add_code,10745,AA,-,LB,W,845-1045,DISC,263,"Narayanan, Zareen",Open,13,24,-,-,-
-BBIO200,INTRO BIOLOGY II,BBIO,2023,WIN,no_restriction,no_add_code,10746,AB,-,LB,W,1115-115,DISC,263,"Narayanan, Zareen",Open,21,24,-,-,-
-BBIO200,INTRO BIOLOGY II,BBIO,2023,WIN,no_restriction,no_add_code,10748,AD,-,LB,F,845-1045,DISC,263,"Narayanan, Zareen",Open,8,24,-,-,-
-BBIO200,INTRO BIOLOGY II,BBIO,2023,WIN,no_restriction,no_add_code,21947,AE,-,LB,F,1130-130,DISC,263,"Narayanan, Zareen",Open,10,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2023,WIN,-,-,10739,A,5,-,TTh,845-1045,DISC,162,"Jensen, Jeffrey",Open,74,96,-,$70,-
+BBIO180,INTRO BIOLOGY I,BBIO,2023,WIN,-,-,10740,AA,-,LB,T,1100-100,DISC,263,"Campbell, Dana",Open,23,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2023,WIN,-,-,10741,AB,-,LB,T,130-330,DISC,263,"Campbell, Dana",Open,16,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2023,WIN,-,-,10742,AC,-,LB,Th,1100-100,DISC,263,"Campbell, Dana",Open,22,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2023,WIN,-,-,10743,AD,-,LB,Th,130-330,DISC,263,"Campbell, Dana",Open,13,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2023,WIN,-,-,10744,A,5,-,TTh,845-1045,DISC,061,"Lewis, Alaron A",Open,52,96,-,$70,-
+BBIO200,INTRO BIOLOGY II,BBIO,2023,WIN,-,-,10745,AA,-,LB,W,845-1045,DISC,263,"Narayanan, Zareen",Open,13,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2023,WIN,-,-,10746,AB,-,LB,W,1115-115,DISC,263,"Narayanan, Zareen",Open,21,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2023,WIN,-,-,10748,AD,-,LB,F,845-1045,DISC,263,"Narayanan, Zareen",Open,8,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2023,WIN,-,-,21947,AE,-,LB,F,1130-130,DISC,263,"Narayanan, Zareen",Open,10,24,-,-,-
 BBIO285,SEMINAR IN BIOLOGY,BBIO,2023,WIN,no_restriction,no_add_code,10750,A,3,-,Th,330-530,UW1,060,"Price, Michele B.",Closed,15,12,-,-,J
 BBIO320,BEHAV NEURO,BBIO,2023,WIN,no_restriction,no_add_code,10752,A,5,-,TTh,330-530,UW1,210,"White, Bryan",Open,46,48,-,-,-
 BBIO351,ANAT & PHYSIOL I,BBIO,2023,WIN,no_restriction,no_add_code,10753,A,5,-,MW,1100-100,UW2,005,"Price, Michele B.",Open,52,72,-,$160,-
-BBIO351,ANAT & PHYSIOL I,BBIO,2023,WIN,no_restriction,no_add_code,10754,AA,-,LB,W,200-500,DISC,267,"Price, Michele B.",Open,11,24,-,-,-
-BBIO351,ANAT & PHYSIOL I,BBIO,2023,WIN,no_restriction,no_add_code,10755,AB,-,LB,Th,845-1145,DISC,267,"Price, Michele B.",Open,23,24,-,-,-
-BBIO351,ANAT & PHYSIOL I,BBIO,2023,WIN,no_restriction,no_add_code,10756,AC,-,LB,F,845-1145,DISC,267,"Price, Michele B.",Open,18,24,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2023,WIN,-,-,10754,AA,-,LB,W,200-500,DISC,267,"Price, Michele B.",Open,11,24,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2023,WIN,-,-,10755,AB,-,LB,Th,845-1145,DISC,267,"Price, Michele B.",Open,23,24,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2023,WIN,-,-,10756,AC,-,LB,F,845-1145,DISC,267,"Price, Michele B.",Open,18,24,-,-,-
 BBIO352,ANAT & PHYSIOL II,BBIO,2023,WIN,no_restriction,no_add_code,10757,A,5,-,MW,845-1045,UW1,021,"Jensen, Jeffrey",Open,24,30,-,$110,-
-BBIO352,ANAT & PHYSIOL II,BBIO,2023,WIN,no_restriction,no_add_code,10758,AA,-,LB,T,845-1145,DISC,267,"Bester-Meredith, Janet",Open,16,24,-,-,-
-BBIO352,ANAT & PHYSIOL II,BBIO,2023,WIN,no_restriction,no_add_code,10759,AB,-,LB,T,115-415,DISC,267,"Bester-Meredith, Janet",Open,8,24,-,-,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2023,WIN,-,-,10758,AA,-,LB,T,845-1145,DISC,267,"Bester-Meredith, Janet",Open,16,24,-,-,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2023,WIN,-,-,10759,AB,-,LB,T,115-415,DISC,267,"Bester-Meredith, Janet",Open,8,24,-,-,-
 BBIO360,INTRO GENETICS,BBIO,2023,WIN,no_restriction,no_add_code,10761,A,5,-,TTh,845-1045,UW1,210,"Servetnick, Marc",Open,40,48,-,-,-
-BBIO364,BIOCHEMISTRY I,BBIO,2023,WIN,no_restriction,no_add_code,22136,A,5,-,MW,330-530,DISC,252,"Shippy, Scott",Open,7,20,-,-,J
+BBIO364,BIOCHEMISTRY I,BBIO,2023,WIN,-,-,22136,A,5,-,MW,330-530,DISC,252,"Shippy, Scott",Open,7,20,-,-,J
 BBIO365,BIOCHEMISTRY II,BBIO,2023,WIN,no_restriction,no_add_code,10763,A,5,-,MW,330-530,UW1,102,"Anderson, Peter",Closed,23,20,-,-,J
 BBIO366,BIOCHEMISTRY LAB,BBIO,2023,WIN,no_restriction,no_add_code,10764,A,3,-,M,1100-100,UW1,031,"Shippy, Scott",Open,2,16,-,$75,J
-BBIO366,BIOCHEMISTRY LAB,BBIO,2023,WIN,no_restriction,no_add_code,10766,AB,-,LB,T,1215-315,DISC,469,"Shippy, Scott",Open,2,8,-,-,J
-BBIO372,STEM CELLS,BBIO,2023,WIN,no_restriction,no_add_code,10770,A,5,-,TTh,1100-100,DISC,252,"White, Bryan",Closed,40,40,-,-,-
+BBIO366,BIOCHEMISTRY LAB,BBIO,2023,WIN,-,-,10766,AB,-,LB,T,1215-315,DISC,469,"Shippy, Scott",Open,2,8,-,-,J
+BBIO372,STEM CELLS,BBIO,2023,WIN,-,-,10770,A,5,-,TTh,1100-100,DISC,252,"White, Bryan",Closed,40,40,-,-,-
 BBIO385,ANIMAL BEHAVIOR,BBIO,2023,WIN,no_restriction,no_add_code,22007,A,5,-,MW,115-315,UW2,205,"Bester-Meredith, Janet",Open,26,30,-,-,-
 BBIO394,TOPICS IN NEUROSCI,BBIO,2023,WIN,no_restriction,no_add_code,10777,A,5,-,MW,330-530,UW2,040,"Haldipur, Parthiv",Open,19,30,-,-,-
 BBIO466,EVOLUTION,BBIO,2023,WIN,no_restriction,no_add_code,10778,A,5,-,MW,115-315,UW1,202,"Schwartz, Jesse_David Merto",Open,41,48,-,-,-

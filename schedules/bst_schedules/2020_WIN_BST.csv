@@ -1,9 +1,9 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
 BST205,WOMEN IN STEM,BST,2020,WIN,no_restriction,no_add_code,11821,A,3,-,TTh,1100-100,UWBB,240,"Musselman, Alexandria Theak",Open,30,32,-,-,%
-BST301,SCIENTIFIC WRITING,BST,2020,WIN,no_restriction,no_add_code,11823,A,5,-,TTh,845-1045,DISC,369,"Galindo, H",Open,23,24,-,-,W
-BST498,IND STUDY SCI TECH,BST,2020,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,11825,A,-,5,-,-,-,"to_be_arranged Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '30', in original."
-BST498,IND STUDY SCI TECH,BST,2020,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,11826,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10', in original. Note: couldn't interpret 'CR_NC', in original."
-BST498,IND STUDY SCI TECH,BST,2020,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,11827,-,-,-,-,-,-,"C_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '1', in original. Note: couldn't interpret '30', in original."
-BST499,UG RESEARCH SCI TECH,BST,2020,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,11828,A,-,5,-,-,-,"to_be_arranged Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '30', in original."
-BST499,UG RESEARCH SCI TECH,BST,2020,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,11829,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10', in original. Note: couldn't interpret 'CR_NC', in original."
-BST499,UG RESEARCH SCI TECH,BST,2020,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,11830,-,-,-,-,-,-,"C_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '1', in original. Note: couldn't interpret '10', in original."
+BST301,SCIENTIFIC WRITING,BST,2020,WIN,-,-,11823,A,5,-,TTh,845-1045,DISC,369,"Galindo, H",Open,23,24,-,-,W
+BST498,IND STUDY SCI TECH,BST,2020,WIN,IS,-,11825,A,5,-,-,to_be_arranged,-,-,-,Open,0,30,-,-,-
+BST498,IND STUDY SCI TECH,BST,2020,WIN,IS,-,11826,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,10,CR_NC,-,-
+BST498,IND STUDY SCI TECH,BST,2020,WIN,IS,-,11827,C,1-5,-,-,to_be_arranged,-,-,-,Open,1,30,-,-,-
+BST499,UG RESEARCH SCI TECH,BST,2020,WIN,IS,-,11828,A,5,-,-,to_be_arranged,-,-,-,Open,0,30,-,-,-
+BST499,UG RESEARCH SCI TECH,BST,2020,WIN,IS,-,11829,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,10,CR_NC,-,-
+BST499,UG RESEARCH SCI TECH,BST,2020,WIN,IS,-,11830,C,1-5,-,-,to_be_arranged,-,-,-,Open,1,10,-,-,-

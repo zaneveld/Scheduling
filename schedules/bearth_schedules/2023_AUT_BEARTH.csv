@@ -1,6 +1,6 @@
-Class Number,Class,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BEARTH153,INTRO GEOLOGY,no_restriction,no_add_code,11314,A,5,-,TTh,115-315,DISC,369,"Shinneman, Avery",Open,23,24,-,-,-
-BEARTH155,INTRO TO CLIMATE SCI,no_restriction,no_add_code,11315,A,5,-,TTh,115-315,LBA,003,"Fields, Tracy A",Open,29,30,-,-,-
-BEARTH320,CLIMATE IMPACTS,no_restriction,no_add_code,11317,A,5,-,TTh,1100-100,LBA,003,"Turner, Rob",Open,29,30,-,-,-
-BEARTH321,GEOMORPHOLOGY,no_restriction,no_add_code,11318,A,5,-,MW,1100-100,DISC,369,"Shinneman, Avery",Open,22,24,-,-,-
-BEARTH341,NATURAL HAZARDS,no_restriction,no_add_code,11319,A,5,-,M,115-315,UW1,051,"Redsteer, Margaret",Closed,48,48,-,-,-
+Class Number,Class,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other,Year,Quarter
+BEARTH153,INTRO GEOLOGY,-,-,11314,A,5,-,TTh,115-315,DISC,369,"Shinneman, Avery",Open,23,24,-,-,-,2023,AUT
+BEARTH155,INTRO TO CLIMATE SCI,no_restriction,no_add_code,11315,A,5,-,TTh,115-315,LBA,003,"Fields, Tracy A",Open,29,30,-,-,-,2023,AUT
+BEARTH320,CLIMATE IMPACTS,no_restriction,no_add_code,11317,A,5,-,TTh,1100-100,LBA,003,"Turner, Rob",Open,29,30,-,-,-,2023,AUT
+BEARTH321,GEOMORPHOLOGY,-,-,11318,A,5,-,MW,1100-100,DISC,369,"Shinneman, Avery",Open,22,24,-,-,-,2023,AUT
+BEARTH341,NATURAL HAZARDS,no_restriction,no_add_code,11319,A,5,-,M,115-315,UW1,051,"Redsteer, Margaret",Closed,48,48,-,-,-,2023,AUT

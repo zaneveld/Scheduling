@@ -1,0 +1,36 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BIS209,VISUAL & MEDIA,BIS,2016,SUM,Restr,no_add_code,-,A,5,-,MW,1145-215,UW1,221,"Caplow, Deborah",Open,22,45,-,-,-
+BIS220,DEVELOPMENTAL PSYCH ,BIS,2016,SUM,Restr,no_add_code,-,A,5,-,Th,1145-215,UW1,221,"Lichty, Lauren F.",Open,37,45,-,-,-
+BIS224,INTRO FEMINIST STDY ,BIS,2016,SUM,Restr,-,-,A,5,-,TTh,230-500,UW1,010,"Kellejian, Kristine E.",Open,41,45,-,-,-
+BIS226,FND U.S. SOC SVCS,BIS,2016,SUM,-,-,14391,A,5,-,-,-,-,-,-,-,-,-,-,-,"Sat. Note: couldn't interpret '900-215', in original. Note: couldn't interpret 'UW1', in original. Note: couldn't interpret '220', in original. Note: couldn't interpret 'CARLISLE,SHAUNA', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret '45', in original."
+BIS232,DATA VISUALIZATION,BIS,2016,SUM,Restr,no_add_code,-,A,5,-,W,900-1130,UW1,120,"Cook, Katherine Ann",Open,29,32,-,-,-
+BIS236,INTERACTIVE MEDIA,BIS,2016,SUM,Restr,no_add_code,-,A,5,-,TTh,-,600-830P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '121', in original. Note: couldn't interpret 'CARDENAS,MICHA', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '13', in original. Note: couldn't interpret '45', in original."
+BIS237,PUBLIC SPEAKING/COM ,BIS,2016,SUM,-,-,14350,A,5,-,MW,230-500,UW1,202,"Vaughan, Denise A",Open,22,45,-,-,-
+BIS240,SUSTAINABLE PRACT,BIS,2016,SUM,no_restriction,no_add_code,14437,A,5,-,TTh,1145-215,SSG,CNSVTRY,"Rivera, Rebeca F",Open,26,30,-,-,-
+BIS270,ABNORMAL PSYCHOLOGY ,BIS,2016,SUM,Restr,no_add_code,-,A,5,-,MW,900-1130,UW1,220,"Stewart, John Eric",Open,23,45,-,-,-
+BIS300,INTERDISC INQUIRY,BIS,2016,SUM,Restr,-,-,A,5,-,TTh,900-1130,UW1,031,"Kellejian, Kristine E.",Open,12,30,-,-,W
+BIS312,APPRS SOCIAL RESRCH ,BIS,2016,SUM,Restr,no_add_code,-,A,5,-,W,1145-215,UW2,141,"Lerum, Kari A",Open,31,32,-,-,-
+BIS312,APPRS SOCIAL RESRCH ,BIS,2016,SUM,Restr,no_add_code,-,B,5,-,W,230-500,UW2,031,"Lerum, Kari A",Open,28,32,-,-,-
+BIS313,ISSUES MEDIA STDY,BIS,2016,SUM,Restr,no_add_code,-,A,5,-,-,"to_be_arranged_ROBERTS,GEORGIA",M.,-,-,Closed,37,30,-,-,D
+BIS315,UNDERSTANDING STATS ,BIS,2016,SUM,Restr,no_add_code,-,A,5,-,W,230-500,UW1,120,"Cook, Katherine Ann",Open,24,32,-,-,-
+BIS315,UNDERSTANDING STATS ,BIS,2016,SUM,Restr,-,-,B,5,-,MTWTh,900-1130,UW1,121,"Carlisle, Shauna",Open,18,32,-,-,-
+BIS315,UNDERSTANDING STATS ,BIS,2016,SUM,Restr,-,-,C,5,-,MTWTh,1145-215,UW1,121,"Carlisle, Shauna",Open,14,32,-,-,-
+BIS340,APPRS CULTURAL RES,BIS,2016,SUM,Restr,-,-,A,5,-,TTh,1145-215,UW1,060,"Trumbull, Raissa Desmet",Open,31,32,-,-,-
+BIS341,STUDY OF CULTURE,BIS,2016,SUM,Restr,no_add_code,-,A,5,-,W,1145-215,UW1,202,"Harewood, Susan Juanita",Open,41,45,-,-,-
+BIS342,GEOG INF SYS,BIS,2016,SUM,Restr,-,-,A,5,-,MW,1145-215,DISC,258,"Lopez, Santiago",Open,21,24,-,$50,-
+BIS347,HIST AM DOCUM FILM,BIS,2016,SUM,Restr,no_add_code,-,A,5,-,TTh,-,600-830P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '040', in original. Note: couldn't interpret 'YUM,SAMUEL', in original. Note: couldn't interpret 'M.', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '38', in original. Note: couldn't interpret '45', in original."
+BIS349,PERSONALITY PSYCH,BIS,2016,SUM,Restr,no_add_code,-,A,5,-,MW,230-500,UW1,220,"Stewart, John Eric",Open,42,45,-,-,-
+BIS364,REP OF ADOLESC DEV,BIS,2016,SUM,Restr,no_add_code,-,A,5,-,F,1000-1200,UW2,211,"Udell, Wadiya A",Open,29,30,-,-,D
+BIS398,DIR STUDY/RESEARCH,BIS,2016,SUM,IS,add_code_required,10535,A,1-5,-,-,to_be_arranged,-,1,-,-,-,-,-,-,10E
+BIS464,TOPS ADV CINEMA STD ,BIS,2016,SUM,Restr,no_add_code,-,A,5,-,TTh,1145-215,UW1,041,"Goldstein, David Steven",Open,31,40,-,-,-
+BIS468,HUMN RGT &SUSTN DEV ,BIS,2016,SUM,Restr,-,-,A,5,-,TTh,900-1130,UW2,031,"Kochis, Bruce E.",Open,24,40,-,-,-
+BIS490,ADVANCED SEMINAR,BIS,2016,SUM,Restr,-,-,A,5,-,TTh,230-500,UW2,228,"Kochis, Bruce E.",Open,6,18,-,-,W
+BIS490,ADVANCED SEMINAR,BIS,2016,SUM,Restr,-,-,B,5,-,MW,230-500,UW1,050,"Gustafson, Kristin Louise",Open,8,18,-,-,W
+BIS490,ADVANCED SEMINAR,BIS,2016,SUM,Restr,no_add_code,-,C,5,-,MW,1145-215,UW2,228,"Lambacher, Jason F",Open,15,18,-,-,W
+BIS492,SENIOR THESIS,BIS,2016,SUM,-,add_code_required,10543,A,5,-,-,to_be_arranged,-,0,-,-,10,-,-,-,W
+BIS495,INTERNSHIP,BIS,2016,SUM,-,add_code_required,14167,A,-,-,-,2-6,F,-,-,-,-,-,-,-,"900-1145 Note: couldn't interpret 'UW2', in original. Note: couldn't interpret '228', in original. Note: couldn't interpret 'REDWOOD,LOREN', in original. Note: couldn't interpret 'K.', in original. Note: couldn't interpret '14', in original. Note: couldn't interpret '15', in original. Note: couldn't interpret 'CR_NC', in original."
+BIS498,UNDERGRAD RESEARCH,BIS,2016,SUM,IS,add_code_required,10546,A,1-5,-,-,to_be_arranged,-,7,-,-,-,-,-,-,10E
+BIS499,PORTFOLIO CAPSTONE,BIS,2016,SUM,Restr,-,-,A,3,-,MW,900-1130,UW1,020,"Gustafson, Kristin Louise",Open,15,24,-,-,-
+BIS499,PORTFOLIO CAPSTONE,BIS,2016,SUM,Restr,no_add_code,-,B,3,-,W,1145-215,UWBB,205,"Roberts, Georgia M.",Closed,24,24,-,-,-
+BIS499,PORTFOLIO CAPSTONE,BIS,2016,SUM,Restr,no_add_code,-,C,3,-,W,-,600-830P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '121', in original. Note: couldn't interpret 'ATKINSON,JENNIFER', in original. Note: couldn't interpret 'W', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '19', in original. Note: couldn't interpret '24', in original."
+BIS499,PORTFOLIO CAPSTONE,BIS,2016,SUM,Restr,no_add_code,-,D,3,-,Th,230-500,UW1,030,"Goldstein, David Steven",Open,12,24,-,-,-

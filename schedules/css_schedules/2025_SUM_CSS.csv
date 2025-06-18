@@ -1,0 +1,24 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+CSS142,CMPT PROG I,CSS,2025,SUM,Restr,no_add_code,-,A,5,-,MW,1115-145,UW1,040,"Kim, Jeffrey",Open,21,48,-,$30,-
+CSS143,CMPT PROG II,CSS,2025,SUM,Restr,no_add_code,-,A,5,-,TTh,1115-145,UW1,040,"Du, Peng",Open,43,48,-,$30,-
+CSS198,SUPERVISED STUDY,CSS,2025,SUM,IS,add_code_required,10879,A,1-5,-,-,to_be_arranged,-,2,-,-,20,-,-,-,-
+CSS198,SUPERVISED STUDY,CSS,2025,SUM,IS,add_code_required,10880,B,1-5,-,-,to_be_arranged,-,0,-,-,-,-,-,-,"20E Note: couldn't interpret 'CR_NC', in original."
+CSS199,COMPUTING RESEARCH,CSS,2025,SUM,IS,add_code_required,10881,A,1-5,-,-,to_be_arranged,-,0,-,-,20,-,-,-,-
+CSS199,COMPUTING RESEARCH,CSS,2025,SUM,IS,add_code_required,10882,B,1-5,-,-,to_be_arranged,-,0,-,-,20,-,CR_NC,-,-
+CSS301,TECHNICAL WRITING,CSS,2025,SUM,no_restriction,no_add_code,10884,A,5,-,MW,1115-145,UW1,261,"Kool, Nancy L.",Open,18,30,-,$12,W
+CSS310,IA & CYBERSECURITY,CSS,2025,SUM,Restr,no_add_code,-,A,5,-,W,200-430,UW1,040,"Dupuis, Marc J.",Open,39,48,-,$10,B
+CSS342,"DATA, ALG, MATH I",CSS,2025,SUM,Restr,no_add_code,-,A,5,-,TTh,1115-145,UW1,021,"Reel, Eric",Open,10,40,-,$30,-
+CSS343,"DATA, ALG, MATH II",CSS,2025,SUM,Restr,no_add_code,-,A,5,-,TTh,-,600-830P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '010', in original. Note: couldn't interpret 'Wang,Joanna', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '28', in original. Note: couldn't interpret '45', in original. Note: couldn't interpret '$30', in original."
+CSS360,SOFTWARE ENGR,CSS,2025,SUM,Restr,no_add_code,-,A,5,-,MW,200-430,UW2,040,"Retik, Arkady",Open,11,30,-,-,-
+CSS383,BIOINFORMATICS,CSS,2025,SUM,no_restriction,no_add_code,10890,A,5,-,MTWTh,1115-145,*,*,"Zaneveld, Jesse",Closed,15,15,-,$30,JO
+CSS397,COMPUTING INTERNSHIP,CSS,2025,SUM,IS,add_code_required,10891,A,1-5,-,-,to_be_arranged,-,5,-,-,-,-,-,-,"15E Note: couldn't interpret 'CR_NC', in original. Note: couldn't interpret 'R', in original."
+CSS422,HARDWARE & COMP ORG ,CSS,2025,SUM,Restr,no_add_code,-,A,5,-,TTh,230-830,UW1,050,"Awad, Ahmed",Open,19,45,-,$30,B
+CSS475,DATABASE SYSTEMS,CSS,2025,SUM,Restr,no_add_code,-,A,5,-,M,600-830,UW1,041,"Bantwal, Praveen",Open,16,60,-,$30,B
+CSS490,SPECIAL TOPICS,CSS,2025,SUM,-,add_code_required,14127,A,5,-,MW,300-530,UW2,131,"Kim, Wooyoung",-,8,24,-,-,J
+CSS495,A CMPT INTERNSHIP,CSS,2025,SUM,IS,add_code_required,10896,A,1-5,-,-,to_be_arranged,-,1,-,-,10,-,CR_NC,-,-
+CSS497,CS & SE CAPSTONE,CSS,2025,SUM,IS,add_code_required,10897,A,-,-,-,1-10,-,-,-,-,-,-,-,-,"to_be_arranged Note: couldn't interpret '17', in original. Note: couldn't interpret '20E', in original."
+CSS497,CS & SE CAPSTONE,CSS,2025,SUM,IS,add_code_required,10898,B,-,-,-,1-10,-,-,-,-,-,-,-,-,"to_be_arranged Note: couldn't interpret '37', in original. Note: couldn't interpret '20', in original. Note: couldn't interpret 'CR_NC', in original."
+CSS498,INDEPENDENT STUDY,CSS,2025,SUM,IS,add_code_required,10918,A,1-5,-,-,to_be_arranged,-,4,-,-,20,-,-,-,-
+CSS498,INDEPENDENT STUDY,CSS,2025,SUM,IS,add_code_required,10919,B,1-5,-,-,to_be_arranged,-,2,-,-,20,-,CR_NC,-,-
+CSS499,UNDERGRAD RESEARCH,CSS,2025,SUM,IS,add_code_required,10920,A,1-5,-,-,to_be_arranged,-,1,-,-,20,-,-,-,R
+CSS499,UNDERGRAD RESEARCH,CSS,2025,SUM,IS,add_code_required,10921,B,1-5,-,-,to_be_arranged,-,1,-,-,20,-,CR_NC,-,R

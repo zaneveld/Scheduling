@@ -9,7 +9,7 @@ BCORE115,INDVDUALS & SOC 2,BCORE,2018,WIN,Restr,no_add_code,-,H,5,-,TTh,115-315,
 BCORE116,NATURAL WORLD 2,BCORE,2018,WIN,Restr,no_add_code,-,A,5,-,W,1100-100,UW1,261,"McNabb, Susan L",Open,26,27,-,$3,B
 BCORE116,NATURAL WORLD 2,BCORE,2018,WIN,Restr,no_add_code,-,B,5,-,MW,330-530,UW2,205,"Crandell, Caren",Open,8,27,-,-,-
 BCORE116,NATURAL WORLD 2,BCORE,2018,WIN,Restr,no_add_code,-,C,5,-,TTh,1100-100,UW1,021,"Shinneman, Avery",Closed,27,27,-,-,-
-BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,A,5,-,MW,845-1005,UW1,060,"Spiegler, Louise",Open,15,22,-,-,BJ
+BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,-,-,A,5,-,MW,845-1005,UW1,060,"Spiegler, Louise",Open,15,22,-,-,BJ
 BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,B,5,-,MW,845-1045,UW2,040,"Harack, Katrina M.",Open,15,16,-,-,J
 BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,C,5,-,W,845-1045,UW1,261,"Doyle, Gavin",Closed,27,27,-,-,B
 BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,D,5,-,MW,1100-100,UW2,021,"Hathaway, Deborah A.",Open,26,27,-,-,-
@@ -20,5 +20,5 @@ BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,H,5,-,TTh,330-530
 BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,I,5,-,TTh,330-530,SSG,CNSVTRY,"Nixon, David M.",Closed,27,27,-,-,-
 BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,J,5,-,TTh,330-530,HSKY,1310,"Ali, Anida Y",Open,20,24,-,-,-
 BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,K,5,-,F,1100-315,UW2,221,"West, Maureen P.",Closed,27,27,-,$20,-
-BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,L,5,-,MW,845-1005,UW1,060,"Spiegler, Louise",Open,3,5,-,-,BJ
+BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,-,-,L,5,-,MW,845-1005,UW1,060,"Spiegler, Louise",Open,3,5,-,-,BJ
 BCORE117,VIS LIT PRFM ART 2,BCORE,2018,WIN,Restr,no_add_code,-,M,5,-,MW,845-1045,UW2,040,"Harack, Katrina M.",Open,9,11,-,-,J

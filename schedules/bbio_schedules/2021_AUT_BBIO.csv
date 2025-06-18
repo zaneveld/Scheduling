@@ -1,35 +1,35 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BBIO180,INTRO BIOLOGY I,BBIO,2021,AUT,no_restriction,no_add_code,10802,A,5,-,TTh,845-1045,DISC,061,"Jensen, J",Open,124,144,-,$70,-
-BBIO180,INTRO BIOLOGY I,BBIO,2021,AUT,no_restriction,no_add_code,10803,AA,-,LB,M,845-1045,DISC,263,"Jensen, J",Open,20,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2021,AUT,no_restriction,no_add_code,10804,AB,-,LB,M,1115-115,DISC,263,"Jensen, J",Open,20,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2021,AUT,no_restriction,no_add_code,10805,AC,-,LB,M,145-345,DISC,263,"Campbell, Dana",Open,21,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2021,AUT,no_restriction,no_add_code,10806,AD,-,LB,W,845-1045,DISC,263,"Campbell, Dana",Open,23,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2021,AUT,no_restriction,no_add_code,10807,AE,-,LB,W,1115-115,DISC,263,"Campbell, Dana",Open,20,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2021,AUT,no_restriction,no_add_code,10808,AF,-,LB,W,215-415,DISC,263,"Campbell, Dana",Open,20,24,-,-,-
-BBIO220,INTRO BIOLOGY III,BBIO,2021,AUT,no_restriction,no_add_code,10809,A,5,-,TTh,845-1045,DISC,162,"White, B",Open,45,72,-,$70,-
-BBIO220,INTRO BIOLOGY III,BBIO,2021,AUT,no_restriction,no_add_code,10810,AA,-,LB,M,1100-100,DISC,267,"White, B",Open,15,24,-,-,-
-BBIO220,INTRO BIOLOGY III,BBIO,2021,AUT,no_restriction,no_add_code,10811,AB,-,LB,W,1100-100,DISC,267,"White, B",Open,15,24,-,-,-
-BBIO220,INTRO BIOLOGY III,BBIO,2021,AUT,no_restriction,no_add_code,10812,AC,-,LB,W,130-330,DISC,267,"White, B",Open,15,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2021,AUT,-,-,10802,A,5,-,TTh,845-1045,DISC,061,"Jensen, J",Open,124,144,-,$70,-
+BBIO180,INTRO BIOLOGY I,BBIO,2021,AUT,-,-,10803,AA,-,LB,M,845-1045,DISC,263,"Jensen, J",Open,20,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2021,AUT,-,-,10804,AB,-,LB,M,1115-115,DISC,263,"Jensen, J",Open,20,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2021,AUT,-,-,10805,AC,-,LB,M,145-345,DISC,263,"Campbell, Dana",Open,21,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2021,AUT,-,-,10806,AD,-,LB,W,845-1045,DISC,263,"Campbell, Dana",Open,23,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2021,AUT,-,-,10807,AE,-,LB,W,1115-115,DISC,263,"Campbell, Dana",Open,20,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2021,AUT,-,-,10808,AF,-,LB,W,215-415,DISC,263,"Campbell, Dana",Open,20,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2021,AUT,-,-,10809,A,5,-,TTh,845-1045,DISC,162,"White, B",Open,45,72,-,$70,-
+BBIO220,INTRO BIOLOGY III,BBIO,2021,AUT,-,-,10810,AA,-,LB,M,1100-100,DISC,267,"White, B",Open,15,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2021,AUT,-,-,10811,AB,-,LB,W,1100-100,DISC,267,"White, B",Open,15,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2021,AUT,-,-,10812,AC,-,LB,W,130-330,DISC,267,"White, B",Open,15,24,-,-,-
 BBIO293,SPEC TOPICS BIOLOGY ,BBIO,2021,AUT,no_restriction,no_add_code,10814,A,5,-,MW,845-1045,UW1,031,"Al-Noori, Salwa",Open,14,15,-,-,-
-BBIO293,SPEC TOPICS BIOLOGY ,BBIO,2021,AUT,no_restriction,no_add_code,23291,B,2,-,MTWTh,900-1200,DISC,263,"Campbell, Dana",Open,5,12,-,-,-
-BBIO310,BRAIN AND BEHAVIOR,BBIO,2021,AUT,no_restriction,no_add_code,10815,A,5,-,MW,115-315,DISC,162,"Downs, Jodi L",Open,59,60,-,-,-
+BBIO293,SPEC TOPICS BIOLOGY ,BBIO,2021,AUT,-,-,23291,B,2,-,MTWTh,900-1200,DISC,263,"Campbell, Dana",Open,5,12,-,-,-
+BBIO310,BRAIN AND BEHAVIOR,BBIO,2021,AUT,-,-,10815,A,5,-,MW,115-315,DISC,162,"Downs, Jodi L",Open,59,60,-,-,-
 BBIO335,SALMON AND SOCIETY,BBIO,2021,AUT,no_restriction,no_add_code,10816,A,5,-,F,845-1245,UWBB,260,"Jensen, J",Open,15,20,-,$100,-
 BBIO351,ANAT & PHYSIOL I,BBIO,2021,AUT,no_restriction,no_add_code,10818,A,5,-,TTh,845-1045,UW2,005,"Price, M",Closed,60,60,-,$160,-
-BBIO351,ANAT & PHYSIOL I,BBIO,2021,AUT,no_restriction,no_add_code,10819,AA,-,LB,T,200-500,DISC,267,"Price, M",Closed,20,20,-,-,-
-BBIO351,ANAT & PHYSIOL I,BBIO,2021,AUT,no_restriction,no_add_code,10820,AB,-,LB,Th,200-500,DISC,267,"Price, M",Closed,20,20,-,-,-
-BBIO351,ANAT & PHYSIOL I,BBIO,2021,AUT,no_restriction,no_add_code,10821,AC,-,LB,F,845-1145,DISC,267,"Price, M",Closed,20,20,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2021,AUT,-,-,10819,AA,-,LB,T,200-500,DISC,267,"Price, M",Closed,20,20,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2021,AUT,-,-,10820,AB,-,LB,Th,200-500,DISC,267,"Price, M",Closed,20,20,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2021,AUT,-,-,10821,AC,-,LB,F,845-1145,DISC,267,"Price, M",Closed,20,20,-,-,-
 BBIO360,INTRO GENETICS,BBIO,2021,AUT,no_restriction,no_add_code,10822,A,5,-,MW,1100-100,UW2,005,"Lewis, Alaron A",Open,58,60,-,-,-
 BBIO364,BIOCHEMISTRY I,BBIO,2021,AUT,-,add_code_required,10823,A,5,-,MW,845-1045,UWBB,230,"Shippy, Scott",-,22,24,-,-,J
 BBIO365,BIOCHEMISTRY II,BBIO,2021,AUT,no_restriction,no_add_code,10824,A,5,-,TTh,1100-100,UW2,031,"Anderson, Peter",Open,3,24,-,-,J
 BBIO366,BIOCHEMISTRY LAB,BBIO,2021,AUT,no_restriction,no_add_code,10825,A,3,-,M,115-215,UWBB,107G,"Robins, Lori",Closed,8,8,-,$75,J
-BBIO366,BIOCHEMISTRY LAB,BBIO,2021,AUT,no_restriction,no_add_code,10826,AA,-,LB,T,1215-315,DISC,469,"Robins, Lori",Closed,8,8,-,-,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2021,AUT,-,-,10826,AA,-,LB,T,1215-315,DISC,469,"Robins, Lori",Closed,8,8,-,-,J
 BBIO370,MICROBIOLOGY,BBIO,2021,AUT,no_restriction,no_add_code,10827,A,5,-,TTh,115-315,UWBB,230,"Hillesland, Kristina Linnea",Open,47,48,-,$150,-
 BBIO370,MICROBIOLOGY,BBIO,2021,AUT,-,add_code_required,10828,AA,-,LB,F,845-1045,DISC,263,"Hillesland, Kristina Linnea",-,24,24,-,-,-
 BBIO370,MICROBIOLOGY,BBIO,2021,AUT,-,add_code_required,10829,AB,-,LB,F,115-315,DISC,263,"Hillesland, Kristina Linnea",-,23,24,-,-,-
 BBIO375,MOLECULAR BIOLOGY,BBIO,2021,AUT,no_restriction,no_add_code,10830,A,5,-,MW,330-530,UW1,031,"Groom, Joseph Douglas",Open,8,15,-,-,J
-BBIO380,CELL BIOLOGY,BBIO,2021,AUT,no_restriction,no_add_code,10831,A,5,-,F,115-345,DISC,252,"Lewis, Alaron A",Open,22,48,-,-,-
+BBIO380,CELL BIOLOGY,BBIO,2021,AUT,-,-,10831,A,5,-,F,115-345,DISC,252,"Lewis, Alaron A",Open,22,48,-,-,-
 BBIO394,TOPICS IN NEUROSCI,BBIO,2021,AUT,no_restriction,no_add_code,22841,A,5,-,TTh,1100-100,UWBB,107G,"Al-Noori, Salwa",Open,17,18,-,-,-
-BBIO466,EVOLUTION,BBIO,2021,AUT,no_restriction,no_add_code,10832,A,5,-,Th,1100-100,DISC,252,"Zaneveld, Jesse",Open,59,60,-,-,B
+BBIO466,EVOLUTION,BBIO,2021,AUT,-,-,10832,A,5,-,Th,1100-100,DISC,252,"Zaneveld, Jesse",Open,59,60,-,-,B
 BBIO495,INVESTIGATIVE BIO,BBIO,2021,AUT,-,add_code_required,10833,A,5,-,TTh,115-315,DISC,263,"Wacker, Douglas",-,12,12,-,$130,-
 BBIO495,INVESTIGATIVE BIO,BBIO,2021,AUT,-,add_code_required,10834,B,5,-,MW,1100-100,UWBB,270,"Madzima, Thelma F",-,6,12,-,$130,-
 BBIO495,INVESTIGATIVE BIO,BBIO,2021,AUT,-,add_code_required,23052,C,5,-,TTh,115-315,UWBB,270,"Al-Noori, Salwa",-,11,12,-,$130,-

@@ -28,8 +28,8 @@ BCHEM404,PHYSICAL CHEM LAB,BCHEM,2021,SPR,no_restriction,no_add_code,10830,B,4,-
 BCHEM426,INSTRUMENTAL ANLYS,BCHEM,2021,SPR,no_restriction,no_add_code,10831,A,5,-,MW,115-315,*,*,"Kim, Hyung J",Open,18,24,-,$120,-
 BCHEM426,INSTRUMENTAL ANLYS,BCHEM,2021,SPR,no_restriction,no_add_code,10832,AA,-,LB,W,845-1245,*,*,"Kim, Hyung J",Closed,18,12,-,-,-
 BCHEM493,ADV TOPICS IN CHEM,BCHEM,2021,SPR,no_restriction,no_add_code,10834,A,5,-,-,to_be_arranged,*,*,"Anderson, Peter",Open,15,30,-,-,-
-BCHEM498,IND STUDY CHEM,BCHEM,2021,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,10835,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '3', in original. Note: couldn't interpret '10E', in original."
-BCHEM498,IND STUDY CHEM,BCHEM,2021,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,10836,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '1', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."
-BCHEM498,IND STUDY CHEM,BCHEM,2021,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,10837,-,-,-,-,-,-,"C_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
-BCHEM499,UG RESEARCH CHEM,BCHEM,2021,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,10838,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '11', in original. Note: couldn't interpret '10E', in original."
-BCHEM499,UG RESEARCH CHEM,BCHEM,2021,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,10839,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '4', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."
+BCHEM498,IND STUDY CHEM,BCHEM,2021,SPR,IS,-,10835,A,1-5,-,-,to_be_arranged,-,-,-,Open,3,-,-,-,10E
+BCHEM498,IND STUDY CHEM,BCHEM,2021,SPR,IS,-,10836,B,1-5,-,-,to_be_arranged,-,-,-,Open,1,-,-,-,"10E Note: couldn't interpret 'CR_NC', in original."
+BCHEM498,IND STUDY CHEM,BCHEM,2021,SPR,IS,-,10837,C,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,10E
+BCHEM499,UG RESEARCH CHEM,BCHEM,2021,SPR,IS,-,10838,A,1-5,-,-,to_be_arranged,-,-,-,Closed,11,-,-,-,10E
+BCHEM499,UG RESEARCH CHEM,BCHEM,2021,SPR,IS,-,10839,B,1-5,-,-,to_be_arranged,-,-,-,Open,4,-,-,-,"10E Note: couldn't interpret 'CR_NC', in original."

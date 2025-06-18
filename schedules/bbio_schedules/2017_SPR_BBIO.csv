@@ -1,25 +1,25 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BBIO200,INTRO BIOLOGY II,BBIO,2017,SPR,no_restriction,no_add_code,10681,A,5,-,TTh,845-1045,DISC,061,"Lewis, Alaron",Open,86,96,-,$70,-
-BBIO200,INTRO BIOLOGY II,BBIO,2017,SPR,no_restriction,no_add_code,10682,AA,-,LB,T,1055-110,DISC,263,"Ma, Eva",Closed,24,24,-,-,-
-BBIO200,INTRO BIOLOGY II,BBIO,2017,SPR,no_restriction,no_add_code,20771,AB,-,LB,T,145-400,DISC,263,"Ma, Eva",Closed,24,24,-,-,-
-BBIO200,INTRO BIOLOGY II,BBIO,2017,SPR,no_restriction,no_add_code,20772,AC,-,LB,Th,1145-200,DISC,263,"Lewis, Alaron",Closed,24,24,-,-,-
-BBIO200,INTRO BIOLOGY II,BBIO,2017,SPR,no_restriction,no_add_code,20773,AD,-,LB,Th,230-445,DISC,263,"Lewis, Alaron",Open,14,24,-,-,-
-BBIO220,INTRO BIOLOGY III,BBIO,2017,SPR,no_restriction,no_add_code,10683,A,5,-,TTh,845-1045,DISC,162,"White, Bryan D.",Open,57,144,-,$70,-
-BBIO220,INTRO BIOLOGY III,BBIO,2017,SPR,no_restriction,no_add_code,10685,AB,-,LB,M,1100-100,DISC,267,"White, Bryan D.",Open,22,24,-,-,-
-BBIO220,INTRO BIOLOGY III,BBIO,2017,SPR,no_restriction,no_add_code,10686,AC,-,LB,M,115-315,DISC,267,"White, Bryan D.",Closed,24,24,-,-,-
-BBIO220,INTRO BIOLOGY III,BBIO,2017,SPR,no_restriction,no_add_code,20774,AE,-,LB,W,1100-100,DISC,267,"White, Bryan D.",Open,11,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2017,SPR,-,-,10681,A,5,-,TTh,845-1045,DISC,061,"Lewis, Alaron",Open,86,96,-,$70,-
+BBIO200,INTRO BIOLOGY II,BBIO,2017,SPR,-,-,10682,AA,-,LB,T,1055-110,DISC,263,"Ma, Eva",Closed,24,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2017,SPR,-,-,20771,AB,-,LB,T,145-400,DISC,263,"Ma, Eva",Closed,24,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2017,SPR,-,-,20772,AC,-,LB,Th,1145-200,DISC,263,"Lewis, Alaron",Closed,24,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2017,SPR,-,-,20773,AD,-,LB,Th,230-445,DISC,263,"Lewis, Alaron",Open,14,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2017,SPR,-,-,10683,A,5,-,TTh,845-1045,DISC,162,"White, Bryan D.",Open,57,144,-,$70,-
+BBIO220,INTRO BIOLOGY III,BBIO,2017,SPR,-,-,10685,AB,-,LB,M,1100-100,DISC,267,"White, Bryan D.",Open,22,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2017,SPR,-,-,10686,AC,-,LB,M,115-315,DISC,267,"White, Bryan D.",Closed,24,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2017,SPR,-,-,20774,AE,-,LB,W,1100-100,DISC,267,"White, Bryan D.",Open,11,24,-,-,-
 BBIO225,SCIENTIFIC WRITING,BBIO,2017,SPR,no_restriction,no_add_code,20777,A,5,-,MW,845-1045,UW1,202,"Galindo, Heather Michelle",Closed,20,20,-,-,%WJ
 BBIO241,HUMAN ANAT PHYSIO I ,BBIO,2017,SPR,Restr,no_add_code,-,A,6,-,TTh,115-315,UW2,131,"Price, Michele",Closed,30,30,-,$50,-
-BBIO241,HUMAN ANAT PHYSIO I ,BBIO,2017,SPR,Restr,no_add_code,-,AA,-,LB,TF,845-1045,DISC,267,"Price, Michele",Closed,15,15,-,-,-
-BBIO241,HUMAN ANAT PHYSIO I ,BBIO,2017,SPR,Restr,no_add_code,-,AB,-,LB,TF,1100-100,DISC,267,"Price, Michele",Closed,15,15,-,-,-
-BBIO293,SPEC TOPICS BIOLOGY ,BBIO,2017,SPR,no_restriction,no_add_code,20782,B,5,-,MW,115-315,DISC,162,"McNabb, Susan L",Open,16,20,-,-,-
+BBIO241,HUMAN ANAT PHYSIO I ,BBIO,2017,SPR,Restr,-,-,AA,-,LB,TF,845-1045,DISC,267,"Price, Michele",Closed,15,15,-,-,-
+BBIO241,HUMAN ANAT PHYSIO I ,BBIO,2017,SPR,Restr,-,-,AB,-,LB,TF,1100-100,DISC,267,"Price, Michele",Closed,15,15,-,-,-
+BBIO293,SPEC TOPICS BIOLOGY ,BBIO,2017,SPR,-,-,20782,B,5,-,MW,115-315,DISC,162,"McNabb, Susan L",Open,16,20,-,-,-
 BBIO310,BRAIN AND BEHAVIOR,BBIO,2017,SPR,-,add_code_required,10688,A,5,-,MW,115-315,UW1,220,"Wacker, Douglas",-,46,48,-,-,-
 BBIO330,MARINE BIOLOGY,BBIO,2017,SPR,no_restriction,no_add_code,21240,A,5,-,F,1100-300,SSG,CNSVTRY,"Galindo, Heather Michelle",Closed,14,14,-,$95,%
 BBIO352,ANAT & PHYSIOL II,BBIO,2017,SPR,no_restriction,no_add_code,10690,A,5,-,MW,845-1045,UW2,031,"Jensen, Jeffrey",Open,39,48,-,$110,-
-BBIO352,ANAT & PHYSIOL II,BBIO,2017,SPR,no_restriction,no_add_code,20788,AA,-,LB,T,200-500,DISC,267,"Al-Noori, Salwa",Open,19,24,-,-,-
-BBIO352,ANAT & PHYSIOL II,BBIO,2017,SPR,no_restriction,no_add_code,20789,AB,-,LB,Th,115-415,DISC,267,"Al-Noori, Salwa",Open,20,24,-,-,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2017,SPR,-,-,20788,AA,-,LB,T,200-500,DISC,267,"Al-Noori, Salwa",Open,19,24,-,-,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2017,SPR,-,-,20789,AB,-,LB,Th,115-415,DISC,267,"Al-Noori, Salwa",Open,20,24,-,-,-
 BBIO355,BEHAVIOR ENDOCRINOL ,BBIO,2017,SPR,-,add_code_required,20810,A,5,-,TTh,1100-100,UWBB,260,"Wacker, Douglas",-,25,24,-,-,-
-BBIO360,INTRO GENETICS,BBIO,2017,SPR,no_restriction,no_add_code,10691,A,5,-,MW,1100-100,DISC,252,"Ma, Eva",Open,22,60,-,-,-
+BBIO360,INTRO GENETICS,BBIO,2017,SPR,-,-,10691,A,5,-,MW,1100-100,DISC,252,"Ma, Eva",Open,22,60,-,-,-
 BBIO364,BIOCHEMISTRY I,BBIO,2017,SPR,-,add_code_required,20812,A,5,-,MW,115-315,UW1,051,"Corey, Michael J.",-,17,24,-,-,J
 BBIO365,BIOCHEMISTRY II,BBIO,2017,SPR,no_restriction,no_add_code,20815,A,5,-,MW,115-315,UW1,210,"Anderson, Peter C",Closed,27,24,-,-,J
 BBIO375,MOLECULAR BIOLOGY,BBIO,2017,SPR,no_restriction,no_add_code,20790,A,5,-,MW,330-530,UW2,205,"Madzima, Thelma F",Open,19,15,-,-,J

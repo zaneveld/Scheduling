@@ -1,0 +1,16 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE115,EXPLORE: SOCIAL SCI ,BCORE,2025,SPR,no_restriction,no_add_code,10852,A,5,-,MW,845-1045,UW2,211,"Porter, Ian",Open,4,14,-,-,J
+BCORE115,EXPLORE: SOCIAL SCI ,BCORE,2025,SPR,no_restriction,no_add_code,10853,B,5,-,W,330-530,UW2,211,"West, Maureen P.",Closed,8,14,-,-,BJ
+BCORE115,EXPLORE: SOCIAL SCI ,BCORE,2025,SPR,no_restriction,no_add_code,10854,C,5,-,TTh,845-1045,UW2,240,"Lambacher, Jason Frederick",Open,1,14,-,-,J
+BCORE115,EXPLORE: SOCIAL SCI ,BCORE,2025,SPR,no_restriction,no_add_code,10855,E,5,-,T,115-315,SSGC,101,"Spiegler, Louise",Open,11,12,-,-,BJ
+BCORE115,EXPLORE: SOCIAL SCI ,BCORE,2025,SPR,no_restriction,no_add_code,10856,F,5,-,TTh,115-315,UW2,240,"Doyle, Gavin",Closed,15,14,-,-,J
+BCORE116,EXPLORE: NATURAL SCI,BCORE,2025,SPR,no_restriction,no_add_code,10857,A,5,-,M,1100-100,UW2,040,"Lin, Hsinmei",Open,19,20,-,-,BJ
+BCORE117,EXPLORE: ARTS & HUM ,BCORE,2025,SPR,no_restriction,no_add_code,10858,A,5,-,MW,845-1045,UW2,211,"Porter, Ian",Open,24,16,-,-,J
+BCORE117,EXPLORE: ARTS & HUM ,BCORE,2025,SPR,no_restriction,no_add_code,10859,B,5,-,W,330-530,UW2,211,"West, Maureen P.",Closed,22,16,-,-,BJ
+BCORE117,EXPLORE: ARTS & HUM ,BCORE,2025,SPR,no_restriction,no_add_code,10860,C,5,-,TTh,845-1045,UW2,240,"Lambacher, Jason Frederick",Open,27,16,-,-,J
+BCORE117,EXPLORE: ARTS & HUM ,BCORE,2025,SPR,no_restriction,no_add_code,10861,D,5,-,T,115-315,SSGC,101,"Spiegler, Louise",Closed,12,12,-,-,BJ
+BCORE117,EXPLORE: ARTS & HUM ,BCORE,2025,SPR,no_restriction,no_add_code,10862,E,5,-,TTh,115-315,UW2,240,"Doyle, Gavin",Closed,20,16,-,-,J
+BCORE117,EXPLORE: ARTS & HUM ,BCORE,2025,SPR,no_restriction,no_add_code,10863,F,5,-,M,1100-100,UW2,040,"Lin, Hsinmei",Closed,10,10,-,-,BJ
+BCORE117,EXPLORE: ARTS & HUM ,BCORE,2025,SPR,no_restriction,no_add_code,10864,G,5,-,M,115-315,UW1,060,"Doyle, Gavin",Closed,31,30,-,-,B
+BCORE117,EXPLORE: ARTS & HUM ,BCORE,2025,SPR,no_restriction,no_add_code,10865,H,5,-,MW,330-530,UW2,040,"Brooks, Peter",Open,17,24,-,-,-
+BCORE133,DISCOVERY CORE III,BCORE,2025,SPR,Restr,no_add_code,-,A,2,-,F,1100-100,UW2,205,"Shinneman, Avery",Open,19,30,-,-,-

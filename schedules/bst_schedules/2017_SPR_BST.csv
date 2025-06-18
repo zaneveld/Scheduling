@@ -1,7 +1,7 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BST153,INTRO GEOLOGY,BST,2017,SPR,no_restriction,no_add_code,21503,A,5,-,MW,115-315,DISC,369,"Shinneman, Avery",Closed,12,12,-,-,J
-BST200,INTRO TO CLIMATE SCI,BST,2017,SPR,no_restriction,no_add_code,20872,A,5,-,TTh,845-1045,DISC,252,"Sommerfeld, David A",Closed,15,15,-,-,J
-BST498,IND STUDY SCI TECH,BST,2017,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,11687,A,-,5,-,-,-,"to_be_arranged Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
-BST498,IND STUDY SCI TECH,BST,2017,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,11688,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
-BST499,UG RESEARCH SCI TECH,BST,2017,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,11689,A,-,5,-,-,-,"to_be_arranged Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
-BST499,UG RESEARCH SCI TECH,BST,2017,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,11690,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
+BST153,INTRO GEOLOGY,BST,2017,SPR,-,-,21503,A,5,-,MW,115-315,DISC,369,"Shinneman, Avery",Closed,12,12,-,-,J
+BST200,INTRO TO CLIMATE SCI,BST,2017,SPR,-,-,20872,A,5,-,TTh,845-1045,DISC,252,"Sommerfeld, David A",Closed,15,15,-,-,J
+BST498,IND STUDY SCI TECH,BST,2017,SPR,IS,-,11687,A,5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,10E
+BST498,IND STUDY SCI TECH,BST,2017,SPR,IS,-,11688,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,10E
+BST499,UG RESEARCH SCI TECH,BST,2017,SPR,IS,-,11689,A,5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,10E
+BST499,UG RESEARCH SCI TECH,BST,2017,SPR,IS,-,11690,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,10E

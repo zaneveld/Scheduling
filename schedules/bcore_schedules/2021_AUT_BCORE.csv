@@ -8,7 +8,7 @@ BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,no_add_code,-,G,5,-,W,330-530,U
 BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,no_add_code,-,H,5,-,TTh,845-1045,UW1,060,"Doyle, Gavin",Open,29,30,-,$15,-
 BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,no_add_code,-,I,5,-,TTh,830-1030,UW2,221,"Atkinson, Jennifer",Open,21,30,-,-,J
 BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,no_add_code,-,J,5,-,T,845-1045,UW1,220,"Lambacher, Jason Frederick",Closed,30,30,-,-,B
-BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,no_add_code,-,K,5,-,TTh,1100-100,DISC,162,"Doyle, Gavin",Open,49,48,-,-,J
+BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,-,-,K,5,-,TTh,1100-100,DISC,162,"Doyle, Gavin",Open,49,48,-,-,J
 BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,no_add_code,-,L,5,-,TTh,1100-100,*,*,"Carpenter, Gary",Open,29,31,-,-,-
 BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,no_add_code,-,M,5,-,TTh,115-315,UW1,121,"Hsu, Howard",Closed,31,31,-,-,-
 BCORE104,VIS LIT PRFM ART 1,BCORE,2021,AUT,Restr,no_add_code,-,N,5,-,Th,-,545-745P,*,-,-,-,-,-,-,"* Note: couldn't interpret 'Morse,Jason', in original. Note: couldn't interpret 'H', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '31', in original. Note: couldn't interpret '31', in original."
@@ -19,11 +19,11 @@ BCORE107,INDVDUALS & SOC 1,BCORE,2021,AUT,Restr,no_add_code,-,D,5,-,MW,115-315,U
 BCORE107,INDVDUALS & SOC 1,BCORE,2021,AUT,Restr,no_add_code,-,E,5,-,MW,330-530,UW1,060,"Shaw, Carol A",Open,29,30,-,-,B
 BCORE107,INDVDUALS & SOC 1,BCORE,2021,AUT,Restr,no_add_code,-,F,5,-,T,845-1045,UW2,040,"Lichty, Lauren F.",Open,28,30,-,-,B
 BCORE107,INDVDUALS & SOC 1,BCORE,2021,AUT,Restr,no_add_code,-,H,5,-,TTh,330-530,UW1,120,"McNabb, She, Her, Hers, Susan",Closed,15,30,-,-,J
-BCORE107,INDVDUALS & SOC 1,BCORE,2021,AUT,Restr,no_add_code,-,I,5,-,T,330-530,UW1,060,"Hiukka, Kristiina",Closed,30,30,CR_NC,-,B
+BCORE107,INDVDUALS & SOC 1,BCORE,2021,AUT,Restr,-,-,I,5,-,T,330-530,UW1,060,"Hiukka, Kristiina",Closed,30,30,CR_NC,-,B
 BCORE107,INDVDUALS & SOC 1,BCORE,2021,AUT,Restr,no_add_code,-,J,5,-,TTh,330-530,UW2,040,"Nixon, David",Closed,30,30,-,-,-
 BCORE107,INDVDUALS & SOC 1,BCORE,2021,AUT,Restr,no_add_code,-,K,5,-,Th,330-530,*,*,"Merchant, Natasha H.",Closed,31,31,-,-,-
 BCORE110,NATURAL WORLD 1,BCORE,2021,AUT,Restr,no_add_code,-,B,5,-,TTh,830-1030,UW2,221,"Stokes, David L.",Open,8,30,-,-,J
-BCORE110,NATURAL WORLD 1,BCORE,2021,AUT,Restr,no_add_code,-,C,5,-,TTh,1100-100,DISC,162,"Lovitt, Charity",Open,14,48,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2021,AUT,Restr,-,-,C,5,-,TTh,1100-100,DISC,162,"Lovitt, Charity",Open,14,48,-,-,J
 BCORE110,NATURAL WORLD 1,BCORE,2021,AUT,Restr,no_add_code,-,D,5,-,TTh,115-315,*,*,"Lasker, Grace",Open,23,24,-,-,-
 BCORE110,NATURAL WORLD 1,BCORE,2021,AUT,Restr,no_add_code,-,E,5,-,TTh,330-530,UW1,120,"McNabb, She, Her, Hers, Susan",Closed,16,30,-,-,J
 BCORE110,NATURAL WORLD 1,BCORE,2021,AUT,Restr,no_add_code,-,F,5,-,TTh,330-530,UW1,041,"Valdez, Ursula",Open,4,30,-,-,J

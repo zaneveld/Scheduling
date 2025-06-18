@@ -1,34 +1,34 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BBIO200,INTRO BIOLOGY II,BBIO,2020,SPR,no_restriction,no_add_code,10696,A,5,-,TTh,845-1045,DISC,162,"White, Bryan",Open,60,72,-,$70,-
-BBIO200,INTRO BIOLOGY II,BBIO,2020,SPR,no_restriction,no_add_code,10697,AA,-,LB,T,1100-100,DISC,263,"White, Bryan",Closed,24,24,-,-,-
-BBIO200,INTRO BIOLOGY II,BBIO,2020,SPR,no_restriction,no_add_code,20751,AB,-,LB,T,130-330,DISC,263,"White, Bryan",Open,13,24,-,-,-
-BBIO200,INTRO BIOLOGY II,BBIO,2020,SPR,no_restriction,no_add_code,20752,AC,-,LB,Th,1100-100,DISC,263,"White, Bryan",Open,23,24,-,-,-
-BBIO220,INTRO BIOLOGY III,BBIO,2020,SPR,no_restriction,no_add_code,10698,A,5,-,TTh,845-1045,DISC,061,"Al-Noori, Salwa",Open,68,120,-,$70,-
-BBIO220,INTRO BIOLOGY III,BBIO,2020,SPR,no_restriction,no_add_code,10699,AA,-,LB,M,1100-100,DISC,267,"Al-Noori, Salwa",Open,23,24,-,-,-
-BBIO220,INTRO BIOLOGY III,BBIO,2020,SPR,no_restriction,no_add_code,10701,AC,-,LB,W,1100-100,DISC,267,"Al-Noori, Salwa",Open,18,24,-,-,-
-BBIO220,INTRO BIOLOGY III,BBIO,2020,SPR,no_restriction,no_add_code,10702,AD,-,LB,W,145-345,DISC,267,"Al-Noori, Salwa",Closed,27,24,-,-,-
-BBIO231,GENES & HEREDITY,BBIO,2020,SPR,no_restriction,no_add_code,21172,A,5,-,MW,115-315,DISC,165B,"McNabb, Susan L.",Closed,15,15,-,-,J
+BBIO200,INTRO BIOLOGY II,BBIO,2020,SPR,-,-,10696,A,5,-,TTh,845-1045,DISC,162,"White, Bryan",Open,60,72,-,$70,-
+BBIO200,INTRO BIOLOGY II,BBIO,2020,SPR,-,-,10697,AA,-,LB,T,1100-100,DISC,263,"White, Bryan",Closed,24,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2020,SPR,-,-,20751,AB,-,LB,T,130-330,DISC,263,"White, Bryan",Open,13,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2020,SPR,-,-,20752,AC,-,LB,Th,1100-100,DISC,263,"White, Bryan",Open,23,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2020,SPR,-,-,10698,A,5,-,TTh,845-1045,DISC,061,"Al-Noori, Salwa",Open,68,120,-,$70,-
+BBIO220,INTRO BIOLOGY III,BBIO,2020,SPR,-,-,10699,AA,-,LB,M,1100-100,DISC,267,"Al-Noori, Salwa",Open,23,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2020,SPR,-,-,10701,AC,-,LB,W,1100-100,DISC,267,"Al-Noori, Salwa",Open,18,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2020,SPR,-,-,10702,AD,-,LB,W,145-345,DISC,267,"Al-Noori, Salwa",Closed,27,24,-,-,-
+BBIO231,GENES & HEREDITY,BBIO,2020,SPR,-,-,21172,A,5,-,MW,115-315,DISC,165B,"McNabb, Susan L.",Closed,15,15,-,-,J
 BBIO233,CANCER,BBIO,2020,SPR,no_restriction,no_add_code,20756,A,5,-,MW,845-1045,UW2,040,"McNabb, Susan L.",Open,27,30,-,-,-
-BBIO285,SEMINAR IN BIOLOGY,BBIO,2020,SPR,no_restriction,no_add_code,20757,A,3,-,Th,115-315,DISC,256,"Price, Rebecca M.",Open,11,12,-,-,J
-BBIO293,SPEC TOPICS BIOLOGY ,BBIO,2020,SPR,no_restriction,no_add_code,21230,A,5,-,TTh,115-315,DISC,369,"Hannachi, Imen",Open,8,10,-,-,J
+BBIO285,SEMINAR IN BIOLOGY,BBIO,2020,SPR,-,-,20757,A,3,-,Th,115-315,DISC,256,"Price, Rebecca M.",Open,11,12,-,-,J
+BBIO293,SPEC TOPICS BIOLOGY ,BBIO,2020,SPR,-,-,21230,A,5,-,TTh,115-315,DISC,369,"Hannachi, Imen",Open,8,10,-,-,J
 BBIO310,BRAIN AND BEHAVIOR,BBIO,2020,SPR,Restr,no_add_code,-,A,5,-,MW,330-530,*,*,"Wacker, Douglas",Closed,49,48,-,-,-
 BBIO330,MARINE BIOLOGY,BBIO,2020,SPR,no_restriction,no_add_code,20759,A,5,-,F,1100-300,UW1,030,"Galindo, Heather M",Closed,18,18,-,-,-
 BBIO352,ANAT & PHYSIOL II,BBIO,2020,SPR,no_restriction,no_add_code,10704,A,5,-,MW,845-1045,UW1,110,"Champagne, Cory",Open,38,48,-,$110,-
-BBIO352,ANAT & PHYSIOL II,BBIO,2020,SPR,no_restriction,no_add_code,20773,AA,-,LB,T,200-500,DISC,267,"Champagne, Cory",Open,16,24,-,-,-
-BBIO352,ANAT & PHYSIOL II,BBIO,2020,SPR,no_restriction,no_add_code,20774,AB,-,LB,Th,115-415,DISC,267,"Champagne, Cory",Open,22,24,-,-,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2020,SPR,-,-,20773,AA,-,LB,T,200-500,DISC,267,"Champagne, Cory",Open,16,24,-,-,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2020,SPR,-,-,20774,AB,-,LB,Th,115-415,DISC,267,"Champagne, Cory",Open,22,24,-,-,-
 BBIO355,BEHAVIOR ENDOCRINOL ,BBIO,2020,SPR,no_restriction,no_add_code,20775,A,5,-,TTh,1100-100,UW1,041,"Wacker, Douglas",Closed,28,28,-,-,-
 BBIO360,INTRO GENETICS,BBIO,2020,SPR,no_restriction,no_add_code,10705,A,5,-,MW,1100-100,UW1,261,"Madzima, Thelma F",Open,29,30,-,-,-
 BBIO364,BIOCHEMISTRY I,BBIO,2020,SPR,no_restriction,no_add_code,20760,A,5,-,MW,115-315,UW1,041,"Anderson, Peter",Open,18,20,-,-,J
 BBIO365,BIOCHEMISTRY II,BBIO,2020,SPR,no_restriction,no_add_code,10706,A,5,-,MW,115-315,UW2,141,"Tyson, Elizabeth",Open,18,24,-,-,J
 BBIO370,MICROBIOLOGY,BBIO,2020,SPR,no_restriction,no_add_code,20762,A,5,-,MW,845-1045,UW1,210,"Davidson, Seana Kelyn",Open,47,48,-,$150,-
-BBIO370,MICROBIOLOGY,BBIO,2020,SPR,no_restriction,no_add_code,20763,AA,-,LB,W,115-315,DISC,263,"Davidson, Seana Kelyn",Open,23,24,-,-,-
-BBIO370,MICROBIOLOGY,BBIO,2020,SPR,no_restriction,no_add_code,21547,AB,-,LB,M,115-315,DISC,263,"Davidson, Seana Kelyn",Closed,24,24,-,-,-
+BBIO370,MICROBIOLOGY,BBIO,2020,SPR,-,-,20763,AA,-,LB,W,115-315,DISC,263,"Davidson, Seana Kelyn",Open,23,24,-,-,-
+BBIO370,MICROBIOLOGY,BBIO,2020,SPR,-,-,21547,AB,-,LB,M,115-315,DISC,263,"Davidson, Seana Kelyn",Closed,24,24,-,-,-
 BBIO375,MOLECULAR BIOLOGY,BBIO,2020,SPR,no_restriction,no_add_code,20776,A,5,-,MW,330-530,*,*,"Madzima, Thelma F",Open,11,15,-,-,J
 BBIO380,CELL BIOLOGY,BBIO,2020,SPR,-,add_code_required,20764,A,5,-,F,1100-130,*,*,"Lewis, Alaron A",-,25,24,-,-,W
 BBIO383,BIOINFORMATICS,BBIO,2020,SPR,no_restriction,no_add_code,20779,A,5,-,MW,330-530,UW2,105,"Zaneveld, Jesse",Open,15,20,-,$23,J
-BBIO393,SPEC TOPICS BIOLOGY ,BBIO,2020,SPR,no_restriction,no_add_code,20766,AA,-,LB,F,845-1045,DISC,267,"Price, Michele B.",Closed,15,15,-,-,-
+BBIO393,SPEC TOPICS BIOLOGY ,BBIO,2020,SPR,-,-,20766,AA,-,LB,F,845-1045,DISC,267,"Price, Michele B.",Closed,15,15,-,-,-
 BBIO393,SPEC TOPICS BIOLOGY ,BBIO,2020,SPR,-,add_code_required,20767,AB,-,LB,F,1100-100,DISC,267,"Price, Michele B.",-,0,15,-,-,-
-BBIO393,SPEC TOPICS BIOLOGY ,BBIO,2020,SPR,no_restriction,no_add_code,20768,B,5,-,TTh,330-530,DISC,369,"Price, Michele B.",Open,19,24,-,-,-
+BBIO393,SPEC TOPICS BIOLOGY ,BBIO,2020,SPR,-,-,20768,B,5,-,TTh,330-530,DISC,369,"Price, Michele B.",Open,19,24,-,-,-
 BBIO393,SPEC TOPICS BIOLOGY ,BBIO,2020,SPR,-,add_code_required,21447,C,5,-,TTh,115-315,DISC,369,-,-,0,12,-,-,J
 BBIO466,EVOLUTION,BBIO,2020,SPR,no_restriction,no_add_code,10708,A,5,-,MW,1100-100,UW1,110,"Zaneveld, Jesse",Open,47,48,-,-,-
 BBIO471,PLANT ECOLOGY,BBIO,2020,SPR,no_restriction,no_add_code,20769,A,5,-,TTh,115-315,SSG,CNSVTRY,"Chang, Cynthia",Closed,26,24,-,$80,-

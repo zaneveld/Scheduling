@@ -8,9 +8,9 @@ BCHEM164,GEN CHEM LAB III,BCHEM,2017,SUM,no_restriction,no_add_code,10273,B,2,-,
 BCHEM164,GEN CHEM LAB III,BCHEM,2017,SUM,no_restriction,no_add_code,10274,C,2,-,W,1230-330,CC1,340,"Finley, Brandon Dearmond",Open,16,20,-,$50,-
 BCHEM239,ORGANIC CHEMISTRY,BCHEM,2017,SUM,no_restriction,no_add_code,10275,A,4,-,MW,900-1130,UW2,031,"Thimmaiah, Muralidhara",Open,20,48,-,-,-
 BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2017,SUM,no_restriction,no_add_code,10276,A,3,-,M,1145-130,UW2,141,"Thimmaiah, Muralidhara",Open,20,40,-,$70,-
-BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2017,SUM,no_restriction,no_add_code,10277,AA,-,LB,W,1230-430,DISC,469,"Thimmaiah, Muralidhara",Closed,20,20,-,-,-
+BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2017,SUM,-,-,10277,AA,-,LB,W,1230-430,DISC,469,"Thimmaiah, Muralidhara",Closed,20,20,-,-,-
 BCHEM364,BIOCHEMISTRY I,BCHEM,2017,SUM,no_restriction,no_add_code,10279,A,5,-,TTh,845-1115,UW1,040,"Anderson, Peter C",Open,22,24,-,-,J
-BCHEM498,IND STUDY CHEM,BCHEM,2017,SUM,no_restriction,no_add_code,-,IS,-,-,-,-,-,10280,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
-BCHEM498,IND STUDY CHEM,BCHEM,2017,SUM,no_restriction,no_add_code,-,IS,-,-,-,-,-,10281,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."
-BCHEM499,UG RESEARCH CHEM,BCHEM,2017,SUM,no_restriction,no_add_code,-,IS,-,-,-,-,-,10282,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '4', in original. Note: couldn't interpret '10E', in original."
-BCHEM499,UG RESEARCH CHEM,BCHEM,2017,SUM,no_restriction,no_add_code,-,IS,-,-,-,-,-,10283,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."
+BCHEM498,IND STUDY CHEM,BCHEM,2017,SUM,IS,-,10280,A,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,10E
+BCHEM498,IND STUDY CHEM,BCHEM,2017,SUM,IS,-,10281,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,"10E Note: couldn't interpret 'CR_NC', in original."
+BCHEM499,UG RESEARCH CHEM,BCHEM,2017,SUM,IS,-,10282,A,1-5,-,-,to_be_arranged,-,-,-,Open,4,-,-,-,10E
+BCHEM499,UG RESEARCH CHEM,BCHEM,2017,SUM,IS,-,10283,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,"10E Note: couldn't interpret 'CR_NC', in original."

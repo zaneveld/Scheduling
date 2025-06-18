@@ -1,8 +1,8 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
 BBIO242,HUMAN ANAT PHYSIO II,BBIO,2018,SUM,Restr,no_add_code,-,A,6,-,TTh,900-1130,UW1,041,"Al-Noori, Salwa",Open,30,31,-,$90,-
-BBIO242,HUMAN ANAT PHYSIO II,BBIO,2018,SUM,no_restriction,no_add_code,10206,AA,-,LB,MW,1145-145,DISC,267,"Crowther, Gregory J",Closed,15,15,-,-,-
-BBIO242,HUMAN ANAT PHYSIO II,BBIO,2018,SUM,no_restriction,no_add_code,10207,AB,-,LB,MW,215-415,DISC,267,"Crowther, Gregory J",Closed,15,15,-,-,-
-BBIO360,INTRO GENETICS,BBIO,2018,SUM,no_restriction,no_add_code,10208,A,5,-,MTWTh,1145-215,DISC,165B,"Lewis, Alaron",Open,23,30,-,-,-
+BBIO242,HUMAN ANAT PHYSIO II,BBIO,2018,SUM,-,-,10206,AA,-,LB,MW,1145-145,DISC,267,"Crowther, Gregory J",Closed,15,15,-,-,-
+BBIO242,HUMAN ANAT PHYSIO II,BBIO,2018,SUM,-,-,10207,AB,-,LB,MW,215-415,DISC,267,"Crowther, Gregory J",Closed,15,15,-,-,-
+BBIO360,INTRO GENETICS,BBIO,2018,SUM,-,-,10208,A,5,-,MTWTh,1145-215,DISC,165B,"Lewis, Alaron",Open,23,30,-,-,-
 BBIO393,SPEC TOPICS BIOLOGY ,BBIO,2018,SUM,no_restriction,no_add_code,10210,A,5,-,MTWTh,1145-215,SSG,CNSVTRY,"Parr, Carolyn A.",Open,9,30,-,-,-
 BBIO466,EVOLUTION,BBIO,2018,SUM,no_restriction,no_add_code,14707,A,5,-,MTWTh,1145-215,LBA,003,"Zaneveld, Jesse R",Open,12,30,-,-,-
 BBIO495,INVESTIGATIVE BIO,BBIO,2018,SUM,-,add_code_required,10211,A,5,-,TTh,230-500,UWBB,220,"Sen, Keya",-,6,12,-,$130,-

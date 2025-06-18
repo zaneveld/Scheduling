@@ -1,0 +1,86 @@
+﻿Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other,Instructor_raw_from_website,Instructor_pronouns
+BBIO220,INTRO BIOLOGY III,BBIO,2024,AUT,no_restriction,no_add_code,10814,AA,-,LB,M,1100-100,DISC,267,"Al-Noori, Salwa",Closed,24,24,-,-,-,"Al-Noori, Salwa",not listed
+BBIO220,INTRO BIOLOGY III,BBIO,2024,AUT,no_restriction,no_add_code,10815,AB,-,LB,M,130-330,DISC,267,"Al-Noori, Salwa",Open,20,24,-,-,-,"Al-Noori, Salwa",not listed
+BBIO220,INTRO BIOLOGY III,BBIO,2024,AUT,no_restriction,no_add_code,10813,A,5,-,TTh,845-1045,UW2,131,"Al-Noori, Salwa",Open,44,48,-,$70 ,-,"Al-Noori, Salwa",not listed
+BBIO394,TOPICS IN NEUROSCI,BBIO,2024,AUT,no_restriction,no_add_code,10836,A,5,-,MW,845-1045,UW2,211,"Al-Noori, Salwa",Open,10,30,-,-,-,"Al-Noori, Salwa",not listed
+BBIO 390 ,DIS NERV SYS,BBIO,2025,SPR,,,,,,,TTH,8:45-10:45,,,"Al-Noori, Salwa",,,,,,,,
+BBIO 394,TOPICS IN NEUROSCI,BBIO,2025,SPR,,,,,,,MW,8:45-10:45,,,"Al-Noori, Salwa",,,,,,,,
+BBIO 480,NEUROBIOLOGY,BBIO,2025,SPR,,,,,,,MW,1:15-3:15,,,"Al-Noori, Salwa",,,,,,,,
+BBIO 394 ,TOPICS IN NEUROSCI,BBIO,2025,WIN,,,,,,,MW,8:45-10:45,,,"Al-Noori, Salwa",,,30,,,,,
+BBIO364,BIOCHEMISTRY I,BBIO,2024,AUT,no_restriction,no_add_code,10827,A,5,-,MW,115-315,UW1,40,"Anderson, Peter C",Closed,24,24,-,-,J,"Anderson, Peter C",not listed
+BBIO180,INTRO BIOLOGY I,BBIO,2024,AUT,no_restriction,no_add_code,10807,AA,-,LB,T,1100-100,DISC,263,"Campbell, Dana",Closed,24,24,-,-,-,"Campbell, Dana",not listed
+BBIO180,INTRO BIOLOGY I,BBIO,2024,AUT,no_restriction,no_add_code,10808,AB,-,LB,T,115-315,DISC,263,"Campbell, Dana",Closed,24,24,-,-,-,"Campbell, Dana",not listed
+BBIO180,INTRO BIOLOGY I,BBIO,2024,AUT,no_restriction,no_add_code,10809,AC,-,LB,Th,1100-100,DISC,263,"Campbell, Dana",Closed,24,24,-,-,-,"Campbell, Dana",not listed
+BBIO180,INTRO BIOLOGY I,BBIO,2024,AUT,no_restriction,no_add_code,10811,AE,-,LB,W,1115-115,DISC,263,"Campbell, Dana",Closed,24,24,-,-,-,"Campbell, Dana",not listed
+BBIO180,INTRO BIOLOGY I,BBIO,2024,AUT,no_restriction,no_add_code,10812,AF,-,LB,W,230-430,DISC,263,"Campbell, Dana",Closed,24,24,-,-,-,"Campbell, Dana",not listed
+BBIO180,INTRO BIOLOGY I,BBIO,2024,AUT,no_restriction,no_add_code,10810,AD,-,LB,W,845-1045,DISC,263,"Campbell, Dana",Closed,24,24,-,-,-,"Campbell, Dana",not listed
+BBIO495,INVESTIGATIVE BIO,BBIO,2024,AUT,-,add_code_required,23441,A,5,-,TTh,115-315,SSGC,101,"Chang, Cynthia",-,5,12,-,$100 ,-,"Chang, Cynthia",not listed
+BST210,,BBIO,2025,WIN,,,,,,,TTH,1:15-3:15,,,"Chang, Cynthia",,,,,,,,
+BBIO 330 ,MARINE BIOLOGY,BBIO,2025,SPR,,,,,,,Friday ,11:00-3:00,,,"Galindo, Heather",,,,,,,,
+BEARTH 154 ,INTRO OCEANOGRAPHY,BBIO,2025,SPR,,,,,,,TTH,11:00-1:00,,,"Galindo, Heather",,,,,,,,
+BBIO 466,Evolution,BBIO,2025,WIN,,,,,,,TTH,8:45-10:45,,,"Galindo, Heather",,,48,,,,,
+BEARTH 154,INTRO OCEANOGRAPHY,BBIO,2025,WIN,,,,,,,TTH,1:15-3:15,,,"Galindo, Heather",,,,,,,,
+BST 301 ,SCIENTIFIC WRITING,BBIO,2025,WIN,,,,,,,MW,8:45-10:45,,,"Galindo, Heather",,,,,,,,
+BBIO466,EVOLUTION,BBIO,2024,AUT,no_restriction,no_add_code,10838,A,5,-,MW,115-315,UW1,220,"Galindo, Heather M",Open,31,48,-,-,-,"Galindo, Heather M",not listed
+BBIO360,INTRO GENETICS,BBIO,2024,AUT,no_restriction,no_add_code,10826,A,5,-,TTh,115-315,UW2,141,"Gillis, Ian",Open,36,48,-,-,-,"Gillis, Ian",not listed
+BBIO 495 C,INVESTIGATIVE BIOLOGY,BBIO,2025,SPR,,,,,,LB,MW,11:00-1:00,,,"Hillesland, Kristina",,,,,,,,
+BBIO370,MICROBIOLOGY,BBIO,2024,AUT,no_restriction,no_add_code,10833,AB,-,LB,F,115-315,DISC,263,"Hillesland, Kristina Linnea",Open,18,24,-,-,-,"Hillesland, Kristina Linnea",not listed
+BBIO370,MICROBIOLOGY,BBIO,2024,AUT,no_restriction,no_add_code,10832,AA,-,LB,F,845-1045,DISC,263,"Hillesland, Kristina Linnea",Open,18,24,-,-,-,"Hillesland, Kristina Linnea",not listed
+BBIO370,MICROBIOLOGY,BBIO,2024,AUT,no_restriction,no_add_code,10831,A,5,-,MW,115-315,INV,134,"Hillesland, Kristina Linnea",Open,36,48,-,$150 ,-,"Hillesland, Kristina Linnea",not listed
+BBIO180,INTRO BIOLOGY I,BBIO,2024,AUT,no_restriction,no_add_code,10806,A,5,-,TTh,845-1045,DISC,61,"Jensen, Jeffrey",Closed,144,144,-,$70 ,-,"Jensen, Jeffrey",not listed
+BBIO335,SALMON AND SOCIETY,BBIO,2024,AUT,no_restriction,no_add_code,10821,A,5,-,F,845-1245,DISC,369,"Jensen, Jeffrey",Open,10,24,-,$100 ,-,"Jensen, Jeffrey",not listed
+BBIO 393 AA,SPEC TOPICS BIOLOGY ,BBIO,2025,SPR,,,,,,,MW,1:15-3:15,,,"Jensen, Jeffrey",,,,,,,,
+BBIO 393A,SPEC TOPICS BIOLOGY ,BBIO,2025,SPR,,,,,,,MW,11:00-1:00,,,"Jensen, Jeffrey",,,,,,,,
+BBIO233,CANCER,BBIO,2024,AUT,no_restriction,no_add_code,10818,A,5,-,TTh,845-1045,UW1,210,"McNabb, Susan L.",Open,13,48,-,-,-,"McNabb, Susan L.",not listed
+BBIO351,ANAT & PHYSIOL I,BBIO,2024,AUT,no_restriction,no_add_code,10825,AC,-,LB,F,845-1145,DISC,267,"Price, Michele B.",Closed,20,20,-,-,-,"Price, Michele B.",not listed
+BBIO351,ANAT & PHYSIOL I,BBIO,2024,AUT,no_restriction,no_add_code,10823,AA,-,LB,T,200-500,DISC,267,"Price, Michele B.",Closed,20,20,-,-,-,"Price, Michele B.",not listed
+BBIO351,ANAT & PHYSIOL I,BBIO,2024,AUT,no_restriction,no_add_code,10824,AB,-,LB,Th,200-500,DISC,267,"Price, Michele B.",Closed,20,20,-,-,-,"Price, Michele B.",not listed
+BBIO351,ANAT & PHYSIOL I,BBIO,2024,AUT,no_restriction,no_add_code,10822,A,5,-,TTh,845-1045,UW2,5,"Price, Michele B.",Closed,60,60,-,$110 ,-,"Price, Michele B.",not listed
+BBIO 385 ,ANIMAL BEHAVIOR,BBIO,2025,WIN,,,,,,,MW,1:15-3:15,,,"Price, Michelle B.",,,,,,,,
+BBIO 393,SPEC TOPICS BIOLOGY ,BBIO,2025,SPR,,,,,,,MW,1:15-3:15,,,Price. Michele B.,,,,,,,,
+BBIo 393 ,SPEC TOPICS BIOLOGY ,BBIO,2025,SPR,,,,,,,TTH,1:15-3:15,,,Price. Michele B.,,,,,,,,
+BBIO366,BIOCHEMISTRY LAB,BBIO,2024,AUT,no_restriction,no_add_code,10828,A,3,-,M,1145-105,UW1,21,"Robins, Lori",Open,14,16,-,$75 ,J,"Robins, Lori",not listed
+BBIO366,BIOCHEMISTRY LAB,BBIO,2024,AUT,no_restriction,no_add_code,10830,AB,-,LB,T,845-1145,DISC,469,"Robins, Lori",Open,6,8,-,-,J,"Robins, Lori",not listed
+BBIO 360 ,INTRO GENETICS,BBIO,2025,WIN,,,,,,,MW,1:15-3:15,,,"Servetnick, Marc",,,48,,,,,
+BBIO460,DEVELOPMENTAL BIOL,BBIO,2024,AUT,no_restriction,no_add_code,10837,A,5,-,TTh,330-530,UW2,205,"Servetnick, Marc David",Open,9,30,-,-,-,"Servetnick, Marc David",not listed
+BBIO375,MOLECULAR BIOLOGY,BBIO,2024,AUT,no_restriction,no_add_code,10834,A,5,-,MW,330-530,UW1,31,"Shih, Han-Wei",Open,5,15,-,-,J,"Shih, Han-Wei",not listed
+BBIO366,BIOCHEMISTRY LAB,BBIO,2024,AUT,no_restriction,no_add_code,10829,AA,-,LB,W,845-1145,DISC,469,"Shippy, Scott",Closed,8,8,-,-,J,"Shippy, Scott",not listed
+BBIO 310 ,BRAIN AND BEHAVIOR,BBIO,2025,SPR,,,,,,,MW,3:30-5:30,,,Wacker ,,,,,,,,
+BBIO 385 ,ANIMAL BEHAVIOR,BBIO,2025,SPR,,,,,,,MW,11:00-1:00,,,Wacker ,,,,,,,,
+BBIO495,INVESTIGATIVE BIO,BBIO,2024,AUT,-,add_code_required,10839,D,5,-,MW,330-530,INV,223,"Wacker, Douglas",-,12,12,-,$130 ,-,"Wacker, Douglas",not listed
+BBIO  320 ,BEHAV NEURO,BBIO,2025,WIN,,,,,,,,,,,"Wacker, Douglas",,,,,,,,
+BBIO 320,BEHAV NEURO,BBIO,2025,WIN,,,,,,,MW,3:30-5:30,,,"Wacker, Douglas",,,48,,,,,
+BBIO 355 ,Behavioral Endocrinology,BBIO,2025,WIN,,,,,,,MW,1:15-3:15,,,"Wacker, Douglas",,,30,,,,,
+BBIO310,BRAIN AND BEHAVIOR,BBIO,2024,AUT,no_restriction,no_add_code,10820,A,5,-,TTh,115-315,UW2,5,"White, Bryan D.",Closed,90,90,-,-,-,"White, Bryan D.",not listed
+BBIO372,STEM CELLS,BBIO,2024,AUT,no_restriction,no_add_code,23605,A,5,-,MW,1100-100,UW1,31,"White, Bryan D.",Closed,30,30,-,-,-,"White, Bryan D.",not listed
+BBIO 340 ,COMP BIO,BBIO,2025,WIN,,,,,,,TTH,11:00-1:00,,,"Zaneveld, Jesse",,,,,,,,
+BDATA 200,Intro to Data Studies,BBIO,2025,WIN,,,,,,,W,1:15-3:15,,,"Zaneveld, Jesse",,,48,,,,,
+BBIO495,INVESTIGATIVE BIO,BBIO,2024,AUT,-,add_code_required,23442,B,5,-,MW,115-315,*,*,"Zaneveld, Jesse R",-,5,12,-,-,O,"Zaneveld, Jesse R",not listed
+BBIO 200,INTRO BIO II,BBIO,2025,SPR,,,,,,,MW,8:45-10:45,,,,,,72,,,,,
+BBIO 200 AA,INTRO BIO II,BBIO,2025,SPR,,,,,,LB,W,11:00-1:00,,,,,,,,,,,
+BBIO 200 AB,INTRO BIO II,BBIO,2025,SPR,,,,,,LB,W,1:30-3:30,,,,,,,,,,,
+BBIO 200 AC,INTRO BIO II,BBIO,2025,SPR,,,,,,LB,Th ,11:00-1:00,,,,,,,,,,,
+BBIO 220,INTRO BIO III,BBIO,2025,SPR,,,,,,,TTH ,8:45-10:45,,,,,,96,,,,,
+BBIO 220 AA,INTRO BIO III,BBIO,2025,SPR,,,,,,LB,M,11:00-1:00,,,,,,,,,,,
+BBIO 220 AB,INTRO BIO III,BBIO,2025,SPR,,,,,,LB,M,1:30-3:30,,,,,,,,,,,
+BBIO 220 AC,INTRO BIO III,BBIO,2025,SPR,,,,,,LB,W,11:00-1:00,,,,,,,,,,,
+BBIO 220 AD,INTRO BIO III,BBIO,2025,SPR,,,,,,LB,W,1:30-3:30,,,,,,,,,,,
+BBIO 352,ANAT & PHYSIOL II,BBIO,2025,SPR,,,,,,,,,,,,,,60,,,,,
+BBIO 352 AA,ANAT & PHYSIOL II,BBIO,2025,SPR,,,,,,LB,Th ,8:54- 11:45,,,,,,,,,,,
+BBIO 352 AB,ANAT & PHYSIOL II,BBIO,2025,SPR,,,,,,LB,Th ,1:15-4:15,,,,,,,,,,,
+BBIO 360,INTRO GENETICS,BBIO,2025,SPR,,,,,,,MW,11:00-1:00,,,,,,,,,,,
+BBIO 370,MICROBIOLOGY,BBIO,2025,SPR,,,,,,,MW,3:30-5:30,,,,,,,,,,,
+BBIO 370 AA,MICROBIOLOGY,BBIO,2025,SPR,,,,,,LB,M,1:15-3:15,,,,,,,,,,,
+BBIO 370 AB,MICROBIOLOGY,BBIO,2025,SPR,,,,,,LB,T,8:45-10:45,,,,,,,,,,,
+BBIO 375,MOLECULAR BIOLOGY,BBIO,2025,SPR,,,,,,,TTH,3:30-5:30,,,,,,,,,,,
+BBIO 380 ,CELL BIOLOGY,BBIO,2025,SPR,,,,,,,MW,3:30-5:30,,,,,,,,,,,
+BBIO 495 A,INVESTIGATIVE BIOLOGY,BBIO,2025,SPR,,,,,,LB,MW,1:15-3:15,,,,,,,,,,,
+BBIO 495 B,INVESTIGATIVE BIOLOGY,BBIO,2025,SPR,,,,,,LB,TTh,11:00-1:00,,,,,,,,,,,
+B BIO 180,INTRO BIOLOGY I,BBIO,2025,WIN,,,,,,,TTH ,8:45-10:45,,,,,,198,,,,,
+B BIO 200,INTRO BIOLOGY II,BBIO,2025,WIN,,,,,,,MW,8:45-10:45,,,,,,96,,,,,
+B BIO 351,ANAT & PHYSIOL I,BBIO,2025,WIN,,,,,,,MW,11:00-1:00,,,,,,90,,,,,
+B BIO 352,ANAT & PHYSIOL I,BBIO,2025,WIN,,,,,,,MW,8:45-10:45,,,,,,60,,,,,
+BBIO 375,MOLECULAR BIOLOGY,BBIO,2025,WIN,,,,,,,MW,3:30-5:30,,,,,,,,,,,
+BBIO 470,Microbiology II,BBIO,2025,WIN,,,,,,,TTH,8:45-10:45,,,,,,,,,,,
+test,TEST CLASS,TEST,2025,WIN,,,,,,,,,LBA,3,test_instructor,,,,,,,,
+test,TEST CLASS,TEST,2025,WIN,,,,,,,,,DISC,165B,test_instructor,,,,,,,,

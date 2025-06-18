@@ -1,0 +1,20 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE115,EXPLORE: SOCIAL SCI ,BCORE,2025,WIN,no_restriction,no_add_code,10917,A,5,-,MW,1100-100,UW2,211,"Lambacher, Jason Frederick",Closed,9,5,-,-,J
+BCORE115,EXPLORE: SOCIAL SCI ,BCORE,2025,WIN,no_restriction,no_add_code,10918,B,5,-,MW,330-530,UW2,211,"Shayne, Julie",Open,8,30,-,-,-
+BCORE115,EXPLORE: SOCIAL SCI ,BCORE,2025,WIN,no_restriction,no_add_code,10919,C,5,-,TTh,115-315,UW1,030,"Iverson Cabral, Stefanie",Open,12,24,-,-,J
+BCORE115,EXPLORE: SOCIAL SCI ,BCORE,2025,WIN,no_restriction,no_add_code,10920,D,5,-,M,115-315,UW2,211,"Johnson, Christy",Open,28,30,-,-,B
+BCORE115,EXPLORE: SOCIAL SCI ,BCORE,2025,WIN,no_restriction,no_add_code,10921,E,5,-,TTh,845-1045,UW1,202,"Stiber, Michael",Open,11,30,-,-,J
+BCORE115,EXPLORE: SOCIAL SCI ,BCORE,2025,WIN,no_restriction,no_add_code,10922,F,5,-,Th,115-315,UW2,040,"West, Maureen P.",Closed,3,5,-,-,BJ
+BCORE115,EXPLORE: SOCIAL SCI ,BCORE,2025,WIN,no_restriction,no_add_code,10923,G,5,-,TTh,330-530,UW1,031,"Brooks, Peter",Open,7,5,-,-,J
+BCORE115,EXPLORE: SOCIAL SCI ,BCORE,2025,WIN,no_restriction,no_add_code,22191,H,5,-,W,330-530,UW1,030,"Spiegler, Louise",Open,8,10,-,-,BJ
+BCORE116,EXPLORE: NATURAL SCI,BCORE,2025,WIN,no_restriction,no_add_code,10924,A,5,-,TTh,845-1045,UW1,202,"Al-Noori, Salwa",Open,19,18,-,-,J
+BCORE116,EXPLORE: NATURAL SCI,BCORE,2025,WIN,no_restriction,no_add_code,10925,B,5,-,TTh,115-315,UW1,030,"Iyer, Sunita",Open,33,24,-,-,J
+BCORE117,EXPLORE: ARTS & HUM ,BCORE,2025,WIN,no_restriction,no_add_code,10926,A,5,-,MW,1100-100,UW1,121,"Porter, Ian",Open,27,30,-,-,-
+BCORE117,EXPLORE: ARTS & HUM ,BCORE,2025,WIN,no_restriction,no_add_code,10927,B,5,-,W,330-530,UW1,030,"Spiegler, Louise",Closed,20,20,-,-,BJ
+BCORE117,EXPLORE: ARTS & HUM ,BCORE,2025,WIN,no_restriction,no_add_code,10928,C,5,-,Th,1100-100,UW1,210,"Doyle, Gavin",Closed,30,30,-,-,B
+BCORE117,EXPLORE: ARTS & HUM ,BCORE,2025,WIN,no_restriction,no_add_code,10929,D,5,-,Th,330-530,UW2,211,"Roberts, Georgia M.",Open,21,30,-,-,B
+BCORE117,EXPLORE: ARTS & HUM ,BCORE,2025,WIN,no_restriction,no_add_code,10930,E,5,-,MW,1100-100,UW2,211,"Lambacher, Jason Frederick",Closed,21,25,-,-,J
+BCORE117,EXPLORE: ARTS & HUM ,BCORE,2025,WIN,no_restriction,no_add_code,10931,F,5,-,Th,115-315,UW2,040,"West, Maureen P.",Closed,28,25,-,-,BJ
+BCORE117,EXPLORE: ARTS & HUM ,BCORE,2025,WIN,no_restriction,no_add_code,10932,G,5,-,TTh,330-530,UW1,031,"Brooks, Peter",Open,18,25,-,-,J
+BCORE133,DISCOVERY CORE III,BCORE,2025,WIN,Restr,no_add_code,-,B,2,-,F,1100-100,UWBB,260,"Shinneman, Avery",Open,11,20,-,-,-
+BCORE233,TPCS PRE-HLTH PTHWYS,BCORE,2025,WIN,no_restriction,no_add_code,10935,A,2,-,W,330-530,UW1,220,"Labrecque, Kristen",Open,31,42,CR_NC,-,%

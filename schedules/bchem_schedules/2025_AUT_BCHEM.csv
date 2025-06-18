@@ -1,0 +1,28 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCHEM139,PREP FOR GEN CHEM,BCHEM,2025,AUT,-,-,10966,A,5,-,TTh,1100-100,DISC,162,"Lovitt, Charity",Open,14,90,-,-,-
+BCHEM143,GEN CHEM I,BCHEM,2025,AUT,-,-,10967,A,4,-,MWF,1015-1135,DISC,061,"Finley, Brandon D",Open,130,192,-,-,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2025,AUT,no_restriction,no_add_code,10968,A,2,-,M,1200-300,CC1,340,"Sommerfeld, David",Closed,24,24,-,$80,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2025,AUT,no_restriction,no_add_code,10970,C,2,-,T,830-1130,CC1,340,"Sommerfeld, David",Closed,24,24,-,$80,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2025,AUT,no_restriction,no_add_code,10971,D,2,-,T,115-415,CC1,340,"Thimmaiah, Murali",Open,23,24,-,$80,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2025,AUT,no_restriction,no_add_code,10972,E,2,-,W,1200-300,CC1,340,"Sommerfeld, David",Closed,24,24,-,$80,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2025,AUT,no_restriction,no_add_code,10974,G,2,-,Th,830-1130,CC1,340,"Thimmaiah, Murali",Open,12,24,-,$80,-
+BCHEM144,GEN CHEM LAB I,BCHEM,2025,AUT,no_restriction,no_add_code,10975,H,2,-,Th,115-415,CC1,340,"Thimmaiah, Murali",Open,15,24,-,$80,-
+BCHEM157,GEN CHEM STRATEGIES ,BCHEM,2025,AUT,no_restriction,no_add_code,10976,B,1,-,MTW,1100-100,UW2,340,"Shippy, Scott",Open,0,18,-,-,-
+BCHEM237,ORGANIC CHEMISTRY,BCHEM,2025,AUT,-,-,10977,A,4,-,MW,115-315,DISC,162,"Thimmaiah, Murali",Closed,70,70,-,-,-
+BCHEM237,ORGANIC CHEMISTRY,BCHEM,2025,AUT,-,-,10978,B,4,-,MW,330-530,DISC,061,"Daruwala, Khushroo P.",Open,31,70,-,-,-
+BCHEM316,QUANT & EQUIL CHEM,BCHEM,2025,AUT,no_restriction,no_add_code,10979,A,4,-,MW,115-315,UW2,131,"Jaffe, Dan",Open,27,36,-,-,-
+BCHEM317,QUANT ENVIRO LAB,BCHEM,2025,AUT,no_restriction,no_add_code,10980,A,3,-,W,1145-105,UW2,305,"Finley, Brandon D",Open,25,36,-,$100,-
+BCHEM317,QUANT ENVIRO LAB,BCHEM,2025,AUT,-,-,10981,AA,-,LB,Th,845-1245,DISC,469,"Finley, Brandon D",Open,8,12,-,-,-
+BCHEM317,QUANT ENVIRO LAB,BCHEM,2025,AUT,-,-,10982,AB,-,LB,Th,115-515,DISC,469,"Daruwala, Khushroo P.",Closed,12,12,-,-,-
+BCHEM317,QUANT ENVIRO LAB,BCHEM,2025,AUT,-,-,10983,AC,-,LB,F,845-1245,DISC,469,"Daruwala, Khushroo P.",Open,5,12,-,-,-
+BCHEM364,BIOCHEMISTRY I,BCHEM,2025,AUT,-,-,10984,A,5,-,MW,330-530,DISC,252,"Anderson, Peter",Closed,24,24,-,-,J
+BCHEM366,BIOCHEMISTRY LAB,BCHEM,2025,AUT,no_restriction,no_add_code,10986,A,3,-,M,1145-105,UW2,305,"Robins, Lori",Closed,16,16,-,$75,J
+BCHEM366,BIOCHEMISTRY LAB,BCHEM,2025,AUT,-,-,10987,AA,-,LB,T,845-1145,DISC,469,"Robins, Lori",Closed,8,8,-,-,J
+BCHEM366,BIOCHEMISTRY LAB,BCHEM,2025,AUT,-,-,10988,AB,-,LB,W,845-1145,DISC,469,"Shippy, Scott",Closed,8,8,-,-,J
+BCHEM375,MOLECULAR BIOLOGY,BCHEM,2025,AUT,no_restriction,no_add_code,10989,A,5,-,MW,330-530,UW2,211,"Shih, Han-Wei",Open,6,15,-,-,J
+BCHEM401,PHYSICAL CHEM I,BCHEM,2025,AUT,no_restriction,no_add_code,10990,A,4,-,MW,845-1045,UW1,021,"Sommerfeld, David",Open,19,30,-,-,-
+BCHEM493,ADV TOPICS IN CHEM,BCHEM,2025,AUT,no_restriction,no_add_code,10991,A,5,-,TTh,115-315,UW2,307,"Kim, Hyung J",Open,6,12,-,-,-
+BCHEM498,IND STUDY CHEM,BCHEM,2025,AUT,IS,-,10992,A,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,10E
+BCHEM498,IND STUDY CHEM,BCHEM,2025,AUT,IS,-,10993,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,"10E Note: couldn't interpret 'CR_NC', in original."
+BCHEM499,UG RESEARCH CHEM,BCHEM,2025,AUT,IS,-,10994,A,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,10E
+BCHEM499,UG RESEARCH CHEM,BCHEM,2025,AUT,IS,-,10995,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,"10E Note: couldn't interpret 'CR_NC', in original."

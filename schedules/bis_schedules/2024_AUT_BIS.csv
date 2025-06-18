@@ -1,0 +1,78 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BIS111,DIGITAL THINKING,BIS,2024,AUT,Restr,-,-,A,5,-,MW,115-315,DISC,258,"Kim, Jeffrey",Closed,21,18,-,-,J
+BIS121,INTRO TO DRAWING,BIS,2024,AUT,no_restriction,no_add_code,11956,A,5,-,-,to_be_arranged,-,-,"Carpenter, Gary",Open,23,30,-,-,A
+BIS121,INTRO TO DRAWING,BIS,2024,AUT,-,-,23252,B,5,-,TTh,115-315,DISC,363,"Carpenter, Gary",Open,22,24,-,-,-
+BIS132,INTRO TO PHOTOGRAPHY,BIS,2024,AUT,-,-,11958,A,5,-,W,115-315,DISC,162,"Norton, Katharine",Closed,90,90,-,-,B
+BIS167,PEOPLES HISTORY US,BIS,2024,AUT,no_restriction,no_add_code,11960,A,5,-,W,330-530,UW2,005,"Walsh, Camille",Open,88,90,-,-,%B
+BIS170,INTRO TO PSYCH,BIS,2024,AUT,no_restriction,no_add_code,11961,A,5,-,TTh,115-315,UW1,221,"McGuire, Mary V.",Closed,48,48,-,-,-
+BIS170,INTRO TO PSYCH,BIS,2024,AUT,no_restriction,no_add_code,11962,B,5,-,TTh,330-530,INV,111,"Yi, Jaki",Closed,48,48,-,-,-
+BIS175,AMERICAN GOVT,BIS,2024,AUT,no_restriction,no_add_code,23254,A,5,-,MW,330-530,UW1,110,"Lambacher, Jason Frederick",Open,34,48,-,-,-
+BIS177,INTRO MAKING MEDIA,BIS,2024,AUT,-,-,23453,A,5,-,M,330-530,DISC,252,"Martin, Minda J.",Open,58,60,-,-,%B
+BIS179,INTRO TO JOURNALISM ,BIS,2024,AUT,no_restriction,no_add_code,23255,A,5,-,-,to_be_arranged,-,-,"Gustafson, Kristin",Open,86,90,-,-,A
+BIS181,INTRO TO SOCIOLOGY,BIS,2024,AUT,no_restriction,no_add_code,23256,A,5,-,-,"to_be_arranged_Redwood,Loren",K.,-,-,Open,44,48,-,-,B
+BIS200,INTRO MICROECON,BIS,2024,AUT,no_restriction,no_add_code,11965,A,5,-,MW,330-530,UW1,210,"Nurmukhametov, Gani",Closed,12,11,-,-,J
+BIS200,INTRO MICROECON,BIS,2024,AUT,no_restriction,no_add_code,11966,B,5,-,Th,1100-100,UW2,131,"Danby, Colin",Open,16,11,-,-,BJ
+BIS200,INTRO MICROECON,BIS,2024,AUT,no_restriction,no_add_code,11967,C,5,-,TTh,845-1045,UW1,040,"Abken, Amre",Open,9,11,-,-,J
+BIS201,INTRO MACROECON,BIS,2024,AUT,no_restriction,no_add_code,11968,A,5,-,TTh,1100-100,UW2,031,"Nedita, Codrin",Open,6,11,-,-,J
+BIS201,INTRO MACROECON,BIS,2024,AUT,no_restriction,no_add_code,11969,B,5,-,TTh,115-315,UW2,031,"Nedita, Codrin",Closed,5,11,-,-,J
+BIS206,ENGAGING LIT ARTS,BIS,2024,AUT,-,-,23479,A,5,-,W,115-315,DISC,252,"Roberts, Georgia M.",Open,46,48,-,-,B
+BIS207,SHAKESPEARE & FILM,BIS,2024,AUT,no_restriction,no_add_code,11970,A,5,-,TTh,1100-100,INV,134,"Spiegler, Louise",Open,27,30,-,-,-
+BIS209,VISUAL & MEDIA,BIS,2024,AUT,no_restriction,no_add_code,23257,A,5,-,T,845-1045,UW2,121,"Bodle, Carrie",Closed,24,24,-,-,B
+BIS215,UNDERSTANDING STATS ,BIS,2024,AUT,no_restriction,no_add_code,23258,A,5,-,MW,115-315,UW1,120,"Jorgenson, Andrew D",Open,30,36,-,-,-
+BIS215,UNDERSTANDING STATS ,BIS,2024,AUT,no_restriction,no_add_code,23259,B,5,-,MW,330-530,UW1,050,"Jorgenson, Andrew D",Open,34,36,-,-,-
+BIS216,INTRO CULTURE STUDY ,BIS,2024,AUT,no_restriction,no_add_code,11973,A,5,-,-,to_be_arranged,-,-,"Harewood, Susan",Open,87,90,-,-,B
+BIS218,THE POWER OF MAPS,BIS,2024,AUT,no_restriction,no_add_code,23260,A,5,-,-,to_be_arranged,-,-,"Anderson, Christian",Closed,52,48,-,-,-
+BIS224,INTRO FEMINIST STDY ,BIS,2024,AUT,no_restriction,no_add_code,11976,A,5,-,T,330-530,UW1,010,"Kurian, Alka",Open,47,48,-,-,B
+BIS225,SOCIAL PSYCHOLOGY,BIS,2024,AUT,no_restriction,no_add_code,11977,A,5,-,MW,1100-100,UW1,010,"Silva, Janelle M",Open,46,48,-,-,-
+BIS232,DATA VISUALIZATION,BIS,2024,AUT,no_restriction,no_add_code,11978,A,5,-,W,330-530,UW1,120,"Anderson, Baaska",Open,34,36,-,-,B
+BIS232,DATA VISUALIZATION,BIS,2024,AUT,no_restriction,no_add_code,11979,B,5,-,T,1100-100,UW1,120,"Trujillo, Caleb",Closed,36,36,-,-,B
+BIS232,DATA VISUALIZATION,BIS,2024,AUT,no_restriction,no_add_code,23986,C,5,-,T,115-315,UW1,120,"Nurmukhametov, Gani",Closed,36,36,-,-,B
+BIS234,MEDIA/CLTR/CAPITALSM,BIS,2024,AUT,-,-,23447,A,5,-,W,1100-100,DISC,162,"Tang, Min",Open,59,60,-,-,%B
+BIS237,PUBLIC SPEAKING/COM ,BIS,2024,AUT,no_restriction,no_add_code,23448,A,5,-,MW,330-530,UW1,041,"Logan, Angela",Open,46,48,-,-,-
+BIS242,ENVIRONMENTAL GEOG,BIS,2024,AUT,no_restriction,no_add_code,23440,A,5,-,MW,115-315,UW2,031,"Lopez, Santiago",Closed,48,48,-,-,-
+BIS243,INTRO ENVIRON ISS,BIS,2024,AUT,no_restriction,no_add_code,11983,A,5,-,Th,330-530,UW1,010,"Redsteer, Margaret",Open,47,48,-,-,B
+BIS252,POLITICS OF SCI,BIS,2024,AUT,no_restriction,no_add_code,23264,A,5,-,W,1100-100,UW1,030,"Cram, Shannon",Closed,48,48,-,-,B
+BIS255,CRITICAL DIVERSITY,BIS,2024,AUT,no_restriction,no_add_code,11984,A,5,-,T,115-315,UW1,040,"Merchant, Natasha H.",Closed,18,18,-,-,BJ
+BIS261,INTRO FILM STUDIES,BIS,2024,AUT,no_restriction,no_add_code,11986,A,5,-,-,"to_be_arranged_Goldstein,David",S.,-,-,Open,59,60,-,-,A
+BIS270,ABNORMAL PSYCHOLOGY ,BIS,2024,AUT,no_restriction,no_add_code,11987,A,5,-,TTh,845-1045,INV,111,"Hartmann, William",Closed,60,60,-,-,-
+BIS279,INTRO LAW & SOCIETY ,BIS,2024,AUT,no_restriction,no_add_code,23265,A,5,-,-,"to_be_arranged_Griffin,Maryam",S,-,-,Open,87,90,-,-,A
+BIS282,GLOBALIZATION,BIS,2024,AUT,no_restriction,no_add_code,23266,A,5,-,MW,1100-100,INV,111,"Gardner, Ben",Closed,60,60,-,-,-
+BIS290,INTERDISC WRIT SEMNR,BIS,2024,AUT,no_restriction,no_add_code,11988,A,5,-,TTh,330-530,UW2,040,"Reynoso, Enrique",Closed,24,24,-,-,%W
+BIS293,SPECIAL TOPICS,BIS,2024,AUT,no_restriction,no_add_code,23273,A,3,-,W,115-315,UW2,005,"Tang, Min",Open,45,48,-,-,B
+BIS306,MARINE DIV & CONSER ,BIS,2024,AUT,no_restriction,no_add_code,11997,A,5,-,-,to_be_arranged,-,-,"Maxwell, Sara",Closed,91,90,-,-,A
+BIS310,"WOMEN, CULTURE, DEV ",BIS,2024,AUT,no_restriction,no_add_code,11999,A,5,-,MW,1100-100,UW1,221,"Shayne, Julie",Open,28,48,-,-,-
+BIS312,APPRS SOCIAL RESRCH ,BIS,2024,AUT,no_restriction,no_add_code,23267,A,5,-,MW,1100-100,UW1,120,"Bissat, Johanna G.",Open,35,36,-,-,-
+BIS313,ISSUES MEDIA STDY,BIS,2024,AUT,no_restriction,no_add_code,12002,A,5,-,-,"to_be_arranged_Roberts,Georgia",M.,-,-,Open,47,48,-,-,A
+BIS316,TPCS IN PSYCHOLOGY,BIS,2024,AUT,no_restriction,no_add_code,12005,A,5,-,TTh,1100-100,UW1,050,"Stewart, Eric",Closed,48,48,-,-,-
+BIS322,TPCS PERFORM STDY,BIS,2024,AUT,no_restriction,no_add_code,23268,A,5,-,-,to_be_arranged_Macalalad,-,-,"Bragin, Naomi",Open,27,30,-,-,A
+BIS332,GLB DIGITAL INDUSTRY,BIS,2024,AUT,no_restriction,no_add_code,23269,A,5,-,MW,845-1045,INV,111,"Tang, Min",Closed,48,48,-,-,-
+BIS335,HUMAN RIGHTS IN US,BIS,2024,AUT,no_restriction,no_add_code,12007,A,5,-,-,to_be_arranged,-,-,"Streichler, Stuart",Open,39,48,-,-,A
+BIS338,POLI INSTITU & PROC ,BIS,2024,AUT,no_restriction,no_add_code,12008,A,5,-,MW,115-315,UW1,202,"Nitta, Keith",Open,47,48,-,-,-
+BIS340,APPRS CULTURAL RES,BIS,2024,AUT,no_restriction,no_add_code,23560,A,5,-,T,115-315,UW2,131,"Thibault, Ronnie",Closed,48,48,-,-,B
+BIS341,STUDY OF CULTURE,BIS,2024,AUT,no_restriction,no_add_code,12010,A,5,-,T,330-530,UW1,210,"Harewood, Susan",Open,18,48,-,-,B
+BIS341,STUDY OF CULTURE,BIS,2024,AUT,no_restriction,no_add_code,23270,B,5,-,MW,330-530,UW1,010,"Sugano, Masahiro",Open,16,48,-,-,-
+BIS342,GEOG INF SYS,BIS,2024,AUT,-,-,23271,A,5,-,MW,1100-100,DISC,258,"Burns, Ryan",Closed,33,32,-,$50,-
+BIS342,GEOG INF SYS,BIS,2024,AUT,-,-,23272,B,5,-,TTh,330-530,DISC,258,"Burns, Ryan",Closed,32,32,-,$50,-
+BIS349,PERSONALITY PSYCH,BIS,2024,AUT,no_restriction,no_add_code,12017,A,5,-,MW,330-530,INV,111,"Stewart, Eric",Open,59,60,-,-,-
+BIS356,ETHICS & ENVIRONMNT ,BIS,2024,AUT,no_restriction,no_add_code,23274,A,5,-,M,330-530,UW1,020,"Atkinson, Jennifer",Open,46,48,-,-,B
+BIS361,STUDIES IN AM LIT,BIS,2024,AUT,no_restriction,no_add_code,23425,A,5,-,Th,115-315,UW1,030,"Roberts, Georgia M.",Open,46,48,-,-,B
+BIS367,ETHICS & SOCIETY,BIS,2024,AUT,no_restriction,no_add_code,23280,A,5,-,TTh,330-530,UW1,040,"Nixon, David",Open,43,48,-,-,-
+BIS370,19TH CENT AM LIT,BIS,2024,AUT,no_restriction,no_add_code,12019,A,5,-,TTh,330-530,*,*,"Watts, Linda",Open,44,48,-,-,-
+BIS379,AM ETHNIC LIT,BIS,2024,AUT,no_restriction,no_add_code,12022,A,5,-,-,"to_be_arranged_Goldstein,David",S.,-,-,Closed,60,60,-,-,A
+BIS380,BIOETHICS,BIS,2024,AUT,-,-,12023,A,5,-,Th,115-315,DISC,252,"Harkewicz, Laura J",Open,47,48,-,-,B
+BIS398,DIR STUDY/RESEARCH,BIS,2024,AUT,IS,add_code_required,12026,A,1-5,-,-,to_be_arranged,-,8,-,-,-,-,-,-,15E
+BIS403,WA DC SEM HUM RGTS,BIS,2024,AUT,-,add_code_required,12027,A,5,-,ThF,800-600,*,*,"Krabill, Ron",-,18,22,-,$775,WRE
+BIS405,ENVIRONMENTAL EDUC,BIS,2024,AUT,no_restriction,no_add_code,12028,A,5,-,W,115-315,EERC,102,"Lambert, Amy M",Open,22,30,-,-,REB
+BIS418,GLB SCHLR:CTZNSHP,BIS,2024,AUT,-,add_code_required,12030,A,5,-,MW,330-530,UW2,240,"Gardner, Ben",-,23,24,-,-,E
+BIS421,TECHNOLOGY POLICY,BIS,2024,AUT,no_restriction,no_add_code,12031,A,5,-,MW,115-315,UW2,340,"Kool, Nancy L.",Closed,20,20,-,-,J
+BIS464,TOPS ADV CINEMA STD ,BIS,2024,AUT,-,add_code_required,12033,A,5,-,-,to_be_arranged,-,-,"Goldstein, David S.",-,0,-,-,-,15E
+BIS480,INT'L STUDY ABROAD,BIS,2024,AUT,-,add_code_required,23263,A,5,-,-,to_be_arranged,-,-,"Miyamoto, Hiroshi",-,0,-,-,-,20E
+BIS490,ADVANCED SEMINAR,BIS,2024,AUT,Restr,no_add_code,-,B,5,-,MW,1100-100,UW1,261,"Lambacher, Jason Frederick",Open,22,24,-,-,W
+BIS490,ADVANCED SEMINAR,BIS,2024,AUT,Restr,no_add_code,-,C,5,-,Th,1100-100,UW1,210,"Harkewicz, Laura J",Open,21,24,-,-,WB
+BIS492,SENIOR THESIS,BIS,2024,AUT,IS,add_code_required,12034,A,5,-,-,to_be_arranged,-,0,-,-,-,-,-,-,"10E Note: couldn't interpret 'W', in original."
+BIS495,INTERNSHIP,BIS,2024,AUT,-,add_code_required,12043,A,-,-,-,2-6,-,-,-,-,-,-,-,-,"to_be_arranged Note: couldn't interpret 'Redwood,Loren', in original. Note: couldn't interpret 'K.', in original. Note: couldn't interpret '5', in original. Note: couldn't interpret '15', in original. Note: couldn't interpret 'CR_NC', in original."
+BIS498,UNDERGRAD RESEARCH,BIS,2024,AUT,IS,add_code_required,12044,A,1-5,-,-,to_be_arranged,-,6,-,-,-,-,-,-,18E
+BIS499,PORTFOLIO CAPSTONE,BIS,2024,AUT,Restr,no_add_code,-,A,5,-,-,to_be_arranged,*,*,"Atkinson, Jennifer",Closed,20,20,-,-,WA
+BIS499,PORTFOLIO CAPSTONE,BIS,2024,AUT,Restr,no_add_code,-,B,5,-,-,"to_be_arranged_Goldstein,David",S.,-,-,Closed,21,20,-,-,WA
+BIS499,PORTFOLIO CAPSTONE,BIS,2024,AUT,Restr,no_add_code,-,C,5,-,T,115-315,UW1,261,"Murr, Jed",Closed,20,20,-,-,WB
+BIS499,PORTFOLIO CAPSTONE,BIS,2024,AUT,Restr,no_add_code,-,D,5,-,-,to_be_arranged,-,-,"Bodle, Carrie",Open,19,20,-,-,WA

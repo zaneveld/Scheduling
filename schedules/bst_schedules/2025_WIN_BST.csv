@@ -1,0 +1,10 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BST205,WOMEN IN STEM,BST,2025,WIN,no_restriction,no_add_code,11849,A,3,-,M,845-1045,UW2,221,"Mlodnosky, Karyn",Open,26,30,-,-,B
+BST210,SOCL JUSTICE IN STEM,BST,2025,WIN,no_restriction,no_add_code,11850,A,5,-,TTh,115-315,UW1,051,"Chang, Cynthia",Open,40,48,-,-,%
+BST301,SCIENTIFIC WRITING,BST,2025,WIN,no_restriction,no_add_code,11851,A,5,-,MW,845-1045,UWBB,260,"McNabb, Susan",Open,21,24,-,-,W
+BST498,IND STUDY SCI TECH,BST,2025,WIN,IS,-,11853,A,5,-,-,to_be_arranged,-,-,-,Open,0,30,-,-,-
+BST498,IND STUDY SCI TECH,BST,2025,WIN,IS,-,11854,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,10,CR_NC,-,-
+BST498,IND STUDY SCI TECH,BST,2025,WIN,IS,-,11855,C,1-5,-,-,to_be_arranged,-,-,-,Open,0,30,-,-,-
+BST499,UG RESEARCH SCI TECH,BST,2025,WIN,IS,-,11856,A,5,-,-,to_be_arranged,-,-,-,Open,0,30,-,-,-
+BST499,UG RESEARCH SCI TECH,BST,2025,WIN,IS,-,11857,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,10,CR_NC,-,-
+BST499,UG RESEARCH SCI TECH,BST,2025,WIN,IS,-,11858,C,1-5,-,-,to_be_arranged,-,-,-,Open,0,10,-,-,-

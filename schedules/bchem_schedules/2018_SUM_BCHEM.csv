@@ -8,8 +8,8 @@ BCHEM164,GEN CHEM LAB III,BCHEM,2018,SUM,no_restriction,no_add_code,10255,B,2,-,
 BCHEM164,GEN CHEM LAB III,BCHEM,2018,SUM,no_restriction,no_add_code,10256,C,2,-,W,1230-330,CC1,340,"Finley, Brandon Dearmond",Open,19,20,-,$50,-
 BCHEM239,ORGANIC CHEMISTRY,BCHEM,2018,SUM,no_restriction,no_add_code,10257,A,4,-,TTh,900-1130,UW1,220,"Thimmaiah, Muralidhara",Open,36,48,-,-,-
 BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2018,SUM,no_restriction,no_add_code,10258,A,3,-,T,1145-130,UWBB,205,"Thimmaiah, Muralidhara",Closed,28,24,-,$70,-
-BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2018,SUM,no_restriction,no_add_code,10259,AA,-,LB,Th,1230-430,DISC,469,"Thimmaiah, Muralidhara",Closed,20,20,-,-,-
-BCHEM498,IND STUDY CHEM,BCHEM,2018,SUM,no_restriction,no_add_code,-,IS,-,-,-,-,-,10262,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '1', in original. Note: couldn't interpret '10E', in original."
-BCHEM498,IND STUDY CHEM,BCHEM,2018,SUM,no_restriction,no_add_code,-,IS,-,-,-,-,-,10263,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."
-BCHEM499,UG RESEARCH CHEM,BCHEM,2018,SUM,no_restriction,no_add_code,-,IS,-,-,-,-,-,10264,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '2', in original. Note: couldn't interpret '10E', in original."
-BCHEM499,UG RESEARCH CHEM,BCHEM,2018,SUM,no_restriction,no_add_code,-,IS,-,-,-,-,-,10265,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."
+BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2018,SUM,-,-,10259,AA,-,LB,Th,1230-430,DISC,469,"Thimmaiah, Muralidhara",Closed,20,20,-,-,-
+BCHEM498,IND STUDY CHEM,BCHEM,2018,SUM,IS,-,10262,A,1-5,-,-,to_be_arranged,-,-,-,Open,1,-,-,-,10E
+BCHEM498,IND STUDY CHEM,BCHEM,2018,SUM,IS,-,10263,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,"10E Note: couldn't interpret 'CR_NC', in original."
+BCHEM499,UG RESEARCH CHEM,BCHEM,2018,SUM,IS,-,10264,A,1-5,-,-,to_be_arranged,-,-,-,Open,2,-,-,-,10E
+BCHEM499,UG RESEARCH CHEM,BCHEM,2018,SUM,IS,-,10265,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,"10E Note: couldn't interpret 'CR_NC', in original."

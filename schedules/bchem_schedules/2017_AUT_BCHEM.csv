@@ -1,8 +1,8 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BCHEM115,INTROD CHEM I,BCHEM,2017,AUT,Restr,no_add_code,-,A,5,-,TTh,330-530,DISC,061,"Anderson, Peter C",Open,21,24,-,$50,-
-BCHEM115,INTROD CHEM I,BCHEM,2017,AUT,no_restriction,no_add_code,10898,AA,-,LB,M,845-1145,DISC,463,"Sommerfeld, David A",Open,21,24,-,-,-
-BCHEM139,PREP FOR GEN CHEM,BCHEM,2017,AUT,no_restriction,no_add_code,10900,A,5,-,MWF,845-1005,DISC,162,"Lovitt, Charity E",Open,62,95,-,-,-
-BCHEM143,GEN CHEM I,BCHEM,2017,AUT,no_restriction,no_add_code,10901,A,4,-,MWF,845-1005,DISC,061,"Gunnerson, Kim N.",Open,190,200,-,-,-
+BCHEM115,INTROD CHEM I,BCHEM,2017,AUT,Restr,-,-,A,5,-,TTh,330-530,DISC,061,"Anderson, Peter C",Open,21,24,-,$50,-
+BCHEM115,INTROD CHEM I,BCHEM,2017,AUT,-,-,10898,AA,-,LB,M,845-1145,DISC,463,"Sommerfeld, David A",Open,21,24,-,-,-
+BCHEM139,PREP FOR GEN CHEM,BCHEM,2017,AUT,-,-,10900,A,5,-,MWF,845-1005,DISC,162,"Lovitt, Charity E",Open,62,95,-,-,-
+BCHEM143,GEN CHEM I,BCHEM,2017,AUT,-,-,10901,A,4,-,MWF,845-1005,DISC,061,"Gunnerson, Kim N.",Open,190,200,-,-,-
 BCHEM143,GEN CHEM I,BCHEM,2017,AUT,no_restriction,no_add_code,10902,AA,-,QZ,F,1100-1155,UW2,221,"Gunnerson, Kim N.",Open,29,30,-,-,-
 BCHEM143,GEN CHEM I,BCHEM,2017,AUT,no_restriction,no_add_code,10903,AB,-,QZ,F,1200-1255,LBA,003,"Gunnerson, Kim N.",Open,28,30,-,-,-
 BCHEM143,GEN CHEM I,BCHEM,2017,AUT,no_restriction,no_add_code,10904,AC,-,QZ,F,115-210,SSG,CNSVTRY,"Gunnerson, Kim N.",Closed,30,30,-,-,-
@@ -18,20 +18,20 @@ BCHEM144,GEN CHEM LAB I,BCHEM,2017,AUT,no_restriction,no_add_code,10913,E,2,-,W,
 BCHEM144,GEN CHEM LAB I,BCHEM,2017,AUT,no_restriction,no_add_code,10914,F,2,-,Th,845-1145,CC1,340,"Thimmaiah, Muralidhara",Closed,24,24,-,$50,-
 BCHEM144,GEN CHEM LAB I,BCHEM,2017,AUT,no_restriction,no_add_code,10915,G,2,-,Th,1215-315,CC1,340,"Daruwala, Khushroo",Open,23,24,-,$50,-
 BCHEM144,GEN CHEM LAB I,BCHEM,2017,AUT,no_restriction,no_add_code,10916,H,2,-,W,400-700,CC1,340,"Finley, Brandon Dearmond",Open,17,24,-,$50,-
-BCHEM237,ORGANIC CHEMISTRY,BCHEM,2017,AUT,no_restriction,no_add_code,10918,A,4,-,MWF,1145-105,DISC,061,"Thimmaiah, Muralidhara",Open,56,60,-,-,-
+BCHEM237,ORGANIC CHEMISTRY,BCHEM,2017,AUT,-,-,10918,A,4,-,MWF,1145-105,DISC,061,"Thimmaiah, Muralidhara",Open,56,60,-,-,-
 BCHEM237,ORGANIC CHEMISTRY,BCHEM,2017,AUT,no_restriction,no_add_code,10919,B,4,-,MW,115-315,UW2,005,"Daruwala, Khushroo",Open,51,60,-,-,-
 BCHEM315,QUANT ENV ANALYSIS,BCHEM,2017,AUT,Restr,no_add_code,-,A,5,-,MW,1100-100,UW1,202,"Jaffe, Daniel A",Open,38,48,-,$100,-
-BCHEM315,QUANT ENV ANALYSIS,BCHEM,2017,AUT,Restr,no_add_code,-,AA,-,LB,Th,845-1245,DISC,463,"Han, Rui",Open,14,16,-,-,-
-BCHEM315,QUANT ENV ANALYSIS,BCHEM,2017,AUT,Restr,no_add_code,-,AB,-,LB,Th,130-530,DISC,463,"Han, Rui",Closed,16,16,-,-,-
-BCHEM315,QUANT ENV ANALYSIS,BCHEM,2017,AUT,Restr,no_add_code,-,AC,-,LB,F,845-1245,DISC,463,"McClure, Crystal D",Open,8,16,-,-,-
+BCHEM315,QUANT ENV ANALYSIS,BCHEM,2017,AUT,Restr,-,-,AA,-,LB,Th,845-1245,DISC,463,"Han, Rui",Open,14,16,-,-,-
+BCHEM315,QUANT ENV ANALYSIS,BCHEM,2017,AUT,Restr,-,-,AB,-,LB,Th,130-530,DISC,463,"Han, Rui",Closed,16,16,-,-,-
+BCHEM315,QUANT ENV ANALYSIS,BCHEM,2017,AUT,Restr,-,-,AC,-,LB,F,845-1245,DISC,463,"McClure, Crystal D",Open,8,16,-,-,-
 BCHEM364,BIOCHEMISTRY I,BCHEM,2017,AUT,-,add_code_required,10926,A,5,-,MW,845-1045,UW2,031,"Robins, Lori",-,23,24,-,-,J
 BCHEM365,BIOCHEMISTRY II,BCHEM,2017,AUT,no_restriction,no_add_code,10927,A,5,-,TTh,1100-100,UW1,220,"Anderson, Peter C",Closed,24,24,-,-,J
-BCHEM366,BIOCHEMISTRY LAB,BCHEM,2017,AUT,no_restriction,no_add_code,10928,A,3,-,M,115-215,DISC,469,"Robins, Lori",Open,6,10,-,$60,J
-BCHEM366,BIOCHEMISTRY LAB,BCHEM,2017,AUT,no_restriction,no_add_code,10930,AB,-,LB,T,1215-315,DISC,469,"Robins, Lori",Open,6,8,-,-,J
+BCHEM366,BIOCHEMISTRY LAB,BCHEM,2017,AUT,-,-,10928,A,3,-,M,115-215,DISC,469,"Robins, Lori",Open,6,10,-,$60,J
+BCHEM366,BIOCHEMISTRY LAB,BCHEM,2017,AUT,-,-,10930,AB,-,LB,T,1215-315,DISC,469,"Robins, Lori",Open,6,8,-,-,J
 BCHEM375,MOLECULAR BIOLOGY,BCHEM,2017,AUT,no_restriction,no_add_code,10931,A,5,-,MW,115-315,UW1,060,"Lewis, Alaron",Closed,19,15,-,-,J
 BCHEM401,PHYSICAL CHEM I,BCHEM,2017,AUT,no_restriction,no_add_code,10932,A,4,-,TTh,845-1045,UW2,211,"Sommerfeld, David A",Closed,31,30,-,-,-
 BCHEM495,INVEST CHEM I,BCHEM,2017,AUT,no_restriction,no_add_code,10933,A,3,-,MW,1100-100,UWBB,260,"Kim, Hyung J",Open,12,24,-,-,-
-BCHEM498,IND STUDY CHEM,BCHEM,2017,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,10934,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
-BCHEM498,IND STUDY CHEM,BCHEM,2017,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,10935,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."
-BCHEM499,UG RESEARCH CHEM,BCHEM,2017,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,10936,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '4', in original. Note: couldn't interpret '10E', in original."
-BCHEM499,UG RESEARCH CHEM,BCHEM,2017,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,10937,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '6', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."
+BCHEM498,IND STUDY CHEM,BCHEM,2017,AUT,IS,-,10934,A,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,10E
+BCHEM498,IND STUDY CHEM,BCHEM,2017,AUT,IS,-,10935,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,"10E Note: couldn't interpret 'CR_NC', in original."
+BCHEM499,UG RESEARCH CHEM,BCHEM,2017,AUT,IS,-,10936,A,1-5,-,-,to_be_arranged,-,-,-,Open,4,-,-,-,10E
+BCHEM499,UG RESEARCH CHEM,BCHEM,2017,AUT,IS,-,10937,B,1-5,-,-,to_be_arranged,-,-,-,Open,6,-,-,-,"10E Note: couldn't interpret 'CR_NC', in original."

@@ -1,0 +1,77 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+CSS101,DIGITAL THINKING,CSS,2025,SPR,no_restriction,no_add_code,13066,A,5,-,MW,1100-100,UW1,221,"Pyle, Douglas M.",Open,19,24,-,-,J
+CSS107,PROG-ANIMATED STORY ,CSS,2025,SPR,no_restriction,no_add_code,13067,A,5,-,TTh,330-530,UW1,202,"Oliver, Dawn-Marie",Open,39,48,-,-,-
+CSS107,PROG-ANIMATED STORY ,CSS,2025,SPR,no_restriction,no_add_code,13068,B,5,-,MW,330-530,UW2,131,"Oliver, Dawn-Marie",Open,29,48,-,-,-
+CSS112,INTRO PROG SCI APP,CSS,2025,SPR,Restr,no_add_code,-,A,4,-,MW,115-315,UW1,202,"Lin, Johnny",Open,30,48,-,-,-
+CSS123,PROG DATA SCI,CSS,2025,SPR,Restr,no_add_code,-,A,3,-,TTh,845-1045,UW1,020,"Lin, Johnny",Open,7,48,-,$30,-
+CSS142,CMPT PROG I,CSS,2025,SPR,Restr,no_add_code,-,A,5,-,MW,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '220', in original. Note: couldn't interpret 'Dailey,Dharma', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '20', in original. Note: couldn't interpret '48', in original. Note: couldn't interpret '$30', in original."
+CSS142,CMPT PROG I,CSS,2025,SPR,Restr,no_add_code,-,B,5,-,MW,330-530,UW2,141,"Dailey, Dharma",Open,47,48,-,$30,-
+CSS142,CMPT PROG I,CSS,2025,SPR,Restr,no_add_code,-,C,5,-,TTh,330-530,UW1,102,"Nixon, David",Open,39,48,-,$30,-
+CSS143,CMPT PROG II,CSS,2025,SPR,Restr,no_add_code,-,A,5,-,TTh,330-530,UW1,040,"Stride, Jeff",Open,39,48,-,$30,-
+CSS143,CMPT PROG II,CSS,2025,SPR,Restr,no_add_code,-,B,5,-,MW,330-530,UW1,102,"Stride, Jeff",Open,40,48,-,$30,-
+CSS143,CMPT PROG II,CSS,2025,SPR,Restr,no_add_code,-,C,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '020', in original. Note: couldn't interpret 'NIXON,DAVID', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '21', in original. Note: couldn't interpret '48', in original. Note: couldn't interpret '$30', in original."
+CSS198,SUPERVISED STUDY,CSS,2025,SPR,IS,add_code_required,21538,A,1-5,-,-,to_be_arranged,*,*,-,-,0,40,-,-,-
+CSS198,SUPERVISED STUDY,CSS,2025,SPR,IS,add_code_required,21539,B,1-5,-,-,to_be_arranged,*,*,-,-,0,40,CR_NC,-,-
+CSS199,COMPUTING RESEARCH,CSS,2025,SPR,IS,-,21651,A,1-5,-,-,to_be_arranged,*,*,-,-,-,-,-,-," Note: couldn't interpret '*', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '1', in original. Note: couldn't interpret '40', in original."
+CSS199,COMPUTING RESEARCH,CSS,2025,SPR,IS,-,21652,B,1-5,-,-,to_be_arranged,*,*,-,-,-,-,-,-," Note: couldn't interpret '*', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '40', in original. Note: couldn't interpret 'CR_NC', in original."
+CSS211,COMPUTERS & SOCIETY ,CSS,2025,SPR,no_restriction,no_add_code,13077,A,5,-,MW,845-1045,UW2,131,"Stanev, Roger",Open,46,48,-,$12,-
+CSS225,PHYS/CHEM OF COMP,CSS,2025,SPR,no_restriction,no_add_code,13078,A,5,-,TTh,1100-100,UW1,040,"Melnikoff, Steven Oscar",Open,28,48,-,-,-
+CSS290,TOPICS IN COMPUTING ,CSS,2025,SPR,no_restriction,no_add_code,13079,A,2,-,F,1100-100,UW2,211,"Gruenbaum, Peter E",Open,27,30,CR_NC,$11,-
+CSS295,K12 COMPUTING EDU,CSS,2025,SPR,no_restriction,no_add_code,13080,A,2,-,Th,330-530,UW2,228,"Kool, Nancy L.",Open,4,12,CR_NC,-,-
+CSS301,TECHNICAL WRITING,CSS,2025,SPR,Restr,no_add_code,-,A,5,-,TTh,330-530,UW1,060,"Shaw, Carol A",Open,29,30,-,$12,W
+CSS301,TECHNICAL WRITING,CSS,2025,SPR,Restr,no_add_code,-,B,5,-,MW,1100-100,UW2,205,"Kool, Nancy L.",Open,29,30,-,$12,W
+CSS301,TECHNICAL WRITING,CSS,2025,SPR,-,add_code_required,13083,C,5,-,TTh,115-315,UW2,040,"Shaw, Carol A",-,29,30,-,$12,W
+CSS310,IA & CYBERSECURITY,CSS,2025,SPR,no_restriction,no_add_code,13085,B,5,-,F,1100-100,UW1,040,"Joshi, Sanjay",Open,47,48,-,$10,WB
+CSS337,SECURE SYSTEMS,CSS,2025,SPR,no_restriction,no_add_code,13086,A,5,-,MW,1100-100,UW2,240,"Thamilarasu, Geetha",Open,15,48,-,$30,-
+CSS340,APPL ALGORITHMICS,CSS,2025,SPR,Restr,no_add_code,-,A,5,-,TTh,115-315,UW1,050,"Arian, Eyal",Open,15,40,-,$30,-
+CSS342,"DATA, ALG, MATH I",CSS,2025,SPR,no_restriction,no_add_code,13088,A,5,-,MW,115-315,UW2,305,"Melnikoff, Steven Oscar",Open,22,40,-,$30,-
+CSS342,"DATA, ALG, MATH I",CSS,2025,SPR,no_restriction,no_add_code,13089,B,5,-,TTh,1100-100,UW1,110,"Stanev, Roger",Open,31,40,-,$30,-
+CSS342,"DATA, ALG, MATH I",CSS,2025,SPR,no_restriction,no_add_code,13090,C,5,-,TTh,115-315,UW2,141,"Du, Peng",Open,39,40,-,$30,-
+CSS343,"DATA, ALG, MATH II",CSS,2025,SPR,Restr,no_add_code,-,A,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '302', in original. Note: couldn't interpret 'Zander,Carol', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '7', in original. Note: couldn't interpret '40', in original. Note: couldn't interpret '$30', in original."
+CSS343,"DATA, ALG, MATH II",CSS,2025,SPR,Restr,no_add_code,-,B,5,-,MW,1100-100,UWBB,270,"Pisan, Yusuf",Open,22,40,-,$30,-
+CSS343,"DATA, ALG, MATH II",CSS,2025,SPR,Restr,no_add_code,-,C,5,-,TTh,1100-100,UW1,041,"Reel, Eric",Open,36,40,-,$30,-
+CSS350,MGT PRINCIPLES,CSS,2025,SPR,-,add_code_required,13094,A,5,-,TTh,1100-100,UW2,141,"Retik, Arkady",-,46,48,-,-,-
+CSS350,MGT PRINCIPLES,CSS,2025,SPR,-,add_code_required,13095,B,5,-,MW,330-530,UW1,202,"Retik, Arkady",-,47,48,-,-,-
+CSS360,SOFTWARE ENGR,CSS,2025,SPR,Restr,no_add_code,-,A,5,-,MW,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '040', in original. Note: couldn't interpret 'Zade,Himanshu', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret '30', in original."
+CSS360,SOFTWARE ENGR,CSS,2025,SPR,Restr,no_add_code,-,B,5,-,TTh,1100-100,INV,134,"Chini, Morteza",Closed,30,30,-,-,-
+CSS360,SOFTWARE ENGR,CSS,2025,SPR,Restr,no_add_code,-,C,5,-,TTh,330-530,UW2,205,"Ewing, Katie",Closed,30,30,-,-,-
+CSS370,ANALYSIS AND DESIGN ,CSS,2025,SPR,Restr,no_add_code,-,A,5,-,MW,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '031', in original. Note: couldn't interpret 'Dutta,Pampa', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '22', in original. Note: couldn't interpret '48', in original."
+CSS370,ANALYSIS AND DESIGN ,CSS,2025,SPR,Restr,no_add_code,-,B,5,-,MW,-,800-1000P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '051', in original. Note: couldn't interpret 'Phillips,Chris', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '4', in original. Note: couldn't interpret '48', in original."
+CSS370,ANALYSIS AND DESIGN ,CSS,2025,SPR,Restr,no_add_code,-,C,5,-,TTh,115-315,UW1,040,"Chini, Morteza",Closed,48,48,-,-,-
+CSS371,BUSINESS OF TECH,CSS,2025,SPR,Restr,no_add_code,-,A,5,-,MW,330-530,UW1,302,"Shaw, Carol A",Open,45,48,-,-,-
+CSS382,INTRO TO AI,CSS,2025,SPR,Restr,no_add_code,-,A,5,-,TTh,-,800-1000P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '131', in original. Note: couldn't interpret 'Kartha,Neelakantan', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '33', in original. Note: couldn't interpret '48', in original. Note: couldn't interpret '$30', in original."
+CSS383,BIOINFORMATICS,CSS,2025,SPR,no_restriction,no_add_code,13104,A,5,-,TTh,1100-100,*,*,"Zaneveld, Jesse",Open,14,15,-,$30,JO
+CSS385,INTRO TO GAME DEV,CSS,2025,SPR,Restr,no_add_code,-,A,5,-,MW,330-530,UW2,031,"Pisan, Yusuf",Open,46,48,-,$30,-
+CSS397,COMPUTING INTERNSHIP,CSS,2025,SPR,IS,add_code_required,21540,A,1-5,-,-,to_be_arranged,*,*,-,-,6,10,CR_NC,-,-
+CSS411,CMPT & PUB POLICY,CSS,2025,SPR,-,add_code_required,13107,A,5,-,MW,1100-100,UW1,051,"Stanev, Roger",-,16,20,-,-,J
+CSS421,CMPT HW & O/S,CSS,2025,SPR,Restr,no_add_code,-,A,5,-,TTh,330-530,UW1,220,"Fukuda, Munehiro",Open,11,48,-,$30,-
+CSS422,HARDWARE & COMP ORG ,CSS,2025,SPR,Restr,no_add_code,-,A,5,-,MW,115-315,UW2,240,"Browne, Connor Benjamin",Open,47,48,-,$30,-
+CSS422,HARDWARE & COMP ORG ,CSS,2025,SPR,Restr,no_add_code,-,B,5,-,TTh,1100-100,UW2,131,"Peng, Yang",Open,31,48,-,$30,-
+CSS422,HARDWARE & COMP ORG ,CSS,2025,SPR,Restr,no_add_code,-,C,5,-,MW,-,800-1000P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '030', in original. Note: couldn't interpret 'Awad,Ahmed', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '27', in original. Note: couldn't interpret '48', in original. Note: couldn't interpret '$30', in original."
+CSS427,EMBEDDED SYSTEMS,CSS,2025,SPR,Restr,-,-,A,5,-,TTh,845-1045,DISC,362,"Folsom, Tyler",Open,20,24,-,$47,-
+CSS427,EMBEDDED SYSTEMS,CSS,2025,SPR,Restr,-,-,AA,-,LB,F,1000-130,DISC,362,"Folsom, Tyler",Open,20,24,-,-,-
+CSS430,OPERATING SYSTEMS,CSS,2025,SPR,Restr,no_add_code,-,A,5,-,Th,330-530,UW1,302,"Parsons, Erika",Open,21,48,-,$30,B
+CSS430,OPERATING SYSTEMS,CSS,2025,SPR,Restr,no_add_code,-,B,5,-,MW,-,800-1000P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '010', in original. Note: couldn't interpret 'Ahmed,Faisal', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '44', in original. Note: couldn't interpret '48', in original. Note: couldn't interpret '$30', in original."
+CSS431,NETWORK ARCHT & MGMT,CSS,2025,SPR,no_restriction,no_add_code,13116,A,5,-,TTh,-,545-745P,*,-,-,-,-,-,-,"* Note: couldn't interpret 'Lidster,William', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '71', in original. Note: couldn't interpret '65', in original. Note: couldn't interpret '$30', in original. Note: couldn't interpret 'O', in original."
+CSS449,DSGN & ANLYS ALGRTHM,CSS,2025,SPR,no_restriction,no_add_code,13117,A,5,-,TTh,-,800-1000P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '240', in original. Note: couldn't interpret 'Rahman,Muntasir', in original. Note: couldn't interpret 'Raihan', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '3', in original. Note: couldn't interpret '48', in original. Note: couldn't interpret '$30', in original."
+CSS458,COMPUTER SIMULATION ,CSS,2025,SPR,no_restriction,no_add_code,13118,A,5,-,TTh,1100-100,UW1,220,"Lin, Johnny",Open,11,48,-,$30,-
+CSS473,ENTREPRENEURSHP SEM ,CSS,2025,SPR,Restr,no_add_code,-,A,5,-,MW,-,545-745P,-,-,-,-,-,-,-,"UWBB Note: couldn't interpret '272', in original. Note: couldn't interpret 'Fleming,Brandon', in original. Note: couldn't interpret 'Edward', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '15', in original. Note: couldn't interpret '18', in original. Note: couldn't interpret 'J', in original."
+CSS475,DATABASE SYSTEMS,CSS,2025,SPR,Restr,no_add_code,-,A,5,-,MW,330-530,UW2,240,"Zade, Himanshu",Open,47,48,-,$30,-
+CSS475,DATABASE SYSTEMS,CSS,2025,SPR,Restr,no_add_code,-,B,5,-,Th,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '010', in original. Note: couldn't interpret 'Parsons,Erika', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '24', in original. Note: couldn't interpret '48', in original. Note: couldn't interpret '$30', in original. Note: couldn't interpret 'B', in original."
+CSS478,USABILITY ENGR,CSS,2025,SPR,Restr,no_add_code,-,A,5,-,TTh,330-530,UW2,305,"Dailey, Dharma",Open,29,40,-,$30,-
+CSS480,HUMAN-COMP INTERACT ,CSS,2025,SPR,Restr,no_add_code,-,A,5,-,MW,1100-100,UW2,340,"Zolyomi, Annuska",Open,36,40,-,$30,-
+CSS481,WEB PROG & APPL,CSS,2025,SPR,no_restriction,no_add_code,13124,A,5,-,MW,330-530,UW1,050,"Uong, Ethan",Open,33,48,-,$30,-
+CSS488,NAT LANG PROCESSING ,CSS,2025,SPR,no_restriction,no_add_code,13125,A,5,-,MW,115-315,UW2,141,"Ali, Shiza",Open,42,48,-,-,%
+CSS490,SPECIAL TOPICS,CSS,2025,SPR,Restr,no_add_code,-,A,5,-,MW,1100-100,UW2,005,"Retik, Arkady",Open,14,40,-,-,-
+CSS490,SPECIAL TOPICS,CSS,2025,SPR,Restr,no_add_code,-,B,5,-,MW,115-315,UW1,102,"Stride, Jeff",Open,29,48,-,-,-
+CSS495,A CMPT INTERNSHIP,CSS,2025,SPR,IS,add_code_required,21541,A,1-5,-,-,to_be_arranged,*,*,-,-,1,10,CR_NC,-,-
+CSS496,APPL CMPT CAPSTONE,CSS,2025,SPR,-,add_code_required,13128,A,5,-,TTh,1100-100,UW2,040,"Anderson, Laurie",-,16,18,-,-,-
+CSS496,APPL CMPT CAPSTONE,CSS,2025,SPR,-,add_code_required,13129,B,5,-,MW,1100-100,UW2,307,"Anderson, Laurie",-,18,18,-,-,-
+CSS497,CS & SE CAPSTONE,CSS,2025,SPR,IS,add_code_required,21543,A,-,-,-,1-10,-,-,-,-,-,-,-,-,"to_be_arranged Note: couldn't interpret '*', in original. Note: couldn't interpret '*', in original. Note: couldn't interpret '27', in original. Note: couldn't interpret '10', in original."
+CSS497,CS & SE CAPSTONE,CSS,2025,SPR,IS,add_code_required,21544,B,-,-,-,1-10,-,-,-,-,-,-,-,-,"to_be_arranged Note: couldn't interpret '*', in original. Note: couldn't interpret '*', in original. Note: couldn't interpret '28', in original. Note: couldn't interpret '10', in original. Note: couldn't interpret 'CR_NC', in original."
+CSS498,INDEPENDENT STUDY,CSS,2025,SPR,IS,-,21566,A,1-5,-,-,to_be_arranged,*,*,-,-,-,-,-,-," Note: couldn't interpret '*', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '1', in original. Note: couldn't interpret '10', in original."
+CSS498,INDEPENDENT STUDY,CSS,2025,SPR,IS,-,21567,B,1-5,-,-,to_be_arranged,*,*,-,-,-,-,-,-," Note: couldn't interpret '*', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '3', in original. Note: couldn't interpret '10', in original. Note: couldn't interpret 'CR_NC', in original."
+CSS499,UNDERGRAD RESEARCH,CSS,2025,SPR,IS,-,21545,A,1-5,-,-,to_be_arranged,*,*,-,-,-,-,-,-," Note: couldn't interpret '*', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '2', in original. Note: couldn't interpret '10', in original."
+CSS499,UNDERGRAD RESEARCH,CSS,2025,SPR,IS,-,21546,B,1-5,-,-,to_be_arranged,*,*,-,-,-,-,-,-," Note: couldn't interpret '*', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '5', in original. Note: couldn't interpret '10', in original. Note: couldn't interpret 'CR_NC', in original."
+CSS553,SOFTWARE ARCH,CSS,2025,SPR,-,add_code_required,21895,B,5,-,F,400-600,*,*,"Asuncion, Hazeline",-,0,3,-,-,JO
+CSS578,ETHICAL PEN TESTING ,CSS,2025,SPR,-,add_code_required,21838,B,5,-,MW,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '102', in original. Note: couldn't interpret 'Phillips,Chris', in original. Note: couldn't interpret '1', in original. Note: couldn't interpret '3', in original. Note: couldn't interpret 'J', in original."

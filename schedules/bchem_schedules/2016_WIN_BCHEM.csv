@@ -1,5 +1,5 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BCHEM143,GEN CHEM I,BCHEM,2016,WIN,no_restriction,no_add_code,10830,B,4,-,MWF,1015-1130,DISC,061,"Finley, Brandon Dearmond",Open,106,144,-,-,%
+BCHEM143,GEN CHEM I,BCHEM,2016,WIN,-,-,10830,B,4,-,MWF,1015-1130,DISC,061,"Finley, Brandon Dearmond",Open,106,144,-,-,%
 BCHEM143,GEN CHEM I,BCHEM,2016,WIN,no_restriction,no_add_code,21242,BA,-,QZ,M,-,545-640P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '031', in original. Note: couldn't interpret 'FINLEY,BRANDON', in original. Note: couldn't interpret 'DEARMOND', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret '%', in original."
 BCHEM143,GEN CHEM I,BCHEM,2016,WIN,no_restriction,no_add_code,21243,BB,-,QZ,M,-,645-740P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '131', in original. Note: couldn't interpret 'FINLEY,BRANDON', in original. Note: couldn't interpret 'DEARMOND', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '17', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret '%', in original."
 BCHEM143,GEN CHEM I,BCHEM,2016,WIN,no_restriction,no_add_code,21244,BC,-,QZ,W,-,545-640P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '031', in original. Note: couldn't interpret 'FINLEY,BRANDON', in original. Note: couldn't interpret 'DEARMOND', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '28', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret '%', in original."
@@ -11,24 +11,24 @@ BCHEM144,GEN CHEM LAB I,BCHEM,2016,WIN,no_restriction,no_add_code,10833,C,2,-,T,
 BCHEM144,GEN CHEM LAB I,BCHEM,2016,WIN,no_restriction,no_add_code,10834,D,2,-,W,1230-330,CC1,340,"Symon, David A.",Open,18,24,-,$50,%
 BCHEM144,GEN CHEM LAB I,BCHEM,2016,WIN,no_restriction,no_add_code,10835,E,2,-,Th,900-1200,CC1,340,"Sommerfeld, David A",Open,15,24,-,$50,%
 BCHEM144,GEN CHEM LAB I,BCHEM,2016,WIN,no_restriction,no_add_code,10836,F,2,-,Th,1230-330,CC1,340,"Symon, David A.",Open,11,24,-,$50,%
-BCHEM153,GEN CHEM II,BCHEM,2016,WIN,no_restriction,no_add_code,10837,A,4,-,MWF,845-1005,DISC,061,"Gunnerson, Kim N.",Open,108,144,-,-,%
+BCHEM153,GEN CHEM II,BCHEM,2016,WIN,-,-,10837,A,4,-,MWF,845-1005,DISC,061,"Gunnerson, Kim N.",Open,108,144,-,-,%
 BCHEM153,GEN CHEM II,BCHEM,2016,WIN,no_restriction,no_add_code,21249,AA,-,QZ,T,-,545-640P,-,SSG CNSVTRY,-,-,-,-,-,"GUNNERSON,KIM Note: couldn't interpret 'N.', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '29', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret '%', in original."
 BCHEM153,GEN CHEM II,BCHEM,2016,WIN,no_restriction,no_add_code,21250,AB,-,QZ,T,-,645-740P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '221', in original. Note: couldn't interpret 'GUNNERSON,KIM', in original. Note: couldn't interpret 'N.', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '19', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret '%', in original."
 BCHEM153,GEN CHEM II,BCHEM,2016,WIN,no_restriction,no_add_code,21251,AC,-,QZ,Th,-,545-640P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '202', in original. Note: couldn't interpret 'GUNNERSON,KIM', in original. Note: couldn't interpret 'N.', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '26', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret '%', in original."
 BCHEM153,GEN CHEM II,BCHEM,2016,WIN,no_restriction,no_add_code,21252,AD,-,QZ,Th,-,645-740P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '221', in original. Note: couldn't interpret 'GUNNERSON,KIM', in original. Note: couldn't interpret 'N.', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '6', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret '%', in original."
 BCHEM153,GEN CHEM II,BCHEM,2016,WIN,no_restriction,no_add_code,21255,AG,-,QZ,F,330-425,SSG,CNSVTRY,"Gunnerson, Kim N.",Open,28,30,-,-,%
-BCHEM154,GEN CHEM LAB II,BCHEM,2016,WIN,no_restriction,no_add_code,10838,A,2,-,M,1215-315,DISC,463,"Lovitt, Charity E",Open,16,24,-,$50,%
-BCHEM154,GEN CHEM LAB II,BCHEM,2016,WIN,no_restriction,no_add_code,10839,B,2,-,T,845-1145,DISC,463,"Baylon, Leo_Miguel Paolo",Open,20,24,-,$50,%
-BCHEM154,GEN CHEM LAB II,BCHEM,2016,WIN,no_restriction,no_add_code,10840,C,2,-,T,1215-315,DISC,463,"Baylon, Leo_Miguel Paolo",Closed,24,24,-,$50,%
-BCHEM154,GEN CHEM LAB II,BCHEM,2016,WIN,no_restriction,no_add_code,10841,D,2,-,W,1215-315,DISC,463,"Smits, Jacqueline P.",Open,15,24,-,$50,%
-BCHEM154,GEN CHEM LAB II,BCHEM,2016,WIN,no_restriction,no_add_code,10842,E,2,-,Th,845-1145,DISC,463,"Han, Rui",Open,8,24,-,$50,%
-BCHEM154,GEN CHEM LAB II,BCHEM,2016,WIN,no_restriction,no_add_code,10843,F,2,-,Th,1215-315,DISC,463,"Han, Rui",Open,19,24,-,$50,%
+BCHEM154,GEN CHEM LAB II,BCHEM,2016,WIN,-,-,10838,A,2,-,M,1215-315,DISC,463,"Lovitt, Charity E",Open,16,24,-,$50,%
+BCHEM154,GEN CHEM LAB II,BCHEM,2016,WIN,-,-,10839,B,2,-,T,845-1145,DISC,463,"Baylon, Leo_Miguel Paolo",Open,20,24,-,$50,%
+BCHEM154,GEN CHEM LAB II,BCHEM,2016,WIN,-,-,10840,C,2,-,T,1215-315,DISC,463,"Baylon, Leo_Miguel Paolo",Closed,24,24,-,$50,%
+BCHEM154,GEN CHEM LAB II,BCHEM,2016,WIN,-,-,10841,D,2,-,W,1215-315,DISC,463,"Smits, Jacqueline P.",Open,15,24,-,$50,%
+BCHEM154,GEN CHEM LAB II,BCHEM,2016,WIN,-,-,10842,E,2,-,Th,845-1145,DISC,463,"Han, Rui",Open,8,24,-,$50,%
+BCHEM154,GEN CHEM LAB II,BCHEM,2016,WIN,-,-,10843,F,2,-,Th,1215-315,DISC,463,"Han, Rui",Open,19,24,-,$50,%
 BCHEM237,ORGANIC CHEMISTRY,BCHEM,2016,WIN,no_restriction,no_add_code,10844,A,4,-,TF,1100-100,UW2,131,"Daruwala, Khushroo",Open,21,48,-,-,-
-BCHEM238,ORGANIC CHEMISTRY,BCHEM,2016,WIN,no_restriction,no_add_code,10845,A,4,-,TF,115-315,DISC,061,"Thimmaiah, Muralidhara",Open,78,80,-,-,-
+BCHEM238,ORGANIC CHEMISTRY,BCHEM,2016,WIN,-,-,10845,A,4,-,TF,115-315,DISC,061,"Thimmaiah, Muralidhara",Open,78,80,-,-,-
 BCHEM241,ORGANIC CHEM LAB I,BCHEM,2016,WIN,no_restriction,no_add_code,10846,A,3,-,T,330-500,UW2,005,"Thimmaiah, Muralidhara",Closed,60,60,-,$50,-
-BCHEM241,ORGANIC CHEM LAB I,BCHEM,2016,WIN,no_restriction,no_add_code,10847,AA,-,LB,W,845-1245,DISC,469,"Thimmaiah, Muralidhara",Closed,20,20,-,-,-
-BCHEM241,ORGANIC CHEM LAB I,BCHEM,2016,WIN,no_restriction,no_add_code,10848,AB,-,LB,W,115-515,DISC,469,"Gleaves, Morgan Craig",Closed,20,20,-,-,-
-BCHEM241,ORGANIC CHEM LAB I,BCHEM,2016,WIN,no_restriction,no_add_code,10849,AC,-,LB,Th,845-1245,DISC,469,"Thimmaiah, Muralidhara",Closed,20,20,-,-,-
+BCHEM241,ORGANIC CHEM LAB I,BCHEM,2016,WIN,-,-,10847,AA,-,LB,W,845-1245,DISC,469,"Thimmaiah, Muralidhara",Closed,20,20,-,-,-
+BCHEM241,ORGANIC CHEM LAB I,BCHEM,2016,WIN,-,-,10848,AB,-,LB,W,115-515,DISC,469,"Gleaves, Morgan Craig",Closed,20,20,-,-,-
+BCHEM241,ORGANIC CHEM LAB I,BCHEM,2016,WIN,-,-,10849,AC,-,LB,Th,845-1245,DISC,469,"Thimmaiah, Muralidhara",Closed,20,20,-,-,-
 BCHEM293,SPEC TOPICS CHEM,BCHEM,2016,WIN,no_restriction,no_add_code,21257,B,5,-,TTh,845-1045,UW2,221,"Galindo, Heather Michelle",Closed,8,8,-,-,%J
 BCHEM312,INOR CHEM I,BCHEM,2016,WIN,no_restriction,no_add_code,10850,A,3,-,TTh,330-530,UWBB,230,"Daruwala, Khushroo",Open,12,24,-,-,%
 BCHEM364,BIOCHEMISTRY I,BCHEM,2016,WIN,-,add_code_required,10851,A,5,-,MW,115-315,UW1,050,"Anderson, Peter C",-,24,24,-,-,%J
@@ -37,12 +37,12 @@ BCHEM366,BIOCHEMISTRY LAB,BCHEM,2016,WIN,-,add_code_required,21313,A,3,-,M,330-4
 BCHEM366,BIOCHEMISTRY LAB,BCHEM,2016,WIN,-,add_code_required,21315,AA,-,LB,F,845-1145,DISC,469,"Robins, Lori",-,9,8,-,-,%J
 BCHEM402,PHYSICAL CHEM II,BCHEM,2016,WIN,no_restriction,no_add_code,10853,A,4,-,MW,845-1045,SSG,CNSVTRY,"Sommerfeld, David A",Open,10,30,-,-,%
 BCHEM426,INSTRUMENTAL ANLYS,BCHEM,2016,WIN,no_restriction,no_add_code,21266,A,5,-,F,100-300,UW2,031,"Kim, Hyung J",Open,20,30,-,-,%
-BCHEM426,INSTRUMENTAL ANLYS,BCHEM,2016,WIN,no_restriction,no_add_code,21268,AA,-,LB,T,845-1245,DISC,469,"Kim, Hyung J",Closed,16,15,-,-,%
-BCHEM426,INSTRUMENTAL ANLYS,BCHEM,2016,WIN,no_restriction,no_add_code,22169,AB,-,LB,T,115-515,DISC,469,"McClure, Crystal D",Open,4,15,-,-,%
+BCHEM426,INSTRUMENTAL ANLYS,BCHEM,2016,WIN,-,-,21268,AA,-,LB,T,845-1245,DISC,469,"Kim, Hyung J",Closed,16,15,-,-,%
+BCHEM426,INSTRUMENTAL ANLYS,BCHEM,2016,WIN,-,-,22169,AB,-,LB,T,115-515,DISC,469,"McClure, Crystal D",Open,4,15,-,-,%
 BCHEM496,INVEST CHEM II,BCHEM,2016,WIN,-,add_code_required,21963,A,3,-,MW,330-530,UW2,228,"Jaffe, Daniel A",-,5,12,-,-,%
-BCHEM498,IND STUDY CHEM,BCHEM,2016,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,21329,A,-,5,-,-,-,"to_be_arranged Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret '%', in original."
-BCHEM498,IND STUDY CHEM,BCHEM,2016,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,21330,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret '%', in original."
-BCHEM498,IND STUDY CHEM,BCHEM,2016,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,21331,-,-,-,-,-,-,"C_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original. Note: couldn't interpret '%', in original."
-BCHEM499,UG RESEARCH CHEM,BCHEM,2016,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,21332,A,-,5,-,-,-,"to_be_arranged Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret '%', in original."
-BCHEM499,UG RESEARCH CHEM,BCHEM,2016,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,21333,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '6', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret '%', in original."
-BCHEM499,UG RESEARCH CHEM,BCHEM,2016,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,21334,-,-,-,-,-,-,"C_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '2', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original. Note: couldn't interpret '%', in original."
+BCHEM498,IND STUDY CHEM,BCHEM,2016,WIN,IS,-,21329,A,5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,"10E Note: couldn't interpret '%', in original."
+BCHEM498,IND STUDY CHEM,BCHEM,2016,WIN,IS,-,21330,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,"10E Note: couldn't interpret '%', in original."
+BCHEM498,IND STUDY CHEM,BCHEM,2016,WIN,IS,-,21331,C,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,"10E Note: couldn't interpret 'CR_NC', in original. Note: couldn't interpret '%', in original."
+BCHEM499,UG RESEARCH CHEM,BCHEM,2016,WIN,IS,-,21332,A,5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,"10E Note: couldn't interpret '%', in original."
+BCHEM499,UG RESEARCH CHEM,BCHEM,2016,WIN,IS,-,21333,B,1-5,-,-,to_be_arranged,-,-,-,Open,6,-,-,-,"10E Note: couldn't interpret '%', in original."
+BCHEM499,UG RESEARCH CHEM,BCHEM,2016,WIN,IS,-,21334,C,1-5,-,-,to_be_arranged,-,-,-,Open,2,-,-,-,"10E Note: couldn't interpret 'CR_NC', in original. Note: couldn't interpret '%', in original."

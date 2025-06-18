@@ -9,7 +9,7 @@ BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2021,SUM,no_restriction,no_add_code,10264,AA
 BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2021,SUM,no_restriction,no_add_code,10265,AB,-,LB,-,to_be_arranged,*,*,"Thimmaiah, Murali",Open,2,20,-,-,-
 BCHEM364,BIOCHEMISTRY I,BCHEM,2021,SUM,no_restriction,no_add_code,10266,A,5,-,-,to_be_arranged,*,*,"Anderson, Peter",Open,28,24,-,-,J
 BCHEM365,BIOCHEMISTRY II,BCHEM,2021,SUM,no_restriction,no_add_code,10267,A,5,-,-,to_be_arranged,*,*,"Anderson, Peter",Open,31,24,-,-,J
-BCHEM498,IND STUDY CHEM,BCHEM,2021,SUM,no_restriction,no_add_code,-,IS,-,-,-,-,-,10268,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '2', in original. Note: couldn't interpret '10E', in original."
-BCHEM498,IND STUDY CHEM,BCHEM,2021,SUM,no_restriction,no_add_code,-,IS,-,-,-,-,-,10269,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '1', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."
-BCHEM499,UG RESEARCH CHEM,BCHEM,2021,SUM,no_restriction,no_add_code,-,IS,-,-,-,-,-,10270,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '4', in original. Note: couldn't interpret '10E', in original."
-BCHEM499,UG RESEARCH CHEM,BCHEM,2021,SUM,no_restriction,no_add_code,-,IS,-,-,-,-,-,10271,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '4', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."
+BCHEM498,IND STUDY CHEM,BCHEM,2021,SUM,IS,-,10268,A,1-5,-,-,to_be_arranged,-,-,-,Open,2,-,-,-,10E
+BCHEM498,IND STUDY CHEM,BCHEM,2021,SUM,IS,-,10269,B,1-5,-,-,to_be_arranged,-,-,-,Open,1,-,-,-,"10E Note: couldn't interpret 'CR_NC', in original."
+BCHEM499,UG RESEARCH CHEM,BCHEM,2021,SUM,IS,-,10270,A,1-5,-,-,to_be_arranged,-,-,-,Open,4,-,-,-,10E
+BCHEM499,UG RESEARCH CHEM,BCHEM,2021,SUM,IS,-,10271,B,1-5,-,-,to_be_arranged,-,-,-,Open,4,-,-,-,"10E Note: couldn't interpret 'CR_NC', in original."

@@ -1,18 +1,18 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BBIO180,INTRO BIOLOGY I,BBIO,2017,AUT,no_restriction,no_add_code,10744,A,5,-,TTh,845-1045,DISC,061,"Jensen, Jeffrey",Open,139,144,-,$70,-
-BBIO180,INTRO BIOLOGY I,BBIO,2017,AUT,no_restriction,no_add_code,10745,AA,-,LB,M,845-1045,DISC,263,"Jensen, Jeffrey",Closed,24,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2017,AUT,no_restriction,no_add_code,10746,AB,-,LB,M,1115-115,DISC,263,"Jensen, Jeffrey",Open,22,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2017,AUT,no_restriction,no_add_code,10747,AC,-,LB,W,845-1045,DISC,263,"Ma, Eva",Open,22,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2017,AUT,no_restriction,no_add_code,10748,AD,-,LB,W,1115-115,DISC,263,"Ma, Eva",Closed,24,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2017,AUT,no_restriction,no_add_code,10749,AE,-,LB,M,145-345,DISC,263,"Ma, Eva",Closed,24,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2017,AUT,no_restriction,no_add_code,23845,AF,-,LB,W,145-345,DISC,263,"Ma, Eva",Open,23,24,-,-,-
-BBIO220,INTRO BIOLOGY III,BBIO,2017,AUT,no_restriction,no_add_code,10750,A,5,-,TTh,1100-100,DISC,162,"Al-Noori, Salwa",Open,41,48,-,$70,-
-BBIO220,INTRO BIOLOGY III,BBIO,2017,AUT,no_restriction,no_add_code,10751,AA,-,LB,W,130-330,DISC,267,"Al-Noori, Salwa",Open,22,24,-,-,-
-BBIO220,INTRO BIOLOGY III,BBIO,2017,AUT,no_restriction,no_add_code,10752,AB,-,LB,M,1100-100,DISC,267,"Al-Noori, Salwa",Open,19,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2017,AUT,-,-,10744,A,5,-,TTh,845-1045,DISC,061,"Jensen, Jeffrey",Open,139,144,-,$70,-
+BBIO180,INTRO BIOLOGY I,BBIO,2017,AUT,-,-,10745,AA,-,LB,M,845-1045,DISC,263,"Jensen, Jeffrey",Closed,24,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2017,AUT,-,-,10746,AB,-,LB,M,1115-115,DISC,263,"Jensen, Jeffrey",Open,22,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2017,AUT,-,-,10747,AC,-,LB,W,845-1045,DISC,263,"Ma, Eva",Open,22,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2017,AUT,-,-,10748,AD,-,LB,W,1115-115,DISC,263,"Ma, Eva",Closed,24,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2017,AUT,-,-,10749,AE,-,LB,M,145-345,DISC,263,"Ma, Eva",Closed,24,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2017,AUT,-,-,23845,AF,-,LB,W,145-345,DISC,263,"Ma, Eva",Open,23,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2017,AUT,-,-,10750,A,5,-,TTh,1100-100,DISC,162,"Al-Noori, Salwa",Open,41,48,-,$70,-
+BBIO220,INTRO BIOLOGY III,BBIO,2017,AUT,-,-,10751,AA,-,LB,W,130-330,DISC,267,"Al-Noori, Salwa",Open,22,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2017,AUT,-,-,10752,AB,-,LB,M,1100-100,DISC,267,"Al-Noori, Salwa",Open,19,24,-,-,-
 BBIO235,SALMON AND SOCIETY,BBIO,2017,AUT,no_restriction,no_add_code,10754,A,5,-,F,845-1245,SSG,CNSVTRY,"Jensen, Jeffrey",Open,12,20,-,$100,-
 BBIO260,MEDICAL MICROBIOL,BBIO,2017,AUT,no_restriction,no_add_code,10755,A,6,-,MW,115-315,UWBB,240,"Davidson, Seana K",Open,32,40,-,$50,-
-BBIO260,MEDICAL MICROBIOL,BBIO,2017,AUT,no_restriction,no_add_code,10756,AA,-,LB,TTh,845-1045,DISC,263,"Davidson, Seana K",Open,18,20,-,-,-
-BBIO260,MEDICAL MICROBIOL,BBIO,2017,AUT,no_restriction,no_add_code,10757,AB,-,LB,TTh,115-315,DISC,263,"Davidson, Seana K",Open,14,20,-,-,-
+BBIO260,MEDICAL MICROBIOL,BBIO,2017,AUT,-,-,10756,AA,-,LB,TTh,845-1045,DISC,263,"Davidson, Seana K",Open,18,20,-,-,-
+BBIO260,MEDICAL MICROBIOL,BBIO,2017,AUT,-,-,10757,AB,-,LB,TTh,115-315,DISC,263,"Davidson, Seana K",Open,14,20,-,-,-
 BBIO310,BRAIN AND BEHAVIOR,BBIO,2017,AUT,-,add_code_required,10758,A,5,-,MW,1100-100,DISC,162,"White, Bryan D.",-,100,100,-,-,-
 BBIO351,ANAT & PHYSIOL I,BBIO,2017,AUT,-,add_code_required,10759,A,5,-,TTh,845-1045,DISC,252,"Price, Michele",-,59,60,-,$160,-
 BBIO351,ANAT & PHYSIOL I,BBIO,2017,AUT,-,add_code_required,10760,AA,-,LB,T,200-500,DISC,267,"Price, Michele",-,20,20,-,-,-
@@ -21,12 +21,12 @@ BBIO351,ANAT & PHYSIOL I,BBIO,2017,AUT,-,add_code_required,10762,AC,-,LB,F,845-1
 BBIO360,INTRO GENETICS,BBIO,2017,AUT,no_restriction,no_add_code,10763,A,5,-,MW,1100-100,UW2,141,"Madzima, Thelma F",Open,58,60,-,-,-
 BBIO364,BIOCHEMISTRY I,BBIO,2017,AUT,-,add_code_required,10764,A,5,-,MW,845-1045,UW2,031,"Robins, Lori",-,23,24,-,-,J
 BBIO365,BIOCHEMISTRY II,BBIO,2017,AUT,no_restriction,no_add_code,10765,A,5,-,TTh,1100-100,UW1,220,"Anderson, Peter C",Open,22,24,-,-,J
-BBIO366,BIOCHEMISTRY LAB,BBIO,2017,AUT,no_restriction,no_add_code,10766,A,3,-,M,115-215,DISC,469,"Robins, Lori",Open,2,10,-,$60,J
-BBIO366,BIOCHEMISTRY LAB,BBIO,2017,AUT,no_restriction,no_add_code,10768,AB,-,LB,T,1215-315,DISC,469,"Robins, Lori",Open,2,6,-,-,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2017,AUT,-,-,10766,A,3,-,M,115-215,DISC,469,"Robins, Lori",Open,2,10,-,$60,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2017,AUT,-,-,10768,AB,-,LB,T,1215-315,DISC,469,"Robins, Lori",Open,2,6,-,-,J
 BBIO370,MICROBIOLOGY,BBIO,2017,AUT,-,add_code_required,10769,A,5,-,TTh,115-315,UWBB,240,"Stredwick, Kristina Linnea",-,47,48,-,$150,-
 BBIO370,MICROBIOLOGY,BBIO,2017,AUT,-,add_code_required,10770,AA,-,LB,F,845-1045,DISC,263,"Stredwick, Kristina Linnea",-,24,24,-,-,-
 BBIO370,MICROBIOLOGY,BBIO,2017,AUT,-,add_code_required,10771,AB,-,LB,F,115-315,DISC,263,"Stredwick, Kristina Linnea",-,23,24,-,-,-
-BBIO372,STEM CELLS,BBIO,2017,AUT,no_restriction,no_add_code,23027,A,5,-,MW,115-315,DISC,252,"White, Bryan D.",Closed,60,60,-,-,-
+BBIO372,STEM CELLS,BBIO,2017,AUT,-,-,23027,A,5,-,MW,115-315,DISC,252,"White, Bryan D.",Closed,60,60,-,-,-
 BBIO375,MOLECULAR BIOLOGY,BBIO,2017,AUT,no_restriction,no_add_code,10772,A,5,-,MW,115-315,UW1,060,"Lewis, Alaron",Closed,11,15,-,-,J
 BBIO380,CELL BIOLOGY,BBIO,2017,AUT,no_restriction,no_add_code,10773,A,5,-,F,1100-200,UW1,040,"Lewis, Alaron",Open,32,48,-,-,-
 BBIO460,DEVELOPMENTAL BIOL,BBIO,2017,AUT,no_restriction,no_add_code,10776,A,5,-,TTh,845-1045,UWBB,240,"Servetnick, Marc David",Open,20,48,-,-,-

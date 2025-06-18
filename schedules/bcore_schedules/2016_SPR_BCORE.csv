@@ -1,7 +1,7 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
 BCORE118,INDVDUALS & SOC 3,BCORE,2016,SPR,Restr,no_add_code,-,A,5,-,M,1100-100,UW2,040,"Brockhaus, Andreas J.",Closed,30,30,-,-,-
 BCORE118,INDVDUALS & SOC 3,BCORE,2016,SPR,Restr,no_add_code,-,B,5,-,W,1100-100,UW2,040,"Buttler, Tasha M",Open,29,30,-,-,-
-BCORE118,INDVDUALS & SOC 3,BCORE,2016,SPR,Restr,no_add_code,-,C,5,-,TTh,115-315,UW2,040,"Spiegler, Louise",Open,25,30,-,-,-
+BCORE118,INDVDUALS & SOC 3,BCORE,2016,SPR,Restr,-,-,C,5,-,TTh,115-315,UW2,040,"Spiegler, Louise",Open,25,30,-,-,-
 BCORE118,INDVDUALS & SOC 3,BCORE,2016,SPR,Restr,no_add_code,-,D,5,-,TTh,845-1045,UW2,211,"Nixon, David M.",Open,23,30,-,-,-
 BCORE118,INDVDUALS & SOC 3,BCORE,2016,SPR,Restr,no_add_code,-,E,5,-,MW,330-530,UW2,040,"Redwood, Loren K.",Open,20,30,-,-,-
 BCORE118,INDVDUALS & SOC 3,BCORE,2016,SPR,no_restriction,no_add_code,21287,G,5,-,TTh,845-1045,UW1,031,"Shimabukuro, Mira Chieko",Open,21,30,-,-,-
@@ -12,5 +12,5 @@ BCORE120,VIS LIT PFRM ART 3,BCORE,2016,SPR,Restr,no_add_code,-,B,5,-,F,1100-315,
 BCORE120,VIS LIT PFRM ART 3,BCORE,2016,SPR,Restr,no_add_code,-,C,5,-,MW,1100-100,UW2,105,"Hsu, Howard",Open,29,30,-,-,-
 BCORE120,VIS LIT PFRM ART 3,BCORE,2016,SPR,Restr,no_add_code,-,D,5,-,MW,115-315,UW2,021,"Hathaway, Deborah A.",Closed,30,30,-,-,-
 BCORE120,VIS LIT PFRM ART 3,BCORE,2016,SPR,Restr,no_add_code,-,F,5,-,MW,845-1045,UW2,205,"Porter, Ian Joseph",Open,27,30,-,-,-
-BCORE120,VIS LIT PFRM ART 3,BCORE,2016,SPR,Restr,no_add_code,-,G,5,-,MW,115-315,UWBB,240,"Kellejian, Kristine E.",Closed,31,30,-,-,-
+BCORE120,VIS LIT PFRM ART 3,BCORE,2016,SPR,Restr,-,-,G,5,-,MW,115-315,UWBB,240,"Kellejian, Kristine E.",Closed,31,30,-,-,-
 BCORE120,VIS LIT PFRM ART 3,BCORE,2016,SPR,Restr,no_add_code,-,H,5,-,TTh,1100-100,UW1,031,"Doyle, Gavin",Closed,30,30,-,-,-

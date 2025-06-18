@@ -1,31 +1,31 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BBIO180,INTRO BIOLOGY I,BBIO,2024,WIN,no_restriction,no_add_code,10717,A,5,-,T,845-1045,DISC,061,"Chang, Cynthia",Open,93,96,-,$70,-
-BBIO180,INTRO BIOLOGY I,BBIO,2024,WIN,no_restriction,no_add_code,10718,AA,-,LB,T,1100-100,DISC,263,"Campbell, Dana",Open,23,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2024,WIN,no_restriction,no_add_code,10719,AB,-,LB,T,130-330,DISC,263,"Campbell, Dana",Closed,24,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2024,WIN,no_restriction,no_add_code,10720,AC,-,LB,F,845-1045,DISC,263,"Campbell, Dana",Open,22,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2024,WIN,no_restriction,no_add_code,22184,AD,-,LB,F,1115-115,DISC,263,"Campbell, Dana",Closed,24,24,-,-,-
-BBIO200,INTRO BIOLOGY II,BBIO,2024,WIN,no_restriction,no_add_code,10721,A,5,-,T,845-1045,DISC,162,"White, Bryan",Open,92,96,-,$70,-
-BBIO200,INTRO BIOLOGY II,BBIO,2024,WIN,no_restriction,no_add_code,10722,AA,-,LB,W,845-1045,DISC,263,"White, Bryan",Open,22,24,-,-,-
-BBIO200,INTRO BIOLOGY II,BBIO,2024,WIN,no_restriction,no_add_code,10723,AB,-,LB,W,1115-115,DISC,263,"White, Bryan",Closed,24,24,-,-,-
-BBIO200,INTRO BIOLOGY II,BBIO,2024,WIN,no_restriction,no_add_code,10724,AC,-,LB,Th,145-345,DISC,263,"White, Bryan",Open,23,24,-,-,-
-BBIO200,INTRO BIOLOGY II,BBIO,2024,WIN,no_restriction,no_add_code,22183,AD,-,LB,Th,1115-115,DISC,263,"White, Bryan",Open,23,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2024,WIN,-,-,10717,A,5,-,T,845-1045,DISC,061,"Chang, Cynthia",Open,93,96,-,$70,-
+BBIO180,INTRO BIOLOGY I,BBIO,2024,WIN,-,-,10718,AA,-,LB,T,1100-100,DISC,263,"Campbell, Dana",Open,23,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2024,WIN,-,-,10719,AB,-,LB,T,130-330,DISC,263,"Campbell, Dana",Closed,24,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2024,WIN,-,-,10720,AC,-,LB,F,845-1045,DISC,263,"Campbell, Dana",Open,22,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2024,WIN,-,-,22184,AD,-,LB,F,1115-115,DISC,263,"Campbell, Dana",Closed,24,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2024,WIN,-,-,10721,A,5,-,T,845-1045,DISC,162,"White, Bryan",Open,92,96,-,$70,-
+BBIO200,INTRO BIOLOGY II,BBIO,2024,WIN,-,-,10722,AA,-,LB,W,845-1045,DISC,263,"White, Bryan",Open,22,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2024,WIN,-,-,10723,AB,-,LB,W,1115-115,DISC,263,"White, Bryan",Closed,24,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2024,WIN,-,-,10724,AC,-,LB,Th,145-345,DISC,263,"White, Bryan",Open,23,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2024,WIN,-,-,22183,AD,-,LB,Th,1115-115,DISC,263,"White, Bryan",Open,23,24,-,-,-
 BBIO231,GENES & HEREDITY,BBIO,2024,WIN,no_restriction,no_add_code,10725,A,5,-,MW,115-315,UW2,005,"McNabb, Susan",Open,27,29,-,-,J
 BBIO285,SEMINAR IN BIOLOGY,BBIO,2024,WIN,no_restriction,no_add_code,22066,A,3,-,Th,115-315,UW1,060,"Price, Michele B.",Open,13,14,-,-,J
-BBIO320,BEHAV NEURO,BBIO,2024,WIN,no_restriction,no_add_code,10726,A,5,-,MW,845-1045,DISC,252,"Wacker, Douglas",Open,37,48,-,-,-
+BBIO320,BEHAV NEURO,BBIO,2024,WIN,-,-,10726,A,5,-,MW,845-1045,DISC,252,"Wacker, Douglas",Open,37,48,-,-,-
 BBIO340,INTRO BIOINFORMATICS,BBIO,2024,WIN,no_restriction,no_add_code,10727,A,5,-,MW,1100-100,*,*,"Zaneveld, Jesse",Open,25,30,-,-,O
 BBIO351,ANAT & PHYSIOL I,BBIO,2024,WIN,no_restriction,no_add_code,10728,A,5,-,MW,1100-100,UW2,005,"Price, Michele B.",Open,52,72,-,$110,-
-BBIO351,ANAT & PHYSIOL I,BBIO,2024,WIN,no_restriction,no_add_code,10729,AA,-,LB,W,200-500,DISC,267,"Price, Michele B.",Open,18,20,-,-,-
-BBIO351,ANAT & PHYSIOL I,BBIO,2024,WIN,no_restriction,no_add_code,10730,AB,-,LB,Th,845-1145,DISC,267,"Price, Michele B.",Open,19,20,-,-,-
-BBIO351,ANAT & PHYSIOL I,BBIO,2024,WIN,no_restriction,no_add_code,10731,AC,-,LB,F,845-1145,DISC,267,"Price, Michele B.",Open,15,20,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2024,WIN,-,-,10729,AA,-,LB,W,200-500,DISC,267,"Price, Michele B.",Open,18,20,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2024,WIN,-,-,10730,AB,-,LB,Th,845-1145,DISC,267,"Price, Michele B.",Open,19,20,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2024,WIN,-,-,10731,AC,-,LB,F,845-1145,DISC,267,"Price, Michele B.",Open,15,20,-,-,-
 BBIO352,ANAT & PHYSIOL II,BBIO,2024,WIN,no_restriction,no_add_code,10732,A,5,-,MW,330-530,INV,134,"Jensen, Jeffrey",Open,20,48,-,$110,-
-BBIO352,ANAT & PHYSIOL II,BBIO,2024,WIN,no_restriction,no_add_code,10733,AA,-,LB,T,845-1145,DISC,267,"Jensen, Jeffrey",Open,14,24,-,-,-
-BBIO352,ANAT & PHYSIOL II,BBIO,2024,WIN,no_restriction,no_add_code,10734,AB,-,LB,T,115-415,DISC,267,"Jensen, Jeffrey",Open,6,24,-,-,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2024,WIN,-,-,10733,AA,-,LB,T,845-1145,DISC,267,"Jensen, Jeffrey",Open,14,24,-,-,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2024,WIN,-,-,10734,AB,-,LB,T,115-415,DISC,267,"Jensen, Jeffrey",Open,6,24,-,-,-
 BBIO355,BEHAVIOR ENDOCRINOL ,BBIO,2024,WIN,no_restriction,no_add_code,10735,A,5,-,MW,115-315,UW1,220,"Wacker, Douglas",Open,10,30,-,-,-
-BBIO360,INTRO GENETICS,BBIO,2024,WIN,no_restriction,no_add_code,10736,A,5,-,TTh,115-315,DISC,252,"Servetnick, Marc",Open,47,48,-,-,-
+BBIO360,INTRO GENETICS,BBIO,2024,WIN,-,-,10736,A,5,-,TTh,115-315,DISC,252,"Servetnick, Marc",Open,47,48,-,-,-
 BBIO365,BIOCHEMISTRY II,BBIO,2024,WIN,no_restriction,no_add_code,10737,A,5,-,MW,115-315,UW1,202,"Robins, Lori",Open,18,24,-,-,J
 BBIO390,DIS NERV SYS,BBIO,2024,WIN,no_restriction,no_add_code,10738,A,5,-,MW,115-315,UW2,221,"Al-Noori, Salwa",Open,22,30,-,-,-
 BBIO394,TOPICS IN NEUROSCI,BBIO,2024,WIN,no_restriction,no_add_code,10740,A,5,-,MW,845-1045,UW1,261,"Al-Noori, Salwa",Open,9,20,-,-,-
 BBIO460,DEVELOPMENTAL BIOL,BBIO,2024,WIN,no_restriction,no_add_code,10741,A,5,-,TTh,845-1045,UW1,010,"Servetnick, Marc",Open,15,48,-,-,-
-BBIO466,EVOLUTION,BBIO,2024,WIN,no_restriction,no_add_code,10742,A,5,-,MW,115-315,DISC,252,"Galindo, Heather M",Open,48,60,-,-,-
+BBIO466,EVOLUTION,BBIO,2024,WIN,-,-,10742,A,5,-,MW,115-315,DISC,252,"Galindo, Heather M",Open,48,60,-,-,-
 BBIO470,MICROBIOLOGY II,BBIO,2024,WIN,-,add_code_required,10743,A,5,-,M,330-530,UW1,261,"Hillesland, Kristina Linnea",-,22,24,-,-,B
 BBIO495,INVESTIGATIVE BIO,BBIO,2024,WIN,-,add_code_required,21938,A,5,-,TTh,830-1030,EERC,102,"Stokes, David L.",-,9,12,-,$130,-

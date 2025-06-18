@@ -1,2 +1,2 @@
-Class Number,Class,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BEARTH154,INTRO OCEANOGRAPHY,no_restriction,no_add_code,14092,A,5,-,TTh,1115-145,UW2,040,"Galindo, Heather M",Open,12,30,-,-,-
+Class Number,Class,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other,Year,Quarter
+BEARTH154,INTRO OCEANOGRAPHY,no_restriction,no_add_code,14092,A,5,-,TTh,1115-145,UW2,040,"Galindo, Heather M",Open,12,30,-,-,-,2023,SUM

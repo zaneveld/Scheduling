@@ -14,7 +14,7 @@ BCORE120,VIS LIT PFRM ART 3,BCORE,2020,SPR,Restr,no_add_code,-,G,5,-,W,115-315,*
 BCORE133,DISCOVERY CORE III,BCORE,2020,SPR,Restr,no_add_code,-,A,2,-,T,845-1045,*,*,"Shinneman, Avery",Open,5,20,-,-,%
 BCORE133,DISCOVERY CORE III,BCORE,2020,SPR,Restr,no_add_code,-,B,2,-,Th,845-1045,UW2,040,"Brooks, Peter",Open,6,20,-,-,%
 BCORE133,DISCOVERY CORE III,BCORE,2020,SPR,Restr,no_add_code,-,C,2,-,W,1100-100,*,*,"Brooks, Peter",Open,11,20,-,-,%
-BCORE133,DISCOVERY CORE III,BCORE,2020,SPR,Restr,no_add_code,-,D,2,-,T,330-530,DISC,252,"Shinneman, Avery",Open,2,20,-,-,%
-BCORE133,DISCOVERY CORE III,BCORE,2020,SPR,Restr,no_add_code,-,E,2,-,Th,330-530,DISC,252,"Brooks, Peter",Open,2,20,-,-,%
+BCORE133,DISCOVERY CORE III,BCORE,2020,SPR,Restr,-,-,D,2,-,T,330-530,DISC,252,"Shinneman, Avery",Open,2,20,-,-,%
+BCORE133,DISCOVERY CORE III,BCORE,2020,SPR,Restr,-,-,E,2,-,Th,330-530,DISC,252,"Brooks, Peter",Open,2,20,-,-,%
 BCORE133,DISCOVERY CORE III,BCORE,2020,SPR,Restr,no_add_code,-,F,2,-,F,115-315,UW2,305,"Shinneman, Avery",Open,6,20,-,-,%
 BCORE211,DC SPECIAL TOPICS,BCORE,2020,SPR,no_restriction,no_add_code,10834,A,2,-,W,330-530,UW1,261,"Takahashi, Curtis",Open,12,30,CR_NC,$12,B

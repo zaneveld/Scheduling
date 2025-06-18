@@ -4,7 +4,7 @@ BCORE104,VIS LIT PRFM ART 1,BCORE,2016,AUT,Restr,no_add_code,-,B,5,-,MW,115-315,
 BCORE104,VIS LIT PRFM ART 1,BCORE,2016,AUT,Restr,no_add_code,-,C,5,-,TTh,845-1045,UW1,220,"Toft, Amoshaun Phynn",Closed,49,48,-,-,-
 BCORE104,VIS LIT PRFM ART 1,BCORE,2016,AUT,Restr,no_add_code,-,D,5,-,TTh,1100-100,UW1,221,"Nixon, David M.",Open,46,48,-,-,-
 BCORE104,VIS LIT PRFM ART 1,BCORE,2016,AUT,Restr,no_add_code,-,E,5,-,MW,845-1045,UW2,131,"Pedersen, Alice L",Closed,25,24,-,-,-
-BCORE104,VIS LIT PRFM ART 1,BCORE,2016,AUT,Restr,no_add_code,-,F,5,-,T,845-1045,UW2,205,"Gustafson, Kristin Louise",Open,15,30,-,$75,-
+BCORE104,VIS LIT PRFM ART 1,BCORE,2016,AUT,Restr,-,-,F,5,-,T,845-1045,UW2,205,"Gustafson, Kristin Louise",Open,15,30,-,$75,-
 BCORE104,VIS LIT PRFM ART 1,BCORE,2016,AUT,Restr,no_add_code,-,G,5,-,MW,1100-100,UWBB,230,"Dean, Michael P.",Closed,31,30,-,-,-
 BCORE104,VIS LIT PRFM ART 1,BCORE,2016,AUT,Restr,no_add_code,-,H,5,-,TTh,115-315,UW2,021,"Burgher, Laura A",Closed,31,30,-,-,-
 BCORE104,VIS LIT PRFM ART 1,BCORE,2016,AUT,Restr,no_add_code,-,I,5,-,TTh,1100-100,UW1,102,"Kovalesky, Andrea H.",Closed,16,15,-,-,J
@@ -15,15 +15,15 @@ BCORE104,VIS LIT PRFM ART 1,BCORE,2016,AUT,Restr,no_add_code,-,M,5,-,TTh,330-530
 BCORE104,VIS LIT PRFM ART 1,BCORE,2016,AUT,Restr,no_add_code,-,N,5,-,MW,330-530,UW2,340,"Doyle, Gavin",Closed,30,30,-,-,W
 BCORE107,INDVDUALS & SOC 1,BCORE,2016,AUT,Restr,no_add_code,-,A,5,-,MW,115-315,UW1,102,"Padilla, Amparo Y",Closed,48,48,-,-,-
 BCORE107,INDVDUALS & SOC 1,BCORE,2016,AUT,Restr,no_add_code,-,B,5,-,MW,330-530,UW2,131,"Shayne, Julie",Closed,48,48,-,-,-
-BCORE107,INDVDUALS & SOC 1,BCORE,2016,AUT,Restr,no_add_code,-,C,5,-,TTh,1100-100,UW1,220,"Anderson, Christian",Closed,49,48,-,-,-
-BCORE107,INDVDUALS & SOC 1,BCORE,2016,AUT,Restr,no_add_code,-,D,5,-,TTh,115-315,UW1,221,"Leissle, Kristy A.",Open,46,48,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2016,AUT,Restr,-,-,C,5,-,TTh,1100-100,UW1,220,"Anderson, Christian",Closed,49,48,-,-,-
+BCORE107,INDVDUALS & SOC 1,BCORE,2016,AUT,Restr,-,-,D,5,-,TTh,115-315,UW1,221,"Leissle, Kristy A.",Open,46,48,-,-,-
 BCORE107,INDVDUALS & SOC 1,BCORE,2016,AUT,Restr,no_add_code,-,E,5,-,MW,1100-100,UW2,031,"Rosenberg, Karen Esther",Closed,48,48,-,-,-
 BCORE107,INDVDUALS & SOC 1,BCORE,2016,AUT,Restr,no_add_code,-,F,5,-,TTh,845-1045,UW1,261,"Shimabukuro, Mira Chieko",Closed,24,24,-,-,-
 BCORE107,INDVDUALS & SOC 1,BCORE,2016,AUT,Restr,no_add_code,-,G,5,-,TTh,845-1045,UW2,105,"Redwood, Loren K.",Closed,31,30,-,-,-
 BCORE107,INDVDUALS & SOC 1,BCORE,2016,AUT,Restr,no_add_code,-,H,5,-,MW,845-1045,UW1,031,"Porter, Ian Joseph",Closed,30,30,-,-,-
 BCORE107,INDVDUALS & SOC 1,BCORE,2016,AUT,Restr,no_add_code,-,I,5,-,MW,330-530,UW1,221,"Lovitt, Charity E",Open,46,48,-,-,S
-BCORE107,INDVDUALS & SOC 1,BCORE,2016,AUT,no_restriction,no_add_code,23712,J,5,-,MW,845-1045,DISC,252,"Shinneman, Avery",Open,6,15,-,-,J
-BCORE110,NATURAL WORLD 1,BCORE,2016,AUT,Restr,no_add_code,-,A,5,-,MW,845-1045,DISC,252,"Shinneman, Avery",Open,18,15,-,-,J
+BCORE107,INDVDUALS & SOC 1,BCORE,2016,AUT,-,-,23712,J,5,-,MW,845-1045,DISC,252,"Shinneman, Avery",Open,6,15,-,-,J
+BCORE110,NATURAL WORLD 1,BCORE,2016,AUT,Restr,-,-,A,5,-,MW,845-1045,DISC,252,"Shinneman, Avery",Open,18,15,-,-,J
 BCORE110,NATURAL WORLD 1,BCORE,2016,AUT,Restr,no_add_code,-,B,5,-,TTh,115-315,UW1,010,"Shelton, Maura",Open,47,48,-,-,S
 BCORE110,NATURAL WORLD 1,BCORE,2016,AUT,Restr,no_add_code,-,C,5,-,F,845-100,UW1,021,"West, Maureen P.",Open,22,24,-,-,-
 BCORE110,NATURAL WORLD 1,BCORE,2016,AUT,Restr,no_add_code,-,D,5,-,F,845-100,UW2,205,"Lambert, Amy M",Open,15,30,-,$75,S

@@ -1,0 +1,6 @@
+Class Number,Class,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other,Year,Quarter
+BEARTH153,INTRO GEOLOGY,-,-,11226,A,5,-,MW,1100-100,DISC,369,"Shinneman, Avery",Closed,24,24,-,$5,-,2025,WIN
+BEARTH154,INTRO OCEANOGRAPHY,no_restriction,no_add_code,11227,A,5,-,MW,115-315,UWBB,240,"Marquez, Alex",Closed,30,30,-,-,-,2025,WIN
+BEARTH155,INTRO TO CLIMATE SCI,no_restriction,no_add_code,11228,A,5,-,TThF,845-1005,UW1,050,"Fields, Tracy A",Open,17,48,-,-,-,2025,WIN
+BEARTH201,EARTH SYS MAPPING,no_restriction,no_add_code,11229,A,5,-,M,330-530,UW1,120,"Shinneman, Avery",Closed,33,32,-,-,B,2025,WIN
+BEARTH318,HYDROGEOLOGY,-,-,11230,A,5,-,TTh,330-530,DISC,369,"Turner, Rob",Open,23,24,-,$17,-,2025,WIN

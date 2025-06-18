@@ -1,7 +1,7 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
 BBIO242,HUMAN ANAT PHYSIO II,BBIO,2019,SUM,no_restriction,no_add_code,10210,A,6,-,TTh,900-1130,UWBB,230,"Al-Noori, Salwa",Open,36,40,-,$170,-
-BBIO242,HUMAN ANAT PHYSIO II,BBIO,2019,SUM,no_restriction,no_add_code,10211,AA,-,LB,MW,1145-145,DISC,267,"Crowther, Gregory J",Closed,21,20,-,-,-
-BBIO242,HUMAN ANAT PHYSIO II,BBIO,2019,SUM,no_restriction,no_add_code,14289,AB,-,LB,MW,215-415,DISC,267,"Crowther, Gregory J",Open,15,20,-,-,-
+BBIO242,HUMAN ANAT PHYSIO II,BBIO,2019,SUM,-,-,10211,AA,-,LB,MW,1145-145,DISC,267,"Crowther, Gregory J",Closed,21,20,-,-,-
+BBIO242,HUMAN ANAT PHYSIO II,BBIO,2019,SUM,-,-,14289,AB,-,LB,MW,215-415,DISC,267,"Crowther, Gregory J",Open,15,20,-,-,-
 BBIO360,INTRO GENETICS,BBIO,2019,SUM,no_restriction,no_add_code,10213,A,5,-,MTWTh,1145-215,UW1,031,"Madzima, Thelma F",Open,10,30,-,-,-
 BBIO364,BIOCHEMISTRY I,BBIO,2019,SUM,no_restriction,no_add_code,14280,A,5,-,TTh,900-1130,UW1,221,"Anderson, Peter C",Open,15,24,-,-,J
 BBIO372,STEM CELLS,BBIO,2019,SUM,no_restriction,no_add_code,14281,A,5,-,MTWTh,1145-215,UW1,021,"White, Bryan D",Open,12,40,-,-,-

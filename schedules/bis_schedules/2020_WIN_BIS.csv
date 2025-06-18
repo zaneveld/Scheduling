@@ -1,0 +1,93 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BIS111,DIGITAL THINKING,BIS,2020,WIN,Restr,-,-,A,5,-,TTh,845-1045,DISC,258,"Kim, Jeffrey",Open,4,15,-,-,J
+BIS121,INTRO TO DRAWING,BIS,2020,WIN,no_restriction,no_add_code,11671,A,5,-,MW,1100-100,UWBB,272,"Noah, Barbara",Open,22,24,-,$15,-
+BIS121,INTRO TO DRAWING,BIS,2020,WIN,no_restriction,no_add_code,11672,B,5,-,TTh,115-315,UWBB,272,"Carpenter, Gary",Closed,26,24,-,$15,-
+BIS132,INTRO PHOTOGRAPHY,BIS,2020,WIN,no_restriction,no_add_code,11673,A,5,-,TTh,115-315,UW2,121,"Hsu, Howard",Closed,25,24,-,$25,-
+BIS132,INTRO PHOTOGRAPHY,BIS,2020,WIN,no_restriction,no_add_code,11674,B,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '121', in original. Note: couldn't interpret 'STOBBS', in original. Note: couldn't interpret 'III,CHARLES', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '22', in original. Note: couldn't interpret '24', in original. Note: couldn't interpret '$25', in original."
+BIS132,INTRO PHOTOGRAPHY,BIS,2020,WIN,no_restriction,no_add_code,11675,C,5,-,F,115-530,UW2,121,"Carpenter, Phillip",Closed,25,24,-,-,-
+BIS133,INTRO ACTING,BIS,2020,WIN,no_restriction,no_add_code,11676,A,2,-,TTh,900-1030,UW2,021,"Doyle, Gavin T",Open,23,24,-,-,-
+BIS134,INTRO DANCE,BIS,2020,WIN,no_restriction,no_add_code,11677,A,2,-,TTh,115-245,UW2,021,"Garcia-Snyder, Diana",Closed,24,24,-,-,-
+BIS134,INTRO DANCE,BIS,2020,WIN,no_restriction,no_add_code,11678,B,2,-,TTh,-,545-715P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '021', in original. Note: couldn't interpret 'Garcia-Snyder,Diana', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '20', in original. Note: couldn't interpret '24', in original."
+BIS161,INTRO FILM NARRATIV ,BIS,2020,WIN,no_restriction,no_add_code,11679,A,5,-,MW,115-315,UW1,050,"Yum, Samuel M.",Open,44,45,-,-,-
+BIS170,INTRO TO PSYCH,BIS,2020,WIN,no_restriction,no_add_code,11680,A,5,-,TTh,845-1045,UW1,202,"McGuire, Mary V.",Closed,45,45,-,-,-
+BIS175,AMERICAN GOVT,BIS,2020,WIN,no_restriction,no_add_code,11681,A,5,-,MW,1100-100,UW1,010,"Lambacher, Jason Frederick",Open,44,45,-,-,-
+BIS181,INTRO TO SOCIOLOGY,BIS,2020,WIN,no_restriction,no_add_code,11682,A,5,-,MW,845-1045,UW1,261,"Cadigan, Michele",Open,29,30,-,-,-
+BIS200,INTRO MICROECON,BIS,2020,WIN,no_restriction,no_add_code,11683,A,5,-,MW,845-1045,UW1,210,"Nedita, C",Open,19,22,-,-,J
+BIS200,INTRO MICROECON,BIS,2020,WIN,no_restriction,no_add_code,11684,B,5,-,MW,1100-100,UWBB,205,"Francetich, Alejandro",Open,16,17,-,-,J
+BIS200,INTRO MICROECON,BIS,2020,WIN,no_restriction,no_add_code,11685,C,5,-,TTh,330-530,UW1,020,"Zhang, Qing",Open,17,22,-,-,J
+BIS201,INTRO MACROECON,BIS,2020,WIN,no_restriction,no_add_code,11686,A,5,-,MW,115-315,UW1,210,"Nedita, C",Open,14,22,-,-,J
+BIS201,INTRO MACROECON,BIS,2020,WIN,no_restriction,no_add_code,11687,B,5,-,MW,330-530,UW1,010,"Nedita, C",Open,15,22,-,-,J
+BIS204,INTRO TO JOURNALISM ,BIS,2020,WIN,no_restriction,no_add_code,11688,A,5,-,MW,330-530,UW2,105,"Tang, Min",Open,23,24,-,-,W
+BIS206,ENGAGING LIT ARTS,BIS,2020,WIN,no_restriction,no_add_code,11689,A,5,-,TTh,845-1045,UW1,020,"Costa, Stevi",Open,42,45,-,-,-
+BIS216,INTRO CULTURE STUDY ,BIS,2020,WIN,no_restriction,no_add_code,11690,A,5,-,MW,1100-100,UW1,030,"Murr, Jed",Open,44,45,-,-,-
+BIS224,INTRO FEMINIST STDY ,BIS,2020,WIN,no_restriction,no_add_code,11691,A,5,-,MW,330-530,UW1,202,"Viveros_Avendano, Iris Crys",Open,44,45,-,-,-
+BIS232,DATA VISUALIZATION,BIS,2020,WIN,no_restriction,no_add_code,11693,A,5,-,MW,115-315,UW1,120,"Ferrare, Joseph",Closed,35,32,-,-,-
+BIS236,INTERACTIVE MEDIA,BIS,2020,WIN,no_restriction,no_add_code,11694,A,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '240', in original. Note: couldn't interpret 'Chen,Mark', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '42', in original. Note: couldn't interpret '45', in original."
+BIS237,PUBLIC SPEAKING/COM ,BIS,2020,WIN,no_restriction,no_add_code,11695,A,5,-,TTh,330-530,UW1,050,"Vaughan, Denise A",Open,43,45,-,-,-
+BIS243,INTRO ENVIRON ISS,BIS,2020,WIN,no_restriction,no_add_code,11696,A,5,-,TTh,1100-100,UW1,010,"Redsteer, Margaret",Open,43,45,-,-,-
+BIS252,POLITICS OF SCI,BIS,2020,WIN,no_restriction,no_add_code,11697,A,5,-,Th,115-315,UW1,010,"Cram, Shannon C",Closed,46,45,-,-,%B
+BIS255,CRITICAL DIVERSITY,BIS,2020,WIN,no_restriction,no_add_code,11698,A,5,-,MW,330-530,UW1,220,"Murr, Jed",Closed,32,30,-,-,J
+BIS258,INTRO LATINA/O STUDY,BIS,2020,WIN,no_restriction,no_add_code,11699,A,5,-,MW,845-1045,UW1,110,"Padilla, Yolanda",Open,38,45,-,-,-
+BIS265,INTRO ETHNIC STUDY,BIS,2020,WIN,no_restriction,no_add_code,11700,A,5,-,T,115-315,UW1,110,"Roberts, Georgia M.",Open,41,45,-,-,B
+BIS284,INTL RELATIONS,BIS,2020,WIN,no_restriction,no_add_code,11701,A,5,-,MW,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '131', in original. Note: couldn't interpret 'Nazemi,Nader', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '43', in original. Note: couldn't interpret '45', in original."
+BIS285,SEMINAR IN BIOLOGY,BIS,2020,WIN,no_restriction,no_add_code,11702,B,3,-,Th,115-315,UW1,060,"Price, R",Open,7,12,-,-,J
+BIS300,INTERDISC INQUIRY,BIS,2020,WIN,Restr,no_add_code,-,A,5,-,Th,1100-100,UW1,110,"Walsh, Camille",Closed,33,30,-,-,WB
+BIS300,INTERDISC INQUIRY,BIS,2020,WIN,Restr,-,-,B,5,-,T,1100-100,DISC,165B,"Pedersen, Alice",Open,29,30,-,-,WB
+BIS300,INTERDISC INQUIRY,BIS,2020,WIN,Restr,no_add_code,-,C,5,-,M,115-315,UW1,060,"Kurian, Alka",Closed,30,30,-,-,WB
+BIS300,INTERDISC INQUIRY,BIS,2020,WIN,Restr,no_add_code,-,D,5,-,M,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '031', in original. Note: couldn't interpret 'Kurian,Alka', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret 'WB', in original."
+BIS300,INTERDISC INQUIRY,BIS,2020,WIN,Restr,no_add_code,-,E,5,-,MW,845-1045,UW2,211,"Lambacher, Jason Frederick",Closed,30,30,-,-,W
+BIS300,INTERDISC INQUIRY,BIS,2020,WIN,Restr,no_add_code,-,F,5,-,MW,115-315,UW1,261,"Brooks, Peter",Open,27,30,-,-,W
+BIS304,POL ECON & ENVIRON,BIS,2020,WIN,no_restriction,no_add_code,11709,A,5,-,TTh,1100-100,UW1,202,"Romero, Adam",Open,43,45,-,-,%
+BIS306,MARINE DIV & CONSER ,BIS,2020,WIN,no_restriction,no_add_code,11710,A,5,-,MW,1100-100,UW1,021,"Maxwell, Sara",Open,38,40,-,-,-
+BIS307,ENVIRONMENTL JUSTICE,BIS,2020,WIN,no_restriction,no_add_code,11711,A,5,-,TTh,845-1045,UW1,051,"Malone, Melanie",Open,42,45,-,-,-
+BIS310,"WOMEN, CULTURE, DEV ",BIS,2020,WIN,no_restriction,no_add_code,11712,A,5,-,MW,115-315,UWBB,240,"Bissat, Johanna G.",Open,44,45,-,-,-
+BIS312,APPRS SOCIAL RESRCH ,BIS,2020,WIN,no_restriction,no_add_code,11713,A,5,-,MW,845-1045,UW1,121,"Hartmann, William",Open,31,32,-,-,-
+BIS312,APPRS SOCIAL RESRCH ,BIS,2020,WIN,no_restriction,no_add_code,11714,B,5,-,T,1100-100,UW1,121,"Dana, Karam",Open,29,32,-,-,B
+BIS313,ISSUES MEDIA STDY,BIS,2020,WIN,no_restriction,no_add_code,11715,A,5,-,-,"to_be_arranged_Roberts,Georgia",M.,-,-,Closed,31,30,-,-,D
+BIS313,ISSUES MEDIA STDY,BIS,2020,WIN,no_restriction,no_add_code,11716,B,5,-,TTh,1100-100,UW1,221,"Krabill, Ron",Closed,46,45,-,-,-
+BIS313,ISSUES MEDIA STDY,BIS,2020,WIN,-,add_code_required,11717,C,5,-,TTh,115-315,UW1,221,"Chen, Mark",-,48,45,-,-,-
+BIS315,UNDERSTANDING STATS ,BIS,2020,WIN,no_restriction,no_add_code,11718,A,5,-,MW,330-530,UW1,120,"Trujillo, Caleb",Closed,32,32,-,-,-
+BIS315,UNDERSTANDING STATS ,BIS,2020,WIN,no_restriction,no_add_code,11719,B,5,-,Th,1100-100,UW1,121,"Carlisle, Shauna",Open,30,32,-,-,B
+BIS316,TPCS IN PSYCHOLOGY,BIS,2020,WIN,no_restriction,no_add_code,11720,A,5,-,TTh,115-315,UW1,030,"McGuire, Mary V.",Closed,45,45,-,-,-
+BIS331,JOURN & MEDIA HSTRY ,BIS,2020,WIN,no_restriction,no_add_code,21727,A,5,-,TTh,330-530,UW1,102,"Hsu, Howard",Open,41,45,-,-,-
+BIS332,GLB DIGITAL INDUSTRY,BIS,2020,WIN,no_restriction,no_add_code,11721,A,5,-,MW,1100-100,UW1,202,"Tang, Min",Closed,46,45,-,-,%
+BIS336,US MASS INCARCRTIN,BIS,2020,WIN,no_restriction,no_add_code,11722,A,5,-,TTh,1100-100,UW1,020,"Berger, Dan",Open,42,45,-,-,%
+BIS337,RISK AND RESILIENCE ,BIS,2020,WIN,no_restriction,no_add_code,11723,A,5,-,TTh,1100-100,UW1,030,"Udell, Wadiya A",Open,42,45,-,-,-
+BIS338,POLI INSTITU & PROC ,BIS,2020,WIN,no_restriction,no_add_code,11724,A,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '102', in original. Note: couldn't interpret 'Streichler,Stuart', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '19', in original. Note: couldn't interpret '45', in original."
+BIS340,APPRS CULTURAL RES,BIS,2020,WIN,no_restriction,no_add_code,11725,A,5,-,TTh,330-530,UW1,121,"Berger, Dan",Closed,36,32,-,-,-
+BIS341,STUDY OF CULTURE,BIS,2020,WIN,no_restriction,no_add_code,21737,A,5,-,Th,1100-100,UW2,240,"Lerum, Kari A",Closed,45,45,-,-,B
+BIS342,GEOG INF SYS,BIS,2020,WIN,-,-,11726,A,5,-,MW,845-1045,DISC,258,"Lopez, Santiago",Open,23,24,-,-,-
+BIS344,INTERMEDIATE GIS,BIS,2020,WIN,-,-,11727,A,5,-,TTh,330-530,DISC,258,"Malone, Melanie",Open,11,24,-,-,-
+BIS347,HIST AM DOCUM FILM,BIS,2020,WIN,no_restriction,no_add_code,11728,A,5,-,MW,330-530,UW2,141,"Herrup, Mocha Jean",Open,43,45,-,-,-
+BIS352,MAPPING COMMUNITIES ,BIS,2020,WIN,-,-,11729,A,5,-,F,845-100,DISC,258,"Jung, Jin-Kyu",Open,23,24,-,-,-
+BIS353,HUMAN RGTS THRY/PRC ,BIS,2020,WIN,no_restriction,no_add_code,11730,A,5,-,MW,115-315,UW2,240,"Griffin, Maryam S",Open,44,45,-,-,-
+BIS356,ETHICS & ENVIRONMNT ,BIS,2020,WIN,no_restriction,no_add_code,11731,A,5,-,MW,330-530,UW1,210,"Lambacher, Jason Frederick",Open,29,45,-,-,-
+BIS374,MID-EAST POLITICS,BIS,2020,WIN,no_restriction,no_add_code,11732,A,5,-,MW,1100-100,UW2,131,"Dana, Karam",Open,40,45,-,-,-
+BIS380,BIOETHICS,BIS,2020,WIN,no_restriction,no_add_code,11733,A,5,-,TTh,115-315,UW2,131,"Harkewicz, Laura J",Open,23,45,-,-,-
+BIS384,"HEALTH, MED & SOC",BIS,2020,WIN,no_restriction,no_add_code,11734,A,5,-,TTh,845-1045,UW1,221,"Harkewicz, Laura J",Open,42,45,-,-,-
+BIS392,WATER & SUSTAINABLTY,BIS,2020,WIN,no_restriction,no_add_code,21582,A,5,-,TTh,330-530,UW2,240,"Turner, Rob",Closed,45,45,-,-,-
+BIS398,DIR STUDY/RESEARCH,BIS,2020,WIN,IS,add_code_required,11735,A,1-5,-,-,to_be_arranged,-,12,-,-,-,-,-,-,10E
+BIS399,PRTFLIO&CAREER DEV,BIS,2020,WIN,no_restriction,no_add_code,11736,A,2,-,T,115-315,UW2,307,"Redwood, Loren K.",Open,9,18,-,-,B
+BIS414,TOPS HUMAN RIGHTS,BIS,2020,WIN,Restr,no_add_code,-,A,5,-,MW,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '005', in original. Note: couldn't interpret 'Griffin,Maryam', in original. Note: couldn't interpret 'S', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '32', in original. Note: couldn't interpret '35', in original. Note: couldn't interpret 'J', in original."
+BIS415,PUBLIC POLICY & LAW ,BIS,2020,WIN,Restr,no_add_code,-,A,5,-,TTh,115-315,UW1,102,"Streichler, Stuart",Closed,40,40,-,-,-
+BIS445,REALITY OF INEQUAL,BIS,2020,WIN,Restr,no_add_code,-,A,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '221', in original. Note: couldn't interpret 'Lerum,Kari', in original. Note: couldn't interpret 'A', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '40', in original. Note: couldn't interpret '40', in original."
+BIS480,INT'L STUDY ABROAD,BIS,2020,WIN,-,add_code_required,21795,A,3,-,W,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '221', in original. Note: couldn't interpret 'Walsh,Camille', in original. Note: couldn't interpret '15', in original. Note: couldn't interpret '18', in original. Note: couldn't interpret '$1850', in original."
+BIS490,ADVANCED SEMINAR,BIS,2020,WIN,-,add_code_required,11740,A,5,-,MW,845-1045,UW2,228,"Stokes, David L.",-,6,6,-,$130,WJ
+BIS490,ADVANCED SEMINAR,BIS,2020,WIN,Restr,no_add_code,-,B,5,-,W,1100-100,UW1,060,"Charusheela, S",Closed,18,18,-,-,WB
+BIS490,ADVANCED SEMINAR,BIS,2020,WIN,Restr,no_add_code,-,C,5,-,MW,115-315,UW2,228,"Gustafson, Kristin",Open,17,18,-,-,W
+BIS490,ADVANCED SEMINAR,BIS,2020,WIN,Restr,no_add_code,-,D,5,-,TTh,1100-100,UW2,228,"Danby, Colin",Open,13,18,-,-,W
+BIS490,ADVANCED SEMINAR,BIS,2020,WIN,Restr,no_add_code,-,E,5,-,TTh,330-530,UW2,228,"Romero, Adam",Closed,18,18,-,-,W
+BIS492,SENIOR THESIS,BIS,2020,WIN,IS,add_code_required,11746,A,5,-,-,to_be_arranged,-,2,-,-,10,-,-,-,W
+BIS494,TASK FORCE,BIS,2020,WIN,Restr,no_add_code,-,A,3,-,M,115-315,UW2,307,"Vaughan, Denise A",Open,13,18,CR_NC,-,-
+BIS494,TASK FORCE,BIS,2020,WIN,Restr,no_add_code,-,B,2,-,M,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '060', in original. Note: couldn't interpret 'Walsh,Camille', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '13', in original. Note: couldn't interpret '12', in original. Note: couldn't interpret 'CR_NC', in original."
+BIS495,INTERNSHIP,BIS,2020,WIN,-,add_code_required,11749,A,-,-,-,2-6,F,-,-,-,-,-,-,-,"1100-100 Note: couldn't interpret 'UW1', in original. Note: couldn't interpret '020', in original. Note: couldn't interpret 'Redwood,Loren', in original. Note: couldn't interpret 'K.', in original. Note: couldn't interpret '11', in original. Note: couldn't interpret '15', in original. Note: couldn't interpret 'CR_NC', in original."
+BIS497,STATE INTERNSHIP,BIS,2020,WIN,-,add_code_required,11750,A,5,-,-,to_be_arranged,-,-,"Spaulding, Randy",-,3,5,-,-,-
+BIS497,STATE INTERNSHIP,BIS,2020,WIN,-,add_code_required,11751,B,5,-,-,to_be_arranged,-,-,"Spaulding, Randy",-,2,5,-,-,-
+BIS497,STATE INTERNSHIP,BIS,2020,WIN,-,add_code_required,11752,C,5,-,-,to_be_arranged,-,-,"Spaulding, Randy",-,2,5,-,-,-
+BIS498,UNDERGRAD RESEARCH,BIS,2020,WIN,IS,add_code_required,11753,A,1-5,-,-,to_be_arranged,-,15,-,-,-,-,-,-,10E
+BIS498,UNDERGRAD RESEARCH,BIS,2020,WIN,-,add_code_required,21638,B,1-5,-,-,to_be_arranged,-,-,"Tang, Min",-,9,10,-,-,-
+BIS499,PORTFOLIO CAPSTONE,BIS,2020,WIN,Restr,no_add_code,-,A,3,-,W,-,545-745P,-,SSG CNSVTRY,-,-,-,-,-,"Yum,Samuel Note: couldn't interpret 'M.', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '24', in original. Note: couldn't interpret '24', in original. Note: couldn't interpret 'W', in original."
+BIS499,PORTFOLIO CAPSTONE,BIS,2020,WIN,-,add_code_required,11755,B,3,-,T,845-1045,UW1,030,"Udell, Wadiya A",-,25,24,-,-,WE
+BIS499,PORTFOLIO CAPSTONE,BIS,2020,WIN,Restr,no_add_code,-,C,3,-,T,115-315,UWBB,260,"Trumbull, Robert",Open,21,24,-,-,W
+BIS499,PORTFOLIO CAPSTONE,BIS,2020,WIN,Restr,no_add_code,-,D,3,-,T,330-530,UW1,031,"Collins, Charles R.",Closed,25,24,-,-,W
+BIS499,PORTFOLIO CAPSTONE,BIS,2020,WIN,Restr,no_add_code,-,E,3,-,W,1100-100,UW2,040,"Martin, Minda J.",Open,12,24,-,-,W

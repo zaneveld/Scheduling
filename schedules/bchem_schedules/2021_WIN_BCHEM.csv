@@ -33,7 +33,7 @@ BCHEM426,INSTRUMENTAL ANLYS,BCHEM,2021,WIN,Restr,no_add_code,-,AA,-,LB,T,845-124
 BCHEM426,INSTRUMENTAL ANLYS,BCHEM,2021,WIN,Restr,no_add_code,-,AB,-,LB,T,115-515,*,*,"Kim, Hyung J",Open,9,12,-,-,-
 BCHEM493,ADV TOPICS IN CHEM,BCHEM,2021,WIN,Restr,no_add_code,-,A,5,-,TTh,1100-100,*,*,"Robins, Lori",Open,2,20,-,-,-
 BCHEM495,INVEST CHEM I,BCHEM,2021,WIN,Restr,no_add_code,-,A,3,-,TTh,845-1045,*,*,"Finley, Brandon D",Open,17,24,-,-,-
-BCHEM498,IND STUDY CHEM,BCHEM,2021,WIN,-,-,-,IS,-,-,-,-,-,-,-,-,-,-,-,-,"add_code_required Note: couldn't interpret '10881', in original. Note: couldn't interpret 'A', in original. Note: couldn't interpret '1-5', in original. Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
-BCHEM498,IND STUDY CHEM,BCHEM,2021,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,10882,-,-,-,-,-,-,"C_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '1', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."
-BCHEM499,UG RESEARCH CHEM,BCHEM,2021,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,10883,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '6', in original. Note: couldn't interpret '10E', in original."
-BCHEM499,UG RESEARCH CHEM,BCHEM,2021,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,10884,-,-,-,-,-,-,"C_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '2', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."
+BCHEM498,IND STUDY CHEM,BCHEM,2021,WIN,IS,add_code_required,10881,A,1-5,-,-,to_be_arranged,-,0,-,-,-,-,-,-,10E
+BCHEM498,IND STUDY CHEM,BCHEM,2021,WIN,IS,-,10882,C,1-5,-,-,to_be_arranged,-,-,-,Open,1,-,-,-,"10E Note: couldn't interpret 'CR_NC', in original."
+BCHEM499,UG RESEARCH CHEM,BCHEM,2021,WIN,IS,-,10883,B,1-5,-,-,to_be_arranged,-,-,-,Open,6,-,-,-,10E
+BCHEM499,UG RESEARCH CHEM,BCHEM,2021,WIN,IS,-,10884,C,1-5,-,-,to_be_arranged,-,-,-,Open,2,-,-,-,"10E Note: couldn't interpret 'CR_NC', in original."

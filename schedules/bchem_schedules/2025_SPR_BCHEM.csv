@@ -1,0 +1,32 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCHEM153,GEN CHEM II,BCHEM,2025,SPR,-,-,10804,A,4,-,MWF,845-1005,DISC,061,"Lovitt, Charity",Open,126,144,-,-,-
+BCHEM154,GEN CHEM LAB II,BCHEM,2025,SPR,-,-,10805,A,2,-,M,1230-330,DISC,463,"Finley, Brandon D",Open,21,24,-,$50,-
+BCHEM154,GEN CHEM LAB II,BCHEM,2025,SPR,-,-,10806,B,2,-,T,900-1200,DISC,463,"Mlodnosky, Karyn",Open,15,24,-,$50,-
+BCHEM154,GEN CHEM LAB II,BCHEM,2025,SPR,-,-,10807,C,2,-,T,145-445,DISC,463,"Lovitt, Charity",Open,23,24,-,$50,-
+BCHEM154,GEN CHEM LAB II,BCHEM,2025,SPR,-,-,10808,D,2,-,W,1230-330,DISC,463,"Finley, Brandon D",Open,18,24,-,$50,-
+BCHEM154,GEN CHEM LAB II,BCHEM,2025,SPR,-,-,10809,E,2,-,Th,900-1200,DISC,463,"Storfer, Dinara",Open,11,24,-,$50,-
+BCHEM163,GEN CHEM III,BCHEM,2025,SPR,-,-,10810,A,4,-,MWF,1015-1135,DISC,061,"Finley, Brandon D",Open,69,120,-,-,-
+BCHEM164,GEN CHEM LAB III,BCHEM,2025,SPR,no_restriction,no_add_code,10811,A,2,-,M,1200-300,CC1,340,"Anderson, Peter",Closed,24,24,-,$50,-
+BCHEM164,GEN CHEM LAB III,BCHEM,2025,SPR,no_restriction,no_add_code,10812,B,2,-,T,830-1130,CC1,340,"Anderson, Peter",Open,10,24,-,$50,-
+BCHEM164,GEN CHEM LAB III,BCHEM,2025,SPR,no_restriction,no_add_code,10813,C,2,-,T,115-415,CC1,340,"Mlodnosky, Karyn",Open,21,24,-,$50,-
+BCHEM164,GEN CHEM LAB III,BCHEM,2025,SPR,no_restriction,no_add_code,10814,D,2,-,W,1200-300,CC1,340,"Shippy, Scott",Open,18,24,-,$50,-
+BCHEM238,ORGANIC CHEMISTRY,BCHEM,2025,SPR,no_restriction,no_add_code,10816,A,4,-,MW,1100-100,UW2,105,"Mlodnosky, Karyn",Open,21,30,-,-,-
+BCHEM239,ORGANIC CHEMISTRY,BCHEM,2025,SPR,-,-,10817,A,4,-,MW,115-315,DISC,061,"Thimmaiah, Murali",Open,64,80,-,-,-
+BCHEM241,ORGANIC CHEM LAB I,BCHEM,2025,SPR,no_restriction,no_add_code,10818,A,3,-,M,330-530,UW2,340,"Daruwala, Khushroo P.",Open,7,20,-,$75,-
+BCHEM241,ORGANIC CHEM LAB I,BCHEM,2025,SPR,-,-,10819,AA,-,LB,Th,845-1245,DISC,469,"Daruwala, Khushroo P.",Open,7,20,-,-,-
+BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2025,SPR,-,-,10820,A,3,-,W,330-530,DISC,061,"Thimmaiah, Murali",Open,58,60,-,$90,-
+BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2025,SPR,-,-,10821,AA,-,LB,Th,130-530,DISC,469,"Thimmaiah, Murali",Closed,20,20,-,-,-
+BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2025,SPR,-,-,10822,AB,-,LB,F,830-1230,DISC,469,"Thimmaiah, Murali",Open,19,20,-,-,-
+BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2025,SPR,-,-,10823,AC,-,LB,F,130-530,DISC,469,"Daruwala, Khushroo P.",Open,19,20,-,-,-
+BCHEM313,INOR CHEM II,BCHEM,2025,SPR,no_restriction,no_add_code,10824,A,3,-,TTh,330-530,UW2,307,"Daruwala, Khushroo P.",Open,8,18,-,-,-
+BCHEM364,BIOCHEMISTRY I,BCHEM,2025,SPR,no_restriction,no_add_code,10825,A,5,-,MW,845-1045,UW2,141,"Shippy, Scott",Open,9,24,-,-,J
+BCHEM375,MOLECULAR BIOLOGY,BCHEM,2025,SPR,no_restriction,no_add_code,10826,A,5,-,TTh,330-530,UW1,041,"Shih, Han-Wei",Open,10,24,-,-,J
+BCHEM404,PHYSICAL CHEM LAB,BCHEM,2025,SPR,-,-,10827,A,4,-,M,115-515,DISC,469,"Shippy, Scott",Open,8,12,-,$60,-
+BCHEM404,PHYSICAL CHEM LAB,BCHEM,2025,SPR,-,-,10828,B,4,-,T,845-1245,DISC,469,"Shippy, Scott",Open,9,12,-,$60,-
+BCHEM493,ADV TOPICS IN CHEM,BCHEM,2025,SPR,no_restriction,no_add_code,10829,A,5,-,TTh,115-315,UW2,205,"Anderson, Peter",Open,10,30,-,-,-
+BCHEM495,INVEST CHEM I,BCHEM,2025,SPR,no_restriction,no_add_code,10830,A,3,-,TTh,115-315,UW2,211,"Finley, Brandon D",Closed,20,20,-,-,-
+BCHEM498,IND STUDY CHEM,BCHEM,2025,SPR,IS,-,10831,A,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,10E
+BCHEM498,IND STUDY CHEM,BCHEM,2025,SPR,IS,-,10832,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,"10E Note: couldn't interpret 'CR_NC', in original."
+BCHEM498,IND STUDY CHEM,BCHEM,2025,SPR,IS,-,10833,C,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,10E
+BCHEM499,UG RESEARCH CHEM,BCHEM,2025,SPR,IS,-,10834,A,1-5,-,-,to_be_arranged,-,-,-,Open,4,-,-,-,10E
+BCHEM499,UG RESEARCH CHEM,BCHEM,2025,SPR,IS,-,10835,B,1-5,-,-,to_be_arranged,-,-,-,Open,5,-,-,-,"10E Note: couldn't interpret 'CR_NC', in original."

@@ -1,0 +1,90 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BIS111,DIGITAL THINKING,BIS,2021,WIN,no_restriction,no_add_code,11684,A,5,-,TTh,845-1045,*,*,"Kim, Jeffrey",Open,15,16,-,-,J
+BIS121,INTRO TO DRAWING,BIS,2021,WIN,no_restriction,no_add_code,11685,A,5,-,-,to_be_arranged,*,*,"Carpenter, Gary",Closed,25,24,-,-,-
+BIS121,INTRO TO DRAWING,BIS,2021,WIN,no_restriction,no_add_code,11686,B,5,-,MW,115-315,*,*,"Noah, Barbara",Closed,24,24,-,-,-
+BIS132,INTRO PHOTOGRAPHY,BIS,2021,WIN,no_restriction,no_add_code,11687,A,5,-,MW,115-315,*,*,"Hsu, Howard",Open,22,24,-,-,-
+BIS132,INTRO PHOTOGRAPHY,BIS,2021,WIN,no_restriction,no_add_code,11688,B,5,-,F,115-530,*,*,"Carpenter, Phillip",Closed,25,24,-,-,-
+BIS133,INTRO ACTING,BIS,2021,WIN,no_restriction,no_add_code,11689,A,2,-,MW,915-1045,*,*,"Doyle, Gavin T",Open,22,24,-,-,-
+BIS134,INTRO DANCE,BIS,2021,WIN,no_restriction,no_add_code,11690,A,2,-,TTh,400-530,*,*,"Garcia-Snyder, Diana",Closed,25,24,CR_NC,-,-
+BIS134,INTRO DANCE,BIS,2021,WIN,no_restriction,no_add_code,11691,B,2,-,TTh,-,545-715P,*,-,-,-,-,-,-,"* Note: couldn't interpret 'Garcia-Snyder,Diana', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '18', in original. Note: couldn't interpret '24', in original. Note: couldn't interpret 'CR_NC', in original."
+BIS161,INTRO FILM NARRATIV ,BIS,2021,WIN,no_restriction,no_add_code,11692,A,5,-,T,330-530,*,*,"Yum, Samuel M.",Closed,45,45,-,-,-
+BIS170,INTRO TO PSYCH,BIS,2021,WIN,no_restriction,no_add_code,11693,A,5,-,MW,845-1045,*,*,"McGuire, Mary V.",Open,43,45,-,-,-
+BIS175,AMERICAN GOVT,BIS,2021,WIN,no_restriction,no_add_code,11694,A,5,-,W,330-530,*,*,"Lambacher, Jason Frederick",Open,44,45,-,-,-
+BIS181,INTRO TO SOCIOLOGY,BIS,2021,WIN,no_restriction,no_add_code,11695,A,5,-,W,1100-100,*,*,"Redwood, Loren K.",Closed,47,45,-,-,-
+BIS200,INTRO MICROECON,BIS,2021,WIN,no_restriction,no_add_code,11697,A,5,-,MW,845-1045,*,*,"Nedita, C",Open,21,22,-,-,J
+BIS200,INTRO MICROECON,BIS,2021,WIN,no_restriction,no_add_code,11698,B,5,-,MW,1100-100,*,*,"Francetich, Alejandro",Open,21,22,-,-,J
+BIS200,INTRO MICROECON,BIS,2021,WIN,no_restriction,no_add_code,11699,C,5,-,TTh,330-530,*,*,"Demir, Ibrahim",Open,19,22,-,-,J
+BIS201,INTRO MACROECON,BIS,2021,WIN,no_restriction,no_add_code,11700,A,5,-,MW,115-315,*,*,"Nedita, C",Open,21,22,-,-,J
+BIS201,INTRO MACROECON,BIS,2021,WIN,no_restriction,no_add_code,11701,B,5,-,MW,330-530,*,*,"Nedita, C",Open,14,22,-,-,J
+BIS204,INTRO TO JOURNALISM ,BIS,2021,WIN,no_restriction,no_add_code,11702,A,5,-,MW,1100-100,*,*,"Tang, Min",Open,23,24,-,-,W
+BIS204,INTRO TO JOURNALISM ,BIS,2021,WIN,no_restriction,no_add_code,21777,B,5,-,TTh,1100-100,*,*,"Gustafson, Kristin",Open,22,24,-,-,W
+BIS215,UNDERSTANDING STATS ,BIS,2021,WIN,no_restriction,no_add_code,11703,A,5,-,W,845-1045,*,*,"Jorgenson, Andrew D",Open,26,32,-,-,B
+BIS215,UNDERSTANDING STATS ,BIS,2021,WIN,no_restriction,no_add_code,11704,B,5,-,M,330-530,*,*,"Trujillo, Caleb",Closed,35,32,-,-,-
+BIS222,HUMAN SEXUALITY,BIS,2021,WIN,no_restriction,no_add_code,11705,A,5,-,TTh,845-1045,*,*,"Lichty, Lauren F.",Open,42,45,-,-,%
+BIS224,INTRO FEMINIST STDY ,BIS,2021,WIN,no_restriction,no_add_code,11706,A,5,-,Th,115-315,*,*,"Kohlsdorf, K.",Open,41,45,-,-,-
+BIS231,LINEAR ALGEBRA,BIS,2021,WIN,no_restriction,no_add_code,11707,A,5,-,Th,1100-100,*,*,"Jorgenson, Andrew D",Open,12,32,-,-,-
+BIS232,DATA VISUALIZATION,BIS,2021,WIN,no_restriction,no_add_code,11708,A,5,-,W,115-315,*,*,"Ferrare, Joseph",Closed,35,32,-,-,-
+BIS236,INTERACTIVE MEDIA,BIS,2021,WIN,no_restriction,no_add_code,11709,A,5,-,T,-,545-745P,*,-,-,-,-,-,-,"* Note: couldn't interpret 'Chen,Mark', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '47', in original. Note: couldn't interpret '45', in original."
+BIS237,PUBLIC SPEAKING/COM ,BIS,2021,WIN,no_restriction,no_add_code,11710,A,5,-,TTh,-,545-745P,*,-,-,-,-,-,-,"* Note: couldn't interpret 'Vaughan,Denise', in original. Note: couldn't interpret 'A', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '43', in original. Note: couldn't interpret '45', in original."
+BIS242,ENVIRONMENTAL GEOG,BIS,2021,WIN,no_restriction,no_add_code,11711,A,5,-,TTh,1100-100,*,*,"Lopez, Santiago",Open,41,45,-,-,-
+BIS243,INTRO ENVIRON ISS,BIS,2021,WIN,no_restriction,no_add_code,11712,A,5,-,-,to_be_arranged,*,*,"Redsteer, Margaret",Open,43,45,-,-,-
+BIS252,POLITICS OF SCI,BIS,2021,WIN,no_restriction,no_add_code,11713,A,5,-,-,to_be_arranged,*,*,"Cram, Shannon C",Closed,47,45,-,-,%
+BIS255,CRITICAL DIVERSITY,BIS,2021,WIN,no_restriction,no_add_code,11714,A,5,-,Th,115-315,*,*,"Morse, Jason H",Open,27,30,-,-,J
+BIS256,INTRO AFR AMER STDY ,BIS,2021,WIN,no_restriction,no_add_code,11715,A,5,-,W,1100-100,*,*,"Berger, Dan",Open,44,45,-,-,-
+BIS265,INTRO ETHNIC STUDY,BIS,2021,WIN,no_restriction,no_add_code,11716,A,5,-,Th,1100-100,*,*,"Roberts, Georgia M.",Closed,45,45,-,-,-
+BIS268,WRLD HSTRY TO 1500,BIS,2021,WIN,no_restriction,no_add_code,11717,A,5,-,-,to_be_arranged,*,*,"Wood, Alan",Closed,30,30,-,-,-
+BIS300,INTERDISC INQUIRY,BIS,2021,WIN,Restr,no_add_code,-,A,5,-,M,1100-100,*,*,"Lambacher, Jason Frederick",Open,23,25,-,-,-
+BIS300,INTERDISC INQUIRY,BIS,2021,WIN,Restr,no_add_code,-,B,5,-,W,330-530,*,*,"Lambert, Amy M",Open,18,25,-,-,-
+BIS300,INTERDISC INQUIRY,BIS,2021,WIN,Restr,no_add_code,-,C,5,-,T,330-530,*,*,"Goldstein, David S.",Open,24,25,-,-,-
+BIS300,INTERDISC INQUIRY,BIS,2021,WIN,Restr,no_add_code,-,D,5,-,TTh,330-530,*,*,"Krabill, Ron",Open,16,25,-,-,-
+BIS300,INTERDISC INQUIRY,BIS,2021,WIN,Restr,-,-,E,5,-,Th,1100-100,*,*,"Kellejian, Kris",Closed,25,25,-,-,-
+BIS300,INTERDISC INQUIRY,BIS,2021,WIN,Restr,no_add_code,-,F,5,-,Th,115-315,*,*,"Pedersen, Alice",Closed,25,25,-,-,-
+BIS304,POL ECON & ENVIRON,BIS,2021,WIN,no_restriction,no_add_code,11724,A,5,-,-,to_be_arranged,*,*,"Romero, Adam",Closed,47,45,-,-,%
+BIS307,ENVIRONMENTL JUSTICE,BIS,2021,WIN,no_restriction,no_add_code,11725,A,5,-,Th,330-530,*,*,"Malone, Melanie",Open,40,45,-,-,-
+BIS312,APPRS SOCIAL RESRCH ,BIS,2021,WIN,no_restriction,no_add_code,11726,A,5,-,-,to_be_arranged,*,*,"Dana, Karam",Open,89,90,-,-,B
+BIS313,ISSUES MEDIA STDY,BIS,2021,WIN,no_restriction,no_add_code,11727,A,5,-,-,to_be_arranged,*,*,"Roberts, Georgia M.",Open,29,30,-,-,D
+BIS313,ISSUES MEDIA STDY,BIS,2021,WIN,no_restriction,no_add_code,11728,B,5,-,TTh,1100-100,*,*,"Krabill, Ron",Open,43,45,-,-,-
+BIS313,ISSUES MEDIA STDY,BIS,2021,WIN,no_restriction,no_add_code,21612,C,5,-,T,1100-100,*,*,"Chen, Mark",Closed,45,45,-,-,-
+BIS316,TPCS IN PSYCHOLOGY,BIS,2021,WIN,no_restriction,no_add_code,11729,A,5,-,-,to_be_arranged,*,*,"Hartmann, William",Open,44,45,-,-,-
+BIS316,TPCS IN PSYCHOLOGY,BIS,2021,WIN,no_restriction,no_add_code,11730,B,5,-,MW,115-315,*,*,"McGuire, Mary V.",Open,44,45,-,-,-
+BIS316,TPCS IN PSYCHOLOGY,BIS,2021,WIN,no_restriction,no_add_code,22184,C,5,-,-,to_be_arranged,*,*,"Hartmann, William",Open,42,45,-,-,-
+BIS319,PUB ARTS&ECOL RSTRTN,BIS,2021,WIN,no_restriction,no_add_code,11731,A,5,-,W,115-315,*,*,"Lambert, Amy M",Open,20,24,-,-,-
+BIS322,TPCS PERFORM STDY,BIS,2021,WIN,no_restriction,no_add_code,11732,A,5,-,T,845-1045,*,*,"Macalalad Bragin, Naomi",Open,35,45,CR_NC,-,-
+BIS331,JOURN & MEDIA HSTRY ,BIS,2021,WIN,no_restriction,no_add_code,11733,A,5,-,MW,330-530,*,*,"Hsu, Howard",Open,44,45,-,-,-
+BIS332,GLB DIGITAL INDUSTRY,BIS,2021,WIN,no_restriction,no_add_code,11735,A,5,-,MW,845-1045,*,*,"Tang, Min",Closed,45,45,-,-,%
+BIS337,RISK AND RESILIENCE ,BIS,2021,WIN,no_restriction,no_add_code,11736,A,5,-,MW,115-315,*,*,"Udell, Wadiya A",Open,44,45,-,-,-
+BIS338,POLI INSTITU & PROC ,BIS,2021,WIN,no_restriction,no_add_code,11737,A,5,-,MW,330-530,*,*,"Streichler, Stuart",Open,39,45,-,-,-
+BIS340,APPRS CULTURAL RES,BIS,2021,WIN,no_restriction,no_add_code,11738,A,5,-,Th,115-315,*,*,"Berger, Dan",Open,30,32,-,-,-
+BIS342,GEOG INF SYS,BIS,2021,WIN,no_restriction,no_add_code,11739,A,5,-,TTh,330-530,*,*,"Lopez, Santiago",Open,23,24,-,-,-
+BIS344,INTERMEDIATE GIS,BIS,2021,WIN,no_restriction,no_add_code,11740,A,5,-,-,to_be_arranged,*,*,"Malone, Melanie",Open,11,24,-,-,-
+BIS347,HIST AM DOCUM FILM,BIS,2021,WIN,no_restriction,no_add_code,11741,A,5,-,-,to_be_arranged,*,*,"Goldstein, David S.",Closed,46,45,-,-,-
+BIS356,ETHICS & ENVIRONMNT ,BIS,2021,WIN,no_restriction,no_add_code,11742,A,5,-,T,1100-100,*,*,"Atkinson, Jennifer",Open,44,45,-,-,-
+BIS363,POLTCS&POPULR MUSIC ,BIS,2021,WIN,no_restriction,no_add_code,11743,A,5,-,-,to_be_arranged,*,*,"Harewood, Susan",Open,27,30,-,-,D
+BIS374,MID-EAST POLITICS,BIS,2021,WIN,no_restriction,no_add_code,11744,A,5,-,-,to_be_arranged,*,*,"Dana, Karam",Open,41,45,-,-,-
+BIS380,BIOETHICS,BIS,2021,WIN,no_restriction,no_add_code,11745,A,5,-,-,to_be_arranged,*,*,"Harkewicz, Laura J",Open,44,45,-,-,-
+BIS384,"HEALTH, MED & SOC",BIS,2021,WIN,no_restriction,no_add_code,11746,A,5,-,-,to_be_arranged,*,*,"Harkewicz, Laura J",Closed,45,45,-,-,-
+BIS398,DIR STUDY/RESEARCH,BIS,2021,WIN,IS,add_code_required,11747,A,1-5,-,-,to_be_arranged,-,3,-,-,-,-,-,-,10E
+BIS399,PRTFLIO&CAREER DEV,BIS,2021,WIN,no_restriction,no_add_code,11750,A,2,-,-,to_be_arranged,*,*,"Redwood, Loren K.",Open,12,18,-,-,-
+BIS406,URBAN PLAN & GEOG,BIS,2021,WIN,Restr,no_add_code,-,A,5,-,MW,330-530,*,*,"Jung, Jin-Kyu",Open,27,36,-,-,-
+BIS414,TOPS HUMAN RIGHTS,BIS,2021,WIN,Restr,no_add_code,-,A,5,-,TTh,-,545-745P,*,-,-,-,-,-,-,"* Note: couldn't interpret 'Nazemi,Nader', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '35', in original. Note: couldn't interpret '40', in original."
+BIS415,PUBLIC POLICY & LAW ,BIS,2021,WIN,Restr,no_add_code,-,A,5,-,MW,1100-100,*,*,"Streichler, Stuart",Open,39,40,-,-,-
+BIS443,ED POLICY & AM ECON ,BIS,2021,WIN,Restr,no_add_code,-,A,5,-,W,330-530,*,*,"Ferrare, Joseph",Open,31,36,-,-,J
+BIS488,TOPICS BRITISH LIT,BIS,2021,WIN,Restr,no_add_code,-,A,5,-,W,1100-100,*,*,"Pedersen, Alice",Closed,40,40,-,-,-
+BIS490,ADVANCED SEMINAR,BIS,2021,WIN,-,add_code_required,11756,A,5,-,TTh,845-1045,DISC,252,"Stokes, David L.",-,0,6,-,$130,WJ
+BIS490,ADVANCED SEMINAR,BIS,2021,WIN,Restr,no_add_code,-,B,5,-,T,1100-100,*,*,"Romero, Adam",Open,17,18,-,-,W
+BIS490,ADVANCED SEMINAR,BIS,2021,WIN,Restr,no_add_code,-,C,5,-,-,to_be_arranged,*,*,"Watts, Linda",Open,13,18,-,-,WD
+BIS490,ADVANCED SEMINAR,BIS,2021,WIN,Restr,no_add_code,-,D,5,-,MW,-,545-745P,*,-,-,-,-,-,-,"* Note: couldn't interpret 'Lerum,Kari', in original. Note: couldn't interpret 'A', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '7', in original. Note: couldn't interpret '8', in original. Note: couldn't interpret 'WJ', in original."
+BIS492,SENIOR THESIS,BIS,2021,WIN,IS,-,11760,A,5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,"10E Note: couldn't interpret 'W', in original."
+BIS493,SPECIAL TOPICS,BIS,2021,WIN,Restr,no_add_code,-,A,5,-,M,1100-100,*,*,"Trujillo, Caleb",Open,14,30,-,-,-
+BIS494,TASK FORCE,BIS,2021,WIN,Restr,no_add_code,-,A,2,-,M,-,545-745P,*,-,-,-,-,-,-,"* Note: couldn't interpret 'Walsh,Camille', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '13', in original. Note: couldn't interpret '12', in original. Note: couldn't interpret 'CR_NC', in original."
+BIS494,TASK FORCE,BIS,2021,WIN,Restr,no_add_code,-,B,3,-,T,330-530,*,*,"Vaughan, Denise A",Open,7,18,CR_NC,-,-
+BIS495,INTERNSHIP,BIS,2021,WIN,-,add_code_required,11764,A,-,-,-,2-6,F,-,-,-,-,-,-,-,"1100-100 Note: couldn't interpret '*', in original. Note: couldn't interpret '*', in original. Note: couldn't interpret 'Redwood,Loren', in original. Note: couldn't interpret 'K.', in original. Note: couldn't interpret '7', in original. Note: couldn't interpret '15', in original. Note: couldn't interpret 'CR_NC', in original."
+BIS497,STATE INTERNSHIP,BIS,2021,WIN,-,add_code_required,11765,A,5,-,-,to_be_arranged,*,*,"Spaulding, Randy",-,4,5,-,-,-
+BIS497,STATE INTERNSHIP,BIS,2021,WIN,-,add_code_required,11766,B,5,-,-,to_be_arranged,*,*,"Spaulding, Randy",-,3,5,-,-,-
+BIS497,STATE INTERNSHIP,BIS,2021,WIN,-,add_code_required,11767,C,5,-,-,to_be_arranged,*,*,"Spaulding, Randy",-,1,5,-,-,-
+BIS498,UNDERGRAD RESEARCH,BIS,2021,WIN,IS,add_code_required,11768,A,1-5,-,-,to_be_arranged,-,15,-,-,-,-,-,-,10E
+BIS499,PORTFOLIO CAPSTONE,BIS,2021,WIN,Restr,no_add_code,-,A,5,-,W,330-530,*,*,"Desmet, Raissa",Closed,25,24,-,-,W
+BIS499,PORTFOLIO CAPSTONE,BIS,2021,WIN,Restr,no_add_code,-,B,5,-,W,845-1045,*,*,"Price, Rebecca M.",Open,22,24,-,-,W
+BIS499,PORTFOLIO CAPSTONE,BIS,2021,WIN,Restr,no_add_code,-,C,5,-,Th,330-530,*,*,"Shinneman, Avery",Closed,26,24,-,-,W
+BIS499,PORTFOLIO CAPSTONE,BIS,2021,WIN,Restr,no_add_code,-,D,5,-,T,115-315,*,*,"Roberts, Georgia M.",Closed,25,24,-,-,W
+BIS499,PORTFOLIO CAPSTONE,BIS,2021,WIN,Restr,no_add_code,-,E,5,-,M,-,545-745P,*,-,-,-,-,-,-,"* Note: couldn't interpret 'Atkinson,Jennifer', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '24', in original. Note: couldn't interpret '24', in original. Note: couldn't interpret 'W', in original."

@@ -1,33 +1,33 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BBIO180,INTRO BIOLOGY I,BBIO,2022,WIN,no_restriction,no_add_code,10709,A,5,-,TTh,845-1045,DISC,061,"Jensen, Jeffrey",Open,74,96,-,$70,-
-BBIO180,INTRO BIOLOGY I,BBIO,2022,WIN,no_restriction,no_add_code,10710,AA,-,LB,T,1100-100,DISC,263,"Campbell, Dana",Open,21,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2022,WIN,no_restriction,no_add_code,10711,AB,-,LB,T,130-330,DISC,263,"Campbell, Dana",Open,12,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2022,WIN,no_restriction,no_add_code,10712,AC,-,LB,Th,1100-100,DISC,263,"Campbell, Dana",Open,21,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2022,WIN,no_restriction,no_add_code,10713,AD,-,LB,Th,145-345,DISC,263,"Campbell, Dana",Open,20,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2022,WIN,-,-,10709,A,5,-,TTh,845-1045,DISC,061,"Jensen, Jeffrey",Open,74,96,-,$70,-
+BBIO180,INTRO BIOLOGY I,BBIO,2022,WIN,-,-,10710,AA,-,LB,T,1100-100,DISC,263,"Campbell, Dana",Open,21,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2022,WIN,-,-,10711,AB,-,LB,T,130-330,DISC,263,"Campbell, Dana",Open,12,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2022,WIN,-,-,10712,AC,-,LB,Th,1100-100,DISC,263,"Campbell, Dana",Open,21,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2022,WIN,-,-,10713,AD,-,LB,Th,145-345,DISC,263,"Campbell, Dana",Open,20,24,-,-,-
 BBIO200,INTRO BIOLOGY II,BBIO,2022,WIN,-,add_code_required,10714,A,5,-,TTh,845-1045,DISC,162,"White, Bryan",-,95,96,-,$70,-
-BBIO200,INTRO BIOLOGY II,BBIO,2022,WIN,no_restriction,no_add_code,10715,AA,-,LB,W,845-1045,DISC,263,"White, Bryan",Closed,24,24,-,-,-
-BBIO200,INTRO BIOLOGY II,BBIO,2022,WIN,no_restriction,no_add_code,10716,AB,-,LB,W,1115-115,DISC,263,"White, Bryan",Closed,24,24,-,-,-
-BBIO200,INTRO BIOLOGY II,BBIO,2022,WIN,no_restriction,no_add_code,10717,AC,-,LB,W,145-345,DISC,263,"White, Bryan",Open,23,24,-,-,-
-BBIO200,INTRO BIOLOGY II,BBIO,2022,WIN,no_restriction,no_add_code,10718,AD,-,LB,F,845-1045,DISC,263,"White, Bryan",Closed,24,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2022,WIN,-,-,10715,AA,-,LB,W,845-1045,DISC,263,"White, Bryan",Closed,24,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2022,WIN,-,-,10716,AB,-,LB,W,1115-115,DISC,263,"White, Bryan",Closed,24,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2022,WIN,-,-,10717,AC,-,LB,W,145-345,DISC,263,"White, Bryan",Open,23,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2022,WIN,-,-,10718,AD,-,LB,F,845-1045,DISC,263,"White, Bryan",Closed,24,24,-,-,-
 BBIO231,GENES & HEREDITY,BBIO,2022,WIN,no_restriction,no_add_code,10719,A,5,-,MW,330-530,UW1,050,"McNabb, She, Her, Hers, Susan",Open,25,30,-,-,J
-BBIO285,SEMINAR IN BIOLOGY,BBIO,2022,WIN,no_restriction,no_add_code,21709,A,3,-,Th,115-315,DISC,256,"Price, Rebecca M.",Closed,12,12,-,-,J
+BBIO285,SEMINAR IN BIOLOGY,BBIO,2022,WIN,-,-,21709,A,3,-,Th,115-315,DISC,256,"Price, Rebecca M.",Closed,12,12,-,-,J
 BBIO320,BEHAV NEURO,BBIO,2022,WIN,no_restriction,no_add_code,10721,A,5,-,TTh,115-315,UW2,031,"Wacker, D",Open,47,48,-,-,%
 BBIO351,ANAT & PHYSIOL I,BBIO,2022,WIN,no_restriction,no_add_code,10722,A,5,-,MW,1100-100,UW2,005,"Price, Michele B.",Open,71,72,-,$160,-
-BBIO351,ANAT & PHYSIOL I,BBIO,2022,WIN,no_restriction,no_add_code,10723,AA,-,LB,W,200-500,DISC,267,"Price, Michele B.",Closed,24,24,-,-,-
-BBIO351,ANAT & PHYSIOL I,BBIO,2022,WIN,no_restriction,no_add_code,10724,AB,-,LB,Th,845-1145,DISC,267,"Price, Michele B.",Closed,24,24,-,-,-
-BBIO351,ANAT & PHYSIOL I,BBIO,2022,WIN,no_restriction,no_add_code,10725,AC,-,LB,F,845-1145,DISC,267,"Price, Michele B.",Open,23,24,-,-,-
-BBIO352,ANAT & PHYSIOL II,BBIO,2022,WIN,no_restriction,no_add_code,10727,A,5,-,MW,115-315,DISC,252,"Jensen, Jeffrey",Open,20,48,-,$110,-
-BBIO352,ANAT & PHYSIOL II,BBIO,2022,WIN,no_restriction,no_add_code,10728,AA,-,LB,T,845-1145,DISC,267,"Champagne, Cory",Open,11,24,-,-,-
-BBIO352,ANAT & PHYSIOL II,BBIO,2022,WIN,no_restriction,no_add_code,10729,AB,-,LB,T,115-415,DISC,267,"Champagne, Cory",Open,9,24,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2022,WIN,-,-,10723,AA,-,LB,W,200-500,DISC,267,"Price, Michele B.",Closed,24,24,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2022,WIN,-,-,10724,AB,-,LB,Th,845-1145,DISC,267,"Price, Michele B.",Closed,24,24,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2022,WIN,-,-,10725,AC,-,LB,F,845-1145,DISC,267,"Price, Michele B.",Open,23,24,-,-,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2022,WIN,-,-,10727,A,5,-,MW,115-315,DISC,252,"Jensen, Jeffrey",Open,20,48,-,$110,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2022,WIN,-,-,10728,AA,-,LB,T,845-1145,DISC,267,"Champagne, Cory",Open,11,24,-,-,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2022,WIN,-,-,10729,AB,-,LB,T,115-415,DISC,267,"Champagne, Cory",Open,9,24,-,-,-
 BBIO360,INTRO GENETICS,BBIO,2022,WIN,no_restriction,no_add_code,10730,A,5,-,T,330-530,UW1,031,"Madzima, Thelma F",Open,29,30,-,-,B
 BBIO364,BIOCHEMISTRY I,BBIO,2022,WIN,no_restriction,no_add_code,10731,A,5,-,MW,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '131', in original. Note: couldn't interpret 'Shippy,Scott', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '11', in original. Note: couldn't interpret '24', in original. Note: couldn't interpret 'J', in original."
 BBIO365,BIOCHEMISTRY II,BBIO,2022,WIN,no_restriction,no_add_code,10732,A,5,-,TTh,1100-100,UW2,131,"Anderson, Peter",Open,19,24,-,-,J
 BBIO366,BIOCHEMISTRY LAB,BBIO,2022,WIN,no_restriction,no_add_code,10733,A,3,-,M,1200-100,UWBB,205,"Shippy, Scott",Open,4,16,-,$75,J
-BBIO366,BIOCHEMISTRY LAB,BBIO,2022,WIN,no_restriction,no_add_code,10734,AA,-,LB,F,845-1145,DISC,469,-,-,-,-,-,-," Note: couldn't interpret '469', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '4', in original. Note: couldn't interpret '8', in original. Note: couldn't interpret 'J', in original."
-BBIO366,BIOCHEMISTRY LAB,BBIO,2022,WIN,no_restriction,no_add_code,10735,AB,-,LB,F,1215-315,DISC,469,-,-,-,-,-,-," Note: couldn't interpret '469', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '8', in original. Note: couldn't interpret 'J', in original."
+BBIO366,BIOCHEMISTRY LAB,BBIO,2022,WIN,-,-,10734,AA,-,LB,F,845-1145,DISC,469,-,-,-,-,-,-," Note: couldn't interpret '469', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '4', in original. Note: couldn't interpret '8', in original. Note: couldn't interpret 'J', in original."
+BBIO366,BIOCHEMISTRY LAB,BBIO,2022,WIN,-,-,10735,AB,-,LB,F,1215-315,DISC,469,-,-,-,-,-,-," Note: couldn't interpret '469', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '8', in original. Note: couldn't interpret 'J', in original."
 BBIO370,MICROBIOLOGY,BBIO,2022,WIN,no_restriction,no_add_code,21821,A,5,-,TTh,845-1045,UW1,102,"Groom, Joseph Douglas",Open,30,48,-,$150,-
-BBIO370,MICROBIOLOGY,BBIO,2022,WIN,no_restriction,no_add_code,21822,AA,-,LB,M,845-1145,DISC,263,"Groom, Joseph Douglas",Open,17,24,-,-,-
-BBIO370,MICROBIOLOGY,BBIO,2022,WIN,no_restriction,no_add_code,21823,AB,-,LB,M,115-415,DISC,263,"Groom, Joseph Douglas",Open,13,24,-,-,-
+BBIO370,MICROBIOLOGY,BBIO,2022,WIN,-,-,21822,AA,-,LB,M,845-1145,DISC,263,"Groom, Joseph Douglas",Open,17,24,-,-,-
+BBIO370,MICROBIOLOGY,BBIO,2022,WIN,-,-,21823,AB,-,LB,M,115-415,DISC,263,"Groom, Joseph Douglas",Open,13,24,-,-,-
 BBIO375,MOLECULAR BIOLOGY,BBIO,2022,WIN,no_restriction,no_add_code,21696,A,5,-,T,1100-100,UW1,021,"Madzima, Thelma F",Open,11,15,-,-,BJ
 BBIO385,ANIMAL BEHAVIOR,BBIO,2022,WIN,no_restriction,no_add_code,10737,A,5,-,MW,1100-100,UW2,211,"Wacker, D",Open,26,28,-,-,-
 BBIO390,DIS NERV SYS,BBIO,2022,WIN,no_restriction,no_add_code,10738,A,5,-,MW,115-315,UW1,261,"Al-Noori, S",Open,27,30,-,-,%

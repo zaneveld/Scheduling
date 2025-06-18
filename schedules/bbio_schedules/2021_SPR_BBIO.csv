@@ -21,8 +21,8 @@ BBIO360,INTRO GENETICS,BBIO,2021,SPR,no_restriction,no_add_code,10683,A,5,-,MW,1
 BBIO364,BIOCHEMISTRY I,BBIO,2021,SPR,no_restriction,no_add_code,10684,A,5,-,MW,115-315,*,*,"Shippy, Scott",Open,9,24,-,-,J
 BBIO365,BIOCHEMISTRY II,BBIO,2021,SPR,no_restriction,no_add_code,10685,A,5,-,-,to_be_arranged,*,*,"Anderson, Peter",Open,14,24,-,-,J
 BBIO370,MICROBIOLOGY,BBIO,2021,SPR,no_restriction,no_add_code,10686,A,5,-,MW,845-1045,*,*,"Hillesland, Kristina Linnea",Open,44,48,-,$150,-
-BBIO370,MICROBIOLOGY,BBIO,2021,SPR,no_restriction,no_add_code,10687,AA,-,LB,W,115-315,DISC,263,"Davidson-Atkins, Seana K",Closed,24,24,-,-,-
-BBIO370,MICROBIOLOGY,BBIO,2021,SPR,no_restriction,no_add_code,10688,AB,-,LB,F,115-315,DISC,263,"Davidson-Atkins, Seana K",Open,20,24,-,-,-
+BBIO370,MICROBIOLOGY,BBIO,2021,SPR,-,-,10687,AA,-,LB,W,115-315,DISC,263,"Davidson-Atkins, Seana K",Closed,24,24,-,-,-
+BBIO370,MICROBIOLOGY,BBIO,2021,SPR,-,-,10688,AB,-,LB,F,115-315,DISC,263,"Davidson-Atkins, Seana K",Open,20,24,-,-,-
 BBIO375,MOLECULAR BIOLOGY,BBIO,2021,SPR,no_restriction,no_add_code,10690,A,5,-,MW,330-530,*,*,"Madzima, Thelma F",Open,12,24,-,-,J
 BBIO380,CELL BIOLOGY,BBIO,2021,SPR,-,add_code_required,10691,A,5,-,F,1100-300,*,*,"Lewis, Alaron A",-,21,24,-,-,W
 BBIO383,BIOINFORMATICS,BBIO,2021,SPR,no_restriction,no_add_code,10692,A,5,-,TTh,115-315,*,*,"Zaneveld, Jesse",Open,18,24,-,$23,J

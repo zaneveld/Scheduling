@@ -1,8 +1,8 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BEARTH153,INTRO GEOLOGY,BEARTH,2019,AUT,no_restriction,no_add_code,23775,A,5,-,MW,115-315,DISC,369,"Shinneman, Avery",Open,16,24,-,-,-
+BEARTH153,INTRO GEOLOGY,BEARTH,2019,AUT,-,-,23775,A,5,-,MW,115-315,DISC,369,"Shinneman, Avery",Open,16,24,-,-,-
 BEARTH154,INTRO OCEANOGRAPHY,BEARTH,2019,AUT,no_restriction,no_add_code,11324,A,5,-,TTh,845-1045,UWBB,205,"Galindo, Heather M",Open,38,40,-,-,-
 BEARTH155,INTRO TO CLIMATE SCI,BEARTH,2019,AUT,no_restriction,no_add_code,23725,A,5,-,MW,115-315,UW2,040,"Galindo, Heather M",Open,27,30,-,-,-
 BEARTH201,EARTH SYS MAPPING,BEARTH,2019,AUT,no_restriction,no_add_code,11325,A,5,-,MW,845-1045,UW2,040,"Shinneman, Avery",Open,14,30,-,-,%
-BEARTH300,ENV SYSTEM THINKING ,BEARTH,2019,AUT,Restr,no_add_code,-,A,5,-,TTh,1100-100,DISC,369,"Turner, Rob",Open,10,30,-,-,%
+BEARTH300,ENV SYSTEM THINKING ,BEARTH,2019,AUT,Restr,-,-,A,5,-,TTh,1100-100,DISC,369,"Turner, Rob",Open,10,30,-,-,%
 BEARTH320,CLIMATE IMPACTS,BEARTH,2019,AUT,no_restriction,no_add_code,23881,A,5,-,MW,1100-100,UW2,040,"Salathe, Eric P",Open,18,30,-,-,-
 BEARTH341,NATURAL HAZARDS,BEARTH,2019,AUT,no_restriction,no_add_code,11328,A,5,-,MW,1100-100,UWBB,205,"Redsteer, Margaret",Open,35,40,-,-,-

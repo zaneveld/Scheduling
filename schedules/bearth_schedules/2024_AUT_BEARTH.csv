@@ -1,6 +1,6 @@
-Class Number,Class,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BEARTH154,INTRO OCEANOGRAPHY,no_restriction,no_add_code,11339,A,5,-,MW,845-1045,UW1,102,"Galindo, Heather M",Closed,30,30,-,-,-
-BEARTH155,INTRO TO CLIMATE SCI,no_restriction,no_add_code,11340,A,5,-,TTh,115-315,LBA,003,"Fields, Tracy A",Open,25,30,-,-,-
-BEARTH320,CLIMATE IMPACTS,no_restriction,no_add_code,11341,A,5,-,TTh,1100-100,LBA,003,"Salathe, Eric P",Closed,30,30,-,-,-
-BEARTH321,GEOMORPHOLOGY,no_restriction,no_add_code,11342,A,5,-,MW,1100-100,DISC,369,"Shinneman, Avery",Open,19,24,-,-,-
-BEARTH341,NATURAL HAZARDS,no_restriction,no_add_code,11343,A,5,-,TTh,1100-100,DISC,369,"Turner, Rob",Closed,24,24,-,-,-
+Class Number,Class,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other,Year,Quarter
+BEARTH154,INTRO OCEANOGRAPHY,no_restriction,no_add_code,11339,A,5,-,MW,845-1045,UW1,102,"Galindo, Heather M",Open,29,30,-,-,-,2024,AUT
+BEARTH155,INTRO TO CLIMATE SCI,no_restriction,no_add_code,11340,A,5,-,TTh,115-315,LBA,003,"Fields, Tracy A",Open,28,30,-,-,-,2024,AUT
+BEARTH320,CLIMATE IMPACTS,no_restriction,no_add_code,11341,A,5,-,TTh,1100-100,LBA,003,"Salathe, Eric P",Open,29,30,-,-,-,2024,AUT
+BEARTH321,GEOMORPHOLOGY,-,-,11342,A,5,-,MW,1100-100,DISC,369,"Shinneman, Avery",Open,21,24,-,-,-,2024,AUT
+BEARTH341,NATURAL HAZARDS,-,-,11343,A,5,-,TTh,1100-100,DISC,369,"Turner, Rob",Open,23,24,-,-,-,2024,AUT

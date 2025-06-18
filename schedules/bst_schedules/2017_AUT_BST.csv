@@ -3,8 +3,8 @@ BST154,INTRO OCEANOGRAPHY,BST,2017,AUT,no_restriction,no_add_code,23117,A,5,-,MW
 BST200,INTRO TO CLIMATE SCI,BST,2017,AUT,no_restriction,no_add_code,11965,A,5,-,TTh,845-1045,UW1,221,"Galindo, Heather Michelle",Open,27,30,-,-,-
 BST301,SCIENTIFIC WRITING,BST,2017,AUT,no_restriction,no_add_code,23011,A,5,-,MW,845-1045,UW1,060,"Galindo, Heather Michelle",Closed,30,30,-,-,W
 BST493,ADVANCED TOPICS,BST,2017,AUT,no_restriction,no_add_code,23606,A,5,-,MTWTh,900-100,UW2,228,"Ghofrani, Mahmoud",Open,5,10,-,$3450,-
-BST498,IND STUDY SCI TECH,BST,2017,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,11966,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '5', in original."
-BST498,IND STUDY SCI TECH,BST,2017,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,11967,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '5', in original. Note: couldn't interpret 'CR_NC', in original."
-BST498,IND STUDY SCI TECH,BST,2017,AUT,-,-,-,IS,-,-,-,-,-,-,-,-,-,-,-,-,"add_code_required Note: couldn't interpret '11968', in original. Note: couldn't interpret 'C', in original. Note: couldn't interpret '1-5', in original. Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '15', in original."
-BST499,UG RESEARCH SCI TECH,BST,2017,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,11969,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '5', in original."
-BST499,UG RESEARCH SCI TECH,BST,2017,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,11970,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '5', in original. Note: couldn't interpret 'CR_NC', in original."
+BST498,IND STUDY SCI TECH,BST,2017,AUT,IS,-,11966,A,1-5,-,-,to_be_arranged,-,-,-,Open,0,5,-,-,-
+BST498,IND STUDY SCI TECH,BST,2017,AUT,IS,-,11967,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,5,CR_NC,-,-
+BST498,IND STUDY SCI TECH,BST,2017,AUT,IS,add_code_required,11968,C,1-5,-,-,to_be_arranged,-,0,-,-,15,-,-,-,-
+BST499,UG RESEARCH SCI TECH,BST,2017,AUT,IS,-,11969,A,1-5,-,-,to_be_arranged,-,-,-,Open,0,5,-,-,-
+BST499,UG RESEARCH SCI TECH,BST,2017,AUT,IS,-,11970,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,5,CR_NC,-,-

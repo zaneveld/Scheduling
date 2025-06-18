@@ -1,0 +1,8 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BST205,WOMEN IN STEM,BST,2025,AUT,no_restriction,no_add_code,12031,A,3,-,MW,115-315,UW1,261,"Lovitt, Charity",Open,10,30,-,-,-
+BST301,SCIENTIFIC WRITING,BST,2025,AUT,no_restriction,no_add_code,12033,A,5,-,TTh,115-315,UW1,102,"Galindo, Heather M",Closed,24,24,-,-,W
+BST498,IND STUDY SCI TECH,BST,2025,AUT,IS,-,12034,A,1-5,-,-,to_be_arranged,-,-,-,Open,0,5,-,-,-
+BST498,IND STUDY SCI TECH,BST,2025,AUT,IS,-,12035,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,5,CR_NC,-,-
+BST498,IND STUDY SCI TECH,BST,2025,AUT,IS,add_code_required,12036,C,1-5,-,-,to_be_arranged,-,0,-,-,15,-,-,-,-
+BST499,UG RESEARCH SCI TECH,BST,2025,AUT,IS,-,12037,A,1-5,-,-,to_be_arranged,-,-,-,Open,0,5,-,-,-
+BST499,UG RESEARCH SCI TECH,BST,2025,AUT,IS,-,12038,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,5,CR_NC,-,-

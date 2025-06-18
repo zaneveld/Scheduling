@@ -1,0 +1,50 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11007,A,5,-,MW,845-1045,UW1,261,"Gustafson, Kristin",-,0,20,-,-,-
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11008,B,5,-,MW,1100-100,UW1,110,"Padilla, Yolanda",-,0,30,-,-,J
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11009,C,5,-,MW,1100-100,UW2,141,"Atkinson, Jennifer",-,0,30,-,-,J
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11010,D,5,-,W,1100-100,UW1,261,"Carpenter, Gary",-,0,20,-,-,B
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11011,E,5,-,MW,115-315,UW2,211,"Lee, Jonathan Rey",-,0,30,-,-,J
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11012,F,5,-,MW,115-315,UW2,040,"Umetsu, Laura K.",-,0,30,-,-,BJ
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11013,G,5,-,M,330-530,INV,111,"West, Maureen P.",-,0,15,-,-,BJ
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11014,H,5,-,W,330-530,UWBB,240,"Lin, Hsinmei",-,0,20,-,-,B
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11015,I,5,-,MW,330-530,UW1,031,"Romero, Adam",-,0,20,-,-,-
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11016,J,5,-,T,845-1045,UW1,051,"Kellejian, Kris",-,0,20,-,-,B
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11017,K,5,-,TTh,845-1045,UW1,031,"Janssen, Elizabeth Cole",-,0,20,-,-,-
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11018,L,5,-,TTh,845-1045,UW1,040,"Reinnoldt, James",-,0,30,-,-,J
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11019,M,5,-,TTh,1100-100,UW1,261,"Shimabukuro, Mira",-,0,20,-,-,-
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11020,N,5,-,TTh,1100-100,DISC,363,"Borsuk, Amaranth",-,0,24,-,-,-
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11021,O,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '110', in original. Note: couldn't interpret 'NIXON,DAVID', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret 'J', in original."
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11022,P,5,-,T,115-315,UW2,240,"Spiegler, Louise",-,0,30,-,-,B
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11023,Q,5,-,TTh,115-315,UW2,040,"Doyle, Gavin",-,0,20,-,-,-
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11024,R,5,-,T,330-530,UW1,121,"Hsu, Howard",-,0,20,-,-,B
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11025,S,5,-,T,330-530,UW1,060,"Lambacher, Jason Frederick",-,0,30,-,-,BJ
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11026,T,5,-,TTh,330-530,SSGC,101,"Valdez, Ursula",-,0,24,-,-,J
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11027,U,5,-,TTh,330-530,UW1,030,"Doyle, Gavin",-,0,48,-,-,J
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11028,V,5,-,MW,330-530,UW1,060,"Brooks, Peter",-,0,30,-,-,J
+BCORE104,DISC CORE: ART & HUM,BCORE,2025,AUT,-,add_code_required,11029,W,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '121', in original. Note: couldn't interpret 'Yum,Samuel', in original. Note: couldn't interpret 'M.', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '20', in original."
+BCORE107,DISC CORE: SOC SCI,BCORE,2025,AUT,-,add_code_required,11030,A,5,-,TTh,845-1045,UW1,010,"Shaw, Carol A",-,0,20,-,-,-
+BCORE107,DISC CORE: SOC SCI,BCORE,2025,AUT,-,add_code_required,11031,B,5,-,MW,845-1045,UW1,202,"Turner, Rob",-,0,20,-,-,-
+BCORE107,DISC CORE: SOC SCI,BCORE,2025,AUT,-,add_code_required,11032,C,5,-,MW,845-1045,UW2,040,"Shinneman, Avery",-,0,10,-,-,J
+BCORE107,DISC CORE: SOC SCI,BCORE,2025,AUT,-,add_code_required,11033,E,5,-,MW,330-530,UW1,110,"Silva, Janelle M",-,0,20,-,-,-
+BCORE107,DISC CORE: SOC SCI,BCORE,2025,AUT,-,add_code_required,11034,F,5,-,MW,330-530,UW1,102,"Shippy, Scott",-,0,30,-,$9,J
+BCORE107,DISC CORE: SOC SCI,BCORE,2025,AUT,-,add_code_required,11035,G,5,-,Th,845-1045,UW2,211,"Harkewicz, Laura J",-,0,20,-,-,B
+BCORE107,DISC CORE: SOC SCI,BCORE,2025,AUT,-,add_code_required,11036,H,5,-,TTh,845-1045,UW2,040,"Lichty, Lauren F.",-,0,20,-,-,-
+BCORE107,DISC CORE: SOC SCI,BCORE,2025,AUT,-,add_code_required,11037,I,5,-,Th,1100-100,UW2,211,"Hiukka, Kristiina",-,0,20,CR_NC,-,B
+BCORE107,DISC CORE: SOC SCI,BCORE,2025,AUT,-,add_code_required,11038,J,5,-,TTh,330-530,UW2,211,"Francetich, Alejandro",-,0,20,-,-,-
+BCORE107,DISC CORE: SOC SCI,BCORE,2025,AUT,-,add_code_required,11039,K,5,-,TTh,115-315,UW2,211,"Nielubowicz, Daniel",-,0,20,-,-,-
+BCORE107,DISC CORE: SOC SCI,BCORE,2025,AUT,-,add_code_required,11040,L,5,-,TTh,115-315,UW1,060,"Mlodnosky, Karyn",-,0,30,-,-,J
+BCORE107,DISC CORE: SOC SCI,BCORE,2025,AUT,-,add_code_required,11041,M,5,-,MW,1100-100,UW1,110,"Shayne, Julie",-,0,30,-,-,J
+BCORE107,DISC CORE: SOC SCI,BCORE,2025,AUT,-,add_code_required,11042,N,5,-,MW,115-315,UW2,211,"Lee, Jonathan Rey",-,0,30,-,-,J
+BCORE107,DISC CORE: SOC SCI,BCORE,2025,AUT,-,add_code_required,11043,O,5,-,MW,115-315,UW2,040,"Umetsu, Laura K.",-,0,30,-,-,BJ
+BCORE107,DISC CORE: SOC SCI,BCORE,2025,AUT,-,add_code_required,11044,P,5,-,M,330-530,INV,111,"West, Maureen P.",-,0,15,-,-,BJ
+BCORE107,DISC CORE: SOC SCI,BCORE,2025,AUT,-,add_code_required,11045,Q,5,-,TTh,845-1045,UW1,040,"Reinnoldt, James",-,0,30,CR_NC,-,J
+BCORE107,DISC CORE: SOC SCI,BCORE,2025,AUT,-,add_code_required,11046,R,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '110', in original. Note: couldn't interpret 'NIXON,DAVID', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret 'J', in original."
+BCORE107,DISC CORE: SOC SCI,BCORE,2025,AUT,-,add_code_required,11047,S,5,-,T,330-530,UW1,060,"Lambacher, Jason Frederick",-,0,30,-,-,BJ
+BCORE107,DISC CORE: SOC SCI,BCORE,2025,AUT,-,add_code_required,11048,T,5,-,MW,330-530,UW1,060,"Brooks, Peter",-,0,30,-,-,J
+BCORE110,DISC CORE: NTRL SCI ,BCORE,2025,AUT,-,add_code_required,11049,A,5,-,MW,115-315,DISC,252,"Lewis, Alaron A",-,0,20,-,-,-
+BCORE110,DISC CORE: NTRL SCI ,BCORE,2025,AUT,-,add_code_required,11050,B,5,-,MW,1100-100,UW2,141,"Chang, Cynthia",-,0,12,-,-,J
+BCORE110,DISC CORE: NTRL SCI ,BCORE,2025,AUT,-,add_code_required,11051,C,5,-,TTh,330-530,SSGC,101,"Valdez, Ursula",-,0,24,-,-,J
+BCORE110,DISC CORE: NTRL SCI ,BCORE,2025,AUT,-,add_code_required,11052,D,5,-,TTh,330-530,UW1,030,"Lovitt, Charity",-,0,48,-,-,J
+BCORE110,DISC CORE: NTRL SCI ,BCORE,2025,AUT,-,add_code_required,11053,E,5,-,MW,845-1045,UW2,040,"Shinneman, Avery",-,0,10,-,-,J
+BCORE110,DISC CORE: NTRL SCI ,BCORE,2025,AUT,-,add_code_required,11054,F,5,-,MW,330-530,UW1,102,"Shippy, Scott",-,0,30,-,$9,J
+BCORE110,DISC CORE: NTRL SCI ,BCORE,2025,AUT,-,add_code_required,11055,G,5,-,TTh,115-315,UW1,060,"Mlodnosky, Karyn",-,0,30,-,-,J

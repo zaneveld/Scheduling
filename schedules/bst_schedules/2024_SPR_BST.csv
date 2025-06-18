@@ -1,7 +1,7 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
 BST205,WOMEN IN STEM,BST,2024,SPR,no_restriction,no_add_code,11757,A,3,-,TTh,1100-100,UW1,020,"Mlodnosky, Karyn",Open,28,30,-,-,-
-BST498,IND STUDY SCI TECH,BST,2024,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,11758,A,-,5,-,-,-,"to_be_arranged Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
-BST498,IND STUDY SCI TECH,BST,2024,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,11759,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '2', in original. Note: couldn't interpret '10E', in original."
+BST498,IND STUDY SCI TECH,BST,2024,SPR,IS,-,11758,A,5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,10E
+BST498,IND STUDY SCI TECH,BST,2024,SPR,IS,-,11759,B,1-5,-,-,to_be_arranged,-,-,-,Open,2,-,-,-,10E
 BST498,IND STUDY SCI TECH,BST,2024,SPR,-,add_code_required,21791,C,3,-,-,to_be_arranged,*,*,"Jones, Sharon A",-,0,-,-,-,"5E Note: couldn't interpret 'CR_NC', in original. Note: couldn't interpret 'J', in original."
-BST499,UG RESEARCH SCI TECH,BST,2024,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,11760,A,-,5,-,-,-,"to_be_arranged Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
-BST499,UG RESEARCH SCI TECH,BST,2024,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,11761,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
+BST499,UG RESEARCH SCI TECH,BST,2024,SPR,IS,-,11760,A,5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,10E
+BST499,UG RESEARCH SCI TECH,BST,2024,SPR,IS,-,11761,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,10E

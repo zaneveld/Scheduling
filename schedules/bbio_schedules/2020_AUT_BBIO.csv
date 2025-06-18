@@ -11,17 +11,17 @@ BBIO220,INTRO BIOLOGY III,BBIO,2020,AUT,no_restriction,no_add_code,10785,AA,-,LB
 BBIO220,INTRO BIOLOGY III,BBIO,2020,AUT,-,add_code_required,10786,AB,-,LB,W,1100-100,*,*,"White, B",-,0,24,-,-,-
 BBIO220,INTRO BIOLOGY III,BBIO,2020,AUT,no_restriction,no_add_code,10787,AC,-,LB,W,130-330,*,*,"White, B",Open,24,28,-,-,-
 BBIO310,BRAIN AND BEHAVIOR,BBIO,2020,AUT,no_restriction,no_add_code,10789,A,5,-,TTh,1100-100,*,*,"Al-Noori, Salwa",Closed,50,48,-,-,-
-BBIO335,SALMON AND SOCIETY,BBIO,2020,AUT,no_restriction,no_add_code,10790,A,5,-,F,845-1245,DISC,252,"Jensen, J",Open,14,20,-,$100,-
+BBIO335,SALMON AND SOCIETY,BBIO,2020,AUT,-,-,10790,A,5,-,F,845-1245,DISC,252,"Jensen, J",Open,14,20,-,$100,-
 BBIO340,COMP BIO,BBIO,2020,AUT,no_restriction,no_add_code,22993,A,5,-,MW,330-530,*,*,"Zaneveld, Jesse",Open,15,30,-,-,%
 BBIO351,ANAT & PHYSIOL I,BBIO,2020,AUT,no_restriction,no_add_code,10791,A,5,-,TTh,845-1045,*,*,"Price, M",Closed,60,60,-,$160,-
-BBIO351,ANAT & PHYSIOL I,BBIO,2020,AUT,no_restriction,no_add_code,10792,AA,-,LB,T,200-500,DISC,267,"Price, M",Closed,20,20,-,-,-
-BBIO351,ANAT & PHYSIOL I,BBIO,2020,AUT,no_restriction,no_add_code,10793,AB,-,LB,Th,200-500,DISC,267,"Price, M",Closed,20,20,-,-,-
-BBIO351,ANAT & PHYSIOL I,BBIO,2020,AUT,no_restriction,no_add_code,10794,AC,-,LB,F,845-1145,DISC,267,"Price, M",Closed,20,20,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2020,AUT,-,-,10792,AA,-,LB,T,200-500,DISC,267,"Price, M",Closed,20,20,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2020,AUT,-,-,10793,AB,-,LB,Th,200-500,DISC,267,"Price, M",Closed,20,20,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2020,AUT,-,-,10794,AC,-,LB,F,845-1145,DISC,267,"Price, M",Closed,20,20,-,-,-
 BBIO360,INTRO GENETICS,BBIO,2020,AUT,no_restriction,no_add_code,10795,A,5,-,MW,115-315,*,*,"Madzima, Thelma F",Open,47,48,-,-,-
 BBIO364,BIOCHEMISTRY I,BBIO,2020,AUT,no_restriction,no_add_code,10796,A,5,-,MW,845-1045,*,*,"Robins, Lori",Open,21,24,-,-,J
 BBIO365,BIOCHEMISTRY II,BBIO,2020,AUT,no_restriction,no_add_code,10797,A,5,-,TTh,1100-100,*,*,"Anderson, Peter",Open,11,24,-,-,J
 BBIO366,BIOCHEMISTRY LAB,BBIO,2020,AUT,no_restriction,no_add_code,10798,A,3,-,M,115-215,*,*,"Tyson, Elizabeth",Open,6,8,-,$75,J
-BBIO366,BIOCHEMISTRY LAB,BBIO,2020,AUT,no_restriction,no_add_code,10799,AA,-,LB,T,1215-315,DISC,469,"Tyson, Elizabeth",Open,6,8,-,-,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2020,AUT,-,-,10799,AA,-,LB,T,1215-315,DISC,469,"Tyson, Elizabeth",Open,6,8,-,-,J
 BBIO370,MICROBIOLOGY,BBIO,2020,AUT,no_restriction,no_add_code,10800,A,5,-,TTh,115-315,*,*,"Davidson-Atkins, Seana K",Closed,48,48,-,$150,-
 BBIO370,MICROBIOLOGY,BBIO,2020,AUT,-,add_code_required,10801,AA,-,LB,F,845-1045,DISC,263,"Hillesland, Kristina Linnea",-,24,24,-,-,-
 BBIO370,MICROBIOLOGY,BBIO,2020,AUT,-,add_code_required,10802,AB,-,LB,F,115-315,DISC,263,"Hillesland, Kristina Linnea",-,24,24,-,-,-

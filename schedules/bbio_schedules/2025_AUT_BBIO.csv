@@ -1,0 +1,34 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BBIO180,INTRO BIOLOGY I,BBIO,2025,AUT,-,-,10818,A,5,-,TTh,845-1045,DISC,061,"Jensen, Jeffrey",Open,125,144,-,$70,-
+BBIO180,INTRO BIOLOGY I,BBIO,2025,AUT,-,-,10819,AA,-,LB,T,1100-100,DISC,263,"Campbell, Dana",Closed,24,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2025,AUT,-,-,10820,AB,-,LB,T,130-330,DISC,263,"Campbell, Dana",Open,23,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2025,AUT,-,-,10821,AC,-,LB,Th,1100-100,DISC,263,"Campbell, Dana",Closed,24,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2025,AUT,-,-,10822,AD,-,LB,W,845-1045,DISC,263,"Campbell, Dana",Open,11,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2025,AUT,-,-,10823,AE,-,LB,W,1115-115,DISC,263,"Campbell, Dana",Closed,24,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2025,AUT,-,-,10824,AF,-,LB,W,230-430,DISC,263,"Campbell, Dana",Open,19,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2025,AUT,no_restriction,no_add_code,10825,A,5,-,TTh,845-1045,UW2,131,"Al-Noori, Salwa",Closed,48,48,-,$112,-
+BBIO220,INTRO BIOLOGY III,BBIO,2025,AUT,-,-,10826,AA,-,LB,M,1100-100,DISC,267,"Al-Noori, Salwa",Closed,24,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2025,AUT,-,-,10827,AB,-,LB,M,130-330,DISC,267,"Al-Noori, Salwa",Closed,24,24,-,-,-
+BBIO233,CANCER,BBIO,2025,AUT,no_restriction,no_add_code,10830,A,5,-,TTh,845-1045,UW2,240,"McNabb, Susan",Open,10,48,-,-,-
+BBIO310,BRAIN AND BEHAVIOR,BBIO,2025,AUT,no_restriction,no_add_code,10831,A,5,-,TTh,330-530,UW2,005,-,-,-,-,-,-," Note: couldn't interpret '005', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '58', in original. Note: couldn't interpret '90', in original."
+BBIO335,SALMON AND SOCIETY,BBIO,2025,AUT,-,-,10832,A,5,-,F,845-1245,DISC,369,"Jensen, Jeffrey",Open,16,20,-,$100,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2025,AUT,-,-,10833,A,5,-,TTh,845-1045,DISC,162,"Price, Michele B.",Closed,60,60,-,$110,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2025,AUT,-,-,10834,AA,-,LB,T,200-500,DISC,267,"Price, Michele B.",Closed,20,20,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2025,AUT,-,-,10835,AB,-,LB,Th,200-500,DISC,267,"Price, Michele B.",Closed,20,20,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2025,AUT,-,-,10836,AC,-,LB,F,845-1145,DISC,267,"Price, Michele B.",Closed,20,20,-,-,-
+BBIO360,INTRO GENETICS,BBIO,2025,AUT,Restr,no_add_code,-,A,5,-,TTh,115-315,UW1,051,-,-,-,-,-,-," Note: couldn't interpret '051', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '12', in original. Note: couldn't interpret '48', in original."
+BBIO364,BIOCHEMISTRY I,BBIO,2025,AUT,-,-,10838,A,5,-,MW,330-530,DISC,252,"Anderson, Peter",Closed,24,24,-,-,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2025,AUT,no_restriction,no_add_code,10839,A,3,-,M,1145-105,UW2,305,"Robins, Lori",Closed,16,16,-,$75,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2025,AUT,-,-,10840,AA,-,LB,T,845-1145,DISC,469,"Robins, Lori",Closed,8,8,-,-,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2025,AUT,-,-,10841,AB,-,LB,W,845-1145,DISC,469,"Shippy, Scott",Closed,8,8,-,-,J
+BBIO370,MICROBIOLOGY,BBIO,2025,AUT,Restr,no_add_code,-,A,5,-,TTh,1100-100,UW1,202,-,-,-,-,-,-," Note: couldn't interpret '202', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '35', in original. Note: couldn't interpret '48', in original. Note: couldn't interpret '$150', in original."
+BBIO370,MICROBIOLOGY,BBIO,2025,AUT,-,-,10843,AA,-,LB,F,845-1045,DISC,263,-,-,-,-,-,-," Note: couldn't interpret '263', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '24', in original. Note: couldn't interpret '24', in original."
+BBIO370,MICROBIOLOGY,BBIO,2025,AUT,-,-,10844,AB,-,LB,F,1100-100,DISC,263,-,-,-,-,-,-," Note: couldn't interpret '263', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '11', in original. Note: couldn't interpret '24', in original."
+BBIO375,MOLECULAR BIOLOGY,BBIO,2025,AUT,no_restriction,no_add_code,10845,A,5,-,MW,330-530,UW2,211,"Shih, Han-Wei",Open,3,15,-,-,J
+BBIO380,CELL BIOLOGY,BBIO,2025,AUT,-,add_code_required,10846,A,5,-,F,1100-130,UW1,060,"Lewis, Alaron A",-,24,24,-,-,W
+BBIO394,TOPICS IN NEUROSCI,BBIO,2025,AUT,no_restriction,no_add_code,10847,A,5,-,MW,845-1045,UW2,221,"Al-Noori, Salwa",Open,15,30,-,-,-
+BBIO460,DEVELOPMENTAL BIOL,BBIO,2025,AUT,no_restriction,no_add_code,10848,A,5,-,TTh,1100-100,UW1,031,"Servetnick, Marc",Open,8,30,-,-,-
+BBIO466,EVOLUTION,BBIO,2025,AUT,Restr,no_add_code,-,A,5,-,MW,115-315,UW1,302,"Galindo, Heather M",Open,22,48,-,-,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2025,AUT,-,add_code_required,10850,A,5,-,MW,1100-100,*,*,"Zaneveld, Jesse",-,6,12,-,-,O
+BBIO495,INVESTIGATIVE BIO,BBIO,2025,AUT,-,add_code_required,10851,B,5,-,MW,330-530,INV,223,"Wacker, Douglas",-,7,12,-,$130,-
+BBIO495,INVESTIGATIVE BIO,BBIO,2025,AUT,-,add_code_required,10852,C,5,-,TTh,115-315,SSGC,101,"Chang, Cynthia",-,1,12,-,$100,-

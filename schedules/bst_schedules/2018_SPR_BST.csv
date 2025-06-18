@@ -1,11 +1,11 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BST153,INTRO GEOLOGY,BST,2018,SPR,no_restriction,no_add_code,11697,A,5,-,MW,115-315,DISC,369,"Shinneman, Avery",Closed,6,15,-,$20,J
+BST153,INTRO GEOLOGY,BST,2018,SPR,-,-,11697,A,5,-,MW,115-315,DISC,369,"Shinneman, Avery",Closed,6,15,-,$20,J
 BST154,INTRO OCEANOGRAPHY,BST,2018,SPR,no_restriction,no_add_code,11698,A,5,-,TTh,115-315,UW2,131,"Galindo, Heather Michelle",Open,5,15,-,-,J
 BST200,INTRO TO CLIMATE SCI,BST,2018,SPR,no_restriction,no_add_code,11699,A,5,-,TTh,845-1045,LBA,003,"Salathe, Eric P.",Open,26,30,-,-,-
 BST301,SCIENTIFIC WRITING,BST,2018,SPR,no_restriction,no_add_code,11700,A,5,-,MW,845-1045,UW1,261,"Galindo, Heather Michelle",Open,26,30,-,-,W
 BST301,SCIENTIFIC WRITING,BST,2018,SPR,no_restriction,no_add_code,11701,B,5,-,TTh,1100-100,UW1,110,"Lovitt, Charity E",Open,22,30,-,-,W
-BST498,IND STUDY SCI TECH,BST,2018,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,11702,A,-,5,-,-,-,"to_be_arranged Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
-BST498,IND STUDY SCI TECH,BST,2018,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,11703,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '2', in original. Note: couldn't interpret '10E', in original."
-BST499,UG RESEARCH SCI TECH,BST,2018,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,11704,A,-,5,-,-,-,"to_be_arranged Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original."
-BST499,UG RESEARCH SCI TECH,BST,2018,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,11705,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '1', in original. Note: couldn't interpret '10E', in original."
-BST499,UG RESEARCH SCI TECH,BST,2018,SPR,no_restriction,no_add_code,-,IS,-,-,-,-,-,22018,C,-,-,-,-,-,"1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret '*', in original. Note: couldn't interpret '*', in original. Note: couldn't interpret '', in original. Note: couldn't interpret '*', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."
+BST498,IND STUDY SCI TECH,BST,2018,SPR,IS,-,11702,A,5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,10E
+BST498,IND STUDY SCI TECH,BST,2018,SPR,IS,-,11703,B,1-5,-,-,to_be_arranged,-,-,-,Open,2,-,-,-,10E
+BST499,UG RESEARCH SCI TECH,BST,2018,SPR,IS,-,11704,A,5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,10E
+BST499,UG RESEARCH SCI TECH,BST,2018,SPR,IS,-,11705,B,1-5,-,-,to_be_arranged,-,-,-,Open,1,-,-,-,10E
+BST499,UG RESEARCH SCI TECH,BST,2018,SPR,IS,-,22018,C,1-5,-,-,to_be_arranged,*,*,-,-,-,-,-,-," Note: couldn't interpret '*', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10E', in original. Note: couldn't interpret 'CR_NC', in original."

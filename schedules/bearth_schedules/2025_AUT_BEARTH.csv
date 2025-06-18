@@ -1,0 +1,7 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BEARTH153,INTRO GEOLOGY,BEARTH,2025,AUT,-,-,11336,A,5,-,MW,1100-100,DISC,369,"Shinneman, Avery",Open,14,24,-,$5,-
+BEARTH154,INTRO OCEANOGRAPHY,BEARTH,2025,AUT,no_restriction,no_add_code,11337,A,5,-,MW,845-1045,UW1,060,"Galindo, Heather M",Open,8,30,-,-,-
+BEARTH155,INTRO TO CLIMATE SCI,BEARTH,2025,AUT,no_restriction,no_add_code,11338,A,5,-,TTh,845-1045,UW2,340,"Fields, Tracy A",Open,9,30,-,-,-
+BEARTH317,SOILS IN THE ENVIRON,BEARTH,2025,AUT,-,-,11339,A,5,-,T,330-530,DISC,369,"Malone, Melanie",Open,12,24,-,$50,RB
+BEARTH321,GEOMORPHOLOGY,BEARTH,2025,AUT,Restr,-,-,A,5,-,MW,115-315,DISC,369,"Shinneman, Avery",Open,6,24,-,-,-
+BEARTH341,NATURAL HAZARDS,BEARTH,2025,AUT,no_restriction,no_add_code,11341,A,5,-,MW,315-515,UW1,202,"Turner, Rob",Open,10,40,-,-,-

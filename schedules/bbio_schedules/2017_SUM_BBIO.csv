@@ -1,10 +1,10 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
 BBIO220,INTRO BIOLOGY III,BBIO,2017,SUM,no_restriction,no_add_code,10218,A,5,-,TTh,830-1100,UWBB,240,"Al-Noori, Salwa",Open,44,48,-,$70,-
-BBIO220,INTRO BIOLOGY III,BBIO,2017,SUM,no_restriction,no_add_code,10219,AA,-,LB,T,230-430,DISC,267,"Al-Noori, Salwa",Open,22,24,-,-,-
-BBIO220,INTRO BIOLOGY III,BBIO,2017,SUM,no_restriction,no_add_code,10220,AB,-,LB,Th,1200-200,DISC,267,"Al-Noori, Salwa",Open,22,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2017,SUM,-,-,10219,AA,-,LB,T,230-430,DISC,267,"Al-Noori, Salwa",Open,22,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2017,SUM,-,-,10220,AB,-,LB,Th,1200-200,DISC,267,"Al-Noori, Salwa",Open,22,24,-,-,-
 BBIO242,HUMAN ANAT PHYSIO II,BBIO,2017,SUM,Restr,no_add_code,-,A,6,-,TTh,845-1115,UW1,031,"Crowther, Gregory J.",Open,24,30,-,$90,-
-BBIO242,HUMAN ANAT PHYSIO II,BBIO,2017,SUM,Restr,no_add_code,-,AA,-,LB,MW,1145-145,DISC,267,"Crowther, Gregory J.",Closed,15,15,-,-,-
-BBIO242,HUMAN ANAT PHYSIO II,BBIO,2017,SUM,Restr,no_add_code,-,AB,-,LB,MW,215-415,DISC,267,"Crowther, Gregory J.",Open,9,15,-,-,-
+BBIO242,HUMAN ANAT PHYSIO II,BBIO,2017,SUM,Restr,-,-,AA,-,LB,MW,1145-145,DISC,267,"Crowther, Gregory J.",Closed,15,15,-,-,-
+BBIO242,HUMAN ANAT PHYSIO II,BBIO,2017,SUM,Restr,-,-,AB,-,LB,MW,215-415,DISC,267,"Crowther, Gregory J.",Open,9,15,-,-,-
 BBIO360,INTRO GENETICS,BBIO,2017,SUM,no_restriction,no_add_code,10224,A,5,-,TTh,1130-200,UW1,261,"McNabb, Susan L",Open,28,30,-,-,-
 BBIO364,BIOCHEMISTRY I,BBIO,2017,SUM,no_restriction,no_add_code,10225,A,5,-,TTh,845-1115,UW1,040,"Anderson, Peter C",Open,25,24,-,-,J
 BBIO430,STDY ABROAD ADV BIO ,BBIO,2017,SUM,no_restriction,no_add_code,14678,A,1-5,-,-,to_be_arranged,*,*,"Rasmussen, Charlotte",Open,0,1,-,-,-

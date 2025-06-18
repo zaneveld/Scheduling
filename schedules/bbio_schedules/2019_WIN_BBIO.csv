@@ -1,36 +1,36 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BBIO180,INTRO BIOLOGY I,BBIO,2019,WIN,no_restriction,no_add_code,10704,A,5,-,TTh,845-1045,DISC,162,"Chang, Cynthia",Open,89,96,-,$70,-
-BBIO180,INTRO BIOLOGY I,BBIO,2019,WIN,no_restriction,no_add_code,10705,AA,-,LB,T,1100-100,DISC,263,"Chang, Cynthia",Open,23,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2019,WIN,no_restriction,no_add_code,10706,AB,-,LB,T,130-330,DISC,263,"Campbell, Dana",Open,23,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2019,WIN,no_restriction,no_add_code,10707,AC,-,LB,Th,1100-100,DISC,263,"Chang, Cynthia",Open,22,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2019,WIN,no_restriction,no_add_code,10708,AD,-,LB,Th,145-345,DISC,263,"Campbell, Dana",Open,21,24,-,-,-
-BBIO200,INTRO BIOLOGY II,BBIO,2019,WIN,no_restriction,no_add_code,10709,A,5,-,TTh,845-1045,DISC,061,"Lewis, Alaron A",Open,108,143,-,$70,-
-BBIO200,INTRO BIOLOGY II,BBIO,2019,WIN,no_restriction,no_add_code,10710,AA,-,LB,M,845-1045,DISC,263,"Lewis, Alaron A",Open,23,24,-,-,-
-BBIO200,INTRO BIOLOGY II,BBIO,2019,WIN,no_restriction,no_add_code,10711,AB,-,LB,M,1115-115,DISC,263,"White, Bryan",Closed,23,23,-,-,-
-BBIO200,INTRO BIOLOGY II,BBIO,2019,WIN,no_restriction,no_add_code,10712,AC,-,LB,M,145-345,DISC,263,"Lewis, Alaron A",Open,17,24,-,-,-
-BBIO200,INTRO BIOLOGY II,BBIO,2019,WIN,no_restriction,no_add_code,10713,AD,-,LB,W,145-345,DISC,263,"Campbell, Dana",Open,22,24,-,-,-
-BBIO200,INTRO BIOLOGY II,BBIO,2019,WIN,no_restriction,no_add_code,10714,AE,-,LB,W,1115-115,DISC,263,"White, Bryan",Open,23,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2019,WIN,-,-,10704,A,5,-,TTh,845-1045,DISC,162,"Chang, Cynthia",Open,89,96,-,$70,-
+BBIO180,INTRO BIOLOGY I,BBIO,2019,WIN,-,-,10705,AA,-,LB,T,1100-100,DISC,263,"Chang, Cynthia",Open,23,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2019,WIN,-,-,10706,AB,-,LB,T,130-330,DISC,263,"Campbell, Dana",Open,23,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2019,WIN,-,-,10707,AC,-,LB,Th,1100-100,DISC,263,"Chang, Cynthia",Open,22,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2019,WIN,-,-,10708,AD,-,LB,Th,145-345,DISC,263,"Campbell, Dana",Open,21,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2019,WIN,-,-,10709,A,5,-,TTh,845-1045,DISC,061,"Lewis, Alaron A",Open,108,143,-,$70,-
+BBIO200,INTRO BIOLOGY II,BBIO,2019,WIN,-,-,10710,AA,-,LB,M,845-1045,DISC,263,"Lewis, Alaron A",Open,23,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2019,WIN,-,-,10711,AB,-,LB,M,1115-115,DISC,263,"White, Bryan",Closed,23,23,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2019,WIN,-,-,10712,AC,-,LB,M,145-345,DISC,263,"Lewis, Alaron A",Open,17,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2019,WIN,-,-,10713,AD,-,LB,W,145-345,DISC,263,"Campbell, Dana",Open,22,24,-,-,-
+BBIO200,INTRO BIOLOGY II,BBIO,2019,WIN,-,-,10714,AE,-,LB,W,1115-115,DISC,263,"White, Bryan",Open,23,24,-,-,-
 BBIO231,GENES & HEREDITY,BBIO,2019,WIN,no_restriction,no_add_code,10716,A,5,-,TTh,1100-100,UW2,141,"McNabb, Susan L.",Closed,27,24,-,-,J
 BBIO240,FUND CELLULAR BIOL,BBIO,2019,WIN,no_restriction,no_add_code,10717,A,5,-,TTh,330-530,UW1,041,"Ratnakumar, Kajan",Open,31,40,-,$70,-
-BBIO240,FUND CELLULAR BIOL,BBIO,2019,WIN,no_restriction,no_add_code,10718,AA,-,LB,F,845-1045,DISC,263,"Ratnakumar, Kajan",Open,11,20,-,-,-
-BBIO240,FUND CELLULAR BIOL,BBIO,2019,WIN,no_restriction,no_add_code,10719,AB,-,LB,F,1115-115,DISC,263,"Ratnakumar, Kajan",Closed,20,20,-,-,-
-BBIO285,SEMINAR IN BIOLOGY,BBIO,2019,WIN,no_restriction,no_add_code,10721,B,3,-,Th,115-315,DISC,256,"Price, Rebecca M.",Closed,12,12,-,-,J
+BBIO240,FUND CELLULAR BIOL,BBIO,2019,WIN,-,-,10718,AA,-,LB,F,845-1045,DISC,263,"Ratnakumar, Kajan",Open,11,20,-,-,-
+BBIO240,FUND CELLULAR BIOL,BBIO,2019,WIN,-,-,10719,AB,-,LB,F,1115-115,DISC,263,"Ratnakumar, Kajan",Closed,20,20,-,-,-
+BBIO285,SEMINAR IN BIOLOGY,BBIO,2019,WIN,-,-,10721,B,3,-,Th,115-315,DISC,256,"Price, Rebecca M.",Closed,12,12,-,-,J
 BBIO310,BRAIN AND BEHAVIOR,BBIO,2019,WIN,no_restriction,no_add_code,10722,A,5,-,TTh,115-315,UW1,220,"Wacker, Douglas",Open,45,48,-,-,-
 BBIO340,COMP BIO,BBIO,2019,WIN,no_restriction,no_add_code,22406,A,5,-,TTh,115-315,UW1,120,"Zaneveld, Jesse",Open,6,30,-,-,%
 BBIO351,ANAT & PHYSIOL I,BBIO,2019,WIN,-,add_code_required,10723,A,5,-,MW,1100-100,DISC,162,"Price, Michele",-,71,72,-,$160,-
-BBIO351,ANAT & PHYSIOL I,BBIO,2019,WIN,no_restriction,no_add_code,10724,AA,-,LB,W,200-500,DISC,267,"Price, Michele",Open,23,24,-,-,-
-BBIO351,ANAT & PHYSIOL I,BBIO,2019,WIN,no_restriction,no_add_code,10725,AB,-,LB,Th,845-1145,DISC,267,"Price, Michele",Closed,24,24,-,-,-
-BBIO351,ANAT & PHYSIOL I,BBIO,2019,WIN,no_restriction,no_add_code,10726,AC,-,LB,F,845-1145,DISC,267,"Price, Michele",Closed,24,24,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2019,WIN,-,-,10724,AA,-,LB,W,200-500,DISC,267,"Price, Michele",Open,23,24,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2019,WIN,-,-,10725,AB,-,LB,Th,845-1145,DISC,267,"Price, Michele",Closed,24,24,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2019,WIN,-,-,10726,AC,-,LB,F,845-1145,DISC,267,"Price, Michele",Closed,24,24,-,-,-
 BBIO352,ANAT & PHYSIOL II,BBIO,2019,WIN,no_restriction,no_add_code,10727,A,5,-,MW,845-1045,UW2,240,"Jensen, Jeffrey",Open,19,48,-,$110,-
-BBIO352,ANAT & PHYSIOL II,BBIO,2019,WIN,no_restriction,no_add_code,10728,AA,-,LB,T,845-1145,DISC,267,"Jensen, Jeffrey",Open,14,24,-,-,-
-BBIO352,ANAT & PHYSIOL II,BBIO,2019,WIN,no_restriction,no_add_code,10729,AB,-,LB,T,115-415,DISC,267,"Jensen, Jeffrey",Open,5,24,-,-,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2019,WIN,-,-,10728,AA,-,LB,T,845-1145,DISC,267,"Jensen, Jeffrey",Open,14,24,-,-,-
+BBIO352,ANAT & PHYSIOL II,BBIO,2019,WIN,-,-,10729,AB,-,LB,T,115-415,DISC,267,"Jensen, Jeffrey",Open,5,24,-,-,-
 BBIO360,INTRO GENETICS,BBIO,2019,WIN,no_restriction,no_add_code,10730,A,5,-,MW,1100-100,UW2,031,"Madzima, Thelma F",Open,26,30,-,-,-
-BBIO364,BIOCHEMISTRY I,BBIO,2019,WIN,no_restriction,no_add_code,10731,A,5,-,MW,115-315,DISC,061,"Anderson, Peter C",Open,45,24,-,-,J
-BBIO365,BIOCHEMISTRY II,BBIO,2019,WIN,no_restriction,no_add_code,10732,A,5,-,MW,115-315,DISC,162,"Robins, Lori",Open,22,24,-,-,J
-BBIO366,BIOCHEMISTRY LAB,BBIO,2019,WIN,no_restriction,no_add_code,10733,A,3,-,M,1200-100,DISC,061,"Colunga, Aric G",Open,10,16,-,$75,J
-BBIO366,BIOCHEMISTRY LAB,BBIO,2019,WIN,no_restriction,no_add_code,10734,AA,-,LB,F,845-1145,DISC,469,"Colunga, Aric G",Open,6,8,-,-,J
-BBIO366,BIOCHEMISTRY LAB,BBIO,2019,WIN,no_restriction,no_add_code,10735,AB,-,LB,F,1215-315,DISC,469,"Tyson, Elizabeth Lynn",Open,4,8,-,-,J
-BBIO372,STEM CELLS,BBIO,2019,WIN,no_restriction,no_add_code,21597,A,5,-,MW,330-530,DISC,252,"White, Bryan",Open,40,60,-,-,-
+BBIO364,BIOCHEMISTRY I,BBIO,2019,WIN,-,-,10731,A,5,-,MW,115-315,DISC,061,"Anderson, Peter C",Open,45,24,-,-,J
+BBIO365,BIOCHEMISTRY II,BBIO,2019,WIN,-,-,10732,A,5,-,MW,115-315,DISC,162,"Robins, Lori",Open,22,24,-,-,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2019,WIN,-,-,10733,A,3,-,M,1200-100,DISC,061,"Colunga, Aric G",Open,10,16,-,$75,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2019,WIN,-,-,10734,AA,-,LB,F,845-1145,DISC,469,"Colunga, Aric G",Open,6,8,-,-,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2019,WIN,-,-,10735,AB,-,LB,F,1215-315,DISC,469,"Tyson, Elizabeth Lynn",Open,4,8,-,-,J
+BBIO372,STEM CELLS,BBIO,2019,WIN,-,-,21597,A,5,-,MW,330-530,DISC,252,"White, Bryan",Open,40,60,-,-,-
 BBIO385,ANIMAL BEHAVIOR,BBIO,2019,WIN,no_restriction,no_add_code,21598,A,5,-,MW,330-530,LBA,003,"Wacker, Douglas",Closed,28,28,-,-,-
 BBIO394,TOPICS IN NEUROSCI,BBIO,2019,WIN,no_restriction,no_add_code,21600,A,5,-,MW,115-315,UW2,040,"Al-Noori, Salwa",Closed,24,24,-,-,-
 BBIO466,EVOLUTION,BBIO,2019,WIN,no_restriction,no_add_code,10739,A,5,-,TTh,115-315,UW2,205,"Galindo, Heather M",Open,26,30,-,-,-

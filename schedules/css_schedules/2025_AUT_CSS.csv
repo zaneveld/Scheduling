@@ -1,0 +1,79 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+CSS101,DIGITAL THINKING,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,MW,115-315,UW1,050,"Ali, Shiza",Open,4,30,-,-,J
+CSS107,PROG-ANIMATED STORY ,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,MW,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '210', in original. Note: couldn't interpret 'Oliver,Dawn-Marie', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '4', in original. Note: couldn't interpret '48', in original."
+CSS107,PROG-ANIMATED STORY ,CSS,2025,AUT,Restr,no_add_code,-,B,5,-,TTh,-,800-1000P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '010', in original. Note: couldn't interpret 'Ahmed,Faisal', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '4', in original. Note: couldn't interpret '48', in original."
+CSS112,INTRO PROG SCI APP,CSS,2025,AUT,Restr,no_add_code,-,A,4,-,TTh,330-530,UW1,110,-,-,-,-,-,-," Note: couldn't interpret '110', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '17', in original. Note: couldn't interpret '48', in original."
+CSS132,COMPT PROG ENGR I,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,MW,1100-100,UW2,221,"Ewing, Katie",Open,5,30,-,$30,-
+CSS142,CMPT PROG I,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,TTh,845-1045,UW2,031,"Chini, Morteza",Open,17,48,-,$30,-
+CSS142,CMPT PROG I,CSS,2025,AUT,Restr,no_add_code,-,B,5,-,TTh,330-530,UW1,050,"Oliver, Dawn-Marie",Open,1,48,-,$30,-
+CSS142,CMPT PROG I,CSS,2025,AUT,Restr,no_add_code,-,C,5,-,MW,115-315,UW1,051,"Champion, Mia",Open,19,48,-,$30,-
+CSS142,CMPT PROG I,CSS,2025,AUT,Restr,no_add_code,-,D,5,-,MW,1100-100,UW1,050,"Champion, Mia",Open,11,48,-,$30,-
+CSS143,CMPT PROG II,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,TTh,1100-100,UW2,131,"Chini, Morteza",Open,20,48,-,$30,-
+CSS143,CMPT PROG II,CSS,2025,AUT,Restr,no_add_code,-,B,5,-,MW,1100-100,UW1,051,"Stride, Jeff",Open,20,-,-,-,"48E Note: couldn't interpret '$30', in original."
+CSS198,SUPERVISED STUDY,CSS,2025,AUT,IS,add_code_required,13679,A,1-5,-,-,to_be_arranged,-,0,-,-,30,-,-,-,-
+CSS198,SUPERVISED STUDY,CSS,2025,AUT,IS,add_code_required,13680,B,1-5,-,-,to_be_arranged,-,0,-,-,30,-,CR_NC,-,-
+CSS198,SUPERVISED STUDY,CSS,2025,AUT,IS,add_code_required,13681,C,2,-,-,to_be_arranged,-,0,-,-,30,-,CR_NC,-,-
+CSS199,COMPUTING RESEARCH,CSS,2025,AUT,IS,add_code_required,13682,A,1-5,-,-,to_be_arranged,-,0,-,-,30,-,-,-,-
+CSS199,COMPUTING RESEARCH,CSS,2025,AUT,IS,add_code_required,13683,B,1-5,-,-,to_be_arranged,-,0,-,-,30,-,CR_NC,-,-
+CSS211,COMPUTERS & SOCIETY ,CSS,2025,AUT,no_restriction,no_add_code,13684,A,5,-,MW,330-530,UW2,131,"Shaw, Carol A",Closed,48,48,-,$12,-
+CSS290,TOPICS IN COMPUTING ,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,TTh,330-530,UW1,051,"Sung, Kelvin",Open,21,48,-,-,-
+CSS295,K12 COMPUTING EDU,CSS,2025,AUT,no_restriction,no_add_code,13686,A,2,-,Th,330-530,UW2,228,"Retik, Arkady",Open,11,12,CR_NC,-,E
+CSS301,TECHNICAL WRITING,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,MW,1100-100,UW1,060,"Kool, Nancy L.",Open,5,30,-,$12,W
+CSS301,TECHNICAL WRITING,CSS,2025,AUT,Restr,no_add_code,-,B,5,-,TTh,330-530,UW2,307,"Dailey, Dharma",Open,13,18,-,$12,W
+CSS301,TECHNICAL WRITING,CSS,2025,AUT,Restr,no_add_code,-,C,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '205', in original. Note: couldn't interpret '', in original. Note: couldn't interpret '205', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '2', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret '$12', in original. Note: couldn't interpret 'W', in original."
+CSS301,TECHNICAL WRITING,CSS,2025,AUT,Restr,no_add_code,-,D,5,-,MW,845-1045,UW2,205,"Anderson, Laurie",Open,0,30,-,$12,W
+CSS301,TECHNICAL WRITING,CSS,2025,AUT,Restr,no_add_code,-,E,5,-,TTh,1100-100,UW1,302,-,-,-,-,-,-," Note: couldn't interpret '302', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '1', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret '$12', in original. Note: couldn't interpret 'W', in original."
+CSS301,TECHNICAL WRITING,CSS,2025,AUT,Restr,no_add_code,-,F,5,-,TTh,115-315,UW1,021,"Shaw, Carol A",Closed,30,30,-,$10,W
+CSS301,TECHNICAL WRITING,CSS,2025,AUT,Restr,no_add_code,-,G,5,-,TTh,845-1045,UW2,205,"Dailey, Dharma",Open,9,30,-,$12,W
+CSS310,IA & CYBERSECURITY,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,TTh,330-530,UW2,305,"Dupuis, Marc J.",Open,28,40,-,$10,-
+CSS320,DIGITAL FORENSICS,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,MW,-,545-745P,*,-,-,-,-,-,-,"* Note: couldn't interpret 'Phillips,Chris', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '31', in original. Note: couldn't interpret '48', in original. Note: couldn't interpret '$30', in original. Note: couldn't interpret 'O', in original."
+CSS340,APPL ALGORITHMICS,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,MW,330-530,UW1,021,"Kim, Wooyoung",Open,6,40,-,$30,-
+CSS342,"DATA, ALG, MATH I",CSS,2025,AUT,Restr,no_add_code,-,A,5,-,TTh,330-530,UWBB,270,-,-,-,-,-,-," Note: couldn't interpret '270', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '2', in original. Note: couldn't interpret '40', in original. Note: couldn't interpret '$30', in original."
+CSS342,"DATA, ALG, MATH I",CSS,2025,AUT,Restr,no_add_code,-,B,5,-,MW,845-1045,UW1,050,"Arian, Eyal",Open,3,40,-,$30,-
+CSS342,"DATA, ALG, MATH I",CSS,2025,AUT,Restr,no_add_code,-,C,5,-,TTh,-,800-1000P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '240', in original. Note: couldn't interpret 'Awad,Ahmed', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '2', in original. Note: couldn't interpret '40', in original. Note: couldn't interpret '$30', in original."
+CSS342,"DATA, ALG, MATH I",CSS,2025,AUT,Restr,no_add_code,-,D,5,-,TTh,115-315,UW1,040,"Dimpsey, Robert",Open,5,40,-,$30,-
+CSS342,"DATA, ALG, MATH I",CSS,2025,AUT,Restr,no_add_code,-,E,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '141', in original. Note: couldn't interpret 'Lagesse,Brent', in original. Note: couldn't interpret 'J', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '40', in original. Note: couldn't interpret '$30', in original."
+CSS343,"DATA, ALG, MATH II",CSS,2025,AUT,Restr,no_add_code,-,A,5,-,MW,115-315,UW1,021,"Pisan, Yusuf",Closed,40,40,-,$30,-
+CSS343,"DATA, ALG, MATH II",CSS,2025,AUT,Restr,no_add_code,-,B,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '220', in original. Note: couldn't interpret 'Pisan,Yusuf', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '26', in original. Note: couldn't interpret '40', in original. Note: couldn't interpret '$30', in original."
+CSS350,MGT PRINCIPLES,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,MW,1100-100,UW1,220,"Pyle, Douglas M.",Closed,48,48,-,-,-
+CSS350,MGT PRINCIPLES,CSS,2025,AUT,Restr,no_add_code,-,B,5,-,MW,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '110', in original. Note: couldn't interpret 'Wang,Joanna', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '18', in original. Note: couldn't interpret '48', in original."
+CSS360,SOFTWARE ENGR,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,MW,330-530,UW1,221,"Kim, Jeffrey",Open,2,30,-,-,-
+CSS360,SOFTWARE ENGR,CSS,2025,AUT,Restr,no_add_code,-,B,5,-,TTh,330-530,UW2,131,-,-,-,-,-,-," Note: couldn't interpret '131', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '5', in original. Note: couldn't interpret '30', in original."
+CSS360,SOFTWARE ENGR,CSS,2025,AUT,Restr,no_add_code,-,C,5,-,TTh,-,800-1000P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '205', in original. Note: couldn't interpret 'Madasu,Lakshmi', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '30', in original."
+CSS360,SOFTWARE ENGR,CSS,2025,AUT,Restr,no_add_code,-,D,5,-,TTh,-,545-745P,-,INV,-,134,-,-,-,"Retik,Arkady Note: couldn't interpret 'Open', in original. Note: couldn't interpret '2', in original. Note: couldn't interpret '30', in original."
+CSS360,SOFTWARE ENGR,CSS,2025,AUT,Restr,no_add_code,-,E,5,-,TTh,1100-100,LBA,003,"Retik, Arkady",Open,7,30,-,-,-
+CSS360,SOFTWARE ENGR,CSS,2025,AUT,Restr,-,-,F,5,-,MW,115-315,DISC,061,"Stride, Jeff",Open,21,30,-,-,-
+CSS370,ANALYSIS AND DESIGN ,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,MW,330-530,UW2,031,"Chini, Morteza",Closed,48,48,-,-,-
+CSS370,ANALYSIS AND DESIGN ,CSS,2025,AUT,Restr,no_add_code,-,B,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '131', in original. Note: couldn't interpret 'Dutta,Pampa', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '11', in original. Note: couldn't interpret '48', in original."
+CSS371,BUSINESS OF TECH,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,MW,115-315,INV,134,"Carr, Matt",Open,21,48,-,-,-
+CSS385,INTRO TO GAME DEV,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '030', in original. Note: couldn't interpret 'Ong,Hansel', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '20', in original. Note: couldn't interpret '48', in original. Note: couldn't interpret '$30', in original."
+CSS390,SPECIAL TOPICS,CSS,2025,AUT,no_restriction,no_add_code,13716,A,5,-,MW,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '031', in original. Note: couldn't interpret 'Zade,Himanshu', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '13', in original. Note: couldn't interpret '30', in original."
+CSS397,COMPUTING INTERNSHIP,CSS,2025,AUT,IS,add_code_required,13717,A,1-5,-,-,to_be_arranged,-,0,-,-,10,-,CR_NC,-,-
+CSS411,CMPT & PUB POLICY,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,MW,115-315,UW2,340,"Kool, Nancy L.",Open,13,20,-,-,J
+CSS422,HARDWARE & COMP ORG ,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '302', in original. Note: couldn't interpret 'Awad,Ahmed', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '16', in original. Note: couldn't interpret '48', in original. Note: couldn't interpret '$30', in original."
+CSS422,HARDWARE & COMP ORG ,CSS,2025,AUT,Restr,no_add_code,-,B,5,-,TTh,115-315,UW1,302,"Peng, Yang",Open,46,48,-,$30,-
+CSS427,EMBEDDED SYSTEMS,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,MW,115-315,UW2,031,"Folsom, Tyler",Open,5,24,-,$47,-
+CSS427,EMBEDDED SYSTEMS,CSS,2025,AUT,Restr,-,-,AA,-,LB,F,930-100,DISC,362,"Folsom, Tyler",Open,5,24,-,-,-
+CSS430,OPERATING SYSTEMS,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,TTh,-,800-1000P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '020', in original. Note: couldn't interpret 'Pisan,Yusuf', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '48', in original. Note: couldn't interpret '48', in original. Note: couldn't interpret '$30', in original."
+CSS430,OPERATING SYSTEMS,CSS,2025,AUT,Restr,no_add_code,-,B,5,-,MW,330-530,UW1,051,"Fukuda, Munehiro",Closed,48,48,-,$30,-
+CSS431,NETWORK ARCHT & MGMT,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,T,-,545-745P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '102', in original. Note: couldn't interpret 'Lidster,William', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '48', in original. Note: couldn't interpret '48', in original. Note: couldn't interpret '$30', in original. Note: couldn't interpret 'B', in original."
+CSS432,NTWRK DSGN & PRGRMNG,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,TTh,330-530,INV,111,"Lagesse, Brent J",Open,33,48,-,$30,-
+CSS434,PARA DISTR COMPUTING,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,F,1100-100,UW2,031,"Joshi, Sanjay",Open,45,48,-,$30,B
+CSS451,3-D COMPUTER GRAPHIC,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,MW,115-315,UW2,141,"Sung, Kelvin",Open,26,48,-,$30,-
+CSS458,COMPUTER SIMULATION ,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,TTh,1100-100,UW2,240,"Lin, Johnny",Open,8,48,-,$30,-
+CSS474,PRODUCT DEVEL LAB,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,MW,1100-100,UWBB,260,-,-,-,-,-,-," Note: couldn't interpret '260', in original. Note: couldn't interpret 'Closed', in original. Note: couldn't interpret '18', in original. Note: couldn't interpret '18', in original. Note: couldn't interpret 'J', in original."
+CSS475,DATABASE SYSTEMS,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,MW,115-315,UW2,240,"Parsons, Erika",Open,24,48,-,$30,-
+CSS478,USABILITY ENGR,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,MW,-,545-745P,-,INV,-,134,-,-,-,"Dailey,Dharma Note: couldn't interpret 'Open', in original. Note: couldn't interpret '32', in original. Note: couldn't interpret '40', in original. Note: couldn't interpret '$30', in original."
+CSS481,WEB PROG & APPL,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,MW,330-530,UW2,141,"Zade, Himanshu",Open,25,48,-,$30,-
+CSS486,MACHINE INTELLIGENCE,CSS,2025,AUT,Restr,no_add_code,-,A,5,-,TTh,-,545-745P,-,-,-,-,-,-,-,"UW2 Note: couldn't interpret '031', in original. Note: couldn't interpret 'Si,Dong', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '34', in original. Note: couldn't interpret '48', in original. Note: couldn't interpret '$30', in original."
+CSS490,SPECIAL TOPICS,CSS,2025,AUT,no_restriction,no_add_code,13733,A,5,-,TTh,845-1045,INV,134,"Peng, Yang",Open,6,48,-,$10,-
+CSS495,A CMPT INTERNSHIP,CSS,2025,AUT,IS,add_code_required,13734,A,1-5,-,-,to_be_arranged,-,0,-,-,10,-,CR_NC,-,-
+CSS496,APPL CMPT CAPSTONE,CSS,2025,AUT,-,add_code_required,13735,A,5,-,TTh,330-530,UW2,221,"Anderson, Laurie",-,2,20,-,-,-
+CSS496,APPL CMPT CAPSTONE,CSS,2025,AUT,-,add_code_required,13736,B,5,-,MW,1100-100,UW2,005,"Anderson, Laurie",-,7,20,-,-,-
+CSS497,CS & SE CAPSTONE,CSS,2025,AUT,IS,add_code_required,13737,A,-,-,-,1-10,-,-,-,-,-,-,-,-,"to_be_arranged Note: couldn't interpret '6', in original. Note: couldn't interpret '30', in original."
+CSS497,CS & SE CAPSTONE,CSS,2025,AUT,IS,add_code_required,13738,B,-,-,-,1-10,-,-,-,-,-,-,-,-,"to_be_arranged Note: couldn't interpret '15', in original. Note: couldn't interpret '30', in original. Note: couldn't interpret 'CR_NC', in original."
+CSS498,INDEPENDENT STUDY,CSS,2025,AUT,IS,add_code_required,13741,A,1-5,-,-,to_be_arranged,-,0,-,-,30,-,-,-,-
+CSS498,INDEPENDENT STUDY,CSS,2025,AUT,IS,add_code_required,13742,B,1-5,-,-,to_be_arranged,-,0,-,-,30,-,CR_NC,-,-
+CSS499,UNDERGRAD RESEARCH,CSS,2025,AUT,IS,add_code_required,13743,A,1-5,-,-,to_be_arranged,-,1,-,-,30,-,-,-,-
+CSS499,UNDERGRAD RESEARCH,CSS,2025,AUT,IS,add_code_required,13744,B,1-5,-,-,to_be_arranged,-,0,-,-,30,-,CR_NC,-,-
+CSS506,SOFT DEVL PROCESSES ,CSS,2025,AUT,Restr,no_add_code,-,C,2,-,-,to_be_arranged,-,-,"Erdly, Bill",Open,0,1,-,-,JA

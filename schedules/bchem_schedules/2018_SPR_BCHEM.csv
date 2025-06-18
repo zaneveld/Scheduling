@@ -1,17 +1,17 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BCHEM153,GEN CHEM II,BCHEM,2018,SPR,no_restriction,no_add_code,20910,A,4,-,MWF,845-1005,DISC,061,"Finley, Brandon Dearmond",Open,93,144,-,-,-
+BCHEM153,GEN CHEM II,BCHEM,2018,SPR,-,-,20910,A,4,-,MWF,845-1005,DISC,061,"Finley, Brandon Dearmond",Open,93,144,-,-,-
 BCHEM153,GEN CHEM II,BCHEM,2018,SPR,no_restriction,no_add_code,20911,AA,-,QZ,F,1100-1155,LBA,003,"Finley, Brandon Dearmond",Closed,30,30,-,-,-
 BCHEM153,GEN CHEM II,BCHEM,2018,SPR,no_restriction,no_add_code,20912,AB,-,QZ,F,1200-1255,LBA,003,"Finley, Brandon Dearmond",Closed,30,30,-,-,-
 BCHEM153,GEN CHEM II,BCHEM,2018,SPR,no_restriction,no_add_code,20913,AC,-,QZ,F,115-210,LBA,003,"Finley, Brandon Dearmond",Open,27,30,-,-,-
 BCHEM153,GEN CHEM II,BCHEM,2018,SPR,no_restriction,no_add_code,20914,AD,-,QZ,F,215-310,LBA,003,"Finley, Brandon Dearmond",Open,4,30,-,-,-
 BCHEM153,GEN CHEM II,BCHEM,2018,SPR,no_restriction,no_add_code,20915,AE,-,QZ,F,330-420,LBA,003,"Finley, Brandon Dearmond",Open,2,30,-,-,-
-BCHEM154,GEN CHEM LAB II,BCHEM,2018,SPR,no_restriction,no_add_code,20945,A,2,-,M,1215-315,DISC,463,"Finley, Brandon Dearmond",Open,23,24,-,$50,-
-BCHEM154,GEN CHEM LAB II,BCHEM,2018,SPR,no_restriction,no_add_code,20946,B,2,-,T,845-1145,DISC,463,"Sommerfeld, David A",Open,9,24,-,$50,-
-BCHEM154,GEN CHEM LAB II,BCHEM,2018,SPR,no_restriction,no_add_code,20947,C,2,-,T,1215-315,DISC,463,"Sommerfeld, David A",Open,23,24,-,$50,-
-BCHEM154,GEN CHEM LAB II,BCHEM,2018,SPR,no_restriction,no_add_code,20948,D,2,-,Th,845-1145,DISC,463,"Hocde, Sandrine",Open,3,24,-,$50,-
-BCHEM154,GEN CHEM LAB II,BCHEM,2018,SPR,no_restriction,no_add_code,20949,E,2,-,Th,1215-315,DISC,463,"Buysse, Claire",Open,6,24,-,$50,-
-BCHEM154,GEN CHEM LAB II,BCHEM,2018,SPR,no_restriction,no_add_code,20950,F,2,-,W,200-500,DISC,463,"Buysse, Claire",Open,14,24,-,$50,-
-BCHEM163,GEN CHEM III,BCHEM,2018,SPR,no_restriction,no_add_code,10795,A,4,-,MWF,1015-1145,DISC,061,"Sommerfeld, David A",Open,90,144,-,-,-
+BCHEM154,GEN CHEM LAB II,BCHEM,2018,SPR,-,-,20945,A,2,-,M,1215-315,DISC,463,"Finley, Brandon Dearmond",Open,23,24,-,$50,-
+BCHEM154,GEN CHEM LAB II,BCHEM,2018,SPR,-,-,20946,B,2,-,T,845-1145,DISC,463,"Sommerfeld, David A",Open,9,24,-,$50,-
+BCHEM154,GEN CHEM LAB II,BCHEM,2018,SPR,-,-,20947,C,2,-,T,1215-315,DISC,463,"Sommerfeld, David A",Open,23,24,-,$50,-
+BCHEM154,GEN CHEM LAB II,BCHEM,2018,SPR,-,-,20948,D,2,-,Th,845-1145,DISC,463,"Hocde, Sandrine",Open,3,24,-,$50,-
+BCHEM154,GEN CHEM LAB II,BCHEM,2018,SPR,-,-,20949,E,2,-,Th,1215-315,DISC,463,"Buysse, Claire",Open,6,24,-,$50,-
+BCHEM154,GEN CHEM LAB II,BCHEM,2018,SPR,-,-,20950,F,2,-,W,200-500,DISC,463,"Buysse, Claire",Open,14,24,-,$50,-
+BCHEM163,GEN CHEM III,BCHEM,2018,SPR,-,-,10795,A,4,-,MWF,1015-1145,DISC,061,"Sommerfeld, David A",Open,90,144,-,-,-
 BCHEM163,GEN CHEM III,BCHEM,2018,SPR,no_restriction,no_add_code,20956,AA,-,QZ,F,1200-1255,UW2,340,"Sommerfeld, David A",Closed,30,30,-,-,-
 BCHEM163,GEN CHEM III,BCHEM,2018,SPR,no_restriction,no_add_code,20957,AB,-,QZ,F,115-210,UW2,340,"Sommerfeld, David A",Closed,30,30,-,-,-
 BCHEM163,GEN CHEM III,BCHEM,2018,SPR,no_restriction,no_add_code,20958,AC,-,QZ,F,215-310,UW2,340,"Sommerfeld, David A",Open,21,30,-,-,-
@@ -22,27 +22,27 @@ BCHEM164,GEN CHEM LAB III,BCHEM,2018,SPR,no_restriction,no_add_code,20952,B,2,-,
 BCHEM164,GEN CHEM LAB III,BCHEM,2018,SPR,no_restriction,no_add_code,20953,C,2,-,T,115-415,CC1,340,"Han, Rui",Open,19,24,-,$50,-
 BCHEM164,GEN CHEM LAB III,BCHEM,2018,SPR,no_restriction,no_add_code,20954,D,2,-,W,115-415,CC1,340,"Hocde, Sandrine",Open,11,24,-,$50,-
 BCHEM164,GEN CHEM LAB III,BCHEM,2018,SPR,no_restriction,no_add_code,20955,E,2,-,Th,115-415,CC1,340,"Han, Rui",Open,21,24,-,$50,-
-BCHEM238,ORGANIC CHEMISTRY,BCHEM,2018,SPR,no_restriction,no_add_code,10796,A,4,-,MWF,1145-105,DISC,061,"Robins, Lori",Open,33,40,-,-,-
-BCHEM239,ORGANIC CHEMISTRY,BCHEM,2018,SPR,no_restriction,no_add_code,10797,A,4,-,TF,115-315,DISC,162,"Thimmaiah, Muralidhara",Open,78,80,-,-,-
+BCHEM238,ORGANIC CHEMISTRY,BCHEM,2018,SPR,-,-,10796,A,4,-,MWF,1145-105,DISC,061,"Robins, Lori",Open,33,40,-,-,-
+BCHEM239,ORGANIC CHEMISTRY,BCHEM,2018,SPR,-,-,10797,A,4,-,TF,115-315,DISC,162,"Thimmaiah, Muralidhara",Open,78,80,-,-,-
 BCHEM241,ORGANIC CHEM LAB I,BCHEM,2018,SPR,no_restriction,no_add_code,10798,A,3,-,M,115-250,UW2,305,"Daruwala, Khushroo",Open,14,20,-,$60,-
-BCHEM241,ORGANIC CHEM LAB I,BCHEM,2018,SPR,no_restriction,no_add_code,10799,AA,-,LB,T,845-1245,DISC,469,"Daruwala, Khushroo",Open,14,20,-,-,-
+BCHEM241,ORGANIC CHEM LAB I,BCHEM,2018,SPR,-,-,10799,AA,-,LB,T,845-1245,DISC,469,"Daruwala, Khushroo",Open,14,20,-,-,-
 BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2018,SPR,no_restriction,no_add_code,10801,A,3,-,T,330-500,UW2,005,"Thimmaiah, Muralidhara",Open,56,60,-,$70,-
-BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2018,SPR,no_restriction,no_add_code,20933,AB,-,LB,W,130-530,DISC,469,"Daruwala, Khushroo",Open,17,20,-,-,-
-BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2018,SPR,no_restriction,no_add_code,20934,AC,-,LB,Th,845-1245,DISC,469,"Thimmaiah, Muralidhara",Closed,20,20,-,-,-
-BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2018,SPR,no_restriction,no_add_code,20935,AD,-,LB,Th,115-515,DISC,469,"Thimmaiah, Muralidhara",Open,19,20,-,-,-
+BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2018,SPR,-,-,20933,AB,-,LB,W,130-530,DISC,469,"Daruwala, Khushroo",Open,17,20,-,-,-
+BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2018,SPR,-,-,20934,AC,-,LB,Th,845-1245,DISC,469,"Thimmaiah, Muralidhara",Closed,20,20,-,-,-
+BCHEM242,ORGANIC CHEM LAB II ,BCHEM,2018,SPR,-,-,20935,AD,-,LB,Th,115-515,DISC,469,"Thimmaiah, Muralidhara",Open,19,20,-,-,-
 BCHEM313,INOR CHEM II,BCHEM,2018,SPR,no_restriction,no_add_code,20936,A,3,-,TTh,330-530,UW2,228,"Daruwala, Khushroo",Open,11,20,-,-,-
 BCHEM350,ATMOS CHEM,BCHEM,2018,SPR,no_restriction,no_add_code,20937,A,5,-,TTh,845-1045,UW2,307,"Jaffe, Daniel A",Open,10,20,-,-,-
 BCHEM364,BIOCHEMISTRY I,BCHEM,2018,SPR,no_restriction,no_add_code,10804,A,5,-,MW,115-315,UW2,031,"Robins, Lori",Open,7,24,-,-,J
 BCHEM365,BIOCHEMISTRY II,BCHEM,2018,SPR,no_restriction,no_add_code,10805,A,5,-,MW,115-315,UW2,131,"Anderson, Peter C",Closed,24,24,-,-,J
 BCHEM375,MOLECULAR BIOLOGY,BCHEM,2018,SPR,no_restriction,no_add_code,10806,A,5,-,MW,330-530,UW2,131,"Madzima, Thelma F",Open,10,15,-,-,J
-BCHEM404,PHYSICAL CHEM LAB,BCHEM,2018,SPR,no_restriction,no_add_code,20938,A,4,-,F,845-945,DISC,469,"Gunnerson, Kim N",Closed,15,15,-,$60,-
-BCHEM404,PHYSICAL CHEM LAB,BCHEM,2018,SPR,no_restriction,no_add_code,20939,AA,-,LB,F,945-1245,DISC,469,"Gunnerson, Kim N",Closed,15,15,-,-,-
-BCHEM404,PHYSICAL CHEM LAB,BCHEM,2018,SPR,no_restriction,no_add_code,20940,B,4,-,M,845-945,DISC,469,"Gunnerson, Kim N",Open,13,15,-,$60,-
-BCHEM404,PHYSICAL CHEM LAB,BCHEM,2018,SPR,no_restriction,no_add_code,20941,BA,-,LB,M,945-1245,DISC,469,"Gunnerson, Kim N",Open,13,15,-,-,-
-BCHEM426,INSTRUMENTAL ANLYS,BCHEM,2018,SPR,no_restriction,no_add_code,20942,A,5,-,TTh,115-315,DISC,369,"Kim, Hyung J",Closed,12,12,-,-,-
-BCHEM426,INSTRUMENTAL ANLYS,BCHEM,2018,SPR,no_restriction,no_add_code,20943,AA,-,LB,W,845-1245,DISC,463,"Kim, Hyung J",Closed,12,12,-,-,-
+BCHEM404,PHYSICAL CHEM LAB,BCHEM,2018,SPR,-,-,20938,A,4,-,F,845-945,DISC,469,"Gunnerson, Kim N",Closed,15,15,-,$60,-
+BCHEM404,PHYSICAL CHEM LAB,BCHEM,2018,SPR,-,-,20939,AA,-,LB,F,945-1245,DISC,469,"Gunnerson, Kim N",Closed,15,15,-,-,-
+BCHEM404,PHYSICAL CHEM LAB,BCHEM,2018,SPR,-,-,20940,B,4,-,M,845-945,DISC,469,"Gunnerson, Kim N",Open,13,15,-,$60,-
+BCHEM404,PHYSICAL CHEM LAB,BCHEM,2018,SPR,-,-,20941,BA,-,LB,M,945-1245,DISC,469,"Gunnerson, Kim N",Open,13,15,-,-,-
+BCHEM426,INSTRUMENTAL ANLYS,BCHEM,2018,SPR,-,-,20942,A,5,-,TTh,115-315,DISC,369,"Kim, Hyung J",Closed,12,12,-,-,-
+BCHEM426,INSTRUMENTAL ANLYS,BCHEM,2018,SPR,-,-,20943,AA,-,LB,W,845-1245,DISC,463,"Kim, Hyung J",Closed,12,12,-,-,-
 BCHEM496,INVEST CHEM II,BCHEM,2018,SPR,no_restriction,no_add_code,20944,A,3,-,-,"to_be_arranged_Finley,Brandon",-,-,Dearmond,Open,7,10,-,-,-
-BCHEM498,IND STUDY CHEM,BCHEM,2018,SPR,-,-,-,IS,-,-,-,-,-,-,-,-,-,-,-,-,"add_code_required Note: couldn't interpret '20962', in original. Note: couldn't interpret 'A', in original. Note: couldn't interpret '1-5', in original. Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret '1', in original. Note: couldn't interpret '15E', in original."
-BCHEM498,IND STUDY CHEM,BCHEM,2018,SPR,-,-,-,IS,-,-,-,-,-,-,-,-,-,-,-,-,"add_code_required Note: couldn't interpret '20963', in original. Note: couldn't interpret 'B', in original. Note: couldn't interpret '1-5', in original. Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret '1', in original. Note: couldn't interpret '15E', in original. Note: couldn't interpret 'CR_NC', in original."
-BCHEM499,UG RESEARCH CHEM,BCHEM,2018,SPR,-,-,-,IS,-,-,-,-,-,-,-,-,-,-,-,-,"add_code_required Note: couldn't interpret '20964', in original. Note: couldn't interpret 'A', in original. Note: couldn't interpret '1-5', in original. Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret '10', in original. Note: couldn't interpret '15E', in original."
-BCHEM499,UG RESEARCH CHEM,BCHEM,2018,SPR,-,-,-,IS,-,-,-,-,-,-,-,-,-,-,-,-,"add_code_required Note: couldn't interpret '20965', in original. Note: couldn't interpret 'B', in original. Note: couldn't interpret '1-5', in original. Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret '4', in original. Note: couldn't interpret '15E', in original. Note: couldn't interpret 'CR_NC', in original."
+BCHEM498,IND STUDY CHEM,BCHEM,2018,SPR,IS,add_code_required,20962,A,1-5,-,-,to_be_arranged,-,1,-,-,-,-,-,-,15E
+BCHEM498,IND STUDY CHEM,BCHEM,2018,SPR,IS,add_code_required,20963,B,1-5,-,-,to_be_arranged,-,1,-,-,-,-,-,-,"15E Note: couldn't interpret 'CR_NC', in original."
+BCHEM499,UG RESEARCH CHEM,BCHEM,2018,SPR,IS,add_code_required,20964,A,1-5,-,-,to_be_arranged,-,10,-,-,-,-,-,-,15E
+BCHEM499,UG RESEARCH CHEM,BCHEM,2018,SPR,IS,add_code_required,20965,B,1-5,-,-,to_be_arranged,-,4,-,-,-,-,-,-,"15E Note: couldn't interpret 'CR_NC', in original."

@@ -1,7 +1,7 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BST154,INTRO OCEANOGRAPHY,BST,2017,WIN,no_restriction,no_add_code,22070,A,5,-,TTh,115-315,DISC,369,"Galindo, Heather Michelle",Open,14,15,-,-,J
+BST154,INTRO OCEANOGRAPHY,BST,2017,WIN,-,-,22070,A,5,-,TTh,115-315,DISC,369,"Galindo, Heather Michelle",Open,14,15,-,-,J
 BST200,INTRO TO CLIMATE SCI,BST,2017,WIN,no_restriction,no_add_code,11898,A,5,-,TTh,845-1045,UW2,211,"White, Rachel H",Open,28,30,-,-,-
-BST498,IND STUDY SCI TECH,BST,2017,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,11900,A,-,5,-,-,-,"to_be_arranged Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '30', in original."
-BST498,IND STUDY SCI TECH,BST,2017,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,11901,B,-,5,-,-,-,"to_be_arranged Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '30', in original."
-BST498,IND STUDY SCI TECH,BST,2017,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,11902,-,-,-,-,-,-,"C_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '30', in original."
-BST499,UG RESEARCH SCI TECH,BST,2017,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,11903,A,-,5,-,-,-,"to_be_arranged Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '30', in original."
+BST498,IND STUDY SCI TECH,BST,2017,WIN,IS,-,11900,A,5,-,-,to_be_arranged,-,-,-,Open,0,30,-,-,-
+BST498,IND STUDY SCI TECH,BST,2017,WIN,IS,-,11901,B,5,-,-,to_be_arranged,-,-,-,Open,0,30,-,-,-
+BST498,IND STUDY SCI TECH,BST,2017,WIN,IS,-,11902,C,1-5,-,-,to_be_arranged,-,-,-,Open,0,30,-,-,-
+BST499,UG RESEARCH SCI TECH,BST,2017,WIN,IS,-,11903,A,5,-,-,to_be_arranged,-,-,-,Open,0,30,-,-,-

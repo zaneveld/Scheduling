@@ -1,3 +1,3 @@
-Class Number,Class,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BEARTH154,INTRO OCEANOGRAPHY,no_restriction,no_add_code,14244,A,5,-,MW,1115-145,UWBB,205,"Galindo, Heather M",Closed,15,30,-,-,-
-BEARTH155,INTRO TO CLIMATE SCI,no_restriction,no_add_code,14362,A,5,-,TTh,900-1130,UW1,040,"Salathe, Eric P",Closed,21,30,-,-,B
+Class Number,Class,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other,Year,Quarter
+BEARTH154,INTRO OCEANOGRAPHY,no_restriction,no_add_code,14244,A,5,-,MW,1115-145,UWBB,205,"Galindo, Heather M",Closed,15,30,-,-,-,2020,SUM
+BEARTH155,INTRO TO CLIMATE SCI,no_restriction,no_add_code,14362,A,5,-,TTh,900-1130,UW1,040,"Salathe, Eric P",Closed,21,30,-,-,B,2020,SUM

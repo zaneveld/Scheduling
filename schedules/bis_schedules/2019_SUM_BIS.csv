@@ -1,0 +1,41 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BIS121,INTRO TO DRAWING,BIS,2019,SUM,no_restriction,no_add_code,10558,A,5,-,F,1000-300,UWBB,272,"Liang, Baorong",Open,23,24,-,$15,-
+BIS132,INTRO PHOTOGRAPHY,BIS,2019,SUM,no_restriction,no_add_code,10559,A,5,-,MW,1145-215,UW2,105,"Hsu, Howard",Closed,24,24,-,-,-
+BIS132,INTRO PHOTOGRAPHY,BIS,2019,SUM,-,-,10560,B,5,-,MW,230-500,DISC,258,"Hsu, Howard",Closed,24,24,-,-,-
+BIS154,INTRO OCEANOGRAPHY,BIS,2019,SUM,-,-,14283,A,5,-,MW,1145-215,DISC,252,"Galindo, Heather M",Closed,12,30,-,-,J
+BIS170,INTRO TO PSYCH,BIS,2019,SUM,no_restriction,no_add_code,10561,A,5,-,MW,900-1130,UW1,220,"McGuire, Mary V.",Open,30,45,-,-,-
+BIS200,INTRO MICROECON,BIS,2019,SUM,no_restriction,no_add_code,10563,A,5,-,TTh,900-1130,UW1,030,"Nedita, Codrin",Open,11,22,-,-,J
+BIS204,INTRO TO JOURNALISM ,BIS,2019,SUM,no_restriction,no_add_code,10564,A,5,-,MW,900-1130,UW1,210,"Tang, Min",Open,22,24,-,-,W
+BIS220,DEVELOPMENTAL PSYCH ,BIS,2019,SUM,no_restriction,no_add_code,10566,A,5,-,T,900-1130,UWBB,205,"Lichty, Lauren F.",Open,30,32,-,-,B
+BIS224,INTRO FEMINIST STDY ,BIS,2019,SUM,no_restriction,no_add_code,10567,A,5,-,W,230-500,UW1,220,"Butler-Wall, Karisa Anne",Open,40,45,-,-,B
+BIS235,CRIT MEDIA LITERACY ,BIS,2019,SUM,no_restriction,no_add_code,10568,A,5,-,TTh,230-500,UW1,050,"Brooks, Peter J",Open,12,45,-,-,-
+BIS236,INTERACTIVE MEDIA,BIS,2019,SUM,no_restriction,no_add_code,14509,A,5,-,W,230-500,UW2,131,"Chen, Mark",Open,37,45,-,-,B
+BIS261,INTRO FILM STUDIES,BIS,2019,SUM,-,add_code_required,10570,A,5,-,T,1145-215,UW2,141,"Goldstein, David S.",-,44,45,-,-,B
+BIS300,INTERDISC INQUIRY,BIS,2019,SUM,Restr,no_add_code,-,A,5,-,W,1145-215,UWBB,260,"Walsh, Camille",Open,12,24,-,-,WB
+BIS312,APPRS SOCIAL RESRCH ,BIS,2019,SUM,no_restriction,no_add_code,10572,A,5,-,W,-,600-830P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '120', in original. Note: couldn't interpret 'Lerum,Kari', in original. Note: couldn't interpret 'A', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '29', in original. Note: couldn't interpret '32', in original. Note: couldn't interpret 'B', in original."
+BIS312,APPRS SOCIAL RESRCH ,BIS,2019,SUM,-,-,10573,B,5,-,TTh,230-500,DISC,258,"Carlisle, Shauna",Open,6,32,-,-,-
+BIS313,ISSUES MEDIA STDY,BIS,2019,SUM,no_restriction,no_add_code,10574,A,5,-,-,"to_be_arranged_Roberts,Georgia",M.,-,-,Closed,30,30,-,-,D
+BIS313,ISSUES MEDIA STDY,BIS,2019,SUM,no_restriction,no_add_code,10575,B,5,-,-,"to_be_arranged_Roberts,Georgia",M.,-,-,Closed,30,30,-,-,D
+BIS315,UNDERSTANDING STATS ,BIS,2019,SUM,no_restriction,no_add_code,10576,A,5,-,M,1145-215,UW1,120,"Collins, Charles R.",Closed,32,32,-,-,B
+BIS315,UNDERSTANDING STATS ,BIS,2019,SUM,no_restriction,no_add_code,10577,B,5,-,T,-,600-830P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '120', in original. Note: couldn't interpret 'Carlisle,Shauna', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '21', in original. Note: couldn't interpret '32', in original. Note: couldn't interpret 'B', in original."
+BIS338,POLI INSTITU & PROC ,BIS,2019,SUM,no_restriction,no_add_code,10579,A,5,-,TTh,230-500,UW1,220,"Nitta, Keith Akio",Open,25,45,-,-,-
+BIS340,APPRS CULTURAL RES,BIS,2019,SUM,no_restriction,no_add_code,10580,A,5,-,M,1145-215,UW1,050,"Desmet, Raissa",Open,29,32,-,-,B
+BIS341,STUDY OF CULTURE,BIS,2019,SUM,no_restriction,no_add_code,10581,A,5,-,W,1145-215,UW1,051,"Lerum, Kari A",Open,43,45,-,-,B
+BIS348,CULTURAL PSYCHOLOGY ,BIS,2019,SUM,no_restriction,no_add_code,10582,A,5,-,MW,230-500,UW1,051,"Stewart, Eric",Open,21,45,-,-,-
+BIS349,PERSONALITY PSYCH,BIS,2019,SUM,no_restriction,no_add_code,10583,A,5,-,MW,900-1130,UW1,202,"Stewart, Eric",Open,21,45,-,-,-
+BIS360,POLLINATOR DIV & CON,BIS,2019,SUM,no_restriction,no_add_code,14690,A,5,-,F,1000-300,UW1,060,"Lambert, Amy M",Open,16,30,-,-,%
+BIS363,POLTCS&POPULR MUSIC ,BIS,2019,SUM,no_restriction,no_add_code,10584,A,5,-,-,to_be_arranged,-,-,"Harewood, Susan",Open,29,30,-,-,D
+BIS363,POLTCS&POPULR MUSIC ,BIS,2019,SUM,no_restriction,no_add_code,14691,B,5,-,-,to_be_arranged,*,*,"Harewood, Susan",Open,26,30,-,-,D
+BIS364,REP OF ADOLESC DEV,BIS,2019,SUM,no_restriction,no_add_code,10585,A,5,-,-,"to_be_arranged_Udell,Wadiya",A,-,-,Open,29,30,-,-,D
+BIS372,REP COLONIAL TROPICS,BIS,2019,SUM,no_restriction,no_add_code,10586,A,5,-,MW,230-500,UW1,210,"Desmet, Raissa",Open,35,45,-,-,-
+BIS379,AM ETHNIC LIT,BIS,2019,SUM,-,add_code_required,10587,A,5,-,T,-,630-800P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '010', in original. Note: couldn't interpret 'Goldstein,David', in original. Note: couldn't interpret 'S.', in original. Note: couldn't interpret '45', in original. Note: couldn't interpret '45', in original. Note: couldn't interpret 'B', in original."
+BIS398,DIR STUDY/RESEARCH,BIS,2019,SUM,IS,add_code_required,10589,A,1-5,-,-,to_be_arranged,-,8,-,-,-,-,-,-,10E
+BIS468,HUMN RGT &SUSTN DEV ,BIS,2019,SUM,Restr,no_add_code,-,A,5,-,TTh,1145-215,UW2,131,"Kochis, Bruce E.",Open,20,40,-,-,-
+BIS490,ADVANCED SEMINAR,BIS,2019,SUM,Restr,no_add_code,-,A,5,-,TTh,230-500,UW1,060,"Murr, Jonathan E",Closed,18,18,-,-,-
+BIS490,ADVANCED SEMINAR,BIS,2019,SUM,Restr,no_add_code,-,B,5,-,W,230-500,UWBB,260,"Walsh, Camille",Open,13,18,-,-,B
+BIS492,SENIOR THESIS,BIS,2019,SUM,IS,add_code_required,10595,A,5,-,-,to_be_arranged,-,0,-,-,-,-,-,-,"10E Note: couldn't interpret 'W', in original."
+BIS495,INTERNSHIP,BIS,2019,SUM,-,add_code_required,10601,A,-,-,-,2-6,F,-,-,-,-,-,-,-,"900-1100 Note: couldn't interpret 'UW2', in original. Note: couldn't interpret '228', in original. Note: couldn't interpret 'Redwood,Loren', in original. Note: couldn't interpret 'K.', in original. Note: couldn't interpret '11', in original. Note: couldn't interpret '18', in original. Note: couldn't interpret 'CR_NC', in original."
+BIS498,UNDERGRAD RESEARCH,BIS,2019,SUM,IS,add_code_required,10602,A,1-5,-,-,to_be_arranged,-,10,-,-,-,-,-,-,10E
+BIS499,PORTFOLIO CAPSTONE,BIS,2019,SUM,Restr,no_add_code,-,A,3,-,MW,900-1130,UW1,021,"Gustafson, Kristin L.",Open,9,24,-,-,W
+BIS499,PORTFOLIO CAPSTONE,BIS,2019,SUM,Restr,no_add_code,-,B,3,-,W,-,600-830P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '121', in original. Note: couldn't interpret 'Atkinson,Jennifer', in original. Note: couldn't interpret 'W', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '22', in original. Note: couldn't interpret '23', in original. Note: couldn't interpret 'W', in original."
+BIS499,PORTFOLIO CAPSTONE,BIS,2019,SUM,Restr,no_add_code,-,C,3,-,Th,1145-215,UW1,060,"Pedersen, Alice L",Closed,24,24,-,-,W

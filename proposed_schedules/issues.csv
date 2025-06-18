@@ -1,0 +1,35 @@
+Issue,Issue Severity,Recommendation,Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other,Instructor_raw_from_website,Instructor_pronouns
+No instructor,Critical,Assign or Hire Instructor,BBIO 200,INTRO BIO II,BBIO,2025,SPR,,,,,,,MW,8:45-10:45,,,,,,72.0,,,,,
+No instructor,Critical,Assign or Hire Instructor,BBIO 200 AA,INTRO BIO II,BBIO,2025,SPR,,,,,,LB,W,11:00-1:00,,,,,,,,,,,
+No instructor,Critical,Assign or Hire Instructor,BBIO 200 AB,INTRO BIO II,BBIO,2025,SPR,,,,,,LB,W,1:30-3:30,,,,,,,,,,,
+No instructor,Critical,Assign or Hire Instructor,BBIO 200 AC,INTRO BIO II,BBIO,2025,SPR,,,,,,LB,Th ,11:00-1:00,,,,,,,,,,,
+No instructor,Critical,Assign or Hire Instructor,BBIO 220,INTRO BIO III,BBIO,2025,SPR,,,,,,,TTH ,8:45-10:45,,,,,,96.0,,,,,
+No instructor,Critical,Assign or Hire Instructor,BBIO 220 AA,INTRO BIO III,BBIO,2025,SPR,,,,,,LB,M,11:00-1:00,,,,,,,,,,,
+No instructor,Critical,Assign or Hire Instructor,BBIO 220 AB,INTRO BIO III,BBIO,2025,SPR,,,,,,LB,M,1:30-3:30,,,,,,,,,,,
+No instructor,Critical,Assign or Hire Instructor,BBIO 220 AC,INTRO BIO III,BBIO,2025,SPR,,,,,,LB,W,11:00-1:00,,,,,,,,,,,
+No instructor,Critical,Assign or Hire Instructor,BBIO 220 AD,INTRO BIO III,BBIO,2025,SPR,,,,,,LB,W,1:30-3:30,,,,,,,,,,,
+No instructor,Critical,Assign or Hire Instructor,BBIO 352,ANAT & PHYSIOL II,BBIO,2025,SPR,,,,,,,,,,,,,,60.0,,,,,
+No instructor,Critical,Assign or Hire Instructor,BBIO 352 AA,ANAT & PHYSIOL II,BBIO,2025,SPR,,,,,,LB,Th ,8:54- 11:45,,,,,,,,,,,
+No instructor,Critical,Assign or Hire Instructor,BBIO 352 AB,ANAT & PHYSIOL II,BBIO,2025,SPR,,,,,,LB,Th ,1:15-4:15,,,,,,,,,,,
+No instructor,Critical,Assign or Hire Instructor,BBIO 360,INTRO GENETICS,BBIO,2025,SPR,,,,,,,MW,11:00-1:00,,,,,,,,,,,
+No instructor,Critical,Assign or Hire Instructor,BBIO 370,MICROBIOLOGY,BBIO,2025,SPR,,,,,,,MW,3:30-5:30,,,,,,,,,,,
+No instructor,Critical,Assign or Hire Instructor,BBIO 370 AA,MICROBIOLOGY,BBIO,2025,SPR,,,,,,LB,M,1:15-3:15,,,,,,,,,,,
+No instructor,Critical,Assign or Hire Instructor,BBIO 370 AB,MICROBIOLOGY,BBIO,2025,SPR,,,,,,LB,T,8:45-10:45,,,,,,,,,,,
+No instructor,Critical,Assign or Hire Instructor,BBIO 375,MOLECULAR BIOLOGY,BBIO,2025,SPR,,,,,,,TTH,3:30-5:30,,,,,,,,,,,
+No instructor,Critical,Assign or Hire Instructor,BBIO 380 ,CELL BIOLOGY,BBIO,2025,SPR,,,,,,,MW,3:30-5:30,,,,,,,,,,,
+No instructor,Critical,Assign or Hire Instructor,BBIO 495 A,INVESTIGATIVE BIOLOGY,BBIO,2025,SPR,,,,,,LB,MW,1:15-3:15,,,,,,,,,,,
+No instructor,Critical,Assign or Hire Instructor,BBIO 495 B,INVESTIGATIVE BIOLOGY,BBIO,2025,SPR,,,,,,LB,TTh,11:00-1:00,,,,,,,,,,,
+No instructor,Critical,Assign or Hire Instructor,B BIO 180,INTRO BIOLOGY I,BBIO,2025,WIN,,,,,,,TTH ,8:45-10:45,,,,,,198.0,,,,,
+No instructor,Critical,Assign or Hire Instructor,B BIO 200,INTRO BIOLOGY II,BBIO,2025,WIN,,,,,,,MW,8:45-10:45,,,,,,96.0,,,,,
+No instructor,Critical,Assign or Hire Instructor,B BIO 351,ANAT & PHYSIOL I,BBIO,2025,WIN,,,,,,,MW,11:00-1:00,,,,,,90.0,,,,,
+No instructor,Critical,Assign or Hire Instructor,B BIO 352,ANAT & PHYSIOL I,BBIO,2025,WIN,,,,,,,MW,8:45-10:45,,,,,,60.0,,,,,
+No instructor,Critical,Assign or Hire Instructor,BBIO 375,MOLECULAR BIOLOGY,BBIO,2025,WIN,,,,,,,MW,3:30-5:30,,,,,,,,,,,
+No instructor,Critical,Assign or Hire Instructor,BBIO 470,Microbiology II,BBIO,2025,WIN,,,,,,,TTH,8:45-10:45,,,,,,,,,,,
+Problem Room: LBA 3,Moderate,Reschedule to another room,test,TEST CLASS,TEST,2025,WIN,,,,,,,,,LBA,3,test_instructor,,,,,,,,
+Problem Room: DISC 165B,Moderate,Reschedule to another room,test,TEST CLASS,TEST,2025,WIN,,,,,,,,,DISC,165B,test_instructor,,,,,,,,
+"Heavy load: Campbell, Dana is teaching 3.0 courses in AUT 2024",Moderate,"Check load for Campbell, Dana",BBIO180,INTRO BIOLOGY I,BBIO,2024,AUT,no_restriction,no_add_code,10807.0,AA,-,LB,T,1100-100,DISC,263,"Campbell, Dana",Closed,24.0,24.0,-,-,-,"Campbell, Dana",not listed
+"Heavy load: Campbell, Dana is teaching 3.0 courses in AUT 2024",Moderate,"Check load for Campbell, Dana",BBIO180,INTRO BIOLOGY I,BBIO,2024,AUT,no_restriction,no_add_code,10808.0,AB,-,LB,T,115-315,DISC,263,"Campbell, Dana",Closed,24.0,24.0,-,-,-,"Campbell, Dana",not listed
+"Heavy load: Campbell, Dana is teaching 3.0 courses in AUT 2024",Moderate,"Check load for Campbell, Dana",BBIO180,INTRO BIOLOGY I,BBIO,2024,AUT,no_restriction,no_add_code,10809.0,AC,-,LB,Th,1100-100,DISC,263,"Campbell, Dana",Closed,24.0,24.0,-,-,-,"Campbell, Dana",not listed
+"Heavy load: Campbell, Dana is teaching 3.0 courses in AUT 2024",Moderate,"Check load for Campbell, Dana",BBIO180,INTRO BIOLOGY I,BBIO,2024,AUT,no_restriction,no_add_code,10811.0,AE,-,LB,W,1115-115,DISC,263,"Campbell, Dana",Closed,24.0,24.0,-,-,-,"Campbell, Dana",not listed
+"Heavy load: Campbell, Dana is teaching 3.0 courses in AUT 2024",Moderate,"Check load for Campbell, Dana",BBIO180,INTRO BIOLOGY I,BBIO,2024,AUT,no_restriction,no_add_code,10812.0,AF,-,LB,W,230-430,DISC,263,"Campbell, Dana",Closed,24.0,24.0,-,-,-,"Campbell, Dana",not listed
+"Heavy load: Campbell, Dana is teaching 3.0 courses in AUT 2024",Moderate,"Check load for Campbell, Dana",BBIO180,INTRO BIOLOGY I,BBIO,2024,AUT,no_restriction,no_add_code,10810.0,AD,-,LB,W,845-1045,DISC,263,"Campbell, Dana",Closed,24.0,24.0,-,-,-,"Campbell, Dana",not listed

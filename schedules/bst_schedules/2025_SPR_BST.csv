@@ -1,0 +1,7 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BST205,WOMEN IN STEM,BST,2025,SPR,no_restriction,no_add_code,11719,A,3,-,MW,115-315,UW2,131,"Champion, Mia",Open,19,30,-,-,-
+BST498,IND STUDY SCI TECH,BST,2025,SPR,IS,-,11720,A,5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,10E
+BST498,IND STUDY SCI TECH,BST,2025,SPR,IS,-,11721,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,10E
+BST498,IND STUDY SCI TECH,BST,2025,SPR,-,add_code_required,21472,C,3,-,-,to_be_arranged,*,*,"McGowan, Veronica Cassone",-,1,-,-,-,"5E Note: couldn't interpret 'CR_NC', in original. Note: couldn't interpret 'J', in original."
+BST499,UG RESEARCH SCI TECH,BST,2025,SPR,IS,-,11722,A,5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,10E
+BST499,UG RESEARCH SCI TECH,BST,2025,SPR,IS,-,11723,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,-,-,-,10E

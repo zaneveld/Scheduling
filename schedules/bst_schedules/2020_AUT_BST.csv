@@ -1,8 +1,8 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
 BST205,WOMEN IN STEM,BST,2020,AUT,no_restriction,no_add_code,12008,A,3,-,TTh,915-1045,*,*,"Key, Joey Shapiro",Closed,37,30,-,-,%
 BST301,SCIENTIFIC WRITING,BST,2020,AUT,no_restriction,no_add_code,12009,A,5,-,TTh,1100-100,*,*,"Galindo, Heather M",Closed,24,24,-,-,W
-BST498,IND STUDY SCI TECH,BST,2020,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,12010,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '5', in original."
-BST498,IND STUDY SCI TECH,BST,2020,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,12011,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '1', in original. Note: couldn't interpret '5', in original. Note: couldn't interpret 'CR_NC', in original."
-BST498,IND STUDY SCI TECH,BST,2020,AUT,-,-,-,IS,-,-,-,-,-,-,-,-,-,-,-,-,"add_code_required Note: couldn't interpret '12012', in original. Note: couldn't interpret 'C', in original. Note: couldn't interpret '1-5', in original. Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '15', in original."
-BST499,UG RESEARCH SCI TECH,BST,2020,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,12013,-,-,-,-,-,-,"A_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '5', in original."
-BST499,UG RESEARCH SCI TECH,BST,2020,AUT,no_restriction,no_add_code,-,IS,-,-,-,-,-,12014,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '5', in original. Note: couldn't interpret 'CR_NC', in original."
+BST498,IND STUDY SCI TECH,BST,2020,AUT,IS,-,12010,A,1-5,-,-,to_be_arranged,-,-,-,Open,0,5,-,-,-
+BST498,IND STUDY SCI TECH,BST,2020,AUT,IS,-,12011,B,1-5,-,-,to_be_arranged,-,-,-,Open,1,5,CR_NC,-,-
+BST498,IND STUDY SCI TECH,BST,2020,AUT,IS,add_code_required,12012,C,1-5,-,-,to_be_arranged,-,0,-,-,15,-,-,-,-
+BST499,UG RESEARCH SCI TECH,BST,2020,AUT,IS,-,12013,A,1-5,-,-,to_be_arranged,-,-,-,Open,0,5,-,-,-
+BST499,UG RESEARCH SCI TECH,BST,2020,AUT,IS,-,12014,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,5,CR_NC,-,-

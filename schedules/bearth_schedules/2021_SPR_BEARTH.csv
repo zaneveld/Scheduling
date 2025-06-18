@@ -1,5 +1,5 @@
-Class Number,Class,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BEARTH153,INTRO GEOLOGY,no_restriction,no_add_code,11154,A,5,-,MW,945-1045,*,*,"Shinneman, Avery",Open,38,40,-,-,-
-BEARTH154,INTRO OCEANOGRAPHY,no_restriction,no_add_code,11155,A,5,-,TTh,115-315,*,*,"Galindo, Heather M",Open,29,30,-,-,-
-BEARTH155,INTRO TO CLIMATE SCI,no_restriction,no_add_code,11156,A,5,-,-,to_be_arranged,*,*,"Salathe, Eric P",Closed,30,30,-,-,-
-BEARTH341,NATURAL HAZARDS,no_restriction,no_add_code,11158,A,5,-,T,1100-100,*,*,"Turner, Rob",Closed,45,45,-,-,-
+Class Number,Class,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other,Year,Quarter
+BEARTH153,INTRO GEOLOGY,no_restriction,no_add_code,11154,A,5,-,MW,945-1045,*,*,"Shinneman, Avery",Open,38,40,-,-,-,2021,SPR
+BEARTH154,INTRO OCEANOGRAPHY,no_restriction,no_add_code,11155,A,5,-,TTh,115-315,*,*,"Galindo, Heather M",Open,29,30,-,-,-,2021,SPR
+BEARTH155,INTRO TO CLIMATE SCI,no_restriction,no_add_code,11156,A,5,-,-,to_be_arranged,*,*,"Salathe, Eric P",Closed,30,30,-,-,-,2021,SPR
+BEARTH341,NATURAL HAZARDS,no_restriction,no_add_code,11158,A,5,-,T,1100-100,*,*,"Turner, Rob",Closed,45,45,-,-,-,2021,SPR

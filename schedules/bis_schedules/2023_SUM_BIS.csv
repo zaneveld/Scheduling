@@ -1,0 +1,34 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BIS121,INTRO TO DRAWING,BIS,2023,SUM,no_restriction,no_add_code,10498,A,5,-,-,to_be_arranged,-,-,"Carpenter, Gary",Open,25,30,-,-,A
+BIS132,INTRO PHOTOGRAPHY,BIS,2023,SUM,no_restriction,no_add_code,10499,A,5,-,-,to_be_arranged,-,-,"Carpenter, Phillip",Closed,24,24,-,-,A
+BIS132,INTRO PHOTOGRAPHY,BIS,2023,SUM,no_restriction,no_add_code,10500,B,5,-,MW,200-430,UW2,121,"Hsu, Howard",Open,22,24,-,-,-
+BIS181,INTRO TO SOCIOLOGY,BIS,2023,SUM,no_restriction,no_add_code,10501,A,5,-,M,1115-145,UW1,020,"Lerum, Kari A",Open,27,48,-,-,B
+BIS200,INTRO MICROECON,BIS,2023,SUM,no_restriction,no_add_code,10502,A,5,-,TTh,830-1100,UW1,221,"Nedita, Codrin",Open,5,11,-,-,J
+BIS215,UNDERSTANDING STATS ,BIS,2023,SUM,no_restriction,no_add_code,10503,A,5,-,-,to_be_arranged,-,-,"Carlisle, Shauna",Open,37,40,-,-,A
+BIS222,HUMAN SEXUALITY,BIS,2023,SUM,no_restriction,no_add_code,10504,A,5,-,-,"to_be_arranged_Lichty,Lauren",F.,-,-,Open,43,48,-,-,A
+BIS232,DATA VISUALIZATION,BIS,2023,SUM,no_restriction,no_add_code,10505,A,5,-,TTh,1115-145,UW1,120,"Trujillo, Caleb",Open,29,32,-,-,SB
+BIS237,PUBLIC SPEAKING/COM ,BIS,2023,SUM,no_restriction,no_add_code,10507,A,5,-,TTh,1115-145,UWBB,230,"Vaughan, Denise A",Open,13,24,-,-,B
+BIS255,CRITICAL DIVERSITY,BIS,2023,SUM,no_restriction,no_add_code,10508,A,5,-,T,1115-145,UW1,040,"Murr, Jed",Open,16,24,-,-,BJ
+BIS306,MARINE DIV & CONSER ,BIS,2023,SUM,no_restriction,no_add_code,14229,A,5,-,-,to_be_arranged,*,*,"Maxwell, Sara",Closed,48,48,-,-,A
+BIS312,APPRS SOCIAL RESRCH ,BIS,2023,SUM,no_restriction,no_add_code,10509,A,5,-,-,"to_be_arranged_Collins,Charles",R.,-,-,Open,46,48,-,-,A
+BIS313,ISSUES MEDIA STDY,BIS,2023,SUM,no_restriction,no_add_code,10510,A,5,-,-,"to_be_arranged_Roberts,Georgia",M.,-,-,Open,46,48,-,-,A
+BIS316,TPCS IN PSYCHOLOGY,BIS,2023,SUM,no_restriction,no_add_code,10511,A,5,-,TTh,200-430,UW1,040,"Stewart, Eric",Open,22,48,-,-,-
+BIS324,"GENDER, RIGHTS, CNMA",BIS,2023,SUM,no_restriction,no_add_code,10512,A,5,-,-,to_be_arranged,-,-,"Kurian, Alka",Closed,51,48,-,-,A
+BIS331,JOURN & MEDIA HSTRY ,BIS,2023,SUM,no_restriction,no_add_code,10513,A,5,-,-,to_be_arranged,-,-,"Gustafson, Kristin",Open,35,48,-,-,-
+BIS340,APPRS CULTURAL RES,BIS,2023,SUM,no_restriction,no_add_code,10514,A,5,-,TTh,200-430,UW2,305,"Desmet, Raissa",Open,29,32,-,-,-
+BIS363,POLTCS&POPULR MUSIC ,BIS,2023,SUM,no_restriction,no_add_code,10515,A,5,-,-,to_be_arranged,-,-,"Harewood, Susan",Open,32,48,-,-,A
+BIS364,REP OF ADOLESC DEV,BIS,2023,SUM,no_restriction,no_add_code,10516,A,5,-,-,"to_be_arranged_Udell,Wadiya",A,-,-,Open,47,48,-,-,A
+BIS372,REP COLONIAL TROPICS,BIS,2023,SUM,no_restriction,no_add_code,10517,A,5,-,TTh,1115-145,UW1,210,"Desmet, Raissa",Open,23,48,-,-,-
+BIS379,AM ETHNIC LIT,BIS,2023,SUM,no_restriction,no_add_code,10518,A,5,-,-,to_be_arranged,-,-,"Murr, Jed",Closed,48,48,-,-,A
+BIS388,LIT IN TRANSLATION,BIS,2023,SUM,no_restriction,no_add_code,10519,A,5,-,-,"to_be_arranged_Ferreira,Silvia",C,-,-,Open,41,48,-,-,A
+BIS398,DIR STUDY/RESEARCH,BIS,2023,SUM,IS,add_code_required,10520,A,1-5,-,-,to_be_arranged,-,2,-,-,-,-,-,-,10E
+BIS475,AMERICANS IN EUROPE ,BIS,2023,SUM,-,add_code_required,14182,A,5,-,-,to_be_arranged,*,*,"Walsh, Camille",-,0,20,-,-,%B
+BIS480,INT'L STUDY ABROAD,BIS,2023,SUM,-,add_code_required,10521,A,5,-,-,to_be_arranged,-,0,-,-,-,-,-,-,"20E Note: couldn't interpret 'CR_NC', in original."
+BIS490,ADVANCED SEMINAR,BIS,2023,SUM,Restr,no_add_code,-,A,5,-,M,830-1100,UWBB,205,"Lerum, Kari A",Open,8,24,-,-,WB
+BIS490,ADVANCED SEMINAR,BIS,2023,SUM,Restr,no_add_code,-,B,5,-,TTh,1115-145,UW1,261,"Reynoso, Enrique",Open,4,24,-,-,W
+BIS490,ADVANCED SEMINAR,BIS,2023,SUM,Restr,no_add_code,-,C,5,-,-,to_be_arranged,-,-,"Walsh, Camille",Open,23,24,-,-,WA
+BIS495,INTERNSHIP,BIS,2023,SUM,-,add_code_required,10525,A,-,-,-,2-6,-,-,-,-,-,-,-,-,"to_be_arranged Note: couldn't interpret 'Redwood,Loren', in original. Note: couldn't interpret 'K.', in original. Note: couldn't interpret '4', in original. Note: couldn't interpret '24', in original. Note: couldn't interpret 'CR_NC', in original."
+BIS498,UNDERGRAD RESEARCH,BIS,2023,SUM,IS,add_code_required,10526,A,1-5,-,-,to_be_arranged,-,1,-,-,-,-,-,-,10E
+BIS499,PORTFOLIO CAPSTONE,BIS,2023,SUM,Restr,no_add_code,-,A,5,-,-,to_be_arranged,-,-,"Bodle, Carrie",Open,23,24,-,-,WA
+BIS499,PORTFOLIO CAPSTONE,BIS,2023,SUM,Restr,no_add_code,-,B,5,-,-,"to_be_arranged_Goldstein,David",S.,-,-,Open,23,24,-,-,WA
+BIS499,PORTFOLIO CAPSTONE,BIS,2023,SUM,Restr,no_add_code,-,C,5,-,W,-,600-830P,-,-,-,-,-,-,-,"UW1 Note: couldn't interpret '121', in original. Note: couldn't interpret 'Atkinson,Jennifer', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '8', in original. Note: couldn't interpret '24', in original. Note: couldn't interpret 'WB', in original."

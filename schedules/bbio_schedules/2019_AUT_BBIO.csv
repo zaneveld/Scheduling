@@ -1,34 +1,34 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BBIO180,INTRO BIOLOGY I,BBIO,2019,AUT,no_restriction,no_add_code,10751,A,5,-,TTh,845-1045,DISC,061,"Jensen, Jeffrey",Open,134,144,-,$70,-
-BBIO180,INTRO BIOLOGY I,BBIO,2019,AUT,no_restriction,no_add_code,10752,AA,-,LB,M,845-1045,DISC,263,"Jensen, Jeffrey",Open,23,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2019,AUT,no_restriction,no_add_code,10753,AB,-,LB,M,1115-115,DISC,263,"Jensen, Jeffrey",Open,22,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2019,AUT,no_restriction,no_add_code,10754,AC,-,LB,M,145-345,DISC,263,"Campbell, Dana",Open,22,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2019,AUT,no_restriction,no_add_code,10755,AD,-,LB,W,845-1045,DISC,263,"Campbell, Dana",Open,20,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2019,AUT,no_restriction,no_add_code,10756,AE,-,LB,W,1115-115,DISC,263,"Campbell, Dana",Closed,24,24,-,-,-
-BBIO180,INTRO BIOLOGY I,BBIO,2019,AUT,no_restriction,no_add_code,10757,AF,-,LB,W,145-345,DISC,263,"Campbell, Dana",Open,23,24,-,-,-
-BBIO220,INTRO BIOLOGY III,BBIO,2019,AUT,no_restriction,no_add_code,10758,A,5,-,TTh,845-1045,DISC,162,"White, Bryan",Open,56,72,-,$70,-
-BBIO220,INTRO BIOLOGY III,BBIO,2019,AUT,no_restriction,no_add_code,10759,AA,-,LB,M,1100-100,DISC,267,"White, Bryan",Open,16,24,-,-,-
-BBIO220,INTRO BIOLOGY III,BBIO,2019,AUT,no_restriction,no_add_code,10760,AB,-,LB,W,1100-100,DISC,267,"White, Bryan",Open,17,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2019,AUT,-,-,10751,A,5,-,TTh,845-1045,DISC,061,"Jensen, Jeffrey",Open,134,144,-,$70,-
+BBIO180,INTRO BIOLOGY I,BBIO,2019,AUT,-,-,10752,AA,-,LB,M,845-1045,DISC,263,"Jensen, Jeffrey",Open,23,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2019,AUT,-,-,10753,AB,-,LB,M,1115-115,DISC,263,"Jensen, Jeffrey",Open,22,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2019,AUT,-,-,10754,AC,-,LB,M,145-345,DISC,263,"Campbell, Dana",Open,22,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2019,AUT,-,-,10755,AD,-,LB,W,845-1045,DISC,263,"Campbell, Dana",Open,20,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2019,AUT,-,-,10756,AE,-,LB,W,1115-115,DISC,263,"Campbell, Dana",Closed,24,24,-,-,-
+BBIO180,INTRO BIOLOGY I,BBIO,2019,AUT,-,-,10757,AF,-,LB,W,145-345,DISC,263,"Campbell, Dana",Open,23,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2019,AUT,-,-,10758,A,5,-,TTh,845-1045,DISC,162,"White, Bryan",Open,56,72,-,$70,-
+BBIO220,INTRO BIOLOGY III,BBIO,2019,AUT,-,-,10759,AA,-,LB,M,1100-100,DISC,267,"White, Bryan",Open,16,24,-,-,-
+BBIO220,INTRO BIOLOGY III,BBIO,2019,AUT,-,-,10760,AB,-,LB,W,1100-100,DISC,267,"White, Bryan",Open,17,24,-,-,-
 BBIO220,INTRO BIOLOGY III,BBIO,2019,AUT,-,add_code_required,10761,AC,-,LB,W,130-330,DISC,267,"White, Bryan",-,23,24,-,-,-
-BBIO260,MEDICAL MICROBIOL,BBIO,2019,AUT,Restr,no_add_code,-,A,6,-,MW,115-315,DISC,252,"Davidson, Seana K",Open,31,40,-,$171,-
-BBIO260,MEDICAL MICROBIOL,BBIO,2019,AUT,Restr,no_add_code,-,AA,-,LB,TTh,845-1045,DISC,263,"Sundaravaradan, Vasudha",Open,18,20,-,-,-
-BBIO260,MEDICAL MICROBIOL,BBIO,2019,AUT,Restr,no_add_code,-,AB,-,LB,TTh,115-315,DISC,263,"Colunga, Aric G",Open,13,20,-,-,-
+BBIO260,MEDICAL MICROBIOL,BBIO,2019,AUT,Restr,-,-,A,6,-,MW,115-315,DISC,252,"Davidson, Seana K",Open,31,40,-,$171,-
+BBIO260,MEDICAL MICROBIOL,BBIO,2019,AUT,Restr,-,-,AA,-,LB,TTh,845-1045,DISC,263,"Sundaravaradan, Vasudha",Open,18,20,-,-,-
+BBIO260,MEDICAL MICROBIOL,BBIO,2019,AUT,Restr,-,-,AB,-,LB,TTh,115-315,DISC,263,"Colunga, Aric G",Open,13,20,-,-,-
 BBIO310,BRAIN AND BEHAVIOR,BBIO,2019,AUT,-,add_code_required,10766,A,5,-,MW,1100-100,UW2,005,"Al-Noori, Salwa",-,69,70,-,-,-
 BBIO335,SALMON AND SOCIETY,BBIO,2019,AUT,no_restriction,no_add_code,10767,A,5,-,F,845-1245,SSG,CNSVTRY,"Jensen, Jeffrey",Open,18,20,-,$100,-
 BBIO351,ANAT & PHYSIOL I,BBIO,2019,AUT,-,add_code_required,10768,A,5,-,TTh,845-1045,DISC,252,"Price, M",-,59,60,-,$160,-
 BBIO351,ANAT & PHYSIOL I,BBIO,2019,AUT,-,add_code_required,10769,AA,-,LB,T,200-500,DISC,267,"Price, M",-,19,20,-,-,-
 BBIO351,ANAT & PHYSIOL I,BBIO,2019,AUT,-,add_code_required,10770,AB,-,LB,Th,200-500,DISC,267,"Price, M",-,18,20,-,-,-
-BBIO351,ANAT & PHYSIOL I,BBIO,2019,AUT,no_restriction,no_add_code,10771,AC,-,LB,F,845-1145,DISC,267,"Price, M",Closed,22,20,-,-,-
+BBIO351,ANAT & PHYSIOL I,BBIO,2019,AUT,-,-,10771,AC,-,LB,F,845-1145,DISC,267,"Price, M",Closed,22,20,-,-,-
 BBIO360,INTRO GENETICS,BBIO,2019,AUT,no_restriction,no_add_code,10772,A,5,-,MW,1100-100,UW1,041,"Lewis, Alaron A",Closed,61,60,-,-,-
 BBIO364,BIOCHEMISTRY I,BBIO,2019,AUT,-,add_code_required,10773,A,5,-,MW,845-1045,UW1,210,"Tyson, Elizabeth",-,33,24,-,-,J
 BBIO365,BIOCHEMISTRY II,BBIO,2019,AUT,no_restriction,no_add_code,10774,A,5,-,TTh,1100-100,UW1,020,"Anderson, Peter",Open,29,24,-,-,J
 BBIO366,BIOCHEMISTRY LAB,BBIO,2019,AUT,no_restriction,no_add_code,10775,A,3,-,M,115-215,UW2,228,"Tyson, Elizabeth",Open,6,8,-,$75,J
-BBIO366,BIOCHEMISTRY LAB,BBIO,2019,AUT,no_restriction,no_add_code,10776,AA,-,LB,T,1215-315,DISC,469,"Tyson, Elizabeth",Open,6,8,-,-,J
+BBIO366,BIOCHEMISTRY LAB,BBIO,2019,AUT,-,-,10776,AA,-,LB,T,1215-315,DISC,469,"Tyson, Elizabeth",Open,6,8,-,-,J
 BBIO370,MICROBIOLOGY,BBIO,2019,AUT,-,add_code_required,10777,A,5,-,TTh,115-315,UW2,141,"Davidson, Seana K",-,45,48,-,$150,-
 BBIO370,MICROBIOLOGY,BBIO,2019,AUT,-,add_code_required,10778,AA,-,LB,F,845-1045,DISC,263,"Davidson, Seana K",-,22,24,-,-,-
 BBIO370,MICROBIOLOGY,BBIO,2019,AUT,-,add_code_required,10779,AB,-,LB,F,115-315,DISC,263,"Davidson, Seana K",-,23,24,-,-,-
 BBIO375,MOLECULAR BIOLOGY,BBIO,2019,AUT,no_restriction,no_add_code,10780,A,5,-,MW,845-1045,UW1,031,"Madzima, Thelma F",Open,17,15,-,-,J
 BBIO380,CELL BIOLOGY,BBIO,2019,AUT,-,add_code_required,10781,A,5,-,F,115-345,DISC,252,"Lewis, Alaron A",-,47,48,-,-,-
-BBIO466,EVOLUTION,BBIO,2019,AUT,no_restriction,no_add_code,10783,A,5,-,TTh,1100-100,DISC,252,"Zaneveld, J",Open,49,60,-,-,-
+BBIO466,EVOLUTION,BBIO,2019,AUT,-,-,10783,A,5,-,TTh,1100-100,DISC,252,"Zaneveld, J",Open,49,60,-,-,-
 BBIO495,INVESTIGATIVE BIO,BBIO,2019,AUT,-,add_code_required,10784,A,5,-,TTh,115-315,SSG,CNSVTRY,"Chang, C",-,12,12,-,$130,-
 BBIO495,INVESTIGATIVE BIO,BBIO,2019,AUT,-,add_code_required,10785,B,5,-,TTh,1100-100,DISC,267,"Wacker, D",-,10,12,-,$130,-

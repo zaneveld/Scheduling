@@ -3,8 +3,8 @@ BST200,INTRO TO CLIMATE SCI,BST,2019,WIN,no_restriction,no_add_code,11833,A,5,-,
 BST205,WOMEN IN STEM,BST,2019,WIN,no_restriction,no_add_code,21683,A,3,-,TTh,115-245,UW1,041,"Hill, Erin",Open,29,30,-,-,%
 BST293,SPECIAL TOPICS,BST,2019,WIN,no_restriction,no_add_code,21684,A,5,-,TTh,845-1045,UW2,221,"Hill, Erin",Open,8,30,-,-,-
 BST301,SCIENTIFIC WRITING,BST,2019,WIN,no_restriction,no_add_code,11834,A,5,-,TTh,845-1045,UW2,141,"Galindo, Heather M",Closed,24,24,-,-,W
-BST498,IND STUDY SCI TECH,BST,2019,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,11837,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10', in original. Note: couldn't interpret 'CR_NC', in original."
-BST498,IND STUDY SCI TECH,BST,2019,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,11838,-,-,-,-,-,-,"C_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '1', in original. Note: couldn't interpret '30', in original."
-BST499,UG RESEARCH SCI TECH,BST,2019,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,11839,A,-,5,-,-,-,"to_be_arranged Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '30', in original."
-BST499,UG RESEARCH SCI TECH,BST,2019,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,11840,-,-,-,-,-,-,"B_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10', in original. Note: couldn't interpret 'CR_NC', in original."
-BST499,UG RESEARCH SCI TECH,BST,2019,WIN,no_restriction,no_add_code,-,IS,-,-,-,-,-,11841,-,-,-,-,-,-,"C_1-5 Note: couldn't interpret 'to_be_arranged', in original. Note: couldn't interpret 'Open', in original. Note: couldn't interpret '0', in original. Note: couldn't interpret '10', in original."
+BST498,IND STUDY SCI TECH,BST,2019,WIN,IS,-,11837,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,10,CR_NC,-,-
+BST498,IND STUDY SCI TECH,BST,2019,WIN,IS,-,11838,C,1-5,-,-,to_be_arranged,-,-,-,Open,1,30,-,-,-
+BST499,UG RESEARCH SCI TECH,BST,2019,WIN,IS,-,11839,A,5,-,-,to_be_arranged,-,-,-,Open,0,30,-,-,-
+BST499,UG RESEARCH SCI TECH,BST,2019,WIN,IS,-,11840,B,1-5,-,-,to_be_arranged,-,-,-,Open,0,10,CR_NC,-,-
+BST499,UG RESEARCH SCI TECH,BST,2019,WIN,IS,-,11841,C,1-5,-,-,to_be_arranged,-,-,-,Open,0,10,-,-,-

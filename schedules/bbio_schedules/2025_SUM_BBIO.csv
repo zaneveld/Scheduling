@@ -1,0 +1,9 @@
+Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
+BBIO310,BRAIN AND BEHAVIOR,BBIO,2025,SUM,no_restriction,no_add_code,14307,B,5,-,MTWTh,830-1100,UW1,202,"White, Bryan",Open,10,48,-,-,-
+BBIO340,INTRO BIOINFORMATICS,BBIO,2025,SUM,no_restriction,no_add_code,10203,A,5,-,MTWTh,1115-145,*,*,"Zaneveld, Jesse",Open,15,48,-,-,O
+BBIO360,INTRO GENETICS,BBIO,2025,SUM,no_restriction,no_add_code,10204,A,5,-,MW,1115-145,UW2,005,"Lewis, Alaron A",Open,22,48,-,-,B
+BBIO364,BIOCHEMISTRY I,BBIO,2025,SUM,no_restriction,no_add_code,10205,A,5,-,MTWTh,1115-145,UW1,041,"Anderson, Peter",Closed,24,24,-,-,J
+BBIO365,BIOCHEMISTRY II,BBIO,2025,SUM,no_restriction,no_add_code,10206,A,5,-,MTWTh,1115-145,UW1,202,"Anderson, Peter",Closed,24,24,-,-,J
+BBIO383,BIOINFORMATICS,BBIO,2025,SUM,no_restriction,no_add_code,10207,A,5,-,MTWTh,1115-145,*,*,"Zaneveld, Jesse",Closed,15,15,-,$23,JO
+BBIO394,TOPICS IN NEUROSCI,BBIO,2025,SUM,no_restriction,no_add_code,10208,A,5,-,MW,830-1100,UW1,261,"Al-Noori, Salwa",Open,15,30,-,-,B
+BBIO495,INVESTIGATIVE BIO,BBIO,2025,SUM,-,add_code_required,10209,A,5,-,MWTh,1200-400,DISC,463,"Hamilton, Guy",-,7,12,-,$60,-

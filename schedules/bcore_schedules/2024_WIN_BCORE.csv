@@ -4,7 +4,7 @@ BCORE115,INDVDUALS & SOC 2,BCORE,2024,WIN,no_restriction,no_add_code,10900,B,5,-
 BCORE115,INDVDUALS & SOC 2,BCORE,2024,WIN,no_restriction,no_add_code,10901,C,5,-,TTh,330-530,UW2,221,"Doyle, Gavin",Closed,7,10,-,-,J
 BCORE115,INDVDUALS & SOC 2,BCORE,2024,WIN,no_restriction,no_add_code,10902,D,5,-,T,330-530,UW1,060,"West, Maureen P.",Closed,30,30,-,-,SB
 BCORE116,NATURAL WORLD 2,BCORE,2024,WIN,no_restriction,no_add_code,10903,A,5,-,W,1100-100,*,*,"Lasker, Grace",Open,29,30,-,-,-
-BCORE116,NATURAL WORLD 2,BCORE,2024,WIN,no_restriction,no_add_code,10904,B,5,-,TTh,1100-100,DISC,252,"Gregory, Wanda",Open,10,20,-,-,J
+BCORE116,NATURAL WORLD 2,BCORE,2024,WIN,-,-,10904,B,5,-,TTh,1100-100,DISC,252,"Gregory, Wanda",Open,10,20,-,-,J
 BCORE117,VIS LIT PRFM ART 2,BCORE,2024,WIN,no_restriction,no_add_code,10905,A,5,-,MW,845-1045,UW2,105,"Carpenter, Gary",Open,28,30,-,-,S
 BCORE117,VIS LIT PRFM ART 2,BCORE,2024,WIN,no_restriction,no_add_code,10907,C,5,-,MW,115-315,UW2,211,"Brooks, Peter",Open,18,24,-,-,-
 BCORE117,VIS LIT PRFM ART 2,BCORE,2024,WIN,no_restriction,no_add_code,10908,D,5,-,M,330-530,UW2,221,"Roberts, Georgia M.",Closed,30,30,-,-,B
@@ -12,6 +12,6 @@ BCORE117,VIS LIT PRFM ART 2,BCORE,2024,WIN,no_restriction,no_add_code,10909,E,5,
 BCORE117,VIS LIT PRFM ART 2,BCORE,2024,WIN,no_restriction,no_add_code,10910,F,5,-,TTh,1100-100,UW1,121,"Porter, Ian",Open,24,30,-,-,S
 BCORE117,VIS LIT PRFM ART 2,BCORE,2024,WIN,no_restriction,no_add_code,10911,G,5,-,TTh,845-1045,UW2,031,"Lambacher, Jason Frederick",Open,15,20,-,-,J
 BCORE117,VIS LIT PRFM ART 2,BCORE,2024,WIN,no_restriction,no_add_code,10912,H,5,-,TTh,330-530,UW2,221,"Doyle, Gavin",Closed,23,20,-,-,J
-BCORE117,VIS LIT PRFM ART 2,BCORE,2024,WIN,no_restriction,no_add_code,10913,I,5,-,TTh,1100-100,DISC,252,"Gregory, Wanda",Open,18,30,-,-,J
+BCORE117,VIS LIT PRFM ART 2,BCORE,2024,WIN,-,-,10913,I,5,-,TTh,1100-100,DISC,252,"Gregory, Wanda",Open,18,30,-,-,J
 BCORE133,DISCOVERY CORE III,BCORE,2024,WIN,Restr,no_add_code,-,A,2,-,F,115-315,UW2,105,"Hillyard, Cinnamon",Open,17,20,-,-,-
 BCORE233,TPCS PRE-HLTH PTHWYS,BCORE,2024,WIN,no_restriction,no_add_code,10916,A,2,-,W,330-530,UW2,131,"Labrecque, Kristen",Open,45,48,CR_NC,-,%

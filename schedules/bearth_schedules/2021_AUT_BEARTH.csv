@@ -1,9 +1,9 @@
 Class Number,Class,Division,Year,Quarter,Restrictions,Add Code Required,SLN,ID,Credit,Laboratory,Meeting Day,Meeting Times,Building,Room,Instructor,Status,Enrolled,Enrollment Limit,Grades,Fee,Other
-BEARTH154,INTRO OCEANOGRAPHY,BEARTH,2021,AUT,no_restriction,no_add_code,11370,A,5,-,TTh,115-315,DISC,369,"Galindo, Heather M",Closed,24,24,-,-,-
-BEARTH155,INTRO TO CLIMATE SCI,BEARTH,2021,AUT,no_restriction,no_add_code,11371,A,5,-,MW,1100-100,DISC,369,"Hernandez, Jessica",Open,22,24,-,-,-
-BEARTH201,EARTH SYS MAPPING,BEARTH,2021,AUT,no_restriction,no_add_code,11372,A,5,-,TTh,330-530,DISC,369,"Shinneman, Avery",Open,19,24,-,-,%
+BEARTH154,INTRO OCEANOGRAPHY,BEARTH,2021,AUT,-,-,11370,A,5,-,TTh,115-315,DISC,369,"Galindo, Heather M",Closed,24,24,-,-,-
+BEARTH155,INTRO TO CLIMATE SCI,BEARTH,2021,AUT,-,-,11371,A,5,-,MW,1100-100,DISC,369,"Hernandez, Jessica",Open,22,24,-,-,-
+BEARTH201,EARTH SYS MAPPING,BEARTH,2021,AUT,-,-,11372,A,5,-,TTh,330-530,DISC,369,"Shinneman, Avery",Open,19,24,-,-,%
 BEARTH300,ENV SYSTEM THINKING ,BEARTH,2021,AUT,Restr,no_add_code,-,A,5,-,MW,1100-100,UW2,221,"Turner, Rob",Open,13,30,-,-,%
-BEARTH317,SOILS IN THE ENVIRON,BEARTH,2021,AUT,no_restriction,no_add_code,11374,A,5,-,M,330-530,DISC,369,"Malone, Melanie",Open,8,24,-,$50,B
+BEARTH317,SOILS IN THE ENVIRON,BEARTH,2021,AUT,-,-,11374,A,5,-,M,330-530,DISC,369,"Malone, Melanie",Open,8,24,-,$50,B
 BEARTH320,CLIMATE IMPACTS,BEARTH,2021,AUT,no_restriction,no_add_code,11375,A,5,-,MW,1100-100,UW1,031,"Salathe, E",Open,29,30,-,-,-
-BEARTH321,GEOMORPHOLOGY,BEARTH,2021,AUT,no_restriction,no_add_code,11376,A,5,-,TTh,1100-100,DISC,369,"Shinneman, Avery",Closed,24,24,-,-,-
+BEARTH321,GEOMORPHOLOGY,BEARTH,2021,AUT,-,-,11376,A,5,-,TTh,1100-100,DISC,369,"Shinneman, Avery",Closed,24,24,-,-,-
 BEARTH341,NATURAL HAZARDS,BEARTH,2021,AUT,no_restriction,no_add_code,11377,A,5,-,TTh,330-530,UW2,340,"Redsteer, Margaret",Open,11,40,-,-,-
