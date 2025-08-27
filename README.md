@@ -57,6 +57,10 @@ Use the link above to view entries in the scheduling log. I'll record changes th
 
 <a href = "https://docs.google.com/spreadsheets/d/1Hp9lFGK47g6fygIxH3M4N_X9SQSqdcz_gp3h8-lrZMY/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> Schedule Planning AUT2025 - SPR2026 </a>
 
+<a href = "https://www.dropbox.com/scl/fi/yupyec12xjd19uoj7ud16/STEM_Planning_Tool_Winter26_Initial_Submission_r1.csv?rlkey=q1q00hulaox5j806ab2rjslqn&dl=0"> Initial Submission WIN2026 Planning Sheet </a>
+
+<a href = "https://www.dropbox.com/scl/fi/lygo7w9iqgslqqvdz0fh1/STEM-Planning-Tool_Spring26.xlsx?rlkey=h8c0yv65vqbm6eplsoz96cpeo&dl=0"> Initial Submission SPR2026 Planning Sheet </a>
+
 
 
 
