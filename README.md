@@ -38,7 +38,7 @@ Use the link above to view entries in the scheduling log. I'll record changes th
 ## STEM Internal Links (Restricted Access)
 <a href="https://uwnetid.sharepoint.com/:x:/r/sites/og_stem_time_schedule/Shared%20Documents/Planning%20tools/AY%202025-26/STEM%20Planning%20Tool_Autumn25.xlsx?d=w1e131458660c44f3a8cae4f92a9d8afd&csf=1&web=1&e=7FglAg" target="_blank" rel="noopener noreferrer"> STEM Time Schedule Change Spreadsheet (Updated as of 2/5/2025)</a>
 
-
+<a href="https://uwnetid-my.sharepoint.com/:x:/r/personal/stemadm_uw_edu/_layouts/15/Doc.aspx?sourcedoc=%7B811F2CCA-0115-4349-BB7F-D576938A48E2%7D&file=AY25-26%20PT%20Assignments.xlsx&action=default&mobileredirect=true"> Part Time Instructor Assignments </a>
 
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=W9229i_wGkSZoBYqxQYL0h9UBx13xapHuqmsVDYDNcRUQjAzM0MwQjBXS1ZFM1hKWUZNV1ZDRFM4MSQlQCN0PWcu" target="_blank" rel="noopener noreferrer"> School of STEM Course Change Form </a>
 
