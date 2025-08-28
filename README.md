@@ -20,12 +20,14 @@ Link to ad for part-time teaching faculty at UW Bothell Biological Sciences
 
 ### Planning Tools
 
+<a href="https://docs.google.com/spreadsheets/d/1vit15cTAab0oFcXShCKY8sVbGLPYlcaVBbu3MyhQ1NU/edit?gid=149408979#gid=149408979" target="_blank" rel="noopener noreferrer"> Scheduling Plan </a> — this Excel sheet holds planning information for courses planned to be on offer by biology but that do not yet appear on the schedule, as well as submitted but not yet approved changes, notes about issues that might necessitate changes, and plans for who will teach what. Currently being updated for 2025-2026 school year.
+
 <a href="https://uwnetid.sharepoint.com/:x:/r/sites/og_stem_time_schedule/_layouts/15/Doc.aspx?sourcedoc=%7B1e131458-660c-44f3-a8ca-e4f92a9d8afd%7D&action=edit&wdenableroaming=1&wdfr=1&wdlcid=en-US&wdorigin=ItemsView&wdhostclicktime=1737764017779&wdredirectionreason=Force_SingleStepBoot&wdinitialsession=b0127d99-1cf6-e397-2998-6dbc03f3f82d&wdrldsc=2&wdrldc=1&wdrldr=ContinueInExcel" target="_blank" rel="noopener noreferrer"> Autumn 2025 Time Schedule </a>
 
 <a href="https://docs.google.com/spreadsheets/d/1uIv9RwFkafwDJm-eblw2n1BDx5AhW50MxXAIyAPpeTA/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> Time Schedule Metadata </a>
 The time schedule metadata sheet holds metadata about classes and instructors that can be used for manual or automated checks when submitting the Winter or Spring time schedules
 
-<a href="https://docs.google.com/spreadsheets/d/1vit15cTAab0oFcXShCKY8sVbGLPYlcaVBbu3MyhQ1NU/edit?gid=149408979#gid=149408979" target="_blank" rel="noopener noreferrer"> Scheduling Plan </a>
+
 
 ### Scheduling log
 
@@ -47,6 +49,7 @@ Use the link above to view entries in the scheduling log. I'll record changes th
 ## Biology Internal Links (Restricted Access)
 
 <a href="https://docs.google.com/spreadsheets/d/163cp-t_aZki2AjwBvmK6k4FfTvNb-RyAdpLwA7E_5M8/edit?gid=1543553355#gid=1543553355"> Add Codes Spreadsheet for Investigative Bio, Fall 2025 (limited access)</a>
+
 <a href="https://docs.google.com/document/d/1de8lnNOO6cf8oQAyPV1XHJZQvTVOXPQsxeEnwJZ6Hog/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> Chair - Program Coordinator Communications Portal </a>
 
 <a href="https://docs.google.com/spreadsheets/d/1Z56N55ZOaN0QMOWFeGucr1zAWYr17CxXfKa-GKFyn8Q/edit?gid=300482433#gid=300482433" target="_blank" rel="noopener noreferrer"> Filled Applicant Rubric</a>
@@ -54,8 +57,6 @@ Use the link above to view entries in the scheduling log. I'll record changes th
 <a href="https://docs.google.com/spreadsheets/d/1Z56N55ZOaN0QMOWFeGucr1zAWYr17CxXfKa-GKFyn8Q/edit?gid=300482433#gid=300482433" target="_blank" rel="noopener noreferrer"> Instructor Planning </a>
 
 <a href="https://docs.google.com/spreadsheets/d/1HDVDuCnEZ104fPc2Z3jCxAvNh9LnFVR1OvMknUFjiQA/edit?gid=0#gid=0" target="_blank" rel="noopener noreferrer">Instructor Contact Info </a>
-
-<a href = "https://docs.google.com/spreadsheets/d/1Hp9lFGK47g6fygIxH3M4N_X9SQSqdcz_gp3h8-lrZMY/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> Schedule Planning AUT2025 - SPR2026 </a>
 
 <a href = "https://www.dropbox.com/scl/fi/yupyec12xjd19uoj7ud16/STEM_Planning_Tool_Winter26_Initial_Submission_r1.csv?rlkey=q1q00hulaox5j806ab2rjslqn&dl=0"> Initial Submission WIN2026 Planning Sheet </a>
 
