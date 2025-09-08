@@ -48,6 +48,10 @@ Use the link above to view entries in the scheduling log. I'll record changes th
 
 ## Biology Internal Links (Restricted Access)
 
+<a href = "https://docs.google.com/spreadsheets/d/18Zpn9Uf1z49Wxad0wRWXIosw6DsrMk_FSuJA2qelaX0/edit?gid=0#gid=0"> Per Instructor Scheduling Ideas & Preferences 2025-2026 (see Scheduling Plan above for current best estimates of what is scheduled) </a>
+
+<a href = "https://docs.google.com/spreadsheets/d/18Zpn9Uf1z49Wxad0wRWXIosw6DsrMk_FSuJA2qelaX0/edit?gid=0#gid=0"> Per Instructor Scheduling Preferences 2026-2027 (see Scheduling Plan above for current best estimates of what is scheduled) </a>
+
 <a href="https://docs.google.com/spreadsheets/d/163cp-t_aZki2AjwBvmK6k4FfTvNb-RyAdpLwA7E_5M8/edit?gid=1543553355#gid=1543553355"> Add Codes Spreadsheet for Investigative Bio, Fall 2025 (limited access)</a>
 
 <a href="https://docs.google.com/document/d/1de8lnNOO6cf8oQAyPV1XHJZQvTVOXPQsxeEnwJZ6Hog/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> Chair - Program Coordinator Communications Portal </a>
@@ -59,6 +63,10 @@ Use the link above to view entries in the scheduling log. I'll record changes th
 <a href="https://docs.google.com/spreadsheets/d/1HDVDuCnEZ104fPc2Z3jCxAvNh9LnFVR1OvMknUFjiQA/edit?gid=0#gid=0" target="_blank" rel="noopener noreferrer">Instructor Contact Info </a>
 
 <a href = "https://www.dropbox.com/scl/fi/yupyec12xjd19uoj7ud16/STEM_Planning_Tool_Winter26_Initial_Submission_r1.csv?rlkey=q1q00hulaox5j806ab2rjslqn&dl=0"> Initial Submission WIN2026 Planning Sheet </a>
+
+
+
+
 
 <a href = "https://www.dropbox.com/scl/fi/lygo7w9iqgslqqvdz0fh1/STEM-Planning-Tool_Spring26.xlsx?rlkey=h8c0yv65vqbm6eplsoz96cpeo&dl=0"> Initial Submission SPR2026 Planning Sheet </a>
 
