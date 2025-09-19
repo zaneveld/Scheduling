@@ -9,9 +9,11 @@ Scheduling Resources for UW Bothell Biology
 
 <a href="https://uwnetid.sharepoint.com/sites/uwbschoolofstem/biologicalsciences/SitePages/Home(1).aspx" target="_blank" rel="noopener noreferrer"> Biology sharepoint site</a>
 
-### Hiring
+### Hiring and Mentorship
 <a href="https://ap.washington.edu/ahr/position-details/?job_id=138348" target="_blank" rel="noopener noreferrer"> Part-time job ad</a>
-Link to ad for part-time teaching faculty at UW Bothell Biological Sciences 
+Ad for part-time teaching faculty at UW Bothell Biological Sciences 
+
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=W9229i_wGkSZoBYqxQYL0kAzzCPvdqBIjAqzo6QJ4EhUNzBTOEVJOUlTODhSVUNXQTg3MTU0V0QyRi4u"> Student Independent Research Credit Form </a> - due by 9am on the first Monday after the start of the quarter.
 
 ### UW Bothell Schedules
 <a href="https://www.washington.edu/students/timeschd/B/AUT2024/bbio.html" target="_blank" rel="noopener noreferrer"> Biology Time Schedule 2024 </a>
