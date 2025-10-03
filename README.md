@@ -1,3 +1,4 @@
+
 # Scheduling
 Scheduling Resources for UW Bothell Biology
 
@@ -29,7 +30,9 @@ Ad for part-time teaching faculty at UW Bothell Biological Sciences
 <a href="https://docs.google.com/spreadsheets/d/1uIv9RwFkafwDJm-eblw2n1BDx5AhW50MxXAIyAPpeTA/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> Time Schedule Metadata </a>
 The time schedule metadata sheet holds metadata about classes and instructors that can be used for manual or automated checks when submitting the Winter or Spring time schedules
 
+<a href="https://uwnetid.sharepoint.com/:w:/r/sites/og_stem_time_schedule/_layouts/15/Doc.aspx?sourcedoc=%7BA88C8C1A-4912-491F-A79D-A0E204F01B3E%7D&file=Considerations%20for%20Time%20Scheduling%20Planning_1.docx&action=default&mobileredirect=true">Scheduling Considerations from Advisors</a>
 
+<a href="https://uwnetid.sharepoint.com/:x:/r/sites/og_stem_time_schedule/_layouts/15/Doc.aspx?sourcedoc=%7BE6959AB0-58E2-4026-8ECF-2A63E7BB822C%7D&file=TS%20Multiple%20Upload%20Form_Download_2025.xlsx&action=default&mobileredirect=true">2025-2026 Multiple Course Change form </a>
 
 ### Scheduling log
 
