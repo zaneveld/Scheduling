@@ -43,6 +43,9 @@ This can be used to record changes to classes or requests. Especially useful for
 Use the link above to view entries in the scheduling log. I'll record changes there, so you can see what has/hasn't been done.
 
 ## STEM Internal Links (Restricted Access)
+
+<a href="https://uwnetid.sharepoint.com/sites/og_stem_time_schedule/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=KUblng&CID=0fe562d5%2Da5dc%2D4f1f%2Dac71%2D3281087fecfc&FolderCTID=0x0120005D4DFD8230F1444FBFCBB13118EA0BFA&id=%2Fsites%2Fog%5Fstem%5Ftime%5Fschedule%2FShared%20Documents%2FPlanning%20tools%2FAY%202026%2D27"> Sharepoint site with Planning Sheets </a>
+
 <a href="https://uwnetid.sharepoint.com/:x:/r/sites/og_stem_time_schedule/Shared%20Documents/Planning%20tools/AY%202025-26/STEM%20Planning%20Tool_Autumn25.xlsx?d=w1e131458660c44f3a8cae4f92a9d8afd&csf=1&web=1&e=7FglAg" target="_blank" rel="noopener noreferrer"> STEM Time Schedule Change Spreadsheet (Updated as of 2/5/2025)</a>
 
 <a href="https://uwnetid-my.sharepoint.com/:x:/r/personal/stemadm_uw_edu/_layouts/15/Doc.aspx?sourcedoc=%7B811F2CCA-0115-4349-BB7F-D576938A48E2%7D&file=AY25-26%20PT%20Assignments.xlsx&action=default&mobileredirect=true"> Part Time Instructor Assignments </a>
