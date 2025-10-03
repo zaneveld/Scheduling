@@ -54,6 +54,8 @@ Use the link above to view entries in the scheduling log. I'll record changes th
 
 <a href = "https://25live.collegenet.com/pro/washington#!/home/availability" target="_blank" rel="noopener noreferrer"> 25Live Room availability </a>
 
+<a href = "https://uwnetid.sharepoint.com/:x:/r/sites/uwbschoolofstem/personnel/_layouts/15/Doc.aspx?sourcedoc=%7BED363BB3-33B5-4CDE-BC2F-0234949D85F8%7D&file=AY25-26%20STEM%20Academic%20Process%20Deadline.xlsx&nav=MTVfezkzQjhDOTRELUY5QjMtNDYzNC1BMDBELUYyQjdGOUM3MjM5Mn0&action=default&mobileredirect=true"> Academic Deadlines </a>
+
 ## Biology Internal Links (Restricted Access)
 
 <a href = "https://docs.google.com/spreadsheets/d/18Zpn9Uf1z49Wxad0wRWXIosw6DsrMk_FSuJA2qelaX0/edit?gid=0#gid=0"> Per Instructor Scheduling Ideas & Preferences 2025-2026 (see Scheduling Plan above for current best estimates of what is scheduled) </a>
