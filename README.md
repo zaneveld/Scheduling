@@ -18,6 +18,8 @@ Ad for part-time teaching faculty at UW Bothell Biological Sciences
 
 <a href="https://ap.washington.edu/faculty-inclusive-excellence/faculty-recruitment/handbook-of-best-practices-for-faculty-searches/">Hiring Best Practices</a>
 
+<a href="https://finance.uw.edu/recmgt/resources/records-related-faculty-searches">Records Retention</a>
+
 ### UW Bothell Schedules
 <a href="https://www.washington.edu/students/timeschd/B/AUT2024/bbio.html" target="_blank" rel="noopener noreferrer"> Biology Time Schedule 2024 </a>
 
