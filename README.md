@@ -16,6 +16,8 @@ Ad for part-time teaching faculty at UW Bothell Biological Sciences
 
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=W9229i_wGkSZoBYqxQYL0kAzzCPvdqBIjAqzo6QJ4EhUNzBTOEVJOUlTODhSVUNXQTg3MTU0V0QyRi4u"> Student Independent Research Credit Form </a> - due by 9am on the first Monday after the start of the quarter.
 
+<a href="https://ap.washington.edu/faculty-inclusive-excellence/faculty-recruitment/handbook-of-best-practices-for-faculty-searches/">Hiring Best Practices</a>
+
 ### UW Bothell Schedules
 <a href="https://www.washington.edu/students/timeschd/B/AUT2024/bbio.html" target="_blank" rel="noopener noreferrer"> Biology Time Schedule 2024 </a>
 
