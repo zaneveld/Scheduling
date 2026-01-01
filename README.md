@@ -78,6 +78,11 @@ Use the link above to view entries in the scheduling log. I'll record changes th
 
 <a href = "https://www.dropbox.com/scl/fi/yupyec12xjd19uoj7ud16/STEM_Planning_Tool_Winter26_Initial_Submission_r1.csv?rlkey=q1q00hulaox5j806ab2rjslqn&dl=0"> Initial Submission WIN2026 Planning Sheet </a>
 
+## Biology Faculty Search Links (Restricted Access)
+
+<a href="https://facultysearch.interfolio.com/28343/positions/171463">Interfolio Applications</a>
+<a href="https://docs.google.com/spreadsheets/d/1I7miIyb66DseriZOwJLwYU6s1Pv6Apdh/edit?gid=4888327#gid=4888327">Candidate Rubric</a>
+
 
 
 
