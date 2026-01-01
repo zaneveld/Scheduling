@@ -77,6 +77,7 @@ Use the link above to view entries in the scheduling log. I'll record changes th
 <a href="https://docs.google.com/spreadsheets/d/1HDVDuCnEZ104fPc2Z3jCxAvNh9LnFVR1OvMknUFjiQA/edit?gid=0#gid=0" target="_blank" rel="noopener noreferrer">Instructor Contact Info </a>
 
 <a href = "https://www.dropbox.com/scl/fi/yupyec12xjd19uoj7ud16/STEM_Planning_Tool_Winter26_Initial_Submission_r1.csv?rlkey=q1q00hulaox5j806ab2rjslqn&dl=0"> Initial Submission WIN2026 Planning Sheet </a>
+<a href = "https://www.dropbox.com/scl/fi/lygo7w9iqgslqqvdz0fh1/STEM-Planning-Tool_Spring26.xlsx?rlkey=h8c0yv65vqbm6eplsoz96cpeo&dl=0"> Initial Submission SPR2026 Planning Sheet </a>
 
 ## Biology Faculty Search Links (Restricted Access)
 
@@ -84,9 +85,6 @@ Use the link above to view entries in the scheduling log. I'll record changes th
 <a href="https://docs.google.com/spreadsheets/d/1I7miIyb66DseriZOwJLwYU6s1Pv6Apdh/edit?gid=4888327#gid=4888327">Candidate Rubric</a>
 <a href="file:///Users/zaneveld/Dropbox/Zaneveld_Lab_Organization/Service/Hiring_Committee/2026_Associate_Professor_Search/Assistant%20Professor%20-%20Biological%20Sciences">Materials (local only)</a>
 
-
-
-<a href = "https://www.dropbox.com/scl/fi/lygo7w9iqgslqqvdz0fh1/STEM-Planning-Tool_Spring26.xlsx?rlkey=h8c0yv65vqbm6eplsoz96cpeo&dl=0"> Initial Submission SPR2026 Planning Sheet </a>
 
 
 
