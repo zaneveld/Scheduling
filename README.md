@@ -82,8 +82,7 @@ Use the link above to view entries in the scheduling log. I'll record changes th
 
 <a href="https://facultysearch.interfolio.com/28343/positions/171463">Interfolio Applications</a>
 <a href="https://docs.google.com/spreadsheets/d/1I7miIyb66DseriZOwJLwYU6s1Pv6Apdh/edit?gid=4888327#gid=4888327">Candidate Rubric</a>
-
-
+<a href="file:///Users/zaneveld/Dropbox/Zaneveld_Lab_Organization/Service/Hiring_Committee/2026_Associate_Professor_Search/Assistant%20Professor%20-%20Biological%20Sciences">Materials (local only)</a>
 
 
 
