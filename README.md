@@ -62,22 +62,35 @@ Use the link above to view entries in the scheduling log. I'll record changes th
 
 ## Biology Internal Links (Restricted Access)
 
+### Instructor Preference Notes
 <a href = "https://docs.google.com/spreadsheets/d/18Zpn9Uf1z49Wxad0wRWXIosw6DsrMk_FSuJA2qelaX0/edit?gid=0#gid=0"> Per Instructor Scheduling Ideas & Preferences 2025-2026 (see Scheduling Plan above for current best estimates of what is scheduled) </a>
 
 <a href = "https://docs.google.com/spreadsheets/d/18Zpn9Uf1z49Wxad0wRWXIosw6DsrMk_FSuJA2qelaX0/edit?gid=0#gid=0"> Per Instructor Scheduling Preferences 2026-2027 (see Scheduling Plan above for current best estimates of what is scheduled) </a>
 
+### Investigative Bio Add Codes
 <a href="https://docs.google.com/spreadsheets/d/163cp-t_aZki2AjwBvmK6k4FfTvNb-RyAdpLwA7E_5M8/edit?gid=1543553355#gid=1543553355"> Add Codes Spreadsheet for Investigative Bio, Fall 2025 (limited access)</a>
+
+### Internal Communications
 
 <a href="https://docs.google.com/document/d/1de8lnNOO6cf8oQAyPV1XHJZQvTVOXPQsxeEnwJZ6Hog/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> Chair - Program Coordinator Communications Portal </a>
 
+### Part-time Hiring Info
 <a href="https://docs.google.com/spreadsheets/d/1Z56N55ZOaN0QMOWFeGucr1zAWYr17CxXfKa-GKFyn8Q/edit?gid=300482433#gid=300482433" target="_blank" rel="noopener noreferrer"> Filled Applicant Rubric</a>
 
 <a href="https://docs.google.com/spreadsheets/d/1Z56N55ZOaN0QMOWFeGucr1zAWYr17CxXfKa-GKFyn8Q/edit?gid=300482433#gid=300482433" target="_blank" rel="noopener noreferrer"> Instructor Planning </a>
 
 <a href="https://docs.google.com/spreadsheets/d/1HDVDuCnEZ104fPc2Z3jCxAvNh9LnFVR1OvMknUFjiQA/edit?gid=0#gid=0" target="_blank" rel="noopener noreferrer">Instructor Contact Info </a>
 
+### Initial Schedule Submission Planning Sheets (restricted access)
 <a href = "https://www.dropbox.com/scl/fi/yupyec12xjd19uoj7ud16/STEM_Planning_Tool_Winter26_Initial_Submission_r1.csv?rlkey=q1q00hulaox5j806ab2rjslqn&dl=0"> Initial Submission WIN2026 Planning Sheet </a>
-<a href = "https://www.dropbox.com/scl/fi/lygo7w9iqgslqqvdz0fh1/STEM-Planning-Tool_Spring26.xlsx?rlkey=h8c0yv65vqbm6eplsoz96cpeo&dl=0"> Initial Submission SPR2026 Planning Sheet </a>
+
+<a href = "https://www.dropbox.com/scl/fi/lygo7w9iqgslqqvdz0fh1/STEM-Planning-Tool_Spring26.xlsxrlkey=h8c0yv65vqbm6eplsoz96cpeo&dl=0"> Initial Submission SPR2026 Planning Sheet </a>
+
+<a href="https://uwnetid.sharepoint.com/:x:/r/sites/og_stem_time_schedule/_layouts/15/Doc.aspx?sourcedoc=%7BAEA5C931-74CA-4F57-8DF8-A300C050654A%7D&file=STEM%20Planning%20Tool_Aut26.xlsx&action=default&mobileredirect=true">AUT2026 Planning Sheet</a>
+
+<a href = "https://uwnetid.sharepoint.com/:x:/r/sites/og_stem_time_schedule/_layouts/15/Doc.aspx?sourcedoc=%7B85F0EA9A-6567-4162-B05C-B472444F115E%7D&file=STEM%20Planning%20Tool_Win27.xlsx&action=default&mobileredirect=true"> WIN2027 Planning Sheet (due May 4) </a>
+
+<a href="https://uwnetid.sharepoint.com/:x:/r/sites/og_stem_time_schedule/_layouts/15/Doc.aspx?sourcedoc=%7BD7661F02-7507-4001-9704-E0A9E4852A85%7D&file=STEM%20Planning%20Tool_Spring27.xlsx&action=default&mobileredirect=true"> SPR2027 Planning Sheet </a>
 
 ## Biology Faculty Search Links (Restricted Access)
 
