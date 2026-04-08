@@ -27,7 +27,7 @@ Ad for part-time teaching faculty at UW Bothell Biological Sciences
 
 ### Planning Tools
 
-<a href="https://docs.google.com/spreadsheets/d/1vit15cTAab0oFcXShCKY8sVbGLPYlcaVBbu3MyhQ1NU/edit?gid=149408979#gid=149408979" target="_blank" rel="noopener noreferrer"> Scheduling Plan </a> — this Excel sheet holds planning information for courses planned to be on offer by biology but that do not yet appear on the schedule, as well as submitted but not yet approved changes, notes about issues that might necessitate changes, and plans for who will teach what. Currently being updated for 2025-2026 school year.
+<a href="https://docs.google.com/spreadsheets/d/1vit15cTAab0oFcXShCKY8sVbGLPYlcaVBbu3MyhQ1NU/edit?gid=149408979#gid=149408979" target="_blank" rel="noopener noreferrer"> Scheduling Plan </a> — this Excel sheet holds planning information for courses planned to be on offer by biology but that do not yet appear on the schedule, as well as submitted but not yet approved changes, notes about issues that might necessitate changes, and plans for who will teach what. Currently being updated for 2026-2027 school year.
 
 <a href="https://uwnetid.sharepoint.com/:x:/r/sites/og_stem_time_schedule/_layouts/15/Doc.aspx?sourcedoc=%7B1e131458-660c-44f3-a8ca-e4f92a9d8afd%7D&action=edit&wdenableroaming=1&wdfr=1&wdlcid=en-US&wdorigin=ItemsView&wdhostclicktime=1737764017779&wdredirectionreason=Force_SingleStepBoot&wdinitialsession=b0127d99-1cf6-e397-2998-6dbc03f3f82d&wdrldsc=2&wdrldc=1&wdrldr=ContinueInExcel" target="_blank" rel="noopener noreferrer"> Autumn 2025 Time Schedule </a>
 
