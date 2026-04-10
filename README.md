@@ -10,6 +10,8 @@ Scheduling Resources for UW Bothell Biology
 
 <a href="https://uwnetid.sharepoint.com/sites/uwbschoolofstem/biologicalsciences/SitePages/Home(1).aspx" target="_blank" rel="noopener noreferrer"> Biology sharepoint site</a>
 
+<a href="https://discord.com/channels/1488232925232369684/1488233641489465404"> Biology Discord </a>
+
 ### Hiring and Mentorship
 <a href="https://ap.washington.edu/ahr/position-details/?job_id=138348" target="_blank" rel="noopener noreferrer"> Part-time job ad</a>
 Ad for part-time teaching faculty at UW Bothell Biological Sciences 
