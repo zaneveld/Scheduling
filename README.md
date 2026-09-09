@@ -62,6 +62,8 @@ Use the link above to view entries in the scheduling log. I'll record changes th
 
 <a href = "https://uwnetid.sharepoint.com/:x:/r/sites/uwbschoolofstem/personnel/_layouts/15/Doc.aspx?sourcedoc=%7BED363BB3-33B5-4CDE-BC2F-0234949D85F8%7D&file=AY25-26%20STEM%20Academic%20Process%20Deadline.xlsx&nav=MTVfezkzQjhDOTRELUY5QjMtNDYzNC1BMDBELUYyQjdGOUM3MjM5Mn0&action=default&mobileredirect=true"> Academic Deadlines </a>
 
+<a href = "https://app.powerbi.com/groups/me/rdlreports/3da48518-7afc-4f33-b14d-772f76ae9c31?chromeless=true&experience=power-bi"> PowerBI report for past schedules </a>
+
 ## Biology Internal Links (Restricted Access)
 
 ### Instructor Preference Notes
