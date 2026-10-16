@@ -66,6 +66,8 @@ Use the link above to view entries in the scheduling log. I'll record changes th
 
 ## Biology Internal Links (Restricted Access)
 
+<a href = "https://uwnetid.sharepoint.com/sites/uwbschoolofstem/biologicalsciences/SitePages/Course_Scheduling.aspx"> Updated Biology Sharepoint </a>
+
 <a href = "https://teams.cloud.microsoft/l/team/19%3A78911e938fad4b32813ffb455272bff6%40thread.tacv2/conversations?groupId=1d07541f-c577-47aa-baa9-ac54360335c4&tenantId=f6b6dd5b-f02f-441a-99a0-162ac5060bd2"> Microsoft Teams Group for Biology Scheduling </a>
 
 ### Instructor Preference Notes
